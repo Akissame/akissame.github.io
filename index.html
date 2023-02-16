@@ -16,18 +16,8 @@
 	<h1>Game Info Basicx:</h1>
 	<pre id="game-info"></pre>
 
-	<script type="module">
-		import { buildAuthorization } from "../@retroachievements/api";
-		import { getGame } from "../@retroachievements/api";
-		const userName = "Akissame";
-		const webApiKey = "HLZerHixAZw3JE0S56L2uRhrNtIF2PDF";
-		const authorization = buildAuthorization({ userName, webApiKey });
+	<script type="module" src="js/index.js"></script>>
 
-		getGame(authorization, { gameId: 785 }).then((game) => {
-			const gameJson = JSON.stringify(game, null, 2);
-			document.getElementById("game-info").textContent = gameJson;
-		});
-	</script>
 
 </body>
 </html>
