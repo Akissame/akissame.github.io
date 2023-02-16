@@ -13,12 +13,12 @@
 
 <body>
 	
-	<h1>Game Info Basic:</h1>
+	<h1>Game Info:</h1>
 	<pre id="game-info"></pre>
 
 	<script type="module">
-		import { buildAuthorization } from "@retroachievements/api";
-		import { getGame } from "@retroachievements/api";
+		import { buildAuthorization } from "../@retroachievements/api";
+		import { getGame } from "../@retroachievements/api";
 		const userName = "Akissame";
 		const webApiKey = "HLZerHixAZw3JE0S56L2uRhrNtIF2PDF";
 		const authorization = buildAuthorization({ userName, webApiKey });
