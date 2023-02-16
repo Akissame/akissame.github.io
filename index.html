@@ -36,7 +36,7 @@
 			</div>
 		</div>
 		
-		<h1>Game Info Basic:</h1>
+		<h1>Game Info:</h1>
 		<pre id="game-info"></pre>
 		
 		<div class="menu-container">
@@ -102,8 +102,11 @@
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
 	<script  src="js/index.js"></script>
 	<script>
-		import { buildAuthorization } from "@retroachievements/api";
-		import { getGame } from "@retroachievements/api";
+		const { buildAuthorization } = require("@retroachievements/api");
+		const { getGame } = require("@retroachievements/api");
+		const { getUserSummary } = require("@retroachievements/api");
+		const { getAchievementOfTheWeek } = require("@retroachievements/api");
+
   
 		const userName = "Akissame";
 		const webApiKey = "HLZerHixAZw3JE0S56L2uRhrNtIF2PDF";
