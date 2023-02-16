@@ -1,7 +1,7 @@
-import { buildAuthorization } from "@retroachievements/api";
-import { getGame } from "@retroachievements/api";
-import { getUserSummary } from "@retroachievements/api";
-import { getAchievementOfTheWeek } from "@retroachievements/api";
+import { buildAuthorization } from "../@retroachievements/api";
+import { getGame } from "../@retroachievements/api";
+import { getUserSummary } from "../@retroachievements/api";
+import { getAchievementOfTheWeek } from "../@retroachievements/api";
 
 const userName = "Akissame";
 const webApiKey = "HLZerHixAZw3JE0S56L2uRhrNtIF2PDF";
