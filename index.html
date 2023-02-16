@@ -15,107 +15,12 @@
 </head>
 
 <body>
-	<div class="artboard">
-		<div class="container">
-			<div class="me">
-				<div class="hair"></div>
-				<div class="clothes">
-					<div class="jumper"></div>
-				</div>
-				<div class="neck"></div>
-				<div class="head"><div class="bangs"></div></div>
-			</div>
-			<div class="mouse"><i class="fa fa-mouse-pointer" aria-hidden="true"></i></div>
-			<p>akissame</p>
-		</div>
+	
+	<h1>Game Info:</h1>
+	<pre id="game-info"></pre>
 
-		<div class="plus-btn-pos">
-			<div class="plus-btn">
-				<div class="r1"></div>
-				<div class="r2"></div>
-			</div>
-		</div>
-		
-		<h1>Game Info:</h1>
-		<pre id="game-info"></pre>
-		
-		<div class="menu-container">
-			<div class="menu-sliders"></div>
-			<div class="menu-sliders"></div>
-			<div class="menu-sliders"></div>
-			<div class="menu">
-
-
-
-
-				<div id="menu">
-				    <div class="panel">
-				      <h1 class="name">
-				        <a style="text-decoration:none" href="#">
-				          <div>Feed</div>
-				        </a>
-				      </h1>
-				      <h2 class="type">Comentarios</h2>
-				    </div>
-
-				    <div class="panel">
-				      <h1 class="name">
-				        <a style="text-decoration:none" href="#">
-				          <div>Users</div>
-				        </a>
-				      </h1>
-				      <h2 class="type">Usuarios</h2>
-				    </div>
-
-				    <div class="panel">
-				      <h1 class="name">
-				        <a style="text-decoration:none" href="#">
-				          <div>Games</div>
-				        </a>
-				      </h1>
-				      <h2 class="type">Juegos</h2>
-				    </div>
-
-				    <div class="panel">
-				      <h1 class="name">
-				        <a style="text-decoration:none" href="#">
-				          <div>Consoles</div>
-				        </a>
-				      </h1>
-				      <h2 class="type">Consolas</h2>
-				    </div>
-
-				    <form id="order">
-				      <select id="choice" name="choice">
-				      </select>
-
-				      <input id="back" type="reset" value="Cancelar"/>
-				    </form>
-				  </div>
-
-
-
-
-			</div>
-		</div>
-	</div>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
 	<script  src="js/index.js"></script>
-	<script>
-		const { buildAuthorization } = require("@retroachievements/api");
-		const { getGame } = require("@retroachievements/api");
-		const { getUserSummary } = require("@retroachievements/api");
-		const { getAchievementOfTheWeek } = require("@retroachievements/api");
 
-  
-		const userName = "Akissame";
-		const webApiKey = "HLZerHixAZw3JE0S56L2uRhrNtIF2PDF";
-		const authorization = buildAuthorization({ userName, webApiKey });
-
-		getGame(authorization, { gameId: 785 }).then((game) => {
-		  const gameJson = JSON.stringify(game, null, 2);
-		  document.getElementById("game-info").textContent = gameJson;
-		});
-	  </script>
 </body>
 </html>
