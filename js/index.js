@@ -1,5 +1,5 @@
-import { buildAuthorization } from "../@retroachievements/api";
-import { getGame } from "../@retroachievements/api";
+import { buildAuthorization } from "https://github.com/Akissame/akissame.github.io/tree/main/node_modules/@retroachievements/api";
+import { getGame } from "https://github.com/Akissame/akissame.github.io/tree/main/node_modules/@retroachievements/api";
 const userName = "Akissame";
 const webApiKey = "HLZerHixAZw3JE0S56L2uRhrNtIF2PDF";
 const authorization = buildAuthorization({ userName, webApiKey });
