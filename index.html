@@ -8,9 +8,6 @@
   <title>Akissame</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
   
 </head>
 
@@ -19,10 +16,9 @@
 	<h1>Game Info:</h1>
 	<pre id="game-info"></pre>
 
-	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
 	<script type="module">
-		import { buildAuthorization } from "./@retroachievements/api";
-		import { getGame } from "./@retroachievements/api";
+		import { buildAuthorization } from "@retroachievements/api";
+		import { getGame } from "@retroachievements/api";
 		const userName = "Akissame";
 		const webApiKey = "HLZerHixAZw3JE0S56L2uRhrNtIF2PDF";
 		const authorization = buildAuthorization({ userName, webApiKey });
