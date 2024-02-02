@@ -12,7 +12,7 @@
     "achievementTitle": "Stephan Charbonie",
     "achievementDescription": "Complete Request #2",
     "achievementBadgeName": "209777",
-    "achievementDateStart": "2024-01-01 00:00:00",
+    "achievementDateStart": "2024-01-01 00:00:00"
   },
   {
     "gameId": 11291,
@@ -27,7 +27,7 @@
     "achievementTitle": "Tournament",
     "achievementDescription": "Win a tournament and unlock the Jaguar XJR-15",
     "achievementBadgeName": "97015",
-    "achievementDateStart": "2024-01-08 00:00:00",
+    "achievementDateStart": "2024-01-08 00:00:00"
   },
   {
     "gameId": 14408,
@@ -42,7 +42,7 @@
     "achievementTitle": "Friend Or Foe?",
     "achievementDescription": "Defeat Blue on Nugget Bridge",
     "achievementBadgeName": "130171",
-    "achievementDateStart": "2024-01-15 00:00:00",
+    "achievementDateStart": "2024-01-15 00:00:00"
   },
   {
     "gameId": 11382,
@@ -57,6 +57,6 @@
     "achievementTitle": "Zero's D.I.Y. Self-Repair Kit",
     "achievementDescription": "Defeat Zero Nightmare",
     "achievementBadgeName": "114940",
-    "achievementDateStart": "2024-01-22 00:00:00",
+    "achievementDateStart": "2024-01-22 00:00:00"
   }
 ]
