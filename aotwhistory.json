@@ -1,22 +1,62 @@
 [
   {
     "gameId": 9496,
+    "gameTitle": "Flower, Sun, and Rain: Murder and Mystery in Paradise",
+    "gameImageIcon": "/Images/051467.png",
+    "gameImageTitle": "/Images/029062.png",
+    "gameImageIngame": "/Images/029063.png",
+    "gameImageBoxArt": "/Images/029061.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
     "achievementId": 188961
+    "achievementTitle": "Stephan Charbonie",
+    "achievementDescription": "Complete Request #2",
+    "achievementBadgeName": "209777",
+    "achievementDateStart": "2024-01-01 00:00:00",
   },
   {
     "gameId": 11291,
-    "achievementId": 341928
+    "gameTitle": "Need for Speed III: Hot Pursuit",
+    "gameImageIcon": "/Images/082226.png",
+    "gameImageTitle": "/Images/028092.png",
+    "gameImageIngame": "/Images/028093.png",
+    "gameImageBoxArt": "/Images/028094.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 341928,
+    "achievementTitle": "Tournament",
+    "achievementDescription": "Win a tournament and unlock the Jaguar XJR-15",
+    "achievementBadgeName": "97015",
+    "achievementDateStart": "2024-01-08 00:00:00",
   },
   {
     "gameId": 14408,
-    "achievementId": 119310
+    "gameTitle": "~Hack~ Pokemon FireRed: Rocket Edition",
+    "gameImageIcon": "/Images/036005.png",
+    "gameImageTitle": "/Images/033001.png",
+    "gameImageIngame": "/Images/033002.png",
+    "gameImageBoxArt": "/Images/033000.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 119310,
+    "achievementTitle": "Friend Or Foe?",
+    "achievementDescription": "Defeat Blue on Nugget Bridge",
+    "achievementBadgeName": "130171",
+    "achievementDateStart": "2024-01-15 00:00:00",
   },
   {
     "gameId": 11382,
-    "achievementId": 85316
-  },
-  {
-    "gameId": 22834,
-    "achievementId": 296849
+    "gameTitle": "Mega Man X6",
+    "gameImageIcon": "/Images/032736.png",
+    "gameImageTitle": "/Images/027231.png",
+    "gameImageIngame": "/Images/027340.png",
+    "gameImageBoxArt": "/Images/027234.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 85316,
+    "achievementTitle": "Zero's D.I.Y. Self-Repair Kit",
+    "achievementDescription": "Defeat Zero Nightmare",
+    "achievementBadgeName": "114940",
+    "achievementDateStart": "2024-01-22 00:00:00",
   }
 ]
