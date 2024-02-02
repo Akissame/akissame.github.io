@@ -1,22 +1,22 @@
 [
   {
-    "game": 9496,
-    "achievement": 188961
+    "gameId": 9496,
+    "achievementId": 188961
   },
   {
-    "game": 11291,
-    "achievement": 341928
+    "gameId": 11291,
+    "achievementId": 341928
   },
   {
-    "game": 14408,
-    "achievement": 119310
+    "gameId": 14408,
+    "achievementId": 119310
   },
   {
-    "game": 11382,
-    "achievement": 85316
+    "gameId": 11382,
+    "achievementId": 85316
   },
   {
-    "game": 22834,
-    "achievement": 296849
+    "gameId": 22834,
+    "achievementId": 296849
   }
 ]
