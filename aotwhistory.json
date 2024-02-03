@@ -58,5 +58,20 @@
     "achievementDescription": "Defeat Zero Nightmare",
     "achievementBadgeName": "114940",
     "achievementDateStart": "2024-01-22 00:00:00"
+  },
+  {
+    "gameId": 22834,
+    "gameTitle": "~Hack~ Castlevania: Aria of Sorrow Reprise",
+    "gameImageIcon": "/Images/069810.png",
+    "gameImageTitle": "/Images/069434.png",
+    "gameImageIngame": "/Images/069435.png",
+    "gameImageBoxArt": "/Images/087378.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 296849,
+    "achievementTitle": "Get Ready for a New Loop of Randomized Castle",
+    "achievementDescription": "Defeat Graham, Any Difficulty [Soma]",
+    "achievementBadgeName": "332993",
+    "achievementDateStart": "2024-01-29 00:00:00"
   }
 ]
