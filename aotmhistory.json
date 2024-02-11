@@ -1,0 +1,34 @@
+[
+  {
+    "gameId": 677,
+    "gameTitle": "Mother 3",
+    "gameImageIcon": "/Images/087819.png",
+    "gameImageTitle": "/Images/001812.png",
+    "gameImageIngame": "/Images/001813.png",
+    "gameImageBoxArt": "/Images/046366.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 7778,
+    "achievementTitle": "Club Titiboo",
+    "achievementDescription": "Complete Chapter 4.",
+    "achievementBadgeName": "204981",
+    "achievementDateStart": "2024-01-01T00:00:00.000000Z",
+    "achievementDateEnd": "2024-02-05T00:00:00.000000Z"
+  },
+  {
+    "gameId": 6800,
+    "gameTitle": "Spyro the Dragon [Japan]",
+    "gameImageIcon": "/Images/069249.png",
+    "gameImageTitle": "/Images/070425.png",
+    "gameImageIngame": "/Images/070443.png",
+    "gameImageBoxArt": "/Images/069030.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 303930,
+    "achievementTitle": "Family Reunion",
+    "achievementDescription": "Rescue all 80 Dragons",
+    "achievementBadgeName": "337593",
+    "achievementDateStart": "2024-02-05T00:00:00.000000Z",
+    "achievementDateEnd": "2024-03-04T00:00:00.000000Z"
+  }
+]
