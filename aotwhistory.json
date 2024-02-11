@@ -27,7 +27,7 @@
     "achievementTitle": "Tournament",
     "achievementDescription": "Win a tournament and unlock the Jaguar XJR-15",
     "achievementBadgeName": "97015",
-    "achievementDateStart": "2024-01-08 00:00:00"
+    "achievementDateStart": "2024-01-08T00:00:00.000000Z"
   },
   {
     "gameId": 14408,
@@ -42,7 +42,7 @@
     "achievementTitle": "Friend Or Foe?",
     "achievementDescription": "Defeat Blue on Nugget Bridge",
     "achievementBadgeName": "130171",
-    "achievementDateStart": "2024-01-15 00:00:00"
+    "achievementDateStart": "2024-01-15T00:00:00.000000Z"
   },
   {
     "gameId": 11382,
@@ -57,7 +57,7 @@
     "achievementTitle": "Zero's D.I.Y. Self-Repair Kit",
     "achievementDescription": "Defeat Zero Nightmare",
     "achievementBadgeName": "114940",
-    "achievementDateStart": "2024-01-22 00:00:00"
+    "achievementDateStart": "2024-01-22T00:00:00.000000Z"
   },
   {
     "gameId": 22834,
@@ -72,6 +72,6 @@
     "achievementTitle": "Get Ready for a New Loop of Randomized Castle",
     "achievementDescription": "Defeat Graham, Any Difficulty [Soma]",
     "achievementBadgeName": "332993",
-    "achievementDateStart": "2024-01-29 00:00:00"
+    "achievementDateStart": "2024-01-29T00:00:00.000000Z"
   }
 ]
