@@ -73,5 +73,20 @@
     "achievementDescription": "Defeat Graham, Any Difficulty [Soma]",
     "achievementBadgeName": "332993",
     "achievementDateStart": "2024-01-29T00:00:00.000000Z"
+  },
+  {
+    "gameId": 3517,
+    "gameTitle": "Dissidia: Final Fantasy",
+    "gameImageIcon": "/Images/.png",
+    "gameImageTitle": "/Images/.png",
+    "gameImageIngame": "/Images/.png",
+    "gameImageBoxArt": "/Images/.png",
+    "consoleID": 41,
+    "consoleName": "PlayStation Portable",
+    "achievementId": 183495,
+    "achievementTitle": "Warrior of Light's Destiny",
+    "achievementDescription": "Finish Chapter 1",
+    "achievementBadgeName": "203866",
+    "achievementDateStart": "2024-02-05T00:00:00.000000Z"
   }
 ]
