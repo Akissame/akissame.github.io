@@ -103,5 +103,20 @@
     "achievementDescription": "Reach character Level 10",
     "achievementBadgeName": "305526",
     "achievementDateStart": "2024-02-12T00:00:00.000000Z"
+  },
+  {
+    "gameId": 2698,
+    "gameTitle": "Clock Tower 3",
+    "gameImageIcon": "/Images/076692.png",
+    "gameImageTitle": "/Images/076237.png",
+    "gameImageIngame": "/Images/076238.png",
+    "gameImageBoxArt": "/Images/052776.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 342048,
+    "achievementTitle": "Albert and Dorothy",
+    "achievementDescription": "Finish the 2nd Stage.",
+    "achievementBadgeName": "385859",
+    "achievementDateStart": "2024-02-19T00:00:00.000000Z"
   }
 ]
