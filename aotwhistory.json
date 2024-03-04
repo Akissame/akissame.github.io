@@ -118,5 +118,20 @@
     "achievementDescription": "Finish the 2nd Stage.",
     "achievementBadgeName": "385859",
     "achievementDateStart": "2024-02-19T00:00:00.000000Z"
+  },
+  {
+    "gameId": 470,
+    "gameTitle": "Super Bomberman",
+    "gameImageIcon": "043551",
+    "gameImageTitle": "039426",
+    "gameImageIngame": "039427",
+    "gameImageBoxArt": "069658",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 22457,
+    "achievementTitle": "Complete \"World\" 6",
+    "achievementDescription": "Complete Stages 6-1 to 6-8 in a single session.",
+    "achievementBadgeName": "276705",
+    "achievementDateStart": "2024-02-26T00:00:00.000000Z"
   }
 ]
