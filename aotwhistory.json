@@ -123,9 +123,9 @@
     "gameId": 470,
     "gameTitle": "Super Bomberman",
     "gameImageIcon": "/Images/043551.png",
-    "gameImageTitle": "039426",
-    "gameImageIngame": "039427",
-    "gameImageBoxArt": "069658",
+    "gameImageTitle": "/Images/039426.png",
+    "gameImageIngame": "/Images/039427.png",
+    "gameImageBoxArt": "/Images/069658.png",
     "consoleID": 3,
     "consoleName": "SNES/Super Famicom",
     "achievementId": 22457,
@@ -133,5 +133,20 @@
     "achievementDescription": "Complete Stages 6-1 to 6-8 in a single session.",
     "achievementBadgeName": "276705",
     "achievementDateStart": "2024-02-26T00:00:00.000000Z"
+  },
+  {
+    "gameId": 2827,
+    "gameTitle": "Tony Hawk's Pro Skater 4",
+    "gameImageIcon": "/Images/063037.png",
+    "gameImageTitle": "/Images/063038.png",
+    "gameImageIngame": "/Images/063086.png",
+    "gameImageBoxArt": "/Images/056732.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 259367,
+    "achievementTitle": "San Francisco Amateur Skater",
+    "achievementDescription": "Complete all normal goals in San Francisco.",
+    "achievementBadgeName": "287312",
+    "achievementDateStart": "2024-03-04T00:00:00.000000Z"
   }
 ]
