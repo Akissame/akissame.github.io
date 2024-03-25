@@ -163,5 +163,20 @@
     "achievementDescription": "Reach Floor 10 in the Normal Dungeon",
     "achievementBadgeName": "233273",
     "achievementDateStart": "2024-03-11T00:00:00.000000Z"
+  },
+  {
+    "gameId": 727,
+    "gameTitle": "Pokemon Trading Card Game",
+    "gameImageIcon": "/Images/091409.png",
+    "gameImageTitle": "/Images/001771.png",
+    "gameImageIngame": "/Images/001772.png",
+    "gameImageBoxArt": "/Images/025779.png",
+    "consoleID": 6,
+    "consoleName": "Game Boy Color",
+    "achievementId": 7391,
+    "achievementTitle": "I'm Ronald",
+    "achievementDescription": "Defeat Ronald the first time you meet him and earn the Jigglypuff promotional card",
+    "achievementBadgeName": "170333",
+    "achievementDateStart": "2024-03-18T00:00:00.000000Z"
   }
 ]
