@@ -178,5 +178,20 @@
     "achievementDescription": "Defeat Ronald the first time you meet him and earn the Jigglypuff promotional card",
     "achievementBadgeName": "170333",
     "achievementDateStart": "2024-03-18T00:00:00.000000Z"
+  },
+  {
+    "gameId": 1343,
+    "gameTitle": "X-Kaliber 2097",
+    "gameImageIcon": "/Images/092987.png",
+    "gameImageTitle": "/Images/002330.png",
+    "gameImageIngame": "/Images/002331.png",
+    "gameImageBoxArt": "/Images/002332.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 10100,
+    "achievementTitle": "Stage 4",
+    "achievementDescription": "Clear Stage 4 (Normal)",
+    "achievementBadgeName": "09732",
+    "achievementDateStart": "2024-03-25T00:00:00.000000Z"
   }
 ]
