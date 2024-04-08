@@ -193,5 +193,20 @@
     "achievementDescription": "Clear Stage 4 (Normal)",
     "achievementBadgeName": "09732",
     "achievementDateStart": "2024-03-25T00:00:00.000000Z"
+  },
+  {
+    "gameId": 17780,
+    "gameTitle": "Dr. Slump",
+    "gameImageIcon": "/Images/059811.png",
+    "gameImageTitle": "/Images/056055.png",
+    "gameImageIngame": "/Images/056050.png",
+    "gameImageBoxArt": "/Images/048107.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 231269,
+    "achievementTitle": "Domo Arigato, Mr. Roboto",
+    "achievementDescription": "Defeat Caramelman",
+    "achievementBadgeName": "256461",
+    "achievementDateStart": "2024-04-01T00:00:00.000000Z"
   }
 ]
