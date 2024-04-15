@@ -208,5 +208,20 @@
     "achievementDescription": "Defeat Caramelman",
     "achievementBadgeName": "256461",
     "achievementDateStart": "2024-04-01T00:00:00.000000Z"
+  },
+  {
+    "gameId": 3818,
+    "gameTitle": "Dragon Quest I & II | Dragon Warrior I & II",
+    "gameImageIcon": "/Images/093949.png",
+    "gameImageTitle": "/Images/007625.png",
+    "gameImageIngame": "/Images/033863.png",
+    "gameImageBoxArt": "/Images/007624.png",
+    "consoleID": 6,
+    "consoleName": "Game Boy Color",
+    "achievementId": 186149,
+    "achievementTitle": "[DW1] But Thou Must",
+    "achievementDescription": "Rescue Princess Lora in the Swamp Cave",
+    "achievementBadgeName": "221381",
+    "achievementDateStart": "2024-04-08T00:00:00.000000Z"
   }
 ]
