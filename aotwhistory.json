@@ -223,5 +223,20 @@
     "achievementDescription": "Rescue Princess Lora in the Swamp Cave",
     "achievementBadgeName": "221381",
     "achievementDateStart": "2024-04-08T00:00:00.000000Z"
+  },
+  {
+    "gameId": 2945,
+    "gameTitle": "Go Go Ackman",
+    "gameImageIcon": "/Images/061840.png",
+    "gameImageTitle": "/Images/005189.png",
+    "gameImageIngame": "/Images/005190.png",
+    "gameImageBoxArt": "/Images/005187.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 52973,
+    "achievementTitle": "Plan Failed",
+    "achievementDescription": "Clear Stage 3.",
+    "achievementBadgeName": "323991",
+    "achievementDateStart": "2024-04-15T00:00:00.000000Z"
   }
 ]
