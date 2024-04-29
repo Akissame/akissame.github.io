@@ -238,5 +238,20 @@
     "achievementDescription": "Clear Stage 3.",
     "achievementBadgeName": "323991",
     "achievementDateStart": "2024-04-15T00:00:00.000000Z"
+  },
+  {
+    "gameId": 759,
+    "gameTitle": "Dragon Ball Z: The Legacy of Goku II",
+    "gameImageIcon": "/Images/093985.png",
+    "gameImageTitle": "/Images/095164.png",
+    "gameImageIngame": "/Images/095165.png",
+    "gameImageBoxArt": "/Images/095539.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 2619,
+    "achievementTitle": "The Pineapple Head",
+    "achievementDescription": "Unlock Vegeta",
+    "achievementBadgeName": "250133",
+    "achievementDateStart": "2024-04-22T00:00:00.000000Z"
   }
 ]
