@@ -253,5 +253,20 @@
     "achievementDescription": "Unlock Vegeta",
     "achievementBadgeName": "250133",
     "achievementDateStart": "2024-04-22T00:00:00.000000Z"
+  },
+  {
+    "gameId": 15432,
+    "gameTitle": "Dragon Ball Z: Attack of the Saiyans",
+    "gameImageIcon": "/Images/092552.png",
+    "gameImageTitle": "/Images/036780.png",
+    "gameImageIngame": "/Images/036781.png",
+    "gameImageBoxArt": "/Images/036779.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 165924,
+    "achievementTitle": "Firefighter",
+    "achievementDescription": "Defeat the Evil Flame",
+    "achievementBadgeName": "187279",
+    "achievementDateStart": "2024-04-29T00:00:00.000000Z"
   }
 ]
