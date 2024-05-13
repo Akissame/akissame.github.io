@@ -268,5 +268,20 @@
     "achievementDescription": "Defeat the Evil Flame",
     "achievementBadgeName": "187279",
     "achievementDateStart": "2024-04-29T00:00:00.000000Z"
+  },
+  {
+    "gameId": 1463,
+    "gameTitle": "Chip 'n Dale: Rescue Rangers",
+    "gameImageIcon": "/Images/076910.png",
+    "gameImageTitle": "/Images/067422.png",
+    "gameImageIngame": "/Images/067423.png",
+    "gameImageBoxArt": "/Images/011803.png",
+    "consoleID": 7,
+    "consoleName": "NES/Famicom",
+    "achievementId": 11404,
+    "achievementTitle": "Rescue Rangers J (The Post Office)",
+    "achievementDescription": "Clear Zone J",
+    "achievementBadgeName": "42849",
+    "achievementDateStart": "2024-05-06T00:00:00.000000Z"
   }
 ]
