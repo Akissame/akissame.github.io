@@ -313,5 +313,20 @@
     "achievementDescription": "Defeat the Royal Guard Commander for the First Time",
     "achievementBadgeName": "343930",
     "achievementDateStart": "2024-05-20T00:00:00.000000Z"
+  },
+  {
+    "gameId": 2524,
+    "gameTitle": "Frogger's Adventures 2: The Lost Wand",
+    "gameImageIcon": "/Images/060280.png",
+    "gameImageTitle": "/Images/060278.png",
+    "gameImageIngame": "/Images/060279.png",
+    "gameImageBoxArt": "/Images/097920.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 234608,
+    "achievementTitle": "The Found Wand",
+    "achievementDescription": "Complete Magician's Realm",
+    "achievementBadgeName": "260386",
+    "achievementDateStart": "2024-05-27T00:00:00.000000Z"
   }
 ]
