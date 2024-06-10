@@ -328,5 +328,20 @@
     "achievementDescription": "Complete Magician's Realm",
     "achievementBadgeName": "260386",
     "achievementDateStart": "2024-05-27T00:00:00.000000Z"
+  },
+  {
+    "gameId": 3478,
+    "gameTitle": "Seifuku Densetsu: Pretty Fighter",
+    "gameImageIcon": "/Images/075418.png",
+    "gameImageTitle": "/Images/008431.png",
+    "gameImageIngame": "/Images/008432.png",
+    "gameImageBoxArt": "/Images/008430.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 183470,
+    "achievementTitle": "Uu-n, I'm Getting Angry!",
+    "achievementDescription": "Finish Story mode as Ai on difficulty 4 or above with round time set to 60 seconds (P1 only)",
+    "achievementBadgeName": "203841",
+    "achievementDateStart": "2024-06-23T00:00:00.000000Z"
   }
 ]
