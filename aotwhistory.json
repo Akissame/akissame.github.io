@@ -342,6 +342,21 @@
     "achievementTitle": "Uu-n, I'm Getting Angry!",
     "achievementDescription": "Finish Story mode as Ai on difficulty 4 or above with round time set to 60 seconds (P1 only)",
     "achievementBadgeName": "203841",
-    "achievementDateStart": "2024-06-23T00:00:00.000000Z"
+    "achievementDateStart": "2024-06-03T00:00:00.000000Z"
+  },
+  {
+    "gameId": 3490,
+    "gameTitle": "Bangai-O",
+    "gameImageIcon": "/Images/070641.png",
+    "gameImageTitle": "/Images/070545.png",
+    "gameImageIngame": "/Images/070546.png",
+    "gameImageBoxArt": "/Images/071265.png",
+    "consoleID": 40,
+    "consoleName": "Dreamcast",
+    "achievementId": 307884,
+    "achievementTitle": "Lunar Eclipse",
+    "achievementDescription": "Clear Level-15.",
+    "achievementBadgeName": "340592",
+    "achievementDateStart": "2024-06-10T00:00:00.000000Z"
   }
 ]
