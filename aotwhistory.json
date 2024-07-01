@@ -373,5 +373,20 @@
     "achievementDescription": "In Story Mode, complete Berlin and move on to the next city.",
     "achievementBadgeName": "290331",
     "achievementDateStart": "2024-06-17T00:00:00.000000Z"
+  },
+  {
+    "gameId": 14763,
+    "gameTitle": "Kirby Super Star Ultr",
+    "gameImageIcon": "/Images/046444.png",
+    "gameImageTitle": "/Images/028627.png",
+    "gameImageIngame": "/Images/028628.png",
+    "gameImageBoxArt": "/Images/028552.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 95458,
+    "achievementTitle": "Revengeance Warrior",
+    "achievementDescription": "Complete Revenge of Meta Knight",
+    "achievementBadgeName": "105836",
+    "achievementDateStart": "2024-06-24T00:00:00.000000Z"
   }
 ]
