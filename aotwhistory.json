@@ -388,5 +388,20 @@
     "achievementDescription": "Complete Revenge of Meta Knight",
     "achievementBadgeName": "105836",
     "achievementDateStart": "2024-06-24T00:00:00.000000Z"
+  },
+  {
+    "gameId": 17812,
+    "gameTitle": "~Hack~ Mario and the Mystic Purple Stars",
+    "gameImageIcon": "/Images/048694.png",
+    "gameImageTitle": "/Images/048727.png",
+    "gameImageIngame": "/Images/045451.png",
+    "gameImageBoxArt": "/Images/056054.png",
+    "consoleID": 2,
+    "consoleName": "Nintendo 64",
+    "achievementId": 175853,
+    "achievementTitle": "Wiggy's Challenge",
+    "achievementDescription": "Defeat Wiggy in Wiggy's Towers of Darkness (1vs1 Battle) without taking damage",
+    "achievementBadgeName": "196050",
+    "achievementDateStart": "2024-07-01T00:00:00.000000Z"
   }
 ]
