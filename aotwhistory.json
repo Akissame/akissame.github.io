@@ -403,5 +403,20 @@
     "achievementDescription": "Defeat Wiggy in Wiggy's Towers of Darkness (1vs1 Battle) without taking damage",
     "achievementBadgeName": "196050",
     "achievementDateStart": "2024-07-01T00:00:00.000000Z"
+  },
+  {
+    "gameId": 465,
+    "gameTitle": "Equinox",
+    "gameImageIcon": "/Images/082627.png",
+    "gameImageTitle": "/Images/000418.png",
+    "gameImageIngame": "/Images/000419.png",
+    "gameImageBoxArt": "/Images/000421.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 1960,
+    "achievementTitle": "Ground Breaking",
+    "achievementDescription": "Defeat Sung-Sung and obtain the second harp string",
+    "achievementBadgeName": "173295",
+    "achievementDateStart": "2024-07-08T00:00:00.000000Z"
   }
 ]
