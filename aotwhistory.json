@@ -418,5 +418,20 @@
     "achievementDescription": "Defeat Sung-Sung and obtain the second harp string",
     "achievementBadgeName": "173295",
     "achievementDateStart": "2024-07-08T00:00:00.000000Z"
+  },
+  {
+    "gameId": 1432,
+    "gameTitle": "Monster World IV",
+    "gameImageIcon": "/Images/020058.png",
+    "gameImageTitle": "/Images/017194.png",
+    "gameImageIngame": "/Images/017195.png",
+    "gameImageBoxArt": "/Images/009518.png",
+    "consoleID": 1,
+    "consoleName": "Genesis/Mega Drive",
+    "achievementId": 87552,
+    "achievementTitle": "Maybe... It's Time... The Legend Repeats Itself",
+    "achievementDescription": "Save the Earth Spirit.",
+    "achievementBadgeName": "85195",
+    "achievementDateStart": "2024-07-15T00:00:00.000000Z"
   }
 ]
