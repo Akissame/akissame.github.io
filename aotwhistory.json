@@ -433,5 +433,35 @@
     "achievementDescription": "Save the Earth Spirit.",
     "achievementBadgeName": "85195",
     "achievementDateStart": "2024-07-15T00:00:00.000000Z"
+  },
+  {
+    "gameId": 3604,
+    "gameTitle": "Cotton 2: Magical Night Dreams",
+    "gameImageIcon": "/Images/092974.png",
+    "gameImageTitle": "/Images/088791.png",
+    "gameImageIngame": "/Images/088792.png",
+    "gameImageBoxArt": "/Images/095878.png",
+    "consoleID": 39,
+    "consoleName": "Saturn",
+    "achievementId": 412856,
+    "achievementTitle": "Cotton the (Failed) Fortune Teller",
+    "achievementDescription": "Complete Stage 4 on any difficulty with other settings on default",
+    "achievementBadgeName": "470421",
+    "achievementDateStart": "2024-07-22T00:00:00.000000Z"
+  },
+  {
+    "gameId": 16713,
+    "gameTitle": "MapleStory DS",
+    "gameImageIcon": "/Images/073715.png",
+    "gameImageTitle": "/Images/073445.png",
+    "gameImageIngame": "/Images/060631.png",
+    "gameImageBoxArt": "/Images/073444.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 320990,
+    "achievementTitle": "Forgotten Request",
+    "achievementDescription": "Complete Chapter 5 as the Warrior",
+    "achievementBadgeName": "502037",
+    "achievementDateStart": "2024-07-29T00:00:00.000000Z"
   }
 ]
