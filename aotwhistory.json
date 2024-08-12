@@ -463,5 +463,20 @@
     "achievementDescription": "Complete Chapter 5 as the Warrior",
     "achievementBadgeName": "502037",
     "achievementDateStart": "2024-07-29T00:00:00.000000Z"
+  },
+  {
+    "gameId": 16684,
+    "gameTitle": "Lilo and Stitch 2: Hamsterviel Havoc",
+    "gameImageIcon": "/Images/085198.png",
+    "gameImageTitle": "/Images/039210.png",
+    "gameImageIngame": "/Images/039209.png",
+    "gameImageBoxArt": "/Images/085229.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 370124,
+    "achievementTitle": "Zip Zap, Here's a Tap",
+    "achievementDescription": "Shoot Your Way Through the Last Chunk of the Store",
+    "achievementBadgeName": "416429",
+    "achievementDateStart": "2024-08-05T00:00:00.000000Z"
   }
 ]
