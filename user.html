@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Retro Achievements - Redirigiendo</title>
+    <title>Retro Achievements</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
@@ -58,12 +58,7 @@
             width: 0%;
             height: 100%;
             background-color: #00ff00;
-            animation: loading 2s linear infinite;
-        }
-
-        @keyframes loading {
-            0% { width: 0%; }
-            100% { width: 100%; }
+            transition: width 1s linear;
         }
 
         .pixel-art {
@@ -117,7 +112,7 @@
         <h1>RETRO ACHIEVEMENTS</h1>
         <p>CARGANDO TU AVENTURA...</p>
         <div class="loading">
-            <div class="loading-bar"></div>
+            <div class="loading-bar" id="loadingBar"></div>
         </div>
         <p id="redirect-message">REDIRIGIENDO EN 3...</p>
     </div>
@@ -140,16 +135,20 @@
         window.onload = function() {
             let count = 3;
             const redirectMessage = document.getElementById('redirect-message');
+            const loadingBar = document.getElementById('loadingBar');
+            
             const countdownInterval = setInterval(() => {
                 count--;
                 redirectMessage.textContent = `REDIRIGIENDO EN ${count}...`;
+                loadingBar.style.width = `${(3 - count) / 3 * 100}%`;
+                
                 if (count === 0) {
                     clearInterval(countdownInterval);
                     const urlParams = new URLSearchParams(window.location.search);
                     const gameId = urlParams.get('id');
                     
                     if (gameId) {
-                        window.location = `retroachievements://game/${gameId}`;
+                        window.location = `retroachievements://user/${userId}`;
                     } else {
                         window.location = 'retroachievements://open';
                     }
