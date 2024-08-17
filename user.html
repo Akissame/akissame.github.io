@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retro Achievements - Redirigiendo</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #000;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #00ff00;
+            text-shadow: 2px 2px #ff00ff;
+        }
+
+        p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            color: #ffff00;
+        }
+
+        .loading {
+            width: 100%;
+            max-width: 300px;
+            height: 20px;
+            background-color: #333;
+            border: 2px solid #00ff00;
+            margin: 20px auto;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .loading-bar {
+            width: 0%;
+            height: 100%;
+            background-color: #00ff00;
+            animation: loading 2s linear infinite;
+        }
+
+        @keyframes loading {
+            0% { width: 0%; }
+            100% { width: 100%; }
+        }
+
+        .pixel-art {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            opacity: 0.2;
+        }
+
+        .pixel {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background-color: #fff;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 20px;
+            }
+
+            p {
+                font-size: 14px;
+            }
+
+            .loading {
+                max-width: 250px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 18px;
+            }
+
+            p {
+                font-size: 12px;
+            }
+
+            .loading {
+                max-width: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>RETRO ACHIEVEMENTS</h1>
+        <p>CARGANDO TU AVENTURA...</p>
+        <div class="loading">
+            <div class="loading-bar"></div>
+        </div>
+        <p id="redirect-message">REDIRIGIENDO EN 3...</p>
+    </div>
+
+    <div class="pixel-art" id="pixelArt"></div>
+
+    <script>
+        // Crear píxeles para el fondo
+        const pixelArt = document.getElementById('pixelArt');
+        for (let i = 0; i < 100; i++) {
+            const pixel = document.createElement('div');
+            pixel.classList.add('pixel');
+            pixel.style.left = `${Math.random() * 100}%`;
+            pixel.style.top = `${Math.random() * 100}%`;
+            pixel.style.backgroundColor = ['#ff0000', '#00ff00', '#0000ff', '#ffff00'][Math.floor(Math.random() * 4)];
+            pixelArt.appendChild(pixel);
+        }
+
+        // Lógica de redirección
+        window.onload = function() {
+            let count = 3;
+            const redirectMessage = document.getElementById('redirect-message');
+            const countdownInterval = setInterval(() => {
+                count--;
+                redirectMessage.textContent = `REDIRIGIENDO EN ${count}...`;
+                if (count === 0) {
+                    clearInterval(countdownInterval);
+                    const urlParams = new URLSearchParams(window.location.search);
+                    const gameId = urlParams.get('id');
+                    
+                    if (gameId) {
+                        window.location = `retroachievements://game/${gameId}`;
+                    } else {
+                        window.location = 'retroachievements://open';
+                    }
+                    
+                    setTimeout(function() {
+                        window.location = 'https://play.google.com/store/apps/details?id=com.akissame.retroachievements';
+                    }, 500);
+                }
+            }, 1000);
+        }
+    </script>
+</body>
+</html>
