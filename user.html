@@ -130,23 +130,6 @@
             pixelArt.appendChild(pixel);
         }
 
-         // Función para realizar la redirección
-        function redirectToUser(userId) {
-            const baseUrl = window.location.origin; // Obtiene la base de la URL actual
-            const userUrl = userId ? `${baseUrl}/user?id=${userId}` : `${baseUrl}/user`;
-            
-            // Intenta abrir la aplicación RetroAchievements
-            window.location.href = `retroachievements://open${userId ? `?id=${userId}` : ''}`;
-
-            // Espera un momento y luego verifica si la redirección a la app funcionó
-            setTimeout(function() {
-                // Si la página aún está abierta, redirige a la URL de la web
-                if (!document.hidden) {
-                    window.location.href = userUrl;
-                }
-            }, 500);
-        }
-
         // Lógica de redirección
         window.onload = function() {
             let count = 3;
@@ -161,9 +144,17 @@
                 if (count === 0) {
                     clearInterval(countdownInterval);
                     const urlParams = new URLSearchParams(window.location.search);
-                    const userId = urlParams.get('id');
+                    const gameId = urlParams.get('id');
                     
-                    redirectToUser(userId);
+                    if (gameId) {
+                        window.location = `retroachievements://game/${gameId}`;
+                    } else {
+                        window.location = 'retroachievements://open';
+                    }
+                    
+                    setTimeout(function() {
+                        window.location = 'https://play.google.com/store/apps/details?id=com.akissame.retroachievements';
+                    }, 500);
                 }
             }, 1000);
         }
