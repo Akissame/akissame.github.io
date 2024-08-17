@@ -145,10 +145,10 @@
                 if (count === 0) {
                     clearInterval(countdownInterval);
                     const urlParams = new URLSearchParams(window.location.search);
-                    const gameId = urlParams.get('id');
+                    const userId = urlParams.get('id');
                     
-                    if (gameId) {
-                        window.location = `/user?id=${gameId}`;
+                    if (userId) {
+                        window.location = `/user?id=${userId}`;
                     } else {
                         window.location = '/user';
                     }
