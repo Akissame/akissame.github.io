@@ -3,139 +3,163 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirigiendo a Retro Achievements</title>
+    <title>Retro Achievements - Redirigiendo</title>
     <style>
-        html, body {
-            height: 100%;
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        * {
             margin: 0;
-            background-color: #000000;
-            overflow: hidden;
-            background-image: radial-gradient(ellipse farthest-corner at center top, #23233f 0%, #000000 60%);
-            background-size: cover;
-            background-position: top center;
-            font-family: 'Orbitron', sans-serif;
+            padding: 0;
+            box-sizing: border-box;
         }
-        #retrobg {
+
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background-color: #000;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #00ff00;
+            text-shadow: 2px 2px #ff00ff;
+        }
+
+        p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            color: #ffff00;
+        }
+
+        .loading {
+            width: 100%;
+            max-width: 300px;
+            height: 20px;
+            background-color: #333;
+            border: 2px solid #00ff00;
+            margin: 20px auto;
             position: relative;
             overflow: hidden;
-            height: 100%;
-            color: #a3c;
         }
-        #retrobg-sky {
+
+        .loading-bar {
+            width: 0%;
+            height: 100%;
+            background-color: #00ff00;
+            animation: loading 2s linear infinite;
+        }
+
+        @keyframes loading {
+            0% { width: 0%; }
+            100% { width: 100%; }
+        }
+
+        .pixel-art {
             position: absolute;
+            width: 100%;
+            height: 100%;
             top: 0;
-            width: 100%;
-            height: 55%;
-            background: linear-gradient(#214 75%, #249);
+            left: 0;
+            z-index: -1;
+            opacity: 0.2;
         }
-        #retrobg-sunWrap {
+
+        .pixel {
             position: absolute;
-            top: 30%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-        }
-        #retrobg-sun {
-            --glow-color: #d44;
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            background-image: linear-gradient(#fcdf11, #ff623f, #fe2085 50%);
-            box-shadow: 0 0 50px 20px var(--glow-color);
-            animation: 2s ease infinite alternate retrobg-sun-glow-anim;
-        }
-        @keyframes retrobg-sun-glow-anim {
-            from { box-shadow: 0 0 50px 20px var(--glow-color); }
-            to { box-shadow: 0 0 60px 30px var(--glow-color); }
-        }
-        #retrobg-stars {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-        }
-        .retrobg-star {
-            position: absolute;
-            border-radius: 50%;
-            width: 2px;
-            height: 2px;
+            width: 10px;
+            height: 10px;
             background-color: #fff;
         }
-        #content {
-            position: relative;
-            z-index: 10;
-            text-align: center;
-            padding-top: 20vh;
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 20px;
+            }
+
+            p {
+                font-size: 14px;
+            }
+
+            .loading {
+                max-width: 250px;
+            }
         }
-        h1 {
-            color: #C6CBF5;
-            font-size: 60px;
-            margin: 0;
-            text-transform: uppercase;
-            background: linear-gradient(to bottom, #151C60, #C6CBF5 40%, black 40%, #E1A0CE 65%, white);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            -webkit-text-stroke-width: 2px;
-            -webkit-text-stroke-color: white;
-        }
-        p {
-            color: #d100b1;
-            font-size: 24px;
-            margin-top: 20px;
-            text-shadow: 0 0 5px #d100b1, 0 0 15px rgba(209, 0, 177, 0.5);
-        }
-        #retrobg-ground {
-            position: absolute;
-            bottom: 0;
-            width: 100%;
-            height: 45%;
-            background-color: #000;
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 18px;
+            }
+
+            p {
+                font-size: 12px;
+            }
+
+            .loading {
+                max-width: 200px;
+            }
         }
     </style>
 </head>
 <body>
-    <div id="retrobg">
-        <div id="retrobg-sky">
-            <div id="retrobg-stars">
-                <div class="retrobg-star" style="left: 5%; top: 55%; transform: scale(2);"></div>
-                <div class="retrobg-star" style="left: 7%; top: 5%; transform: scale(2);"></div>
-                <div class="retrobg-star" style="left: 10%; top: 45%; transform: scale(1);"></div>
-                <div class="retrobg-star" style="left: 12%; top: 35%; transform: scale(1);"></div>
-                <div class="retrobg-star" style="left: 15%; top: 39%; transform: scale(1);"></div>
-                <div class="retrobg-star" style="left: 20%; top: 10%; transform: scale(1);"></div>
-                <div class="retrobg-star" style="left: 35%; top: 50%; transform: scale(2);"></div>
-                <div class="retrobg-star" style="left: 40%; top: 16%; transform: scale(2);"></div>
-                <div class="retrobg-star" style="left: 43%; top: 28%; transform: scale(1);"></div>
-                <div class="retrobg-star" style="left: 45%; top: 30%; transform: scale(3);"></div>
-            </div>
-            <div id="retrobg-sunWrap">
-                <div id="retrobg-sun"></div>
-            </div>
+    <div class="container">
+        <h1>RETRO ACHIEVEMENTS</h1>
+        <p>CARGANDO TU AVENTURA...</p>
+        <div class="loading">
+            <div class="loading-bar"></div>
         </div>
-        <div id="retrobg-ground"></div>
-        <div id="content">
-            <h1>Retro Achievements</h1>
-            <p>Redirigiendo a la aplicación o a la Play Store...</p>
-        </div>
+        <p id="redirect-message">REDIRIGIENDO EN 3...</p>
     </div>
 
+    <div class="pixel-art" id="pixelArt"></div>
+
     <script>
-        window.onload = function() {
-            var urlParams = new URLSearchParams(window.location.search);
-            var gameId = urlParams.get('id');
-            
-            if (gameId) {
-                window.location = 'retroachievements://game/' + gameId;
-            } else {
-                window.location = 'retroachievements://open';
-            }
-            
-            setTimeout(function() {
-                window.location = 'https://play.google.com/store/apps/details?id=com.akissame.retroachievements';
-            }, 2000);
+        // Crear píxeles para el fondo
+        const pixelArt = document.getElementById('pixelArt');
+        for (let i = 0; i < 100; i++) {
+            const pixel = document.createElement('div');
+            pixel.classList.add('pixel');
+            pixel.style.left = `${Math.random() * 100}%`;
+            pixel.style.top = `${Math.random() * 100}%`;
+            pixel.style.backgroundColor = ['#ff0000', '#00ff00', '#0000ff', '#ffff00'][Math.floor(Math.random() * 4)];
+            pixelArt.appendChild(pixel);
         }
 
-        document.querySelector("#retrobg-sun").onclick = () => {
-            document.querySelector("#retrobg").classList.toggle("retrobg-shutdown");
-        };
+        // Lógica de redirección
+        window.onload = function() {
+            let count = 3;
+            const redirectMessage = document.getElementById('redirect-message');
+            const countdownInterval = setInterval(() => {
+                count--;
+                redirectMessage.textContent = `REDIRIGIENDO EN ${count}...`;
+                if (count === 0) {
+                    clearInterval(countdownInterval);
+                    const urlParams = new URLSearchParams(window.location.search);
+                    const gameId = urlParams.get('id');
+                    
+                    if (gameId) {
+                        window.location = `retroachievements://game/${gameId}`;
+                    } else {
+                        window.location = 'retroachievements://open';
+                    }
+                    
+                    setTimeout(function() {
+                        window.location = 'https://play.google.com/store/apps/details?id=com.akissame.retroachievements';
+                    }, 500);
+                }
+            }, 1000);
+        }
     </script>
 </body>
 </html>
