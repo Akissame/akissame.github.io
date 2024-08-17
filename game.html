@@ -110,7 +110,6 @@
 <body>
     <div class="container">
         <h1>RETRO ACHIEVEMENTS</h1>
-        <p>CARGANDO TU AVENTURA...</p>
         <div class="loading">
             <div class="loading-bar" id="loadingBar"></div>
         </div>
@@ -139,7 +138,7 @@
             
             const countdownInterval = setInterval(() => {
                 count--;
-                redirectMessage.textContent = `REDIRIGIENDO EN ${count}...`;
+                redirectMessage.textContent = `${count}`;
                 loadingBar.style.width = `${(3 - count) / 3 * 100}%`;
                 
                 if (count === 0) {
