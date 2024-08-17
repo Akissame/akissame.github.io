@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirigiendo a Retro Achievements</title>
+    <script>
+        window.onload = function() {
+            var urlParams = new URLSearchParams(window.location.search);
+            var gameId = urlParams.get('id');
+            
+            // Intenta abrir la app con el gameId si está disponible
+            if (gameId) {
+                window.location = 'retroachievements://game/' + gameId;
+            } else {
+                window.location = 'retroachievements://open';
+            }
+            
+            // Si después de 2 segundos no se ha abierto la app, redirige a Play Store
+            setTimeout(function() {
+                window.location = 'https://play.google.com/store/apps/details?id=com.akissame.retroachievements';
+            }, 2000);
+        }
+    </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Retro Achievements</h1>
+        <p>Redirigiendo a la aplicación Retro Achievements o a la Play Store...</p>
+    </div>
+</body>
+</html>
