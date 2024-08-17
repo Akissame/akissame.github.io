@@ -15,7 +15,7 @@
 
         body {
             font-family: 'Press Start 2P', cursive;
-            background-color: #000;
+            background-color: #4A0E4E;  /* Fondo morado oscuro */
             color: #fff;
             display: flex;
             justify-content: center;
@@ -33,22 +33,22 @@
         h1 {
             font-size: 24px;
             margin-bottom: 20px;
-            color: #00ff00;
-            text-shadow: 2px 2px #ff00ff;
+            color: #FFA500;  /* Naranja */
+            text-shadow: 2px 2px #800080;  /* Sombra morada */
         }
 
         p {
             font-size: 16px;
             margin-bottom: 20px;
-            color: #ffff00;
+            color: #FFD700;  /* Amarillo dorado */
         }
 
         .loading {
             width: 100%;
             max-width: 300px;
             height: 20px;
-            background-color: #333;
-            border: 2px solid #00ff00;
+            background-color: #2E062F;  /* Morado más oscuro */
+            border: 2px solid #FFA500;  /* Borde naranja */
             margin: 20px auto;
             position: relative;
             overflow: hidden;
@@ -57,7 +57,7 @@
         .loading-bar {
             width: 0%;
             height: 100%;
-            background-color: #00ff00;
+            background-color: #FFA500;  /* Barra de carga naranja */
             transition: width 1s linear;
         }
 
@@ -127,7 +127,7 @@
             pixel.classList.add('pixel');
             pixel.style.left = `${Math.random() * 100}%`;
             pixel.style.top = `${Math.random() * 100}%`;
-            pixel.style.backgroundColor = ['#ff0000', '#00ff00', '#0000ff', '#ffff00'][Math.floor(Math.random() * 4)];
+            pixel.style.backgroundColor = ['#FFA500', '#800080', '#FFD700'][Math.floor(Math.random() * 3)];
             pixelArt.appendChild(pixel);
         }
 
