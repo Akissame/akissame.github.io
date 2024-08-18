@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.akissame.retroachievements",
-    "sha256_cert_fingerprints":
-    ["49:CD:FB:17:E4:EC:6C:0F:79:D9:E7:0F:E3:80:DF:CD:8C:D8:F3:DE:DF:3E:8D:04:4A:BD:2B:04:4E:D7:3F:1B"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.akissame.retroachievements",
+      "sha256_cert_fingerprints": [
+        "49:CD:FB:17:E4:EC:6C:0F:79:D9:E7:0F:E3:80:DF:CD:8C:D8:F3:DE:DF:3E:8D:04:4A:BD:2B:04:4E:D7:3F:1B"
+      ]
+    }
   }
-}]
+]
