@@ -493,5 +493,20 @@
     "achievementDescription": "Complete Dog Chase",
     "achievementBadgeName": "208491",
     "achievementDateStart": "2024-08-12T00:00:00.000000Z"
+  },
+  {
+    "gameId": 4631,
+    "gameTitle": "Shin Megami Tensei",
+    "gameImageIcon": "/Images/068628.png",
+    "gameImageTitle": "/Images/060420.png",
+    "gameImageIngame": "/Images/060421.png",
+    "gameImageBoxArt": "/Images/059440.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 293328,
+    "achievementTitle": "Terminal Illness",
+    "achievementDescription": "Defeat Douman in the Echo Building.",
+    "achievementBadgeName": "326117",
+    "achievementDateStart": "2024-08-19T00:00:00.000000Z"
   }
 ]
