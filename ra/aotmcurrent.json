@@ -93,28 +93,13 @@
     "gameImageBoxArt": "/Images/048232.png",
     "consoleID": 1,
     "consoleName": "Genesis/Mega Drive",
-    "achievementId": 1421,
-    "achievementTitle": "Defeat Heavy Snake",
-    "achievementDescription": "Clear Stage 1 on Hard Rank",
-    "achievementBadgeName": "01664",
+    "achievementId": 1424,
+    "achievementTitle": "Defeat Claws",
+    "achievementDescription": "Clear Stage 4 on Hard Rank",
+    "achievementBadgeName": "01670",
     "achievementDateStart": "2024-08-30T00:00:00.000",
     "achievementDateEnd": "2024-09-04T00:00:00.000",
-    "swaps": [
-      {
-        "gameId": 7825,
-        "gameTitle": "~Hack~ Dragon Ball Z Team Training",
-        "gameImageIcon": "/Images/014741.png",
-        "gameImageTitle": "/Images/014739.png",
-        "gameImageIngame": "/Images/014740.png",
-        "gameImageBoxArt": "/Images/014738.png",
-        "consoleID": 5,
-        "consoleName": "Game Boy Advance",
-        "achievementId": 52557,
-        "achievementTitle": "Legendary Dogs? No, Legendary Gods!",
-        "achievementDescription": "Catch SSG Goku, SSG Vegeta or SSG Gohan [Super Saiyan God]",
-        "achievementBadgeName": "54341"
-      }
-    ]
+    "swaps": []
   },
   {
     "month": "8",
