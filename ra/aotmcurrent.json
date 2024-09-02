@@ -738,5 +738,79 @@
         "achievementBadgeName": "84017"
       }
     ]
+  },
+  {
+    "gameId": 2827,
+    "gameTitle": "Tony Hawk's Pro Skater 4",
+    "gameImageIcon": "/Images/063037.png",
+    "gameImageTitle": "/Images/063038.png",
+    "gameImageIngame": "/Images/063086.png",
+    "gameImageBoxArt": "/Images/056732.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 259367,
+    "achievementTitle": "San Francisco Amateur Skater",
+    "achievementDescription": "Complete all normal goals in San Francisco.",
+    "achievementBadgeName": "287312",
+    "achievementDateStart": "2024-03-04T00:00:00.000",
+    "achievementDateEnd": "2024-03-11T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 21867,
+        "gameTitle": "Little Britain: The Video Game",
+        "gameImageIcon": "/Images/067767.png",
+        "gameImageTitle": "/Images/067728.png",
+        "gameImageIngame": "/Images/067820.png",
+        "gameImageBoxArt": "/Images/067726.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 286713,
+        "achievementTitle": "You Really Must Come and Speak to Us Again!",
+        "achievementDescription": "Collect all Stars in Pox.",
+        "achievementBadgeName": "319013"
+      },
+      {
+        "gameId": 13069,
+        "gameTitle": "Plaque Attack",
+        "gameImageIcon": "/Images/072800.png",
+        "gameImageTitle": "/Images/033647.png",
+        "gameImageIngame": "/Images/047068.png",
+        "gameImageBoxArt": "/Images/033665.png",
+        "consoleID": 25,
+        "consoleName": "Atari 2600",
+        "achievementId": 157686,
+        "achievementTitle": "You're an Official No Plaque Packer!",
+        "achievementDescription": "Reach a score of 35,000 points or more",
+        "achievementBadgeName": "183560"
+      },
+      {
+        "gameId": 17013,
+        "gameTitle": "Space Squash",
+        "gameImageIcon": "/Images/071463.png",
+        "gameImageTitle": "/Images/080777.png",
+        "gameImageIngame": "/Images/054042.png",
+        "gameImageBoxArt": "/Images/053962.png",
+        "consoleID": 28,
+        "consoleName": "Virtual Boy",
+        "achievementId": 345706,
+        "achievementTitle": "You Miss 100% Of The Shots You Don't Take",
+        "achievementDescription": "Clear the game on Hard Difficulty",
+        "achievementBadgeName": "390959"
+      },
+      {
+        "gameId": 5408,
+        "gameTitle": "Cosmo Police Galivan",
+        "gameImageIcon": "/Images/043057.png",
+        "gameImageTitle": "/Images/017456.png",
+        "gameImageIngame": "/Images/019151.png",
+        "gameImageBoxArt": "/Images/043059.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 66499,
+        "achievementTitle": "Purple Demonlisher",
+        "achievementDescription": "Defeat the Purple Demon in Area 1",
+        "achievementBadgeName": "69971"
+      }
+    ]
   }
 ]
