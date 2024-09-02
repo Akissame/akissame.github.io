@@ -738,5 +738,79 @@
         "achievementBadgeName": "69971"
       }
     ]
+  },
+  {
+    "gameId": 3917,
+    "gameTitle": "Torneko no Daibouken: Fushigi no Dungeon",
+    "gameImageIcon": "/Images/060998.png",
+    "gameImageTitle": "/Images/016911.png",
+    "gameImageIngame": "/Images/016912.png",
+    "gameImageBoxArt": "/Images/055678.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 210457,
+    "achievementTitle": "Dungeon Crawler",
+    "achievementDescription": "Reach Floor 10 in the Normal Dungeon",
+    "achievementBadgeName": "233273",
+    "achievementDateStart": "2024-03-11T00:00:00.000",
+    "achievementDateEnd": "2024-03-18T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 20596,
+        "gameTitle": "~Hack~ Pepsi in Sonic the Hedgehog I",
+        "gameImageIcon": "/Images/062437.png",
+        "gameImageTitle": "/Images/062475.png",
+        "gameImageIngame": "/Images/062476.png",
+        "gameImageBoxArt": "/Images/073631.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 254651,
+        "achievementTitle": "Springs are Fun, Springs are Fun",
+        "achievementDescription": "Complete all 3 Acts of Dimp's Palace Zone and Reach Laberinth",
+        "achievementBadgeName": "282472"
+      },
+      {
+        "gameId": 17216,
+        "gameTitle": "N+",
+        "gameImageIcon": "/Images/084364.png",
+        "gameImageTitle": "/Images/081796.png",
+        "gameImageIngame": "/Images/081797.png",
+        "gameImageBoxArt": "/Images/081771.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 355416,
+        "achievementTitle": "Episode 4 Complete",
+        "achievementDescription": "Beat Episode 4.",
+        "achievementBadgeName": "406014"
+      },
+      {
+        "gameId": 11335,
+        "gameTitle": "Mega Man X5",
+        "gameImageIcon": "/Images/056204.png",
+        "gameImageTitle": "/Images/026551.png",
+        "gameImageIngame": "/Images/027473.png",
+        "gameImageBoxArt": "/Images/026552.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 87088,
+        "achievementTitle": "Super Fighting Robot",
+        "achievementDescription": "Collect all the hearts and tanks",
+        "achievementBadgeName": "96031"
+      },
+      {
+        "gameId": 4909,
+        "gameTitle": "Mega Man Battle Chip Challenge",
+        "gameImageIcon": "/Images/038243.png",
+        "gameImageTitle": "/Images/003046.png",
+        "gameImageIngame": "/Images/003047.png",
+        "gameImageBoxArt": "/Images/040305.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 14661,
+        "achievementTitle": "Better That the Homework",
+        "achievementDescription": "Complete the E Class with Lan",
+        "achievementBadgeName": "147281"
+      }
+    ]
   }
 ]
