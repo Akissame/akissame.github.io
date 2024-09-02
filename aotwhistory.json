@@ -508,5 +508,20 @@
     "achievementDescription": "Defeat Douman in the Echo Building.",
     "achievementBadgeName": "326117",
     "achievementDateStart": "2024-08-19T00:00:00.000000Z"
+  },
+  {
+    "gameId": 25435,
+    "gameTitle": "Dance Dance Revolution: Mario Mix",
+    "gameImageIcon": "/Images/094790.png",
+    "gameImageTitle": "/Images/088977.png",
+    "gameImageIngame": "/Images/098632.png",
+    "gameImageBoxArt": "/Images/094791.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 442338,
+    "achievementTitle": "The Wild Force Has Been Contained!",
+    "achievementDescription": "[Story Mode] Clear World 5 on any difficulty and beat the game!",
+    "achievementBadgeName": "500651",
+    "achievementDateStart": "2024-08-26T00:00:00.000000Z"
   }
 ]
