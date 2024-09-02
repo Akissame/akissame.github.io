@@ -812,5 +812,79 @@
         "achievementBadgeName": "147281"
       }
     ]
+  },
+  {
+    "gameId": 727,
+    "gameTitle": "Pokemon Trading Card Game",
+    "gameImageIcon": "/Images/091409.png",
+    "gameImageTitle": "/Images/001771.png",
+    "gameImageIngame": "/Images/001772.png",
+    "gameImageBoxArt": "/Images/025779.png",
+    "consoleID": 6,
+    "consoleName": "Game Boy Color",
+    "achievementId": 7391,
+    "achievementTitle": "I'm Ronald",
+    "achievementDescription": "Defeat Ronald the first time you meet him and earn the Jigglypuff promotional card",
+    "achievementBadgeName": "170333",
+    "achievementDateStart": "2024-03-18T00:00:00.000",
+    "achievementDateEnd": "2024-03-25T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 19283,
+        "gameTitle": "WRC Rally Evolved",
+        "gameImageIcon": "/Images/058245.png",
+        "gameImageTitle": "/Images/092313.png",
+        "gameImageIngame": "/Images/092315.png",
+        "gameImageBoxArt": "/Images/058244.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 232114,
+        "achievementTitle": "Junior Champion",
+        "achievementDescription": "Win the Super 1600 Championship",
+        "achievementBadgeName": "257425"
+      },
+      {
+        "gameId": 14742,
+        "gameTitle": "Street Fighter Collection 2",
+        "gameImageIcon": "/Images/068526.png",
+        "gameImageTitle": "/Images/028379.png",
+        "gameImageIngame": "/Images/028380.png",
+        "gameImageBoxArt": "/Images/028382.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 293141,
+        "achievementTitle": "Shadaloo Stomper! [Turbo Hyper Fighting]",
+        "achievementDescription": "Clear Arcade Mode! [Difficulty 4 or Above]",
+        "achievementBadgeName": "325323"
+      },
+      {
+        "gameId": 4302,
+        "gameTitle": "Fish Files, The",
+        "gameImageIcon": "/Images/022751.png",
+        "gameImageTitle": "/Images/026384.png",
+        "gameImageIngame": "/Images/022750.png",
+        "gameImageBoxArt": "/Images/022752.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 70800,
+        "achievementTitle": "Time Flies When You're Solving a Mystery",
+        "achievementDescription": "Night has arrived",
+        "achievementBadgeName": "75723"
+      },
+      {
+        "gameId": 2288,
+        "gameTitle": "Darkwing Duck",
+        "gameImageIcon": "/Images/042894.png",
+        "gameImageTitle": "/Images/026075.png",
+        "gameImageIngame": "/Images/026084.png",
+        "gameImageBoxArt": "/Images/005844.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 147561,
+        "achievementTitle": "I Sent Him to the Electric Chair... Twice!",
+        "achievementDescription": "Collect all the puzzle pieces and defeat Megavolt",
+        "achievementBadgeName": "164753"
+      }
+    ]
   }
 ]
