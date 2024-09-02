@@ -590,5 +590,79 @@
         "achievementBadgeName": "50392"
       }
     ]
+  },
+  {
+    "gameId": 2698,
+    "gameTitle": "Clock Tower 3",
+    "gameImageIcon": "/Images/076692.png",
+    "gameImageTitle": "/Images/076237.png",
+    "gameImageIngame": "/Images/076238.png",
+    "gameImageBoxArt": "/Images/052776.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 342048,
+    "achievementTitle": "Albert and Dorothy",
+    "achievementDescription": "Finish the 2nd Stage.",
+    "achievementBadgeName": "385859",
+    "achievementDateStart": "2024-02-19T00:00:00.000",
+    "achievementDateEnd": "2024-02-26T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 9404,
+        "gameTitle": "Solatorobo: Red the Hunter",
+        "gameImageIcon": "/Images/088320.png",
+        "gameImageTitle": "/Images/073286.png",
+        "gameImageIngame": "/Images/073287.png",
+        "gameImageBoxArt": "/Images/028653.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 328736,
+        "achievementTitle": "Chapter 2: Raid of the Kurvaz!",
+        "achievementDescription": "Complete the Chapter 2",
+        "achievementBadgeName": "367850"
+      },
+      {
+        "gameId": 19096,
+        "gameTitle": "Phantasy Star Universe",
+        "gameImageIcon": "/Images/066766.png",
+        "gameImageTitle": "/Images/066764.png",
+        "gameImageIngame": "/Images/066765.png",
+        "gameImageBoxArt": "/Images/056643.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 349681,
+        "achievementTitle": "Purify the SEED",
+        "achievementDescription": "Destroy the 4 SEED Cores.",
+        "achievementBadgeName": "394644"
+      },
+      {
+        "gameId": 1024,
+        "gameTitle": "Metal Marines",
+        "gameImageIcon": "/Images/042019.png",
+        "gameImageTitle": "/Images/041969.png",
+        "gameImageIngame": "/Images/041970.png",
+        "gameImageBoxArt": "/Images/007925.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 141486,
+        "achievementTitle": "Bull-Headed",
+        "achievementDescription": "Defeat Commander Garland in Operation 04 - Bison",
+        "achievementBadgeName": "157809"
+      },
+      {
+        "gameId": 14392,
+        "gameTitle": "~Homebrew~ Super Mario: The Last GBA Quest",
+        "gameImageIcon": "/Images/042288.png",
+        "gameImageTitle": "/Images/026213.png",
+        "gameImageIngame": "/Images/026214.png",
+        "gameImageBoxArt": "/Images/042735.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 143181,
+        "achievementTitle": "Journey Has Ended",
+        "achievementDescription": "Beat the Game.",
+        "achievementBadgeName": "159700"
+      }
+    ]
   }
 ]
