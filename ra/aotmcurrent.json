@@ -886,5 +886,79 @@
         "achievementBadgeName": "164753"
       }
     ]
+  },
+  {
+    "gameId": 1343,
+    "gameTitle": "X-Kaliber 2097",
+    "gameImageIcon": "/Images/092987.png",
+    "gameImageTitle": "/Images/002330.png",
+    "gameImageIngame": "/Images/002331.png",
+    "gameImageBoxArt": "/Images/002332.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 10100,
+    "achievementTitle": "Stage 4",
+    "achievementDescription": "Clear Stage 4 (Normal)",
+    "achievementBadgeName": "09732",
+    "achievementDateStart": "2024-03-25T00:00:00.000",
+    "achievementDateEnd": "2024-04-01T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 17661,
+        "gameTitle": "Super Block",
+        "gameImageIcon": "/Images/044498.png",
+        "gameImageTitle": "/Images/044495.png",
+        "gameImageIngame": "/Images/044497.png",
+        "gameImageBoxArt": "/Images/044494.png",
+        "consoleID": 63,
+        "consoleName": "Watara Supervision",
+        "achievementId": 154691,
+        "achievementTitle": "Okay, I will just continue...",
+        "achievementDescription": "[Play Block] Destroy enough Blocks and beat Stage 20.",
+        "achievementBadgeName": "174135"
+      },
+      {
+        "gameId": 14570,
+        "gameTitle": "Die Hard Arcade | Dynamite Deka",
+        "gameImageIcon": "/Images/034327.png",
+        "gameImageTitle": "/Images/034329.png",
+        "gameImageIngame": "/Images/034326.png",
+        "gameImageBoxArt": "/Images/034328.png",
+        "consoleID": 39,
+        "consoleName": "Saturn",
+        "achievementId": 268299,
+        "achievementTitle": "Incendiary Firefighter",
+        "achievementDescription": "Defeat the big firefighter and complete stage 5",
+        "achievementBadgeName": "296936"
+      },
+      {
+        "gameId": 7961,
+        "gameTitle": "Splash Lake",
+        "gameImageIcon": "/Images/052596.png",
+        "gameImageTitle": "/Images/052597.png",
+        "gameImageIngame": "/Images/052598.png",
+        "gameImageBoxArt": "/Images/033686.png",
+        "consoleID": 76,
+        "consoleName": "PC Engine CD/TurboGrafx-CD",
+        "achievementId": 195372,
+        "achievementTitle": "Level Set 6",
+        "achievementDescription": "Complete the sixth set of levels. [6-XX]",
+        "achievementBadgeName": "217146"
+      },
+      {
+        "gameId": 423,
+        "gameTitle": "Battletoads and Double Dragon: The Ultimate Team",
+        "gameImageIcon": "/Images/083729.png",
+        "gameImageTitle": "/Images/003410.png",
+        "gameImageIngame": "/Images/003411.png",
+        "gameImageBoxArt": "/Images/003412.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 18134,
+        "achievementTitle": "Shadow Boss",
+        "achievementDescription": "Complete Stage 6",
+        "achievementBadgeName": "17557"
+      }
+    ]
   }
 ]
