@@ -664,5 +664,79 @@
         "achievementBadgeName": "159700"
       }
     ]
+  },
+  {
+    "gameId": 470,
+    "gameTitle": "Super Bomberman",
+    "gameImageIcon": "/Images/043551.png",
+    "gameImageTitle": "/Images/039426.png",
+    "gameImageIngame": "/Images/039427.png",
+    "gameImageBoxArt": "/Images/069658.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 22457,
+    "achievementTitle": "Complete \"World\" 6",
+    "achievementDescription": "Complete stages 6-1 to 6-8 in a single session.",
+    "achievementBadgeName": "276705",
+    "achievementDateStart": "2024-02-26T00:00:00.000",
+    "achievementDateEnd": "2024-03-04T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 1475,
+        "gameTitle": "Gyromite",
+        "gameImageIcon": "/Images/101253.png",
+        "gameImageTitle": "/Images/004056.png",
+        "gameImageIngame": "/Images/004057.png",
+        "gameImageBoxArt": "/Images/004058.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 20946,
+        "achievementTitle": "Phase 40",
+        "achievementDescription": "Deactivate all TNT on phase 40",
+        "achievementBadgeName": "20644"
+      },
+      {
+        "gameId": 6816,
+        "gameTitle": "Cutie Suzuki no Ringside Angel",
+        "gameImageIcon": "/Images/009576.png",
+        "gameImageTitle": "/Images/061599.png",
+        "gameImageIngame": "/Images/061600.png",
+        "gameImageBoxArt": "/Images/009575.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 265130,
+        "achievementTitle": "You Thought It Was Over?",
+        "achievementDescription": "Complete the game with the true ending",
+        "achievementBadgeName": "292937"
+      },
+      {
+        "gameId": 2516,
+        "gameTitle": "Donald in Maui Mallard",
+        "gameImageIcon": "/Images/052425.png",
+        "gameImageTitle": "/Images/024044.png",
+        "gameImageIngame": "/Images/024045.png",
+        "gameImageBoxArt": "/Images/008126.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 41960,
+        "achievementTitle": "Muddrake Mayhem",
+        "achievementDescription": "Clear Level 3",
+        "achievementBadgeName": "43265"
+      },
+      {
+        "gameId": 1151,
+        "gameTitle": "Shien's Revenge",
+        "gameImageIcon": "/Images/053417.png",
+        "gameImageTitle": "/Images/035487.png",
+        "gameImageIngame": "/Images/035488.png",
+        "gameImageBoxArt": "/Images/025794.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 78089,
+        "achievementTitle": "The End!",
+        "achievementDescription": "Beat Tempors Second Form and Finish the Game!",
+        "achievementBadgeName": "84017"
+      }
+    ]
   }
 ]
