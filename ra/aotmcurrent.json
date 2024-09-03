@@ -2412,5 +2412,79 @@
         "achievementBadgeName": "319879"
       }
     ]
+  },
+  {
+    "gameId": 4631,
+    "gameTitle": "Shin Megami Tensei",
+    "gameImageIcon": "/Images/068628.png",
+    "gameImageTitle": "/Images/060420.png",
+    "gameImageIngame": "/Images/060421.png",
+    "gameImageBoxArt": "/Images/059440.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 293328,
+    "achievementTitle": "Terminal Illness",
+    "achievementDescription": "Defeat Douman in the Echo Building.",
+    "achievementBadgeName": "326117",
+    "achievementDateStart": "2024-08-19T00:00:00.000",
+    "achievementDateEnd": "2024-08-26T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 11545,
+        "gameTitle": "~Hack~ Banjo-Dreamie",
+        "gameImageIcon": "/Images/050313.png",
+        "gameImageTitle": "/Images/019841.png",
+        "gameImageIngame": "/Images/019842.png",
+        "gameImageBoxArt": "/Images/049697.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 183024,
+        "achievementTitle": "Gotta Learn To Swim Before You Can Fly",
+        "achievementDescription": "Collect enough notes and open the 33-note door",
+        "achievementBadgeName": "205926"
+      },
+      {
+        "gameId": 10481,
+        "gameTitle": "Legend of Heroes, The: Trails in the Sky SC",
+        "gameImageIcon": "/Images/051354.png",
+        "gameImageTitle": "/Images/029558.png",
+        "gameImageIngame": "/Images/029559.png",
+        "gameImageBoxArt": "/Images/047174.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 186666,
+        "achievementTitle": "A Maiden's Resolve",
+        "achievementDescription": "Complete the Prologue",
+        "achievementBadgeName": "207628"
+      },
+      {
+        "gameId": 4483,
+        "gameTitle": "True Lies",
+        "gameImageIcon": "/Images/089907.png",
+        "gameImageTitle": "/Images/005407.png",
+        "gameImageIngame": "/Images/005413.png",
+        "gameImageBoxArt": "/Images/005406.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 26416,
+        "achievementTitle": "The Subway",
+        "achievementDescription": "Finish the fourth level",
+        "achievementBadgeName": "26014"
+      },
+      {
+        "gameId": 17675,
+        "gameTitle": "Burnout Legends",
+        "gameImageIcon": "/Images/094970.png",
+        "gameImageTitle": "/Images/055356.png",
+        "gameImageIngame": "/Images/055357.png",
+        "gameImageBoxArt": "/Images/055351.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 419417,
+        "achievementTitle": "Tractor Cab",
+        "achievementDescription": "Obtain 500000 crash dollars",
+        "achievementBadgeName": "473905"
+      }
+    ]
   }
 ]
