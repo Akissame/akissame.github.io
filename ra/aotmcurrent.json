@@ -1524,5 +1524,79 @@
         "achievementBadgeName": "358055"
       }
     ]
+  },
+  {
+    "gameId": 2524,
+    "gameTitle": "Frogger's Adventures 2: The Lost Wand",
+    "gameImageIcon": "/Images/060280.png",
+    "gameImageTitle": "/Images/060278.png",
+    "gameImageIngame": "/Images/060279.png",
+    "gameImageBoxArt": "/Images/097920.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 234608,
+    "achievementTitle": "The Found Wand",
+    "achievementDescription": "Complete Magician's Realm",
+    "achievementBadgeName": "260386",
+    "achievementDateStart": "2024-05-27T00:00:00.000",
+    "achievementDateEnd": "2024-06-03T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 13350,
+        "gameTitle": "Pac-Man",
+        "gameImageIcon": "/Images/039737.png",
+        "gameImageTitle": "/Images/019533.png",
+        "gameImageIngame": "/Images/019534.png",
+        "gameImageBoxArt": "/Images/092448.png",
+        "consoleID": 14,
+        "consoleName": "Neo Geo Pocket",
+        "achievementId": 69188,
+        "achievementTitle": "Stage 6 Clear",
+        "achievementDescription": "Clear Stage 6",
+        "achievementBadgeName": "74545"
+      },
+      {
+        "gameId": 22424,
+        "gameTitle": "Gamera: Daikaijuu Kuuchuu Kessen | Gamera: Guardian of the Universe",
+        "gameImageIcon": "/Images/069694.png",
+        "gameImageTitle": "/Images/069545.png",
+        "gameImageIngame": "/Images/069546.png",
+        "gameImageBoxArt": "/Images/069533.png",
+        "consoleID": 4,
+        "consoleName": "Game Boy",
+        "achievementId": 297977,
+        "achievementTitle": "At Last, a Worthy Opponent!",
+        "achievementDescription": "Defeat Gamera.",
+        "achievementBadgeName": "331170"
+      },
+      {
+        "gameId": 4378,
+        "gameTitle": "Pac-Attack",
+        "gameImageIcon": "/Images/082620.png",
+        "gameImageTitle": "/Images/066058.png",
+        "gameImageIngame": "/Images/066059.png",
+        "gameImageBoxArt": "/Images/066060.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 372491,
+        "achievementTitle": "Jaws of Defeat",
+        "achievementDescription": "Defeat at least 500 Monsters in one session of Normal Mode!",
+        "achievementBadgeName": "418808"
+      },
+      {
+        "gameId": 1424,
+        "gameTitle": "Super Star Wars: The Empire Strikes Back",
+        "gameImageIcon": "/Images/061312.png",
+        "gameImageTitle": "/Images/006086.png",
+        "gameImageIngame": "/Images/006087.png",
+        "gameImageBoxArt": "/Images/045655.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 29123,
+        "achievementTitle": "We're Leaving. Again.",
+        "achievementDescription": "Get to the Falcon.",
+        "achievementBadgeName": "29619"
+      }
+    ]
   }
 ]
