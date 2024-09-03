@@ -1228,5 +1228,79 @@
         "achievementBadgeName": "400628"
       }
     ]
+  },
+  {
+    "gameId": 15432,
+    "gameTitle": "Dragon Ball Z: Attack of the Saiyans",
+    "gameImageIcon": "/Images/092552.png",
+    "gameImageTitle": "/Images/036780.png",
+    "gameImageIngame": "/Images/036781.png",
+    "gameImageBoxArt": "/Images/036779.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 165924,
+    "achievementTitle": "Firefighter",
+    "achievementDescription": "Defeat the Evil Flame",
+    "achievementBadgeName": "187279",
+    "achievementDateStart": "2024-04-29T00:00:00.000",
+    "achievementDateEnd": "2024-05-06T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 2721,
+        "gameTitle": "Dragon Quest VIII: Journey of the Cursed King",
+        "gameImageIcon": "/Images/038649.png",
+        "gameImageTitle": "/Images/055969.png",
+        "gameImageIngame": "/Images/055970.png",
+        "gameImageBoxArt": "/Images/062378.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 250058,
+        "achievementTitle": "Va-Va-Voom",
+        "achievementDescription": "Jessica joins your party!",
+        "achievementBadgeName": "276716"
+      },
+      {
+        "gameId": 7894,
+        "gameTitle": "Kuusou Kagaku Sekai Gulliver Boy",
+        "gameImageIcon": "/Images/080205.png",
+        "gameImageTitle": "/Images/055180.png",
+        "gameImageIngame": "/Images/055181.png",
+        "gameImageBoxArt": "/Images/055185.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 343698,
+        "achievementTitle": "It´s Like a Pokémon",
+        "achievementDescription": "Beat Droid",
+        "achievementBadgeName": "388183"
+      },
+      {
+        "gameId": 15431,
+        "gameTitle": "Dragon Ball: Origins",
+        "gameImageIcon": "/Images/065789.png",
+        "gameImageTitle": "/Images/053301.png",
+        "gameImageIngame": "/Images/066366.png",
+        "gameImageBoxArt": "/Images/053299.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 273546,
+        "achievementTitle": "Chapter 2 - Aru Village",
+        "achievementDescription": "Clear episodes 2-1 to 2-4",
+        "achievementBadgeName": "303132"
+      },
+      {
+        "gameId": 13049,
+        "gameTitle": "Chrono Trigger",
+        "gameImageIcon": "/Images/051476.png",
+        "gameImageTitle": "/Images/032540.png",
+        "gameImageIngame": "/Images/032541.png",
+        "gameImageBoxArt": "/Images/032539.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 141924,
+        "achievementTitle": "JAIL BREAK!",
+        "achievementDescription": "Defeat the Dragon Tank",
+        "achievementBadgeName": "160629"
+      }
+    ]
   }
 ]
