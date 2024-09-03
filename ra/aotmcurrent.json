@@ -1598,5 +1598,79 @@
         "achievementBadgeName": "29619"
       }
     ]
+  },
+  {
+    "gameId": 3478,
+    "gameTitle": "Seifuku Densetsu: Pretty Fighter",
+    "gameImageIcon": "/Images/075418.png",
+    "gameImageTitle": "/Images/008431.png",
+    "gameImageIngame": "/Images/008432.png",
+    "gameImageBoxArt": "/Images/008430.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 183470,
+    "achievementTitle": "Uu-n, I'm Getting Angry!",
+    "achievementDescription": "Finish Story mode as Ai on difficulty 4 or above with round time set to 60 seconds (P1 only)",
+    "achievementBadgeName": "203841",
+    "achievementDateStart": "2024-06-03T00:00:00.000",
+    "achievementDateEnd": "2024-06-10T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 12516,
+        "gameTitle": "Berenstain Bears' Camping Adventure, The",
+        "gameImageIcon": "/Images/086244.png",
+        "gameImageTitle": "/Images/016303.png",
+        "gameImageIngame": "/Images/016302.png",
+        "gameImageBoxArt": "/Images/016305.png",
+        "consoleID": 15,
+        "consoleName": "Game Gear",
+        "achievementId": 59653,
+        "achievementTitle": "Sister Bear's Adventure",
+        "achievementDescription": "Beat the game as Sister Bear.",
+        "achievementBadgeName": "62476"
+      },
+      {
+        "gameId": 8402,
+        "gameTitle": "Toy Story 2",
+        "gameImageIcon": "/Images/054343.png",
+        "gameImageTitle": "/Images/050855.png",
+        "gameImageIngame": "/Images/050856.png",
+        "gameImageBoxArt": "/Images/050870.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 186479,
+        "achievementTitle": "Welcome Home, Andy",
+        "achievementDescription": "Beat the Game on Any Skill Level (No Passwords)",
+        "achievementBadgeName": "321247"
+      },
+      {
+        "gameId": 1020,
+        "gameTitle": "MechWarrior",
+        "gameImageIcon": "/Images/041875.png",
+        "gameImageTitle": "/Images/041854.png",
+        "gameImageIngame": "/Images/041855.png",
+        "gameImageBoxArt": "/Images/041856.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 141263,
+        "achievementTitle": "Alpha",
+        "achievementDescription": "Defeat Wolf Glupper",
+        "achievementBadgeName": "157368"
+      },
+      {
+        "gameId": 3244,
+        "gameTitle": "Mickey no Tokyo Disneyland Daibouken",
+        "gameImageIcon": "/Images/005649.png",
+        "gameImageTitle": "/Images/005646.png",
+        "gameImageIngame": "/Images/005647.png",
+        "gameImageBoxArt": "/Images/005648.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 61088,
+        "achievementTitle": "Haunted Mansion",
+        "achievementDescription": "Finish Level 4",
+        "achievementBadgeName": "64205"
+      }
+    ]
   }
 ]
