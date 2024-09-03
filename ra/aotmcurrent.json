@@ -2190,5 +2190,79 @@
         "achievementBadgeName": "363778"
       }
     ]
+  },
+  {
+    "gameId": 16713,
+    "gameTitle": "MapleStory DS",
+    "gameImageIcon": "/Images/073715.png",
+    "gameImageTitle": "/Images/073445.png",
+    "gameImageIngame": "/Images/060631.png",
+    "gameImageBoxArt": "/Images/073444.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 320990,
+    "achievementTitle": "Forgotten Request",
+    "achievementDescription": "Complete Chapter 5 as the Warrior",
+    "achievementBadgeName": "502037",
+    "achievementDateStart": "2024-07-29T00:00:00.000",
+    "achievementDateEnd": "2024-08-05T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 6030,
+        "gameTitle": "Garfield and his Nine Lives",
+        "gameImageIcon": "/Images/090167.png",
+        "gameImageTitle": "/Images/100348.png",
+        "gameImageIngame": "/Images/100349.png",
+        "gameImageBoxArt": "/Images/025756.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 252051,
+        "achievementTitle": "Celebration Time Tonight",
+        "achievementDescription": "Beat the game",
+        "achievementBadgeName": "280093"
+      },
+      {
+        "gameId": 11662,
+        "gameTitle": "Time Soldiers",
+        "gameImageIcon": "/Images/072157.png",
+        "gameImageTitle": "/Images/015904.png",
+        "gameImageIngame": "/Images/015905.png",
+        "gameImageBoxArt": "/Images/015906.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 426656,
+        "achievementTitle": "Gorugo",
+        "achievementDescription": "Defeat Gorugo",
+        "achievementBadgeName": "481193"
+      },
+      {
+        "gameId": 4162,
+        "gameTitle": "BattleTech: A Game of Armored Combat",
+        "gameImageIcon": "/Images/025934.png",
+        "gameImageTitle": "/Images/025931.png",
+        "gameImageIngame": "/Images/025932.png",
+        "gameImageBoxArt": "/Images/025933.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 208357,
+        "achievementTitle": "Bloodname",
+        "achievementDescription": "Complete mission on Ridderkerk",
+        "achievementBadgeName": "157546"
+      },
+      {
+        "gameId": 18067,
+        "gameTitle": "Sims 2, The",
+        "gameImageIcon": "/Images/064779.png",
+        "gameImageTitle": "/Images/064734.png",
+        "gameImageIngame": "/Images/064735.png",
+        "gameImageBoxArt": "/Images/064729.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 391060,
+        "achievementTitle": "Dude, Where's My Car!?",
+        "achievementDescription": "Complete all goals at the Silver Rocket Service Station",
+        "achievementBadgeName": "444430"
+      }
+    ]
   }
 ]
