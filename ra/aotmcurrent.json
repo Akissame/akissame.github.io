@@ -2338,5 +2338,79 @@
         "achievementBadgeName": "362784"
       }
     ]
+  },
+  {
+    "gameId": 17432,
+    "gameTitle": "Chicken Run",
+    "gameImageIcon": "/Images/075415.png",
+    "gameImageTitle": "/Images/075247.png",
+    "gameImageIngame": "/Images/075248.png",
+    "gameImageBoxArt": "/Images/050817.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 187631,
+    "achievementTitle": "Dog Chase completed",
+    "achievementDescription": "Complete Dog Chase",
+    "achievementBadgeName": "208491",
+    "achievementDateStart": "2024-08-12T00:00:00.000",
+    "achievementDateEnd": "2024-08-19T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 17210,
+        "gameTitle": "Turbo Prop Racing | Rapid Racer",
+        "gameImageIcon": "/Images/071208.png",
+        "gameImageTitle": "/Images/071091.png",
+        "gameImageIngame": "/Images/070821.png",
+        "gameImageBoxArt": "/Images/071073.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 307496,
+        "achievementTitle": "Championship Day Novice",
+        "achievementDescription": "Finish the Championship Day on Easy Difficulty in one Sitting",
+        "achievementBadgeName": "357712"
+      },
+      {
+        "gameId": 23856,
+        "gameTitle": "Over Top",
+        "gameImageIcon": "/Images/087862.png",
+        "gameImageTitle": "/Images/085252.png",
+        "gameImageIngame": "/Images/085253.png",
+        "gameImageBoxArt": "/Images/085251.png",
+        "consoleID": 56,
+        "consoleName": "Neo Geo CD",
+        "achievementId": 387504,
+        "achievementTitle": "Final Stretch",
+        "achievementDescription": "Clear Park in MVS mode on any timed difficulty and complete the event.",
+        "achievementBadgeName": "438077"
+      },
+      {
+        "gameId": 472,
+        "gameTitle": "Ranma ½: Hard Battle | Ranma ½: Bakuretsu Rantou Hen",
+        "gameImageIcon": "/Images/086674.png",
+        "gameImageTitle": "/Images/035657.png",
+        "gameImageIngame": "/Images/035658.png",
+        "gameImageBoxArt": "/Images/018562.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 157245,
+        "achievementTitle": "Hot Stuff Comin' Through!",
+        "achievementDescription": "Clear 1P Mode on Normal difficulty",
+        "achievementBadgeName": "176984"
+      },
+      {
+        "gameId": 11368,
+        "gameTitle": "PaRappa the Rapper",
+        "gameImageIcon": "/Images/073081.png",
+        "gameImageTitle": "/Images/026974.png",
+        "gameImageIngame": "/Images/026972.png",
+        "gameImageBoxArt": "/Images/026973.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 85387,
+        "achievementTitle": "Guaranteed to Catch Her Heart",
+        "achievementDescription": "Complete Stage 4.",
+        "achievementBadgeName": "319879"
+      }
+    ]
   }
 ]
