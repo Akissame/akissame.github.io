@@ -1746,5 +1746,79 @@
         "achievementBadgeName": "79834"
       }
     ]
+  },
+  {
+    "gameId": 19804,
+    "gameTitle": "Tony Hawk's Underground 2",
+    "gameImageIcon": "/Images/081875.png",
+    "gameImageTitle": "/Images/062080.png",
+    "gameImageIngame": "/Images/063586.png",
+    "gameImageBoxArt": "/Images/061822.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 262265,
+    "achievementTitle": "Rad to the Mizzax",
+    "achievementDescription": "In Story Mode, complete Berlin and move on to the next city.",
+    "achievementBadgeName": "290331",
+    "achievementDateStart": "2024-06-17T00:00:00.000",
+    "achievementDateEnd": "2024-06-24T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 4004,
+        "gameTitle": "Metal Slug XX",
+        "gameImageIcon": "/Images/065558.png",
+        "gameImageTitle": "/Images/049508.png",
+        "gameImageIngame": "/Images/096769.png",
+        "gameImageBoxArt": "/Images/054830.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 206396,
+        "achievementTitle": "Rebel Gigant",
+        "achievementDescription": "Finish Mission 6 (Main Mission).",
+        "achievementBadgeName": "229170"
+      },
+      {
+        "gameId": 1515,
+        "gameTitle": "1942",
+        "gameImageIcon": "/Images/043934.png",
+        "gameImageTitle": "/Images/000549.png",
+        "gameImageIngame": "/Images/000550.png",
+        "gameImageBoxArt": "/Images/011488.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 178307,
+        "achievementTitle": "Okinawa",
+        "achievementDescription": "Clear stages 4-1",
+        "achievementBadgeName": "198593"
+      },
+      {
+        "gameId": 11853,
+        "gameTitle": "Shinobi",
+        "gameImageIcon": "/Images/056868.png",
+        "gameImageTitle": "/Images/019173.png",
+        "gameImageIngame": "/Images/019174.png",
+        "gameImageBoxArt": "/Images/057191.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 214670,
+        "achievementTitle": "Defeat Mandara",
+        "achievementDescription": "Complete Mission Three (Normal+, Lives <=3)",
+        "achievementBadgeName": "237618"
+      },
+      {
+        "gameId": 3496,
+        "gameTitle": "Shin Megami Tensei II",
+        "gameImageIcon": "/Images/064517.png",
+        "gameImageTitle": "/Images/003377.png",
+        "gameImageIngame": "/Images/003378.png",
+        "gameImageBoxArt": "/Images/003379.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 17312,
+        "achievementTitle": "King Icecream",
+        "achievementDescription": "Defeat king frost",
+        "achievementBadgeName": "16604"
+      }
+    ]
   }
 ]
