@@ -1820,5 +1820,79 @@
         "achievementBadgeName": "16604"
       }
     ]
+  },
+  {
+    "gameId": 14763,
+    "gameTitle": "Kirby Super Star Ultra",
+    "gameImageIcon": "/Images/046444.png",
+    "gameImageTitle": "/Images/028627.png",
+    "gameImageIngame": "/Images/028628.png",
+    "gameImageBoxArt": "/Images/028552.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 95458,
+    "achievementTitle": "Revengeance Warrior",
+    "achievementDescription": "Complete Revenge of Meta Knight",
+    "achievementBadgeName": "105836",
+    "achievementDateStart": "2024-06-24T00:00:00.000",
+    "achievementDateEnd": "2024-07-01T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 16236,
+        "gameTitle": "Sims 2, The",
+        "gameImageIcon": "/Images/047391.png",
+        "gameImageTitle": "/Images/051298.png",
+        "gameImageIngame": "/Images/051299.png",
+        "gameImageBoxArt": "/Images/047395.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 169808,
+        "achievementTitle": "I'm not equipped for this...",
+        "achievementDescription": "Put the fire out in the City Hall and Calmed Honest Jackson down",
+        "achievementBadgeName": "190880"
+      },
+      {
+        "gameId": 993,
+        "gameTitle": "Lemmings",
+        "gameImageIcon": "/Images/041707.png",
+        "gameImageTitle": "/Images/085120.png",
+        "gameImageIngame": "/Images/085121.png",
+        "gameImageBoxArt": "/Images/002222.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 366999,
+        "achievementTitle": "Rendezvous at the Mountain",
+        "achievementDescription": "Complete Level 30 on Mayhem difficulty and save 100% of Lemmings",
+        "achievementBadgeName": "412849"
+      },
+      {
+        "gameId": 11387,
+        "gameTitle": "Bushido Blade 2",
+        "gameImageIcon": "/Images/029698.png",
+        "gameImageTitle": "/Images/029277.png",
+        "gameImageIngame": "/Images/029278.png",
+        "gameImageBoxArt": "/Images/073723.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 160174,
+        "achievementTitle": "Kagami Clan",
+        "achievementDescription": "Finish Story Mode with a Narukagami fighter.",
+        "achievementBadgeName": "180030"
+      },
+      {
+        "gameId": 373,
+        "gameTitle": "Aero Fighters",
+        "gameImageIcon": "/Images/048372.png",
+        "gameImageTitle": "/Images/002448.png",
+        "gameImageIngame": "/Images/002453.png",
+        "gameImageBoxArt": "/Images/044935.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 175209,
+        "achievementTitle": "Come and Get Me!",
+        "achievementDescription": "Finish the third stage",
+        "achievementBadgeName": "199819"
+      }
+    ]
   }
 ]
