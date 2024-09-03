@@ -1894,5 +1894,79 @@
         "achievementBadgeName": "199819"
       }
     ]
+  },
+  {
+    "gameId": 17812,
+    "gameTitle": "~Hack~ Mario and the Mystic Purple Stars",
+    "gameImageIcon": "/Images/048694.png",
+    "gameImageTitle": "/Images/048727.png",
+    "gameImageIngame": "/Images/045451.png",
+    "gameImageBoxArt": "/Images/056054.png",
+    "consoleID": 2,
+    "consoleName": "Nintendo 64",
+    "achievementId": 175853,
+    "achievementTitle": "Wiggy's Challenge",
+    "achievementDescription": "Defeat Wiggy in Wiggy's Towers of Darkness (1vs1 Battle) without taking damage",
+    "achievementBadgeName": "196050",
+    "achievementDateStart": "2024-07-01T00:00:00.000",
+    "achievementDateEnd": "2024-07-08T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 5719,
+        "gameTitle": "LEGO Star Wars: The Video Game",
+        "gameImageIcon": "/Images/087606.png",
+        "gameImageTitle": "/Images/004771.png",
+        "gameImageIngame": "/Images/004772.png",
+        "gameImageBoxArt": "/Images/014489.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 25579,
+        "achievementTitle": "Mustafar",
+        "achievementDescription": "Complete the final mission of Episode III in Story mode.",
+        "achievementBadgeName": "26063"
+      },
+      {
+        "gameId": 467,
+        "gameTitle": "Magical Quest starring Mickey Mouse, The",
+        "gameImageIcon": "/Images/035000.png",
+        "gameImageTitle": "/Images/000114.png",
+        "gameImageIngame": "/Images/000115.png",
+        "gameImageBoxArt": "/Images/000133.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 1401,
+        "achievementTitle": "Almost Like a Dream Come True…",
+        "achievementDescription": "Defeat Pete and beat the game!",
+        "achievementBadgeName": "03772"
+      },
+      {
+        "gameId": 12275,
+        "gameTitle": "X-Men: Children of the Atom",
+        "gameImageIcon": "/Images/061333.png",
+        "gameImageTitle": "/Images/016275.png",
+        "gameImageIngame": "/Images/016276.png",
+        "gameImageBoxArt": "/Images/016279.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 161805,
+        "achievementTitle": "Ororo Munroe",
+        "achievementDescription": "Beat the game using only Storm (Medium Difficulty, 3 rounds).",
+        "achievementBadgeName": "270632"
+      },
+      {
+        "gameId": 13349,
+        "gameTitle": "Samurai Shodown! 2: Pocket Fighting Series",
+        "gameImageIcon": "/Images/071908.png",
+        "gameImageTitle": "/Images/050041.png",
+        "gameImageIngame": "/Images/050033.png",
+        "gameImageBoxArt": "/Images/092454.png",
+        "consoleID": 14,
+        "consoleName": "Neo Geo Pocket",
+        "achievementId": 312209,
+        "achievementTitle": "Shogunate Agent",
+        "achievementDescription": "Beat the game as Hanzo [>= Normal | 2 Points]",
+        "achievementBadgeName": "345393"
+      }
+    ]
   }
 ]
