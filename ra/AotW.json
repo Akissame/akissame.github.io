@@ -2634,5 +2634,22 @@
         "achievementBadgeName": "383874"
       }
     ]
+  },
+  {
+    "gameId": 758,
+    "gameTitle": "Dragon Ball Z: The Legacy of Goku",
+    "gameImageIcon": "/Images/093870.png",
+    "gameImageTitle": "/Images/095161.png",
+    "gameImageIngame": "/Images/095162.png",
+    "gameImageBoxArt": "/Images/095540.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 18894,
+    "achievementTitle": "Me and My Brother Cory Got into a Fight",
+    "achievementDescription": "Find the Toy Boat in the pond and return it to the little boy",
+    "achievementBadgeName": "250165",
+    "achievementDateStart": "2024-09-04T00:00:00.000",
+    "achievementDateEnd": "2024-09-04T00:00:00.000",
+    "swaps": []
   }
 ]
