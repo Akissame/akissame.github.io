@@ -126,5 +126,37 @@
         "achievementBadgeName": "159641"
       }
     ]
+  },
+  {
+    "gameId": 3001,
+    "gameTitle": "Okami",
+    "gameImageIcon": "/Images/061301.png",
+    "gameImageTitle": "/Images/034039.png",
+    "gameImageIngame": "/Images/034040.png",
+    "gameImageBoxArt": "/Images/034041.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 246894,
+    "achievementTitle": "Someone Call For An Exterminator?",
+    "achievementDescription": "Defeat the Spider Queen",
+    "achievementBadgeName": "273492",
+    "achievementDateStart": "2024-05-06T00:00:00.000",
+    "achievementDateEnd": "2024-06-03T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 510,
+        "gameTitle": "Castlevania: Aria of Sorrow",
+        "gameImageIcon": "/Images/085857.png",
+        "gameImageTitle": "/Images/071777.png",
+        "gameImageIngame": "/Images/071776.png",
+        "gameImageBoxArt": "/Images/071775.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 3085,
+        "achievementTitle": "Chaotic Disposition",
+        "achievementDescription": "Defeat the real master of the castle and obtain the game's true ending.",
+        "achievementBadgeName": "116243"
+      }
+    ]
   }
 ]
