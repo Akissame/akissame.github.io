@@ -30,5 +30,37 @@
         "achievementBadgeName": "258249"
       }
     ]
+  },
+  {
+    "gameId": 6800,
+    "gameTitle": "Spyro the Dragon [Japan]",
+    "gameImageIcon": "/Images/089906.png",
+    "gameImageTitle": "/Images/070425.png",
+    "gameImageIngame": "/Images/070443.png",
+    "gameImageBoxArt": "/Images/069030.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 303930,
+    "achievementTitle": "Family Reunion",
+    "achievementDescription": "Rescue all 80 Dragons",
+    "achievementBadgeName": "337593",
+    "achievementDateStart": "2024-02-05T00:00:00.000",
+    "achievementDateEnd": "2024-03-04T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 754,
+        "gameTitle": "Dragon Ball Z: Buu's Fury",
+        "gameImageIcon": "/Images/094340.png",
+        "gameImageTitle": "/Images/003297.png",
+        "gameImageIngame": "/Images/003296.png",
+        "gameImageBoxArt": "/Images/095541.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 16663,
+        "achievementTitle": "A New Power, A New Hairstyle",
+        "achievementDescription": "Defeat Buu as Goku ssj3",
+        "achievementBadgeName": "396337"
+      }
+    ]
   }
 ]
