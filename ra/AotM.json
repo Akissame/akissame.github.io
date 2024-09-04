@@ -158,5 +158,37 @@
         "achievementBadgeName": "116243"
       }
     ]
+  },
+  {
+    "gameId": 1314,
+    "gameTitle": "Haunting Ground",
+    "gameImageIcon": "/Images/083747.png",
+    "gameImageTitle": "/Images/064130.png",
+    "gameImageIngame": "/Images/064131.png",
+    "gameImageBoxArt": "/Images/052857.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 287681,
+    "achievementTitle": "Fall From Grace",
+    "achievementDescription": "Defeat Riccardo",
+    "achievementBadgeName": "318681",
+    "achievementDateStart": "2024-06-03T00:00:00.000",
+    "achievementDateEnd": "2024-07-01T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 228,
+        "gameTitle": "Super Mario World",
+        "gameImageIcon": "/Images/066393.png",
+        "gameImageTitle": "/Images/014709.png",
+        "gameImageIngame": "/Images/000022.png",
+        "gameImageBoxArt": "/Images/055336.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 2304,
+        "achievementTitle": "All Exits",
+        "achievementDescription": "100% clear the game",
+        "achievementBadgeName": "46761"
+      }
+    ]
   }
 ]
