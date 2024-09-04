@@ -74,52 +74,6 @@
     ]
   },
   {
-    "gameId": 2945,
-    "gameTitle": "Go Go Ackman",
-    "gameImageIcon": "/Images/095388.png",
-    "gameImageTitle": "/Images/005189.png",
-    "gameImageIngame": "/Images/005190.png",
-    "gameImageBoxArt": "/Images/005187.png",
-    "consoleID": 3,
-    "consoleName": "SNES/Super Famicom",
-    "achievementId": 52973,
-    "achievementTitle": "Plan Failed",
-    "achievementDescription": "Clear Stage 3.",
-    "achievementBadgeName": "323991",
-    "achievementDateStart": "2024-04-15T00:00:00.000",
-    "achievementDateEnd": "2024-04-22T00:00:00.000",
-    "swaps": [
-      {
-        "gameId": 16634,
-        "gameTitle": "Blue Dragon Plus",
-        "gameImageIcon": "/Images/063140.png",
-        "gameImageTitle": "/Images/044312.png",
-        "gameImageIngame": "/Images/044313.png",
-        "gameImageBoxArt": "/Images/045583.png",
-        "consoleID": 18,
-        "consoleName": "Nintendo DS",
-        "achievementId": 154330,
-        "achievementTitle": "Saved from the Flusher",
-        "achievementDescription": "Recruit Poo Snake to your team.",
-        "achievementBadgeName": "172766"
-      },
-      {
-        "gameId": 7894,
-        "gameTitle": "Kuusou Kagaku Sekai Gulliver Boy",
-        "gameImageIcon": "/Images/080205.png",
-        "gameImageTitle": "/Images/055180.png",
-        "gameImageIngame": "/Images/055181.png",
-        "gameImageBoxArt": "/Images/055185.png",
-        "consoleID": 3,
-        "consoleName": "SNES/Super Famicom",
-        "achievementId": 343698,
-        "achievementTitle": "It´s Like a Pokémon",
-        "achievementDescription": "Beat Droid",
-        "achievementBadgeName": "388183"
-      }
-    ]
-  },
-  {
     "gameId": 17812,
     "gameTitle": "~Hack~ Mario and the Mystic Purple Stars",
     "gameImageIcon": "/Images/048694.png",
