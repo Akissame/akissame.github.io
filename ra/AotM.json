@@ -94,5 +94,37 @@
         "achievementBadgeName": "258502"
       }
     ]
+  },
+  {
+    "gameId": 16254,
+    "gameTitle": "Dragon Quest Heroes: Rocket Slime",
+    "gameImageIcon": "/Images/055622.png",
+    "gameImageTitle": "/Images/037737.png",
+    "gameImageIngame": "/Images/037740.png",
+    "gameImageBoxArt": "/Images/037738.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 210777,
+    "achievementTitle": "Buy Somethin' Will Ya!",
+    "achievementDescription": "Rescue Splodgy Dave and reopen the shop in Boingburg.",
+    "achievementBadgeName": "233526",
+    "achievementDateStart": "2024-04-01T00:00:00.000",
+    "achievementDateEnd": "2024-05-06T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 13049,
+        "gameTitle": "Chrono Trigger",
+        "gameImageIcon": "/Images/051476.png",
+        "gameImageTitle": "/Images/032540.png",
+        "gameImageIngame": "/Images/032541.png",
+        "gameImageBoxArt": "/Images/032539.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 141938,
+        "achievementTitle": "Come, If It Is Death You Seek!",
+        "achievementDescription": "Defeat Magus",
+        "achievementBadgeName": "159641"
+      }
+    ]
   }
 ]
