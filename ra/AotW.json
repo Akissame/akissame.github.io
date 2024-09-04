@@ -2634,37 +2634,5 @@
         "achievementBadgeName": "383874"
       }
     ]
-  },
-  {
-    "gameId": 669,
-    "gameTitle": "Legend of Zelda, The: Link's Awakening",
-    "gameImageIcon": "/Images/006107.png",
-    "gameImageTitle": "/Images/101464.png",
-    "gameImageIngame": "/Images/044954.png",
-    "gameImageBoxArt": "/Images/069471.png",
-    "consoleID": 4,
-    "consoleName": "Game Boy",
-    "achievementId": 1716,
-    "achievementTitle": "My Shield",
-    "achievementDescription": "Acquire the standard shield from Tarin.",
-    "achievementBadgeName": "90693",
-    "achievementDateStart": "2024-09-05T00:00:00.000",
-    "achievementDateEnd": "2024-09-12T00:00:00.000",
-    "swaps": [
-      {
-        "gameId": 758,
-        "gameTitle": "Dragon Ball Z: The Legacy of Goku",
-        "gameImageIcon": "/Images/093870.png",
-        "gameImageTitle": "/Images/095161.png",
-        "gameImageIngame": "/Images/095162.png",
-        "gameImageBoxArt": "/Images/095540.png",
-        "consoleID": 5,
-        "consoleName": "Game Boy Advance",
-        "achievementId": 18893,
-        "achievementTitle": "My Little Girl!",
-        "achievementDescription": "Find Sue and help her return to her father",
-        "achievementBadgeName": "250162"
-      }
-    ]
   }
 ]
