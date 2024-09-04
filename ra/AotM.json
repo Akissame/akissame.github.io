@@ -190,5 +190,37 @@
         "achievementBadgeName": "46761"
       }
     ]
+  },
+  {
+    "gameId": 11288,
+    "gameTitle": "Legend of Mana",
+    "gameImageIcon": "/Images/074533.png",
+    "gameImageTitle": "/Images/015285.png",
+    "gameImageIngame": "/Images/015286.png",
+    "gameImageBoxArt": "/Images/015283.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 164878,
+    "achievementTitle": "Legend Of Mana",
+    "achievementDescription": "Finish the game.",
+    "achievementBadgeName": "185625",
+    "achievementDateStart": "2024-07-01T00:00:00.000",
+    "achievementDateEnd": "2024-08-05T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 19264,
+        "gameTitle": "Lord of the Rings, The: The Third Age",
+        "gameImageIcon": "/Images/075414.png",
+        "gameImageTitle": "/Images/063681.png",
+        "gameImageIngame": "/Images/063675.png",
+        "gameImageBoxArt": "/Images/063676.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 325840,
+        "achievementTitle": "Shadows Engulfed",
+        "achievementDescription": "Defeat the Balrog in East Moria",
+        "achievementBadgeName": "363909"
+      }
+    ]
   }
 ]
