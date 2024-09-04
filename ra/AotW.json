@@ -2644,12 +2644,27 @@
     "gameImageBoxArt": "/Images/095540.png",
     "consoleID": 5,
     "consoleName": "Game Boy Advance",
-    "achievementId": 18894,
-    "achievementTitle": "Me and My Brother Cory Got into a Fight",
-    "achievementDescription": "Find the Toy Boat in the pond and return it to the little boy",
-    "achievementBadgeName": "250165",
+    "achievementId": 18888,
+    "achievementTitle": "Old Crane School Friends",
+    "achievementDescription": "Talk to Tien and Chiaotzu in the forest",
+    "achievementBadgeName": "250175",
     "achievementDateStart": "2024-09-04T00:00:00.000",
     "achievementDateEnd": "2024-09-04T00:00:00.000",
-    "swaps": []
+    "swaps": [
+      {
+        "gameId": 785,
+        "gameTitle": "Metroid Fusion",
+        "gameImageIcon": "/Images/089338.png",
+        "gameImageTitle": "/Images/000651.png",
+        "gameImageIngame": "/Images/065312.png",
+        "gameImageBoxArt": "/Images/089237.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 4614,
+        "achievementTitle": "Mighty Morphin'",
+        "achievementDescription": "Recover the Morph Ball ability",
+        "achievementBadgeName": "183579"
+      }
+    ]
   }
 ]
