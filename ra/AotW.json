@@ -2644,10 +2644,10 @@
     "gameImageBoxArt": "/Images/089237.png",
     "consoleID": 5,
     "consoleName": "Game Boy Advance",
-    "achievementId": 4615,
-    "achievementTitle": "Explosive Chamber",
-    "achievementDescription": "Download the Missile data",
-    "achievementBadgeName": "183569",
+    "achievementId": 4614,
+    "achievementTitle": "Mighty Morphin'",
+    "achievementDescription": "Recover the Morph Ball ability",
+    "achievementBadgeName": "183579",
     "achievementDateStart": "2024-09-06T00:00:00.000",
     "achievementDateEnd": "2024-09-13T00:00:00.000",
     "swaps": [
@@ -2678,6 +2678,20 @@
         "achievementTitle": "Rigged Slots",
         "achievementDescription": "Stop Team Rocket in Celadon City.",
         "achievementBadgeName": "233613"
+      },
+      {
+        "gameId": 758,
+        "gameTitle": "Dragon Ball Z: The Legacy of Goku",
+        "gameImageIcon": "/Images/093870.png",
+        "gameImageTitle": "/Images/095161.png",
+        "gameImageIngame": "/Images/095162.png",
+        "gameImageBoxArt": "/Images/095540.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 18895,
+        "achievementTitle": "Sue’s Favorite Color, I Bet!",
+        "achievementDescription": "Pick some flowers and give them to Cory",
+        "achievementBadgeName": "250171"
       }
     ]
   }
