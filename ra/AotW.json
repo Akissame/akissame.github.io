@@ -2634,5 +2634,37 @@
         "achievementBadgeName": "383874"
       }
     ]
+  },
+  {
+    "gameId": 758,
+    "gameTitle": "Dragon Ball Z: The Legacy of Goku",
+    "gameImageIcon": "/Images/093870.png",
+    "gameImageTitle": "/Images/095161.png",
+    "gameImageIngame": "/Images/095162.png",
+    "gameImageBoxArt": "/Images/095540.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 18890,
+    "achievementTitle": "Saiyan Bridge Construction",
+    "achievementDescription": "Collect the three stones and place them in the river",
+    "achievementBadgeName": "250164",
+    "achievementDateStart": "2024-09-05T00:00:00.000",
+    "achievementDateEnd": "2024-09-05T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 785,
+        "gameTitle": "Metroid Fusion",
+        "gameImageIcon": "/Images/089338.png",
+        "gameImageTitle": "/Images/000651.png",
+        "gameImageIngame": "/Images/065312.png",
+        "gameImageBoxArt": "/Images/089237.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 4619,
+        "achievementTitle": "L4 Access (Red)",
+        "achievementDescription": "Unlock Level 4 Locks",
+        "achievementBadgeName": "183577"
+      }
+    ]
   }
 ]
