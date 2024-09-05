@@ -286,37 +286,5 @@
         "achievementBadgeName": "124451"
       }
     ]
-  },
-  {
-    "gameId": 785,
-    "gameTitle": "Metroid Fusion",
-    "gameImageIcon": "/Images/089338.png",
-    "gameImageTitle": "/Images/000651.png",
-    "gameImageIngame": "/Images/065312.png",
-    "gameImageBoxArt": "/Images/089237.png",
-    "consoleID": 5,
-    "consoleName": "Game Boy Advance",
-    "achievementId": 4616,
-    "achievementTitle": "L1 Access (Blue)",
-    "achievementDescription": "Unlock Level 1 Locks",
-    "achievementBadgeName": "183574",
-    "achievementDateStart": "2024-09-05T00:00:00.000",
-    "achievementDateEnd": "2024-09-05T00:00:00.000",
-    "swaps": [
-      {
-        "gameId": 758,
-        "gameTitle": "Dragon Ball Z: The Legacy of Goku",
-        "gameImageIcon": "/Images/093870.png",
-        "gameImageTitle": "/Images/095161.png",
-        "gameImageIngame": "/Images/095162.png",
-        "gameImageBoxArt": "/Images/095540.png",
-        "consoleID": 5,
-        "consoleName": "Game Boy Advance",
-        "achievementId": 18894,
-        "achievementTitle": "Me and My Brother Cory Got into a Fight",
-        "achievementDescription": "Find the Toy Boat in the pond and return it to the little boy",
-        "achievementBadgeName": "250165"
-      }
-    ]
   }
 ]
