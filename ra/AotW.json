@@ -2634,5 +2634,79 @@
         "achievementBadgeName": "383874"
       }
     ]
+  },
+  {
+    "gameId": 14541,
+    "gameTitle": "Shining Force III",
+    "gameImageIcon": "/Images/067486.png",
+    "gameImageTitle": "/Images/037664.png",
+    "gameImageIngame": "/Images/037658.png",
+    "gameImageBoxArt": "/Images/037662.png",
+    "consoleID": 39,
+    "consoleName": "Saturn",
+    "achievementId": 126400,
+    "achievementTitle": "This is what I get for helping someone?",
+    "achievementDescription": "Free Bernard in scenario 1",
+    "achievementBadgeName": "137675",
+    "achievementDateStart": "2024-09-02T00:00:00.000",
+    "achievementDateEnd": "2024-09-09T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 6339,
+        "gameTitle": "Jumpman Junior",
+        "gameImageIcon": "/Images/045634.png",
+        "gameImageTitle": "/Images/045546.png",
+        "gameImageIngame": "/Images/045547.png",
+        "gameImageBoxArt": "/Images/045548.png",
+        "consoleID": 44,
+        "consoleName": "ColecoVision",
+        "achievementId": 161231,
+        "achievementTitle": "Here There Everywhere",
+        "achievementDescription": "Complete Stage 10",
+        "achievementBadgeName": "181228"
+      },
+      {
+        "gameId": 12180,
+        "gameTitle": "Hammerin' Harry",
+        "gameImageIcon": "/Images/090490.png",
+        "gameImageTitle": "/Images/030982.png",
+        "gameImageIngame": "/Images/030983.png",
+        "gameImageBoxArt": "/Images/030984.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 403559,
+        "achievementTitle": "Boss Basher",
+        "achievementDescription": "Beat the final stage and watch the ending",
+        "achievementBadgeName": "456542"
+      },
+      {
+        "gameId": 13306,
+        "gameTitle": "Monster Lair",
+        "gameImageIcon": "/Images/090586.png",
+        "gameImageTitle": "/Images/090584.png",
+        "gameImageIngame": "/Images/090585.png",
+        "gameImageBoxArt": "/Images/090583.png",
+        "consoleID": 76,
+        "consoleName": "PC Engine CD/TurboGrafx-CD",
+        "achievementId": 421656,
+        "achievementTitle": "Mashalot's Town",
+        "achievementDescription": "Complete Round 10 without using cheats",
+        "achievementBadgeName": "476292"
+      },
+      {
+        "gameId": 18974,
+        "gameTitle": "Toys",
+        "gameImageIcon": "/Images/066171.png",
+        "gameImageTitle": "/Images/066018.png",
+        "gameImageIngame": "/Images/066019.png",
+        "gameImageBoxArt": "/Images/066088.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 275467,
+        "achievementTitle": "Rise of Elephants 3-1",
+        "achievementDescription": "Destroy the camera 1 in the stage 3",
+        "achievementBadgeName": "304887"
+      }
+    ]
   }
 ]
