@@ -12,8 +12,8 @@
     "achievementTitle": "Club Titiboo",
     "achievementDescription": "Complete Chapter 4.",
     "achievementBadgeName": "204981",
-    "achievementDateStart": "2024-01-01T00:00:00.000",
-    "achievementDateEnd": "2024-02-05T00:00:00.000",
+    "achievementDateStart": "2024-01-01T00:00:00.000000Z",
+    "achievementDateEnd": "2024-02-05T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 19711,
@@ -44,8 +44,8 @@
     "achievementTitle": "Family Reunion",
     "achievementDescription": "Rescue all 80 Dragons",
     "achievementBadgeName": "337593",
-    "achievementDateStart": "2024-02-05T00:00:00.000",
-    "achievementDateEnd": "2024-03-04T00:00:00.000",
+    "achievementDateStart": "2024-02-05T00:00:00.000000Z",
+    "achievementDateEnd": "2024-03-04T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 754,
@@ -76,8 +76,8 @@
     "achievementTitle": "A Rotund Clothes Designer",
     "achievementDescription": "Help Sofubi become unstuck from the Bananaconda in Oystown",
     "achievementBadgeName": "420954",
-    "achievementDateStart": "2024-03-04T00:00:00.000",
-    "achievementDateEnd": "2024-04-01T00:00:00.000",
+    "achievementDateStart": "2024-03-04T00:00:00.000000Z",
+    "achievementDateEnd": "2024-04-01T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 18590,
@@ -108,8 +108,8 @@
     "achievementTitle": "Buy Somethin' Will Ya!",
     "achievementDescription": "Rescue Splodgy Dave and reopen the shop in Boingburg.",
     "achievementBadgeName": "233526",
-    "achievementDateStart": "2024-04-01T00:00:00.000",
-    "achievementDateEnd": "2024-05-06T00:00:00.000",
+    "achievementDateStart": "2024-04-01T00:00:00.000000Z",
+    "achievementDateEnd": "2024-05-06T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 13049,
@@ -140,8 +140,8 @@
     "achievementTitle": "Someone Call For An Exterminator?",
     "achievementDescription": "Defeat the Spider Queen",
     "achievementBadgeName": "273492",
-    "achievementDateStart": "2024-05-06T00:00:00.000",
-    "achievementDateEnd": "2024-06-03T00:00:00.000",
+    "achievementDateStart": "2024-05-06T00:00:00.000000Z",
+    "achievementDateEnd": "2024-06-03T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 510,
@@ -172,8 +172,8 @@
     "achievementTitle": "Fall From Grace",
     "achievementDescription": "Defeat Riccardo",
     "achievementBadgeName": "318681",
-    "achievementDateStart": "2024-06-03T00:00:00.000",
-    "achievementDateEnd": "2024-07-01T00:00:00.000",
+    "achievementDateStart": "2024-06-03T00:00:00.000000Z",
+    "achievementDateEnd": "2024-07-01T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 228,
@@ -204,8 +204,8 @@
     "achievementTitle": "Legend Of Mana",
     "achievementDescription": "Finish the game.",
     "achievementBadgeName": "185625",
-    "achievementDateStart": "2024-07-01T00:00:00.000",
-    "achievementDateEnd": "2024-08-05T00:00:00.000",
+    "achievementDateStart": "2024-07-01T00:00:00.000000Z",
+    "achievementDateEnd": "2024-08-05T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 19264,
@@ -236,8 +236,8 @@
     "achievementTitle": "Pirates!",
     "achievementDescription": "Clear 'Gallia'",
     "achievementBadgeName": "460422",
-    "achievementDateStart": "2024-08-05T00:00:00.000",
-    "achievementDateEnd": "2024-09-02T00:00:00.000",
+    "achievementDateStart": "2024-08-05T00:00:00.000000Z",
+    "achievementDateEnd": "2024-09-02T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 10154,
@@ -268,8 +268,8 @@
     "achievementTitle": "Specter Land",
     "achievementDescription": "Clear the Monkey Madness stage",
     "achievementBadgeName": "107520",
-    "achievementDateStart": "2024-09-02T00:00:00.000",
-    "achievementDateEnd": "2024-10-07T00:00:00.000",
+    "achievementDateStart": "2024-09-02T00:00:00.000000Z",
+    "achievementDateEnd": "2024-10-07T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 473,
