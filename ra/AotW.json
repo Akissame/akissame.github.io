@@ -12,8 +12,8 @@
     "achievementTitle": "Stephan Charbonie",
     "achievementDescription": "Complete Request #2",
     "achievementBadgeName": "209777",
-    "achievementDateStart": "2024-01-01T00:00:00.000",
-    "achievementDateEnd": "2024-01-08T00:00:00.000",
+    "achievementDateStart": "2024-01-01T00:00:00.000000Z",
+    "achievementDateEnd": "2024-01-08T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 11323,
@@ -86,8 +86,8 @@
     "achievementTitle": "Tournament",
     "achievementDescription": "Win a tournament and unlock the Jaguar XJR-15",
     "achievementBadgeName": "97015",
-    "achievementDateStart": "2024-01-08T00:00:00.000",
-    "achievementDateEnd": "2024-01-15T00:00:00.000",
+    "achievementDateStart": "2024-01-08T00:00:00.000000Z",
+    "achievementDateEnd": "2024-01-15T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 12051,
@@ -160,8 +160,8 @@
     "achievementTitle": "Friend Or Foe?",
     "achievementDescription": "Defeat Blue on Nugget Bridge",
     "achievementBadgeName": "130171",
-    "achievementDateStart": "2024-01-15T00:00:00.000",
-    "achievementDateEnd": "2024-01-22T00:00:00.000",
+    "achievementDateStart": "2024-01-15T00:00:00.000000Z",
+    "achievementDateEnd": "2024-01-22T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 12845,
@@ -234,8 +234,8 @@
     "achievementTitle": "Zero's D.I.Y. Self-Repair Kit",
     "achievementDescription": "Defeat Zero Nightmare on Normal difficulty or higher",
     "achievementBadgeName": "114940",
-    "achievementDateStart": "2024-01-22T00:00:00.000",
-    "achievementDateEnd": "2024-01-29T00:00:00.000",
+    "achievementDateStart": "2024-01-22T00:00:00.000000Z",
+    "achievementDateEnd": "2024-01-29T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 2268,
@@ -308,8 +308,8 @@
     "achievementTitle": "Not Quite Dracula",
     "achievementDescription": "Defeat Graham, Any Difficulty [Soma]",
     "achievementBadgeName": "332993",
-    "achievementDateStart": "2024-01-29T00:00:00.000",
-    "achievementDateEnd": "2024-02-05T00:00:00.000",
+    "achievementDateStart": "2024-01-29T00:00:00.000000Z",
+    "achievementDateEnd": "2024-02-05T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 11204,
@@ -382,8 +382,8 @@
     "achievementTitle": "Warrior of Light's Destiny",
     "achievementDescription": "Finish Chapter 1",
     "achievementBadgeName": "203866",
-    "achievementDateStart": "2024-02-05T00:00:00.000",
-    "achievementDateEnd": "2024-02-12T00:00:00.000",
+    "achievementDateStart": "2024-02-05T00:00:00.000000Z",
+    "achievementDateEnd": "2024-02-12T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 1855,
@@ -456,8 +456,8 @@
     "achievementTitle": "Yes, This Is Also an RPG",
     "achievementDescription": "Reach character Level 10",
     "achievementBadgeName": "305526",
-    "achievementDateStart": "2024-02-12T00:00:00.000",
-    "achievementDateEnd": "2024-02-19T00:00:00.000",
+    "achievementDateStart": "2024-02-12T00:00:00.000000Z",
+    "achievementDateEnd": "2024-02-19T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 14880,
@@ -530,8 +530,8 @@
     "achievementTitle": "Albert and Dorothy",
     "achievementDescription": "Finish the 2nd Stage.",
     "achievementBadgeName": "385859",
-    "achievementDateStart": "2024-02-19T00:00:00.000",
-    "achievementDateEnd": "2024-02-26T00:00:00.000",
+    "achievementDateStart": "2024-02-19T00:00:00.000000Z",
+    "achievementDateEnd": "2024-02-26T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 9404,
@@ -604,8 +604,8 @@
     "achievementTitle": "Complete \"World\" 6",
     "achievementDescription": "Complete stages 6-1 to 6-8 in a single session.",
     "achievementBadgeName": "276705",
-    "achievementDateStart": "2024-02-26T00:00:00.000",
-    "achievementDateEnd": "2024-03-04T00:00:00.000",
+    "achievementDateStart": "2024-02-26T00:00:00.000000Z",
+    "achievementDateEnd": "2024-03-04T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 1475,
@@ -678,8 +678,8 @@
     "achievementTitle": "San Francisco Amateur Skater",
     "achievementDescription": "Complete all normal goals in San Francisco.",
     "achievementBadgeName": "287312",
-    "achievementDateStart": "2024-03-04T00:00:00.000",
-    "achievementDateEnd": "2024-03-11T00:00:00.000",
+    "achievementDateStart": "2024-03-04T00:00:00.000000Z",
+    "achievementDateEnd": "2024-03-11T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 21867,
@@ -752,8 +752,8 @@
     "achievementTitle": "Dungeon Crawler",
     "achievementDescription": "Reach Floor 10 in the Normal Dungeon",
     "achievementBadgeName": "233273",
-    "achievementDateStart": "2024-03-11T00:00:00.000",
-    "achievementDateEnd": "2024-03-18T00:00:00.000",
+    "achievementDateStart": "2024-03-11T00:00:00.000000Z",
+    "achievementDateEnd": "2024-03-18T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 20596,
@@ -826,8 +826,8 @@
     "achievementTitle": "I'm Ronald",
     "achievementDescription": "Defeat Ronald the first time you meet him and earn the Jigglypuff promotional card",
     "achievementBadgeName": "170333",
-    "achievementDateStart": "2024-03-18T00:00:00.000",
-    "achievementDateEnd": "2024-03-25T00:00:00.000",
+    "achievementDateStart": "2024-03-18T00:00:00.000000Z",
+    "achievementDateEnd": "2024-03-25T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 19283,
@@ -900,8 +900,8 @@
     "achievementTitle": "Stage 4",
     "achievementDescription": "Clear Stage 4 (Normal)",
     "achievementBadgeName": "09732",
-    "achievementDateStart": "2024-03-25T00:00:00.000",
-    "achievementDateEnd": "2024-04-01T00:00:00.000",
+    "achievementDateStart": "2024-03-25T00:00:00.000000Z",
+    "achievementDateEnd": "2024-04-01T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 17661,
@@ -974,8 +974,8 @@
     "achievementTitle": "Domo Arigato, Mr. Roboto",
     "achievementDescription": "Defeat Caramelman",
     "achievementBadgeName": "256461",
-    "achievementDateStart": "2024-04-01T00:00:00.000",
-    "achievementDateEnd": "2024-04-08T00:00:00.000",
+    "achievementDateStart": "2024-04-01T00:00:00.000000Z",
+    "achievementDateEnd": "2024-04-08T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 15432,
@@ -1048,8 +1048,8 @@
     "achievementTitle": "[DW1] But Thou Must",
     "achievementDescription": "Rescue Princess Lora in the Swamp Cave",
     "achievementBadgeName": "221381",
-    "achievementDateStart": "2024-04-08T00:00:00.000",
-    "achievementDateEnd": "2024-04-15T00:00:00.000",
+    "achievementDateStart": "2024-04-08T00:00:00.000000Z",
+    "achievementDateEnd": "2024-04-15T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 5800,
@@ -1122,8 +1122,8 @@
     "achievementTitle": "Plan Failed",
     "achievementDescription": "Clear Stage 3.",
     "achievementBadgeName": "323991",
-    "achievementDateStart": "2024-04-15T00:00:00.000",
-    "achievementDateEnd": "2024-04-22T00:00:00.000",
+    "achievementDateStart": "2024-04-15T00:00:00.000000Z",
+    "achievementDateEnd": "2024-04-22T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 16634,
@@ -1168,8 +1168,8 @@
     "achievementTitle": "The Pineapple Head",
     "achievementDescription": "Unlock Vegeta",
     "achievementBadgeName": "250133",
-    "achievementDateStart": "2024-04-22T00:00:00.000",
-    "achievementDateEnd": "2024-04-29T00:00:00.000",
+    "achievementDateStart": "2024-04-22T00:00:00.000000Z",
+    "achievementDateEnd": "2024-04-29T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 754,
@@ -1242,8 +1242,8 @@
     "achievementTitle": "Firefighter",
     "achievementDescription": "Defeat the Evil Flame",
     "achievementBadgeName": "187279",
-    "achievementDateStart": "2024-04-29T00:00:00.000",
-    "achievementDateEnd": "2024-05-06T00:00:00.000",
+    "achievementDateStart": "2024-04-29T00:00:00.000000Z",
+    "achievementDateEnd": "2024-05-06T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 2721,
@@ -1316,8 +1316,8 @@
     "achievementTitle": "Rescue Rangers J (The Post Office)",
     "achievementDescription": "Clear Zone J",
     "achievementBadgeName": "42849",
-    "achievementDateStart": "2024-05-06T00:00:00.000",
-    "achievementDateEnd": "2024-05-13T00:00:00.000",
+    "achievementDateStart": "2024-05-06T00:00:00.000000Z",
+    "achievementDateEnd": "2024-05-13T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 1090,
@@ -1390,8 +1390,8 @@
     "achievementTitle": "Fly Away While You Can. One Day We Will Meet Again!",
     "achievementDescription": "Learn the last note and use it to transcend.",
     "achievementBadgeName": "213465",
-    "achievementDateStart": "2024-05-13T00:00:00.000",
-    "achievementDateEnd": "2024-05-20T00:00:00.000",
+    "achievementDateStart": "2024-05-13T00:00:00.000000Z",
+    "achievementDateEnd": "2024-05-20T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 10452,
@@ -1464,8 +1464,8 @@
     "achievementTitle": "Bubble Popping Criminals",
     "achievementDescription": "Defeat the Royal Guard Commander for the First Time",
     "achievementBadgeName": "343930",
-    "achievementDateStart": "2024-05-20T00:00:00.000",
-    "achievementDateEnd": "2024-05-27T00:00:00.000",
+    "achievementDateStart": "2024-05-20T00:00:00.000000Z",
+    "achievementDateEnd": "2024-05-27T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 8702,
@@ -1538,8 +1538,8 @@
     "achievementTitle": "The Found Wand",
     "achievementDescription": "Complete Magician's Realm",
     "achievementBadgeName": "260386",
-    "achievementDateStart": "2024-05-27T00:00:00.000",
-    "achievementDateEnd": "2024-06-03T00:00:00.000",
+    "achievementDateStart": "2024-05-27T00:00:00.000000Z",
+    "achievementDateEnd": "2024-06-03T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 13350,
@@ -1612,8 +1612,8 @@
     "achievementTitle": "Uu-n, I'm Getting Angry!",
     "achievementDescription": "Finish Story mode as Ai on difficulty 4 or above with round time set to 60 seconds (P1 only)",
     "achievementBadgeName": "203841",
-    "achievementDateStart": "2024-06-03T00:00:00.000",
-    "achievementDateEnd": "2024-06-10T00:00:00.000",
+    "achievementDateStart": "2024-06-03T00:00:00.000000Z",
+    "achievementDateEnd": "2024-06-10T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 12516,
@@ -1686,8 +1686,8 @@
     "achievementTitle": "Lunar Eclipse",
     "achievementDescription": "Clear Level-15.",
     "achievementBadgeName": "340592",
-    "achievementDateStart": "2024-06-10T00:00:00.000",
-    "achievementDateEnd": "2024-06-17T00:00:00.000",
+    "achievementDateStart": "2024-06-10T00:00:00.000000Z",
+    "achievementDateEnd": "2024-06-17T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 20564,
@@ -1760,8 +1760,8 @@
     "achievementTitle": "Rad to the Mizzax",
     "achievementDescription": "In Story Mode, complete Berlin and move on to the next city.",
     "achievementBadgeName": "290331",
-    "achievementDateStart": "2024-06-17T00:00:00.000",
-    "achievementDateEnd": "2024-06-24T00:00:00.000",
+    "achievementDateStart": "2024-06-17T00:00:00.000000Z",
+    "achievementDateEnd": "2024-06-24T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 4004,
@@ -1834,8 +1834,8 @@
     "achievementTitle": "Revengeance Warrior",
     "achievementDescription": "Complete Revenge of Meta Knight",
     "achievementBadgeName": "105836",
-    "achievementDateStart": "2024-06-24T00:00:00.000",
-    "achievementDateEnd": "2024-07-01T00:00:00.000",
+    "achievementDateStart": "2024-06-24T00:00:00.000000Z",
+    "achievementDateEnd": "2024-07-01T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 16236,
@@ -1908,8 +1908,8 @@
     "achievementTitle": "Wiggy's Challenge",
     "achievementDescription": "Defeat Wiggy in Wiggy's Towers of Darkness (1vs1 Battle) without taking damage",
     "achievementBadgeName": "196050",
-    "achievementDateStart": "2024-07-01T00:00:00.000",
-    "achievementDateEnd": "2024-07-08T00:00:00.000",
+    "achievementDateStart": "2024-07-01T00:00:00.000000Z",
+    "achievementDateEnd": "2024-07-08T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 5719,
@@ -1982,8 +1982,8 @@
     "achievementTitle": "Ground Breaking",
     "achievementDescription": "Defeat Sung-Sung and obtain the second harp string",
     "achievementBadgeName": "173295",
-    "achievementDateStart": "2024-07-08T00:00:00.000",
-    "achievementDateEnd": "2024-07-15T00:00:00.000",
+    "achievementDateStart": "2024-07-08T00:00:00.000000Z",
+    "achievementDateEnd": "2024-07-15T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 5347,
@@ -2056,8 +2056,8 @@
     "achievementTitle": "Maybe... It's Time... The Legend Repeats Itself",
     "achievementDescription": "Save the Earth Spirit.",
     "achievementBadgeName": "85195",
-    "achievementDateStart": "2024-07-15T00:00:00.000",
-    "achievementDateEnd": "2024-07-22T00:00:00.000",
+    "achievementDateStart": "2024-07-15T00:00:00.000000Z",
+    "achievementDateEnd": "2024-07-22T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 1165,
@@ -2130,8 +2130,8 @@
     "achievementTitle": "Cotton the (Failed) Fortune Teller",
     "achievementDescription": "Complete Stage 4 on any difficulty with other settings on default",
     "achievementBadgeName": "470421",
-    "achievementDateStart": "2024-07-22T00:00:00.000",
-    "achievementDateEnd": "2024-07-29T00:00:00.000",
+    "achievementDateStart": "2024-07-22T00:00:00.000000Z",
+    "achievementDateEnd": "2024-07-29T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 16721,
@@ -2204,8 +2204,8 @@
     "achievementTitle": "Forgotten Request",
     "achievementDescription": "Complete Chapter 5 as the Warrior",
     "achievementBadgeName": "502037",
-    "achievementDateStart": "2024-07-29T00:00:00.000",
-    "achievementDateEnd": "2024-08-05T00:00:00.000",
+    "achievementDateStart": "2024-07-29T00:00:00.000000Z",
+    "achievementDateEnd": "2024-08-05T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 6030,
@@ -2278,8 +2278,8 @@
     "achievementTitle": "Zip Zap, Here's a Tap",
     "achievementDescription": "Shoot Your Way Through the Last Chunk of the Store",
     "achievementBadgeName": "416429",
-    "achievementDateStart": "2024-08-05T00:00:00.000",
-    "achievementDateEnd": "2024-08-12T00:00:00.000",
+    "achievementDateStart": "2024-08-05T00:00:00.000000Z",
+    "achievementDateEnd": "2024-08-12T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 6712,
@@ -2352,8 +2352,8 @@
     "achievementTitle": "Dog Chase completed",
     "achievementDescription": "Complete Dog Chase",
     "achievementBadgeName": "208491",
-    "achievementDateStart": "2024-08-12T00:00:00.000",
-    "achievementDateEnd": "2024-08-19T00:00:00.000",
+    "achievementDateStart": "2024-08-12T00:00:00.000000Z",
+    "achievementDateEnd": "2024-08-19T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 17210,
@@ -2426,8 +2426,8 @@
     "achievementTitle": "Terminal Illness",
     "achievementDescription": "Defeat Douman in the Echo Building.",
     "achievementBadgeName": "326117",
-    "achievementDateStart": "2024-08-19T00:00:00.000",
-    "achievementDateEnd": "2024-08-26T00:00:00.000",
+    "achievementDateStart": "2024-08-19T00:00:00.000000Z",
+    "achievementDateEnd": "2024-08-26T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 11545,
@@ -2500,8 +2500,8 @@
     "achievementTitle": "The Wild Force Has Been Contained!",
     "achievementDescription": "[Story Mode] Clear World 5 on any difficulty and beat the game!",
     "achievementBadgeName": "500651",
-    "achievementDateStart": "2024-08-26T00:00:00.000",
-    "achievementDateEnd": "2024-09-02T00:00:00.000",
+    "achievementDateStart": "2024-08-26T00:00:00.000000Z",
+    "achievementDateEnd": "2024-09-02T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 17941,
@@ -2574,8 +2574,8 @@
     "achievementTitle": "The Strange Raposa",
     "achievementDescription": "Finish World 1 and rescue Heather",
     "achievementBadgeName": "142775",
-    "achievementDateStart": "2024-09-02T00:00:00.000",
-    "achievementDateEnd": "2024-09-09T00:00:00.000",
+    "achievementDateStart": "2024-09-02T00:00:00.000000Z",
+    "achievementDateEnd": "2024-09-09T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 3248,
@@ -2648,8 +2648,8 @@
     "achievementTitle": "This is what I get for helping someone?",
     "achievementDescription": "Free Bernard in scenario 1",
     "achievementBadgeName": "137675",
-    "achievementDateStart": "2024-09-09T00:00:00.000",
-    "achievementDateEnd": "2024-09-16T00:00:00.000",
+    "achievementDateStart": "2024-09-09T00:00:00.000000Z",
+    "achievementDateEnd": "2024-09-16T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 6339,
