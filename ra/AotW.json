@@ -2722,8 +2722,8 @@
     "achievementTitle": "Terror Tower!",
     "achievementDescription": "Complete Terror Tower on normal",
     "achievementBadgeName": "288139",
-    "achievementDateStart": "2024-09-16T00:00:00.000",
-    "achievementDateEnd": "2024-09-23T00:00:00.000",
+    "achievementDateStart": "2024-09-16T00:00:00.000000Z",
+    "achievementDateEnd": "2024-09-23T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 12385,
