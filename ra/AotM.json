@@ -286,5 +286,37 @@
         "achievementBadgeName": "124451"
       }
     ]
+  },
+  {
+    "gameId": 785,
+    "gameTitle": "Metroid Fusion",
+    "gameImageIcon": "/Images/089338.png",
+    "gameImageTitle": "/Images/000651.png",
+    "gameImageIngame": "/Images/065312.png",
+    "gameImageBoxArt": "/Images/089237.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 4615,
+    "achievementTitle": "Explosive Chamber",
+    "achievementDescription": "Download the Missile data",
+    "achievementBadgeName": "183569",
+    "achievementDateStart": "2024-09-20T00:00:00.000000Z",
+    "achievementDateEnd": "2024-09-27T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 758,
+        "gameTitle": "Dragon Ball Z: The Legacy of Goku",
+        "gameImageIcon": "/Images/093870.png",
+        "gameImageTitle": "/Images/095161.png",
+        "gameImageIngame": "/Images/095162.png",
+        "gameImageBoxArt": "/Images/095540.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 18894,
+        "achievementTitle": "Me and My Brother Cory Got into a Fight",
+        "achievementDescription": "Find the Toy Boat in the pond and return it to the little boy",
+        "achievementBadgeName": "250165"
+      }
+    ]
   }
 ]
