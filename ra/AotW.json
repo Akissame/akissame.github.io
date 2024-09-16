@@ -2708,5 +2708,79 @@
         "achievementBadgeName": "304887"
       }
     ]
+  },
+  {
+    "gameId": 20071,
+    "gameTitle": "~Hack~ Kirby's Halloween Adventure",
+    "gameImageIcon": "/Images/084628.png",
+    "gameImageTitle": "/Images/059910.png",
+    "gameImageIngame": "/Images/059911.png",
+    "gameImageBoxArt": "/Images/060834.png",
+    "consoleID": 7,
+    "consoleName": "NES/Famicom",
+    "achievementId": 260274,
+    "achievementTitle": "Terror Tower!",
+    "achievementDescription": "Complete Terror Tower on normal",
+    "achievementBadgeName": "288139",
+    "achievementDateStart": "2024-09-16T00:00:00.000",
+    "achievementDateEnd": "2024-09-23T00:00:00.000",
+    "swaps": [
+      {
+        "gameId": 12385,
+        "gameTitle": "GG Shinobi, The",
+        "gameImageIcon": "/Images/047613.png",
+        "gameImageTitle": "/Images/047849.png",
+        "gameImageIngame": "/Images/048206.png",
+        "gameImageBoxArt": "/Images/047848.png",
+        "consoleID": 15,
+        "consoleName": "Game Gear",
+        "achievementId": 97308,
+        "achievementTitle": "Woodland",
+        "achievementDescription": "Clear Woodland",
+        "achievementBadgeName": "192991"
+      },
+      {
+        "gameId": 3073,
+        "gameTitle": "Ratchet & Clank: Up Your Arsenal",
+        "gameImageIcon": "/Images/087972.png",
+        "gameImageTitle": "/Images/068877.png",
+        "gameImageIngame": "/Images/068879.png",
+        "gameImageBoxArt": "/Images/052985.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 294805,
+        "achievementTitle": "A Gamer",
+        "achievementDescription": "Complete all Missions on Marcadia",
+        "achievementBadgeName": "326869"
+      },
+      {
+        "gameId": 11293,
+        "gameTitle": "Tenchu 2: Birth of the Stealth Assassins",
+        "gameImageIcon": "/Images/035816.png",
+        "gameImageTitle": "/Images/032410.png",
+        "gameImageIngame": "/Images/035731.png",
+        "gameImageBoxArt": "/Images/032409.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 118696,
+        "achievementTitle": "I Am a Shadow",
+        "achievementDescription": "Eliminate The Gang of Thieves as Rikimaru",
+        "achievementBadgeName": "129563"
+      },
+      {
+        "gameId": 19295,
+        "gameTitle": "Dodgeball",
+        "gameImageIcon": "/Images/057015.png",
+        "gameImageTitle": "/Images/057018.png",
+        "gameImageIngame": "/Images/057016.png",
+        "gameImageBoxArt": "/Images/057023.png",
+        "consoleID": 72,
+        "consoleName": "WASM-4",
+        "achievementId": 215069,
+        "achievementTitle": "Dodgeball Is A Sport Of Violence, Exclusion, And Degradation",
+        "achievementDescription": "Score 250 Points",
+        "achievementBadgeName": "237996"
+      }
+    ]
   }
 ]
