@@ -2782,37 +2782,5 @@
         "achievementBadgeName": "237996"
       }
     ]
-  },
-  {
-    "gameId": 785,
-    "gameTitle": "Metroid Fusion",
-    "gameImageIcon": "/Images/089338.png",
-    "gameImageTitle": "/Images/000651.png",
-    "gameImageIngame": "/Images/065312.png",
-    "gameImageBoxArt": "/Images/089237.png",
-    "consoleID": 5,
-    "consoleName": "Game Boy Advance",
-    "achievementId": 4614,
-    "achievementTitle": "Mighty Morphin'",
-    "achievementDescription": "Recover the Morph Ball ability",
-    "achievementBadgeName": "183579",
-    "achievementDateStart": "2024-09-01T00:00:00.000000Z",
-    "achievementDateEnd": "2024-09-08T00:00:00.000000Z",
-    "swaps": [
-      {
-        "gameId": 758,
-        "gameTitle": "Dragon Ball Z: The Legacy of Goku",
-        "gameImageIcon": "/Images/093870.png",
-        "gameImageTitle": "/Images/095161.png",
-        "gameImageIngame": "/Images/095162.png",
-        "gameImageBoxArt": "/Images/095540.png",
-        "consoleID": 5,
-        "consoleName": "Game Boy Advance",
-        "achievementId": 18888,
-        "achievementTitle": "Old Crane School Friends",
-        "achievementDescription": "Talk to Tien and Chiaotzu in the forest",
-        "achievementBadgeName": "250175"
-      }
-    ]
   }
 ]
