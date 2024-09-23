@@ -2782,5 +2782,79 @@
         "achievementBadgeName": "237996"
       }
     ]
+  },
+  {
+    "gameId": 6336,
+    "gameTitle": "Magical Mirror Starring Mickey Mouse",
+    "gameImageIcon": "/Images/088910.png",
+    "gameImageTitle": "/Images/088826.png",
+    "gameImageIngame": "/Images/088825.png",
+    "gameImageBoxArt": "/Images/088827.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 396136,
+    "achievementTitle": "Shard in the Cave",
+    "achievementDescription": "Collect the sixth mirror shard",
+    "achievementBadgeName": "448181",
+    "achievementDateStart": "2024-09-23T05:00:00.000000Z",
+    "achievementDateEnd": "2024-09-30T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 2102,
+        "gameTitle": "Young Indiana Jones Chronicles, The",
+        "gameImageIcon": "/Images/012482.png",
+        "gameImageTitle": "/Images/012481.png",
+        "gameImageIngame": "/Images/012483.png",
+        "gameImageBoxArt": "/Images/012480.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 160846,
+        "achievementTitle": "A French Adventure",
+        "achievementDescription": "Complete level 2",
+        "achievementBadgeName": "180792"
+      },
+      {
+        "gameId": 6578,
+        "gameTitle": "Cosmic Chasm",
+        "gameImageIcon": "/Images/059379.png",
+        "gameImageTitle": "/Images/044272.png",
+        "gameImageIngame": "/Images/044273.png",
+        "gameImageBoxArt": "/Images/044200.png",
+        "consoleID": 46,
+        "consoleName": "Vectrex",
+        "achievementId": 153586,
+        "achievementTitle": "Cosmic Extermination",
+        "achievementDescription": "Complete mission 3 [1P]",
+        "achievementBadgeName": "172392"
+      },
+      {
+        "gameId": 330,
+        "gameTitle": "Wings of Wor | Gynoug",
+        "gameImageIcon": "/Images/055296.png",
+        "gameImageTitle": "/Images/000343.png",
+        "gameImageIngame": "/Images/000344.png",
+        "gameImageBoxArt": "/Images/049956.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 208936,
+        "achievementTitle": "Factory of Iccus",
+        "achievementDescription": "Beat the 4th stage (normal or higher)",
+        "achievementBadgeName": "231711"
+      },
+      {
+        "gameId": 11402,
+        "gameTitle": "Bugs Bunny & Taz: Time Busters",
+        "gameImageIcon": "/Images/073569.png",
+        "gameImageTitle": "/Images/037189.png",
+        "gameImageIngame": "/Images/073500.png",
+        "gameImageBoxArt": "/Images/046259.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 172864,
+        "achievementTitle": "Ancient Varmint Tops Heated Redhead",
+        "achievementDescription": "Defeat Yosimite Sam",
+        "achievementBadgeName": "196366"
+      }
+    ]
   }
 ]
