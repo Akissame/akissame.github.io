@@ -2796,8 +2796,8 @@
     "achievementTitle": "Shard in the Cave",
     "achievementDescription": "Collect the sixth mirror shard",
     "achievementBadgeName": "448181",
-    "achievementDateStart": "2024-09-23T05:00:00.000000Z",
-    "achievementDateEnd": "2024-09-30T05:00:00.000000Z",
+    "achievementDateStart": "2024-09-23T00:00:00.000000Z",
+    "achievementDateEnd": "2024-09-30T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 2102,
