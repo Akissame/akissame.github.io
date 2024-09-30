@@ -2870,8 +2870,8 @@
     "achievementTitle": "A Smashing Good Time",
     "achievementDescription": "Complete Stage 4-12",
     "achievementBadgeName": "17601",
-    "achievementDateStart": "2024-09-30T05:00:00.000000Z",
-    "achievementDateEnd": "2024-10-07T05:00:00.000000Z",
+    "achievementDateStart": "2024-09-30T00:00:00.000000Z",
+    "achievementDateEnd": "2024-10-07T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 10039,
