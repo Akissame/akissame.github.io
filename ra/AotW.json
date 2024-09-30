@@ -2856,5 +2856,79 @@
         "achievementBadgeName": "196366"
       }
     ]
+  },
+  {
+    "gameId": 692,
+    "gameTitle": "Donkey Kong",
+    "gameImageIcon": "/Images/094382.png",
+    "gameImageTitle": "/Images/003590.png",
+    "gameImageIngame": "/Images/002017.png",
+    "gameImageBoxArt": "/Images/070525.png",
+    "consoleID": 4,
+    "consoleName": "Game Boy",
+    "achievementId": 4606,
+    "achievementTitle": "A Smashing Good Time",
+    "achievementDescription": "Complete Stage 4-12",
+    "achievementBadgeName": "17601",
+    "achievementDateStart": "2024-09-30T05:00:00.000000Z",
+    "achievementDateEnd": "2024-10-07T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 10039,
+        "gameTitle": "Ayrton Senna's Super Monaco GP II",
+        "gameImageIcon": "/Images/050768.png",
+        "gameImageTitle": "/Images/010615.png",
+        "gameImageIngame": "/Images/010616.png",
+        "gameImageBoxArt": "/Images/010618.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 47532,
+        "achievementTitle": "Ayrton Senna, You Are NOT the World Champion",
+        "achievementDescription": "Score more points than Ayrton Senna, and win the WDC.",
+        "achievementBadgeName": "48306"
+      },
+      {
+        "gameId": 21561,
+        "gameTitle": "Shrek the Third",
+        "gameImageIcon": "/Images/085616.png",
+        "gameImageTitle": "/Images/075756.png",
+        "gameImageIngame": "/Images/075757.png",
+        "gameImageBoxArt": "/Images/075752.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 372720,
+        "achievementTitle": "Smells Like That Weedrat Nest",
+        "achievementDescription": "Complete all of the Challenge Quests in 'Ye Olde Ruins'.",
+        "achievementBadgeName": "418967"
+      },
+      {
+        "gameId": 1508,
+        "gameTitle": "~Hack~ Super Mario Bros. Enhanced",
+        "gameImageIcon": "/Images/073508.png",
+        "gameImageTitle": "/Images/008349.png",
+        "gameImageIngame": "/Images/008350.png",
+        "gameImageBoxArt": "/Images/008365.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 37059,
+        "achievementTitle": "The End",
+        "achievementDescription": "Save Princess Peach and finish the game!",
+        "achievementBadgeName": "37869"
+      },
+      {
+        "gameId": 10426,
+        "gameTitle": "Double Dragon",
+        "gameImageIcon": "/Images/041164.png",
+        "gameImageTitle": "/Images/039647.png",
+        "gameImageIngame": "/Images/039648.png",
+        "gameImageBoxArt": "/Images/060064.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 133022,
+        "achievementTitle": "The Park",
+        "achievementDescription": "Clear Mission 3",
+        "achievementBadgeName": "146790"
+      }
+    ]
   }
 ]
