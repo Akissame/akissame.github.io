@@ -2930,5 +2930,79 @@
         "achievementBadgeName": "146790"
       }
     ]
+  },
+  {
+    "gameId": 16839,
+    "gameTitle": "Myst",
+    "gameImageIcon": "/Images/040336.png",
+    "gameImageTitle": "/Images/040146.png",
+    "gameImageIngame": "/Images/040143.png",
+    "gameImageBoxArt": "/Images/040142.png",
+    "consoleID": 43,
+    "consoleName": "3DO Interactive Multiplayer",
+    "achievementId": 133279,
+    "achievementTitle": "Visions of Red III",
+    "achievementDescription": "Add a third red page to the red book.",
+    "achievementBadgeName": "147384",
+    "achievementDateStart": "2024-10-07T05:00:00.000000Z",
+    "achievementDateEnd": "2024-10-14T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17921,
+        "gameTitle": "~Hack~ EightBound Regal",
+        "gameImageIcon": "/Images/047840.png",
+        "gameImageTitle": "/Images/047828.png",
+        "gameImageIngame": "/Images/047839.png",
+        "gameImageBoxArt": "/Images/087445.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 172203,
+        "achievementTitle": "A Very Special Episode",
+        "achievementDescription": "Ending 2 - Surrender to Grandbell",
+        "achievementBadgeName": "192680"
+      },
+      {
+        "gameId": 10771,
+        "gameTitle": "My Hero",
+        "gameImageIcon": "/Images/087314.png",
+        "gameImageTitle": "/Images/087311.png",
+        "gameImageIngame": "/Images/087312.png",
+        "gameImageBoxArt": "/Images/087313.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 384358,
+        "achievementTitle": "Kung Fu Novice",
+        "achievementDescription": "Clear round 3",
+        "achievementBadgeName": "433042"
+      },
+      {
+        "gameId": 1824,
+        "gameTitle": "Mario Bros.",
+        "gameImageIcon": "/Images/059518.png",
+        "gameImageTitle": "/Images/001924.png",
+        "gameImageIngame": "/Images/001925.png",
+        "gameImageBoxArt": "/Images/065277.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 8143,
+        "achievementTitle": "100k",
+        "achievementDescription": "Score 100,000 points",
+        "achievementBadgeName": "322689"
+      },
+      {
+        "gameId": 10163,
+        "gameTitle": "Star Wars - Episode I: Battle for Naboo",
+        "gameImageIcon": "/Images/083610.png",
+        "gameImageTitle": "/Images/049756.png",
+        "gameImageIngame": "/Images/049755.png",
+        "gameImageBoxArt": "/Images/010837.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 181278,
+        "achievementTitle": "Glacial Grave",
+        "achievementDescription": "Complete mission 7: Glacial Grave",
+        "achievementBadgeName": "201723"
+      }
+    ]
   }
 ]
