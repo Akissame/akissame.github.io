@@ -286,5 +286,65 @@
         "achievementBadgeName": "124451"
       }
     ]
+  },
+  {
+    "gameId": 11255,
+    "gameTitle": "Suikoden",
+    "gameImageIcon": "/Images/054686.png",
+    "gameImageTitle": "/Images/017571.png",
+    "gameImageIngame": "/Images/017575.png",
+    "gameImageBoxArt": "/Images/045588.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 79938,
+    "achievementTitle": "You Make Me Proud",
+    "achievementDescription": "The Soul Eater has reached level 2...",
+    "achievementBadgeName": "86292",
+    "achievementDateStart": "2024-10-07T05:00:00.000000Z",
+    "achievementDateEnd": "2024-11-04T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 20784,
+        "gameTitle": "Dynasty Warriors 4 | Dynasty Warriors 4: Xtreme Legends",
+        "gameImageIcon": "/Images/088860.png",
+        "gameImageTitle": "/Images/063976.png",
+        "gameImageIngame": "/Images/063977.png",
+        "gameImageBoxArt": "/Images/063979.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 393770,
+        "achievementTitle": "Wei's Road to Unification",
+        "achievementDescription": "Finish the Wei Kingdom's Musou mode",
+        "achievementBadgeName": "446564"
+      },
+      {
+        "gameId": 20784,
+        "gameTitle": "Dynasty Warriors 4 | Dynasty Warriors 4: Xtreme Legends",
+        "gameImageIcon": "/Images/088860.png",
+        "gameImageTitle": "/Images/063976.png",
+        "gameImageIngame": "/Images/063977.png",
+        "gameImageBoxArt": "/Images/063979.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 393796,
+        "achievementTitle": "Wu's Road to Unification",
+        "achievementDescription": "Finish the Wu Kingdom's Musou mode",
+        "achievementBadgeName": "446573"
+      },
+      {
+        "gameId": 20784,
+        "gameTitle": "Dynasty Warriors 4 | Dynasty Warriors 4: Xtreme Legends",
+        "gameImageIcon": "/Images/088860.png",
+        "gameImageTitle": "/Images/063976.png",
+        "gameImageIngame": "/Images/063977.png",
+        "gameImageBoxArt": "/Images/063979.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 393801,
+        "achievementTitle": "Shu's Road to Unification",
+        "achievementDescription": "Finish the Shu Kingdom's Musou mode",
+        "achievementBadgeName": "446580"
+      }
+    ]
   }
 ]
