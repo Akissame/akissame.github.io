@@ -3062,6 +3062,20 @@
         "achievementTitle": "Victory??",
         "achievementDescription": "Complete The Game Without All The Chaos Emeralds",
         "achievementBadgeName": "130789"
+      },
+      {
+        "gameId": 20732,
+        "gameTitle": "L.A. Rush",
+        "gameImageIcon": "/Images/071146.png",
+        "gameImageTitle": "/Images/071144.png",
+        "gameImageIngame": "/Images/071145.png",
+        "gameImageBoxArt": "/Images/070841.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 323939,
+        "achievementTitle": "Taking Back Hollywood",
+        "achievementDescription": "Complete the Hollywood retribution mission",
+        "achievementBadgeName": "361392"
       }
     ]
   }
