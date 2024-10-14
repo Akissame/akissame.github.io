@@ -3004,5 +3004,65 @@
         "achievementBadgeName": "201723"
       }
     ]
+  },
+  {
+    "gameId": 6253,
+    "gameTitle": "Super Monkey Ball 2",
+    "gameImageIcon": "/Images/089484.png",
+    "gameImageTitle": "/Images/089473.png",
+    "gameImageIngame": "/Images/089486.png",
+    "gameImageBoxArt": "/Images/089487.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 398296,
+    "achievementTitle": "Whale Of A Time",
+    "achievementDescription": "[Story Mode] Clear World 4",
+    "achievementBadgeName": "450013",
+    "achievementDateStart": "2024-10-14T05:00:00.000000Z",
+    "achievementDateEnd": "2024-10-21T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1712,
+        "gameTitle": "Goal!",
+        "gameImageIcon": "/Images/102339.png",
+        "gameImageTitle": "/Images/005822.png",
+        "gameImageIngame": "/Images/012201.png",
+        "gameImageBoxArt": "/Images/012200.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 464750,
+        "achievementTitle": "World Cup - Qualified for the 2nd Round",
+        "achievementDescription": "Advance past the first round in World Cup mode",
+        "achievementBadgeName": "528156"
+      },
+      {
+        "gameId": 1883,
+        "gameTitle": "Power Blade",
+        "gameImageIcon": "/Images/064757.png",
+        "gameImageTitle": "/Images/035353.png",
+        "gameImageIngame": "/Images/035354.png",
+        "gameImageBoxArt": "/Images/012849.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 7494,
+        "achievementTitle": "Sector 7 - Normal",
+        "achievementDescription": "Beat Sector 7 on Normal Difficulty",
+        "achievementBadgeName": "07639"
+      },
+      {
+        "gameId": 16344,
+        "gameTitle": "~Hack~ Sonic & Ashuro",
+        "gameImageIcon": "/Images/036682.png",
+        "gameImageTitle": "/Images/059729.png",
+        "gameImageIngame": "/Images/059731.png",
+        "gameImageBoxArt": "/Images/036528.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 116089,
+        "achievementTitle": "Victory??",
+        "achievementDescription": "Complete The Game Without All The Chaos Emeralds",
+        "achievementBadgeName": "130789"
+      }
+    ]
   }
 ]
