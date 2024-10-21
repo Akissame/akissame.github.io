@@ -3078,5 +3078,65 @@
         "achievementBadgeName": "361392"
       }
     ]
+  },
+  {
+    "gameId": 2769,
+    "gameTitle": "Grand Theft Auto: Liberty City Stories",
+    "gameImageIcon": "/Images/083565.png",
+    "gameImageTitle": "/Images/082668.png",
+    "gameImageIngame": "/Images/082669.png",
+    "gameImageBoxArt": "/Images/052844.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 363705,
+    "achievementTitle": "Hot Wheels",
+    "achievementDescription": "Escape from the police on Vincenzo's drug-filled Banshee.",
+    "achievementBadgeName": "415065",
+    "achievementDateStart": "2024-10-21T05:00:00.000000Z",
+    "achievementDateEnd": "2024-10-28T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17411,
+        "gameTitle": "Atlantis: The Lost Empire",
+        "gameImageIcon": "/Images/041593.png",
+        "gameImageTitle": "/Images/083284.png",
+        "gameImageIngame": "/Images/083285.png",
+        "gameImageBoxArt": "/Images/096335.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 168893,
+        "achievementTitle": "100% Ice Trial",
+        "achievementDescription": "Collect all the Atlantis letters and the green crystal in Ice Trial",
+        "achievementBadgeName": "387176"
+      },
+      {
+        "gameId": 10126,
+        "gameTitle": "Tony Hawk's Pro Skater 3",
+        "gameImageIcon": "/Images/047928.png",
+        "gameImageTitle": "/Images/011057.png",
+        "gameImageIngame": "/Images/011058.png",
+        "gameImageBoxArt": "/Images/011060.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 191936,
+        "achievementTitle": "Pyramid Scam",
+        "achievementDescription": "Obtain the Gold Medal on Skater Island as any Character",
+        "achievementBadgeName": "215330"
+      },
+      {
+        "gameId": 311,
+        "gameTitle": "Gain Ground",
+        "gameImageIcon": "/Images/069979.png",
+        "gameImageTitle": "/Images/000191.png",
+        "gameImageIngame": "/Images/000190.png",
+        "gameImageBoxArt": "/Images/053577.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 789,
+        "achievementTitle": "Future-Proofing",
+        "achievementDescription": "Complete Round 5 and beat the game on Normal difficulty or higher",
+        "achievementBadgeName": "01051"
+      }
+    ]
   }
 ]
