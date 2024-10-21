@@ -3092,8 +3092,8 @@
     "achievementTitle": "Hot Wheels",
     "achievementDescription": "Escape from the police on Vincenzo's drug-filled Banshee.",
     "achievementBadgeName": "415065",
-    "achievementDateStart": "2024-10-21T05:00:00.000000Z",
-    "achievementDateEnd": "2024-10-28T05:00:00.000000Z",
+    "achievementDateStart": "2024-10-21T00:00:00.000000Z",
+    "achievementDateEnd": "2024-10-28T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 17411,
