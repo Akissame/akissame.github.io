@@ -3136,6 +3136,20 @@
         "achievementTitle": "Future-Proofing",
         "achievementDescription": "Complete Round 5 and beat the game on Normal difficulty or higher",
         "achievementBadgeName": "01051"
+      },
+      {
+        "gameId": 6948,
+        "gameTitle": "Nicktoons Racing",
+        "gameImageIcon": "/Images/078378.png",
+        "gameImageTitle": "/Images/025136.png",
+        "gameImageIngame": "/Images/025137.png",
+        "gameImageBoxArt": "/Images/025139.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 364437,
+        "achievementTitle": "Legends of the Hidden Racer",
+        "achievementDescription": "Place 1st, 2nd, or 3rd in Medium Cup 3 and unlock The Mystery Rider",
+        "achievementBadgeName": "410055"
       }
     ]
   }
