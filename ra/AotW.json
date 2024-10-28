@@ -3152,5 +3152,79 @@
         "achievementBadgeName": "410055"
       }
     ]
+  },
+  {
+    "gameId": 18080,
+    "gameTitle": "Ridge Racer 2",
+    "gameImageIcon": "/Images/086289.png",
+    "gameImageTitle": "/Images/050681.png",
+    "gameImageIngame": "/Images/050682.png",
+    "gameImageBoxArt": "/Images/050683.png",
+    "consoleID": 41,
+    "consoleName": "PlayStation Portable",
+    "achievementId": 382820,
+    "achievementTitle": "Drift Challenge",
+    "achievementDescription": "Complete the Basic 05",
+    "achievementBadgeName": "431331",
+    "achievementDateStart": "2024-10-28T05:00:00.000000Z",
+    "achievementDateEnd": "2024-11-04T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 18173,
+        "gameTitle": "Spider-Man 2",
+        "gameImageIcon": "/Images/084493.png",
+        "gameImageTitle": "/Images/061803.png",
+        "gameImageIngame": "/Images/061801.png",
+        "gameImageBoxArt": "/Images/061802.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 449735,
+        "achievementTitle": "Mysteri-O's",
+        "achievementDescription": "Clear \"Fish Bowl\" on Normal or higher difficulty",
+        "achievementBadgeName": "508578"
+      },
+      {
+        "gameId": 7159,
+        "gameTitle": "The Polar Express",
+        "gameImageIcon": "/Images/047837.png",
+        "gameImageTitle": "/Images/006878.png",
+        "gameImageIngame": "/Images/006879.png",
+        "gameImageBoxArt": "/Images/077245.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 31565,
+        "achievementTitle": "Renewed Faith",
+        "achievementDescription": "Reach the end of the line and the big man himself.",
+        "achievementBadgeName": "32345"
+      },
+      {
+        "gameId": 4744,
+        "gameTitle": "Shaman King: Spirit of Shamans",
+        "gameImageIcon": "/Images/053325.png",
+        "gameImageTitle": "/Images/050825.png",
+        "gameImageIngame": "/Images/050826.png",
+        "gameImageBoxArt": "/Images/050858.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 190653,
+        "achievementTitle": "Strength",
+        "achievementDescription": "Finish the physical resistance training in Story Mode. (Normal+)",
+        "achievementBadgeName": "211457"
+      },
+      {
+        "gameId": 2641,
+        "gameTitle": "The Amazing Spider-Man: Lethal Foes",
+        "gameImageIcon": "/Images/047329.png",
+        "gameImageTitle": "/Images/008238.png",
+        "gameImageIngame": "/Images/008239.png",
+        "gameImageBoxArt": "/Images/008237.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 40967,
+        "achievementTitle": "Spider-Man and Venom Make a Good Team",
+        "achievementDescription": "Defeat Carnage",
+        "achievementBadgeName": "42075"
+      }
+    ]
   }
 ]
