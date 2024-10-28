@@ -3166,8 +3166,8 @@
     "achievementTitle": "Drift Challenge",
     "achievementDescription": "Complete the Basic 05",
     "achievementBadgeName": "431331",
-    "achievementDateStart": "2024-10-28T05:00:00.000000Z",
-    "achievementDateEnd": "2024-11-04T05:00:00.000000Z",
+    "achievementDateStart": "2024-10-28T00:00:00.000000Z",
+    "achievementDateEnd": "2024-11-04T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 18173,
