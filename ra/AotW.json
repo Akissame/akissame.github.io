@@ -3226,5 +3226,79 @@
         "achievementBadgeName": "42075"
       }
     ]
+  },
+  {
+    "gameId": 3417,
+    "gameTitle": "Sonic Adventure 2",
+    "gameImageIcon": "/Images/066091.png",
+    "gameImageTitle": "/Images/051128.png",
+    "gameImageIngame": "/Images/051130.png",
+    "gameImageBoxArt": "/Images/056483.png",
+    "consoleID": 40,
+    "consoleName": "Dreamcast",
+    "achievementId": 187770,
+    "achievementTitle": "Death Chamber",
+    "achievementDescription": "Find the 3 Gate keys.",
+    "achievementBadgeName": "236591",
+    "achievementDateStart": "2024-11-04T05:00:00.000000Z",
+    "achievementDateEnd": "2024-11-11T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 20794,
+        "gameTitle": "Dynasty Warriors: Gundam 2",
+        "gameImageIcon": "/Images/068022.png",
+        "gameImageTitle": "/Images/064584.png",
+        "gameImageIngame": "/Images/064585.png",
+        "gameImageBoxArt": "/Images/068021.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 425222,
+        "achievementTitle": "The Red Comet",
+        "achievementDescription": "Complete each mission in Char's The One Year War Story",
+        "achievementBadgeName": "481280"
+      },
+      {
+        "gameId": 9190,
+        "gameTitle": "The Legend of Zelda: The Wind Waker",
+        "gameImageIcon": "/Images/099022.png",
+        "gameImageTitle": "/Images/099572.png",
+        "gameImageIngame": "/Images/099571.png",
+        "gameImageBoxArt": "/Images/050398.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 402396,
+        "achievementTitle": "Carried by the Currents",
+        "achievementDescription": "Meet the King of Red Lions.",
+        "achievementBadgeName": "500805"
+      },
+      {
+        "gameId": 11309,
+        "gameTitle": "Parasite Eve II",
+        "gameImageIcon": "/Images/035105.png",
+        "gameImageTitle": "/Images/018269.png",
+        "gameImageIngame": "/Images/018270.png",
+        "gameImageBoxArt": "/Images/041409.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 98552,
+        "achievementTitle": "For Me?",
+        "achievementDescription": "Get the present from Mr. Douglas.",
+        "achievementBadgeName": "107033"
+      },
+      {
+        "gameId": 6238,
+        "gameTitle": "Donkey Kong Jungle Beat",
+        "gameImageIcon": "/Images/075893.png",
+        "gameImageTitle": "/Images/090989.png",
+        "gameImageIngame": "/Images/090990.png",
+        "gameImageBoxArt": "/Images/075894.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 410037,
+        "achievementTitle": "Strawb Hog",
+        "achievementDescription": "Defeat the king of Strawberry Kingdom, Mo-Hog.",
+        "achievementBadgeName": "464483"
+      }
+    ]
   }
 ]
