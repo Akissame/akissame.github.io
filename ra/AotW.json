@@ -3240,8 +3240,8 @@
     "achievementTitle": "Death Chamber",
     "achievementDescription": "Find the 3 Gate keys.",
     "achievementBadgeName": "236591",
-    "achievementDateStart": "2024-11-04T05:00:00.000000Z",
-    "achievementDateEnd": "2024-11-11T05:00:00.000000Z",
+    "achievementDateStart": "2024-11-04T00:00:00.000000Z",
+    "achievementDateEnd": "2024-11-11T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 20794,
