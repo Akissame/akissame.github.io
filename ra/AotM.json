@@ -346,5 +346,37 @@
         "achievementBadgeName": "446580"
       }
     ]
+  },
+  {
+    "gameId": 25450,
+    "gameTitle": "Mario Party 4",
+    "gameImageIcon": "/Images/081241.png",
+    "gameImageTitle": "/Images/081238.png",
+    "gameImageIngame": "/Images/081239.png",
+    "gameImageBoxArt": "/Images/081240.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 424098,
+    "achievementTitle": "(Monke Sounds)",
+    "achievementDescription": "Complete Story Mode with DK",
+    "achievementBadgeName": "479291",
+    "achievementDateStart": "2024-11-04T05:00:00.000000Z",
+    "achievementDateEnd": "2024-12-02T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 568,
+        "gameTitle": "Boktai: The Sun is in Your Hand",
+        "gameImageIcon": "/Images/095386.png",
+        "gameImageTitle": "/Images/088279.png",
+        "gameImageIngame": "/Images/024321.png",
+        "gameImageBoxArt": "/Images/088229.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 74300,
+        "achievementTitle": "Ophidiophobe",
+        "achievementDescription": "Defeat the Immortal of Sol City",
+        "achievementBadgeName": "79665"
+      }
+    ]
   }
 ]
