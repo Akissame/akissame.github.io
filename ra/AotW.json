@@ -3300,5 +3300,79 @@
         "achievementBadgeName": "464483"
       }
     ]
+  },
+  {
+    "gameId": 3506,
+    "gameTitle": "Patapon 2",
+    "gameImageIcon": "/Images/047446.png",
+    "gameImageTitle": "/Images/062812.png",
+    "gameImageIngame": "/Images/062813.png",
+    "gameImageBoxArt": "/Images/047379.png",
+    "consoleID": 41,
+    "consoleName": "PlayStation Portable",
+    "achievementId": 470886,
+    "achievementTitle": "En Garde",
+    "achievementDescription": "Defeat Mochichichi on normal or hard difficulty.",
+    "achievementBadgeName": "534049",
+    "achievementDateStart": "2024-11-11T05:00:00.000000Z",
+    "achievementDateEnd": "2024-11-18T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1440,
+        "gameTitle": "Ecco: The Tides of Time",
+        "gameImageIcon": "/Images/048090.png",
+        "gameImageTitle": "/Images/022644.png",
+        "gameImageIngame": "/Images/022645.png",
+        "gameImageBoxArt": "/Images/022642.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 267819,
+        "achievementTitle": "Fin to Feather (Normal+)",
+        "achievementDescription": "Clear Fin to Feather in Normal or higher",
+        "achievementBadgeName": "296351"
+      },
+      {
+        "gameId": 2374,
+        "gameTitle": "Clock Tower",
+        "gameImageIcon": "/Images/042130.png",
+        "gameImageTitle": "/Images/003031.png",
+        "gameImageIngame": "/Images/003030.png",
+        "gameImageBoxArt": "/Images/096952.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 15018,
+        "achievementTitle": "Within Reach",
+        "achievementDescription": "Got the key in the crows room and release the crows",
+        "achievementBadgeName": "14745"
+      },
+      {
+        "gameId": 2992,
+        "gameTitle": "Shadow of the Colossus",
+        "gameImageIcon": "/Images/078138.png",
+        "gameImageTitle": "/Images/086123.png",
+        "gameImageIngame": "/Images/086122.png",
+        "gameImageBoxArt": "/Images/067589.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 250615,
+        "achievementTitle": "Avion",
+        "achievementDescription": "Defeat the Fifth Colossus on NG Normal.",
+        "achievementBadgeName": "453697"
+      },
+      {
+        "gameId": 5522,
+        "gameTitle": "Castlevania: Dawn of Sorrow",
+        "gameImageIcon": "/Images/067003.png",
+        "gameImageTitle": "/Images/071784.png",
+        "gameImageIngame": "/Images/071785.png",
+        "gameImageBoxArt": "/Images/071783.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 91704,
+        "achievementTitle": "Master of Crows",
+        "achievementDescription": "Defeat Malphas as Soma",
+        "achievementBadgeName": "245315"
+      }
+    ]
   }
 ]
