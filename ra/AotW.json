@@ -3374,5 +3374,79 @@
         "achievementBadgeName": "453697"
       }
     ]
+  },
+  {
+    "gameId": 769,
+    "gameTitle": "Kirby & The Amazing Mirror",
+    "gameImageIcon": "/Images/042405.png",
+    "gameImageTitle": "/Images/033746.png",
+    "gameImageIngame": "/Images/002643.png",
+    "gameImageBoxArt": "/Images/014483.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 7443,
+    "achievementTitle": "Create or Destroy",
+    "achievementDescription": "Beat Master Hand and Crazy Hand and claim a mirror shard.",
+    "achievementBadgeName": "153859",
+    "achievementDateStart": "2024-11-18T05:00:00.000000Z",
+    "achievementDateEnd": "2024-11-25T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 7286,
+        "gameTitle": "Spider-Man",
+        "gameImageIcon": "/Images/046682.png",
+        "gameImageTitle": "/Images/046553.png",
+        "gameImageIngame": "/Images/046552.png",
+        "gameImageBoxArt": "/Images/046549.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 166711,
+        "achievementTitle": "Pumpkin Smasher",
+        "achievementDescription": "Defeat Hobgoblin!",
+        "achievementBadgeName": "188810"
+      },
+      {
+        "gameId": 3572,
+        "gameTitle": "MediEvil: Resurrection",
+        "gameImageIcon": "/Images/075441.png",
+        "gameImageTitle": "/Images/076993.png",
+        "gameImageIngame": "/Images/076992.png",
+        "gameImageBoxArt": "/Images/052359.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 342213,
+        "achievementTitle": "Stingy Jack",
+        "achievementDescription": "Defeat the Pumpkin King.",
+        "achievementBadgeName": "386072"
+      },
+      {
+        "gameId": 17700,
+        "gameTitle": "~Hack~ Mario Party 64",
+        "gameImageIcon": "/Images/044563.png",
+        "gameImageTitle": "/Images/044366.png",
+        "gameImageIngame": "/Images/044367.png",
+        "gameImageBoxArt": "/Images/045838.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 154422,
+        "achievementTitle": "Dessert Fit For a Princess",
+        "achievementDescription": "Collect all 7 stars in Peach's Birthday Cake",
+        "achievementBadgeName": "174774"
+      },
+      {
+        "gameId": 348,
+        "gameTitle": "JoJo's Bizarre Adventure",
+        "gameImageIcon": "/Images/101436.png",
+        "gameImageTitle": "/Images/053784.png",
+        "gameImageIngame": "/Images/053785.png",
+        "gameImageBoxArt": "/Images/053787.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 459337,
+        "achievementTitle": "Vanilla Ice Cream",
+        "achievementDescription": "[Jojo's Bizarre Adventure] Complete Story mode as Vanilla Ice. (Default Settings)",
+        "achievementBadgeName": "520055"
+      }
+    ]
   }
 ]
