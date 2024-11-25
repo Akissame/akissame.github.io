@@ -3462,8 +3462,8 @@
     "achievementTitle": "Toadsworth Twist",
     "achievementDescription": "Be inspired by the performance of Toadsworth and learn the Spin Jump ability.",
     "achievementBadgeName": "538252",
-    "achievementDateStart": "2024-11-25T05:00:00.000000Z",
-    "achievementDateEnd": "2024-12-02T05:00:00.000000Z",
+    "achievementDateStart": "2024-11-25T00:00:00.000000Z",
+    "achievementDateEnd": "2024-12-02T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 2374,
