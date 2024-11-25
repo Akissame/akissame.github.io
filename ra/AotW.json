@@ -3448,5 +3448,79 @@
         "achievementBadgeName": "520055"
       }
     ]
+  },
+  {
+    "gameId": 3118,
+    "gameTitle": "Mario & Luigi: Partners in Time",
+    "gameImageIcon": "/Images/088899.png",
+    "gameImageTitle": "/Images/098054.png",
+    "gameImageIngame": "/Images/098055.png",
+    "gameImageBoxArt": "/Images/040247.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 99594,
+    "achievementTitle": "Toadsworth Twist",
+    "achievementDescription": "Be inspired by the performance of Toadsworth and learn the Spin Jump ability.",
+    "achievementBadgeName": "538252",
+    "achievementDateStart": "2024-11-25T05:00:00.000000Z",
+    "achievementDateEnd": "2024-12-02T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 2374,
+        "gameTitle": "Clock Tower",
+        "gameImageIcon": "/Images/042130.png",
+        "gameImageTitle": "/Images/003031.png",
+        "gameImageIngame": "/Images/003030.png",
+        "gameImageBoxArt": "/Images/096952.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 91815,
+        "achievementTitle": "Unpleasant Surprise",
+        "achievementDescription": "Find Jennifer father corpse on the secret room",
+        "achievementBadgeName": "541902"
+      },
+      {
+        "gameId": 2901,
+        "gameTitle": "Animal Crossing",
+        "gameImageIcon": "/Images/089222.png",
+        "gameImageTitle": "/Images/094801.png",
+        "gameImageIngame": "/Images/094802.png",
+        "gameImageBoxArt": "/Images/094803.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 449152,
+        "achievementTitle": "A Modern Dream",
+        "achievementDescription": "Pay the loan of the initial house",
+        "achievementBadgeName": "507833"
+      },
+      {
+        "gameId": 13772,
+        "gameTitle": "Kururin Paradise",
+        "gameImageIcon": "/Images/029388.png",
+        "gameImageTitle": "/Images/022001.png",
+        "gameImageIngame": "/Images/022002.png",
+        "gameImageBoxArt": "/Images/022003.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 93612,
+        "achievementTitle": "Kappado Krusher",
+        "achievementDescription": "Save all 3 siblings in Kururuin Village",
+        "achievementBadgeName": "101573"
+      },
+      {
+        "gameId": 20530,
+        "gameTitle": "The Simpsons Game",
+        "gameImageIcon": "/Images/076406.png",
+        "gameImageTitle": "/Images/062478.png",
+        "gameImageIngame": "/Images/062479.png",
+        "gameImageBoxArt": "/Images/062237.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 256713,
+        "achievementTitle": "Enter the Cheatrix",
+        "achievementDescription": "Complete Enter the Cheatrix",
+        "achievementBadgeName": "284692"
+      }
+    ]
   }
 ]
