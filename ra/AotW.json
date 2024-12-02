@@ -3522,5 +3522,79 @@
         "achievementBadgeName": "284692"
       }
     ]
+  },
+  {
+    "gameId": 7270,
+    "gameTitle": "Densetsu no Stafy 3",
+    "gameImageIcon": "/Images/060259.png",
+    "gameImageTitle": "/Images/023137.png",
+    "gameImageIngame": "/Images/023138.png",
+    "gameImageBoxArt": "/Images/023139.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 234186,
+    "achievementTitle": "Bomb Squad",
+    "achievementDescription": "Help the Hawky Cadets find all three bombs after learning how to crawl.",
+    "achievementBadgeName": "259948",
+    "achievementDateStart": "2024-12-02T05:00:00.000000Z",
+    "achievementDateEnd": "2024-12-09T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 25380,
+        "gameTitle": "WWE SmackDown! vs. Raw 2007",
+        "gameImageIcon": "/Images/080796.png",
+        "gameImageTitle": "/Images/080789.png",
+        "gameImageIngame": "/Images/080790.png",
+        "gameImageBoxArt": "/Images/080792.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 442601,
+        "achievementTitle": "Taking on The Show",
+        "achievementDescription": "Side with the Big Show and defeat Carlito and Chavo or side with Carlito and defeat Big Show in Season Mode. [1 player, P1 Side,  Normal mode or higher, default settings]",
+        "achievementBadgeName": "499866"
+      },
+      {
+        "gameId": 28273,
+        "gameTitle": "~Hack~ Tower of Delight",
+        "gameImageIcon": "/Images/088412.png",
+        "gameImageTitle": "/Images/088304.png",
+        "gameImageIngame": "/Images/088305.png",
+        "gameImageBoxArt": "/Images/088411.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 391549,
+        "achievementTitle": "No Keys, Just Stars",
+        "achievementDescription": "Collect 20 stars.",
+        "achievementBadgeName": "442837"
+      },
+      {
+        "gameId": 1673,
+        "gameTitle": "Dynowarz: The Destruction of Spondylus",
+        "gameImageIcon": "/Images/012102.png",
+        "gameImageTitle": "/Images/012100.png",
+        "gameImageIngame": "/Images/012101.png",
+        "gameImageBoxArt": "/Images/012046.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 52103,
+        "achievementTitle": "Stage 7 Complete",
+        "achievementDescription": "Deactivate the seventh computer and return to your robosaur.",
+        "achievementBadgeName": "53672"
+      },
+      {
+        "gameId": 29,
+        "gameTitle": "James Pond II - Codename: RoboCod",
+        "gameImageIcon": "/Images/010857.png",
+        "gameImageTitle": "/Images/010853.png",
+        "gameImageIngame": "/Images/010854.png",
+        "gameImageBoxArt": "/Images/051949.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 212240,
+        "achievementTitle": "Car Toons Are Bad For You",
+        "achievementDescription": "Defeat the Giant Evil Car (No CHEAT)",
+        "achievementBadgeName": "234926"
+      }
+    ]
   }
 ]
