@@ -392,8 +392,8 @@
     "achievementTitle": "Take to the Sky",
     "achievementDescription": "Take flight with the Sky Runner!",
     "achievementBadgeName": "213624",
-    "achievementDateStart": "2024-12-02T05:00:00.000000Z",
-    "achievementDateEnd": "2025-01-06T05:00:00.000000Z",
+    "achievementDateStart": "2024-12-02T00:00:00.000000Z",
+    "achievementDateEnd": "2025-01-06T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 3162,
