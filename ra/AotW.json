@@ -3536,8 +3536,8 @@
     "achievementTitle": "Bomb Squad",
     "achievementDescription": "Help the Hawky Cadets find all three bombs after learning how to crawl.",
     "achievementBadgeName": "259948",
-    "achievementDateStart": "2024-12-02T05:00:00.000000Z",
-    "achievementDateEnd": "2024-12-09T05:00:00.000000Z",
+    "achievementDateStart": "2024-12-02T00:00:00.000000Z",
+    "achievementDateEnd": "2024-12-09T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 25380,
