@@ -3596,5 +3596,79 @@
         "achievementBadgeName": "234926"
       }
     ]
+  },
+  {
+    "gameId": 2842,
+    "gameTitle": "~Hack~ Super Mario World: Tsunami Island",
+    "gameImageIcon": "/Images/059832.png",
+    "gameImageTitle": "/Images/059833.png",
+    "gameImageIngame": "/Images/059834.png",
+    "gameImageBoxArt": "/Images/060388.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 230854,
+    "achievementTitle": "Island Cleared!",
+    "achievementDescription": "Find all 9 exits.",
+    "achievementBadgeName": "256577",
+    "achievementDateStart": "2024-12-09T05:00:00.000000Z",
+    "achievementDateEnd": "2024-12-16T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 911,
+        "gameTitle": "Firepower 2000",
+        "gameImageIcon": "/Images/063158.png",
+        "gameImageTitle": "/Images/005133.png",
+        "gameImageIngame": "/Images/005134.png",
+        "gameImageBoxArt": "/Images/005136.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 25593,
+        "achievementTitle": "Brothers in Jets",
+        "achievementDescription": "Defeat the airborn helicopter plane to reach level 5",
+        "achievementBadgeName": "26515"
+      },
+      {
+        "gameId": 6791,
+        "gameTitle": "Gex 3: Deep Pocket Gecko",
+        "gameImageIcon": "/Images/045851.png",
+        "gameImageTitle": "/Images/005983.png",
+        "gameImageIngame": "/Images/005994.png",
+        "gameImageBoxArt": "/Images/005982.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 28897,
+        "achievementTitle": "Holy Moses!",
+        "achievementDescription": "Collect all pawprints, bonus coins and objective remotes in Tut TV.",
+        "achievementBadgeName": "29376"
+      },
+      {
+        "gameId": 4301,
+        "gameTitle": "Fix and Foxi - Episode 1: Lupo",
+        "gameImageIcon": "/Images/039490.png",
+        "gameImageTitle": "/Images/024033.png",
+        "gameImageIngame": "/Images/024034.png",
+        "gameImageBoxArt": "/Images/024035.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 8783,
+        "achievementTitle": "Beat The Game",
+        "achievementDescription": "Beat The Game",
+        "achievementBadgeName": "142739"
+      },
+      {
+        "gameId": 365,
+        "gameTitle": "Advanced Dungeons & Dragons: Eye of the Beholder",
+        "gameImageIcon": "/Images/053372.png",
+        "gameImageTitle": "/Images/003568.png",
+        "gameImageIngame": "/Images/003569.png",
+        "gameImageBoxArt": "/Images/053373.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 199308,
+        "achievementTitle": "Sewer: Middle Floor",
+        "achievementDescription": "Reach level 3.",
+        "achievementBadgeName": "221500"
+      }
+    ]
   }
 ]
