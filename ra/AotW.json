@@ -3670,5 +3670,79 @@
         "achievementBadgeName": "221500"
       }
     ]
+  },
+  {
+    "gameId": 3539,
+    "gameTitle": "Half-Minute Hero",
+    "gameImageIcon": "/Images/047362.png",
+    "gameImageTitle": "/Images/060887.png",
+    "gameImageIngame": "/Images/060888.png",
+    "gameImageBoxArt": "/Images/060895.png",
+    "consoleID": 41,
+    "consoleName": "PlayStation Portable",
+    "achievementId": 239151,
+    "achievementTitle": "Fire Mountain",
+    "achievementDescription": "Complete quest 22: Fire Mountain, in Hero 30 mode",
+    "achievementBadgeName": "265385",
+    "achievementDateStart": "2024-12-16T05:00:00.000000Z",
+    "achievementDateEnd": "2024-12-23T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17560,
+        "gameTitle": "Gear Fighter Dendoh",
+        "gameImageIcon": "/Images/048525.png",
+        "gameImageTitle": "/Images/043076.png",
+        "gameImageIngame": "/Images/043077.png",
+        "gameImageBoxArt": "/Images/048883.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 176876,
+        "achievementTitle": "Legend of the Star - And, the Start of a Day",
+        "achievementDescription": "Complete lvl 9",
+        "achievementBadgeName": "197189"
+      },
+      {
+        "gameId": 4779,
+        "gameTitle": "Super Arabian",
+        "gameImageIcon": "/Images/094646.png",
+        "gameImageTitle": "/Images/093957.png",
+        "gameImageIngame": "/Images/093958.png",
+        "gameImageBoxArt": "/Images/014032.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 418405,
+        "achievementTitle": "Fruit for Thought",
+        "achievementDescription": "Complete all the pages in level 4.",
+        "achievementBadgeName": "472814"
+      },
+      {
+        "gameId": 12080,
+        "gameTitle": "Dragon Breed",
+        "gameImageIcon": "/Images/084829.png",
+        "gameImageTitle": "/Images/084830.png",
+        "gameImageIngame": "/Images/084831.png",
+        "gameImageBoxArt": "/Images/044512.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 374025,
+        "achievementTitle": "Age for Men",
+        "achievementDescription": "Clear Stage 6 on any difficulty and beat the game!",
+        "achievementBadgeName": "420519"
+      },
+      {
+        "gameId": 507,
+        "gameTitle": "F-Zero: Maximum Velocity",
+        "gameImageIcon": "/Images/076868.png",
+        "gameImageTitle": "/Images/006772.png",
+        "gameImageIngame": "/Images/006773.png",
+        "gameImageBoxArt": "/Images/006774.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 53703,
+        "achievementTitle": "Recently Hired Bishop",
+        "achievementDescription": "Complete the Bishop Cup on Standard or higher difficulty!",
+        "achievementBadgeName": "55388"
+      }
+    ]
   }
 ]
