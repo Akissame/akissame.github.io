@@ -1,37 +1,42 @@
 [
   {
     "faqId": 1,
-    "faqQuestion": "How do you connect retroachievements in the retroarch emulator?",
-    "faqAnswer": "Asnwer1"
+    "faqQuestion": "How do I set up RetroAchievements on my emulator?",
+    "faqAnswer": "To get started you need to:\n1. Create an account at retroachievements.org\n2. On your supported emulator (such as RetroArch), find the RetroAchievements section in the settings\n3. Enter your username and password\n4. Toggle the 'RetroAchievements' option\n5. Enable Hardcore mode if you want to appear in the rankings\n6. Restart the emulator to apply the changes"
   },
   {
     "faqId": 2,
-    "faqQuestion": "My trophies are not showing on my profile",
-    "faqAnswer": "Asnwer2"
+    "faqQuestion": "What is Hardcore mode and why should I use it?",
+    "faqAnswer": "Hardcore mode is the official way to earn achievements in RetroAchievements. When enabled:\n- Save states, rewinds, and cheats are disabled\n- Your achievements count towards global rankings\n- You get the full amount of points per achievement\n- You appear on leaderboards\nIt is always recommended to play in Hardcore mode for the full experience"
   },
   {
     "faqId": 3,
-    "faqQuestion": "Why is my rank null instead of a normal rank",
-    "faqAnswer": "Asnwer3"
+    "faqQuestion": "Why are my points still at zero even though I unlock achievements?",
+    "faqAnswer": "This can happen for a few reasons:\n1. Hardcore mode is disabled (points only count in Hardcore mode)\n2. You are using an outdated version of the emulator (versions older than 2 years are considered Softcore mode)\n3. The connection to the servers is failing\n4. Your account is not linked correctly\nCheck these points and make sure you have everything updated and set up correctly"
   },
   {
     "faqId": 4,
-    "faqQuestion": "Could you put a chat here in the app?",
-    "faqAnswer": "Asnwer4"
+    "faqQuestion": "Why are my trophies or badges not showing up on my profile?",
+    "faqAnswer": "There are two types of badges:\n1. Badges for completing all achievements in a game - these appear automatically\n2. Trophies from special events - these may take a few days to appear while all conditions are checked\nIf after a week you don't see your automatic badges, check that all achievements are actually completed"
   },
   {
     "faqId": 5,
-    "faqQuestion": "Is there a way to send notifications to a Telegram group when you complete an achievement?",
-    "faqAnswer": "Asnwer5"
+    "faqQuestion": "How does the rank system work?",
+    "faqAnswer": "The rank system works like this:\n1. You need at least 250 points to get your first rank\n2. Points only count in Hardcore mode\n3. Your rank automatically improves as you accumulate more points\n4. Ranks reflect your experience and dedication to the platform\nIf your rank is listed as 'null', you need to reach the minimum of 250 points in Hardcore mode"
   },
   {
     "faqId": 6,
-    "faqQuestion": "why my point not increase and still Zero?",
-    "faqAnswer": "Asnwer6"
+    "faqQuestion": "Where can I find guides or help for achievements?",
+    "faqAnswer": "There are several resources:\n1. Feedback on achievements - the community often leaves helpful tips\n2. Official RetroAchievements Forum\n3. Guides section on the main website\n4. Official Community Discord\nRemember that part of the fun is discovering achievements for yourself, but there's always help available if you need it"
   },
   {
     "faqId": 7,
-    "faqQuestion": "Could there be tips on how to unlock achievements?",
-    "faqAnswer": "Asnwer7"
+    "faqQuestion": "How can I contribute to the community?",
+    "faqAnswer": "There are several ways to contribute:\n1. Comment on achievements to help other players\n2. Report bugs or issues with achievements\n3. Participate in community events\n4. Share your experiences on the forum\n5. Help other players on Discord"
+  },
+  {
+    "faqId": 8,
+    "faqQuestion": "Will notifications or chat be added to the app?",
+    "faqAnswer": "Development of the app is ongoing, and we're considering several new features:\n1. Real-time notifications for unlocked achievements\n2. Integration with messaging services\n3. Internal chat system\nIn the meantime, you can use the official chat and forum at retroachievements.org to communicate with the community"
   }
 ]
