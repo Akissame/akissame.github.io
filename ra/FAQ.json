@@ -1,7 +1,37 @@
 [
   {
     "faqId": 1,
-    "faqQuestion": "EarthBound",
-    "faqAnswer": "Images/100662.png"
-  }
+    "faqQuestion": "How do you connect retroachievements in the retroarch emulator?",
+    "faqAnswer": "Asnwer1"
+  },
+  {
+    "faqId": 2,
+    "faqQuestion": "My trophies are not showing on my profile",
+    "faqAnswer": "Asnwer2"
+  },
+  {
+    "faqId": 3,
+    "faqQuestion": "Why is my rank null instead of a normal rank",
+    "faqAnswer": "Asnwer3"
+  },
+  {
+    "faqId": 4,
+    "faqQuestion": "Could you put a chat here in the app?",
+    "faqAnswer": "Asnwer4"
+  },
+  {
+    "faqId": 5,
+    "faqQuestion": "Is there a way to send notifications to a Telegram group when you complete an achievement?",
+    "faqAnswer": "Asnwer5"
+  },
+  {
+    "faqId": 6,
+    "faqQuestion": "why my point not increase and still Zero?",
+    "faqAnswer": "Asnwer6"
+  },
+  {
+    "faqId": 7,
+    "faqQuestion": "Could there be tips on how to unlock achievements?",
+    "faqAnswer": "Asnwer7"
+  },
 ]
