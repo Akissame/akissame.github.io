@@ -13,7 +13,7 @@
     "achievementDescription": "Give Mr. Sanderson the \"love\" letter",
     "achievementBadgeName": "494148",
     "achievementDateStart": "2025-01-06T05:00:00.000000Z",
-    "achievementDateEnd": "2025-02-03T05:00:00.000000Z",
+    "achievementDateEnd": "2025-03-03T05:00:00.000000Z",
     "swaps": [
       {
         "gameId": 16343,
@@ -70,6 +70,34 @@
         "achievementTitle": "Andy Says Hello to Yellow Comet!",
         "achievementDescription": "Win Mission 9: \"Kanbei Arrives!\" as Andy in Campaign Mode",
         "achievementBadgeName": "80300"
+      },
+      {
+        "gameId": 506,
+        "gameTitle": "Advance Wars",
+        "gameImageIcon": "/Images/052963.png",
+        "gameImageTitle": "/Images/033766.png",
+        "gameImageIngame": "/Images/002529.png",
+        "gameImageBoxArt": "/Images/014431.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 11459,
+        "achievementTitle": "Max Says Hello to Yellow Comet!",
+        "achievementDescription": "Win Mission 9: \"Kanbei Arrives!\" as Max in Campaign Mode",
+        "achievementBadgeName": "80301"
+      },
+      {
+        "gameId": 506,
+        "gameTitle": "Advance Wars",
+        "gameImageIcon": "/Images/052963.png",
+        "gameImageTitle": "/Images/033766.png",
+        "gameImageIngame": "/Images/002529.png",
+        "gameImageBoxArt": "/Images/014431.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 11461,
+        "achievementTitle": "Sami Says Hello to Yellow Comet!",
+        "achievementDescription": "Win Mission 9: \"Kanbei Arrives!\" as Sami in Campaign Mode",
+        "achievementBadgeName": "80302"
       }
     ]
   }
