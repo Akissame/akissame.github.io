@@ -11,7 +11,7 @@
     "achievementId": 354286,
     "achievementTitle": "Adventure Man: Action Force Victory",
     "achievementDescription": "Complete the Dr X Battle on Adventure Mode (No Passwords)",
-    "achievementBadgeName": "399242"
+    "achievementBadgeName": "399242",
     "achievementDateStart": "2025-01-06T00:00:00.000000Z",
     "achievementDateEnd": "2025-01-13T00:00:00.000000Z",
     "swaps": [
@@ -41,7 +41,7 @@
         "achievementId": 368267,
         "achievementTitle": "Greenhorn",
         "achievementDescription": "Finish the trail as a Greenhorn or better",
-        "achievementBadgeName": "414680",
+        "achievementBadgeName": "414680"
       },
       {
         "gameId": 13830,
