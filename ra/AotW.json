@@ -72,51 +72,5 @@
         "achievementBadgeName": "482576"
       }
     ]
-  },
-  {
-    "gameId": 785,
-    "gameTitle": "Metroid Fusion",
-    "gameImageIcon": "/Images/089338.png",
-    "gameImageTitle": "/Images/000651.png",
-    "gameImageIngame": "/Images/065312.png",
-    "gameImageBoxArt": "/Images/089237.png",
-    "consoleID": 5,
-    "consoleName": "Game Boy Advance",
-    "achievementId": 4631,
-    "achievementTitle": "Firecracker",
-    "achievementDescription": "Download the Bomb data",
-    "achievementBadgeName": "183570",
-    "achievementDateStart": "2025-01-20T00:00:00.000000Z",
-    "achievementDateEnd": "2025-01-27T00:00:00.000000Z",
-    "swaps": [
-      {
-        "gameId": 587,
-        "gameTitle": "Zero Wing",
-        "gameImageIcon": "/Images/015701.png",
-        "gameImageTitle": "/Images/103482.png",
-        "gameImageIngame": "/Images/103483.png",
-        "gameImageBoxArt": "/Images/009226.png",
-        "consoleID": 1,
-        "consoleName": "Genesis/Mega Drive",
-        "achievementId": 1502,
-        "achievementTitle": "Main Screen Turn On",
-        "achievementDescription": "Clear stage 4: Aquese",
-        "achievementBadgeName": "02033"
-      },
-      {
-        "gameId": 123,
-        "gameTitle": "Pepenga Pengo",
-        "gameImageIcon": "/Images/093769.png",
-        "gameImageTitle": "/Images/033553.png",
-        "gameImageIngame": "/Images/033554.png",
-        "gameImageBoxArt": "/Images/095874.png",
-        "consoleID": 1,
-        "consoleName": "Genesis/Mega Drive",
-        "achievementId": 417068,
-        "achievementTitle": "Aqua World Area 3 Block Puzzle",
-        "achievementDescription": "Complete the diamond block puzzle in Aqua World area 3",
-        "achievementBadgeName": "471599"
-      }
-    ]
   }
 ]
