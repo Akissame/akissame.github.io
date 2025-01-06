@@ -12,8 +12,8 @@
     "achievementTitle": "Greenhorn",
     "achievementDescription": "Finish the trail as a Greenhorn or better",
     "achievementBadgeName": "414680",
-    "achievementDateStart": "2025-01-06T05:00:00.000000Z",
-    "achievementDateEnd": "2025-01-13T05:00:00.000000Z",
+    "achievementDateStart": "2025-01-06T00:00:00.000000Z",
+    "achievementDateEnd": "2025-01-13T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 111,
