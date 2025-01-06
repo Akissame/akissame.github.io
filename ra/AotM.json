@@ -1,3 +1,76 @@
 [
-  
+  {
+    "gameId": 25431,
+    "gameTitle": "Chibi-Robo!",
+    "gameImageIcon": "/Images/100108.png",
+    "gameImageTitle": "/Images/090063.png",
+    "gameImageIngame": "/Images/090064.png",
+    "gameImageBoxArt": "/Images/081367.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 438179,
+    "achievementTitle": "No Time to Lose",
+    "achievementDescription": "Give Mr. Sanderson the \"love\" letter",
+    "achievementBadgeName": "494148",
+    "achievementDateStart": "2025-01-06T05:00:00.000000Z",
+    "achievementDateEnd": "2025-02-03T05:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 16343,
+        "gameTitle": "Monster Rancher | Monster Farm",
+        "gameImageIcon": "/Images/101669.png",
+        "gameImageTitle": "/Images/095590.png",
+        "gameImageIngame": "/Images/095591.png",
+        "gameImageBoxArt": "/Images/050632.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 419309,
+        "achievementTitle": "Official A Win",
+        "achievementDescription": "Win your first Official Tournament at Rank A and get to R-5 breeder rank.",
+        "achievementBadgeName": "496008"
+      },
+      {
+        "gameId": 17760,
+        "gameTitle": "Choro Q Advance 2 | Road Trip: Shifting Gears | Gadget Racers",
+        "gameImageIcon": "/Images/060283.png",
+        "gameImageTitle": "/Images/060775.png",
+        "gameImageIngame": "/Images/060776.png",
+        "gameImageBoxArt": "/Images/060284.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 244642,
+        "achievementTitle": "Mr. Universe",
+        "achievementDescription": "Clear the Universal Cup",
+        "achievementBadgeName": "271459"
+      },
+      {
+        "gameId": 30137,
+        "gameTitle": "~Hack~ Pokémon Emerald Rogue V2",
+        "gameImageIcon": "/Images/099243.png",
+        "gameImageTitle": "/Images/099241.png",
+        "gameImageIngame": "/Images/099242.png",
+        "gameImageBoxArt": "/Images/000002.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 445072,
+        "achievementTitle": "Crypt of the Sword Dancer: Amplified",
+        "achievementDescription": "Complete the \"Gym Badge 8\" main quest",
+        "achievementBadgeName": "502340"
+      },
+      {
+        "gameId": 506,
+        "gameTitle": "Advance Wars",
+        "gameImageIcon": "/Images/052963.png",
+        "gameImageTitle": "/Images/033766.png",
+        "gameImageIngame": "/Images/002529.png",
+        "gameImageBoxArt": "/Images/014431.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 11457,
+        "achievementTitle": "Andy Says Hello to Yellow Comet!",
+        "achievementDescription": "Win Mission 9: \"Kanbei Arrives!\" as Andy in Campaign Mode",
+        "achievementBadgeName": "80300"
+      }
+    ]
+  }
 ]
