@@ -1,0 +1,85 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "OT5001",
+    "estado": "en_proceso",
+    "fechaCreacion": "2024-01-07",
+    "fechaEstimadaFin": "2024-01-14",
+    "cliente": {
+      "id": "CLI001",
+      "nombre": "Cliente Principal"
+    },
+    "descripcion": "Mantenimiento sistema eléctrico",
+    "prioridad": "alta",
+    "ubicacion": "Sede Norte",
+    "presupuestoHoras": 40,
+    "registrosTiempo": {
+      "2024-01-07": {
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        },
+        "CE_98765432": {
+          "trabajador": {
+            "tipoDocumento": "CE",
+            "numeroDocumento": "98765432",
+            "nombreCompleto": "María Rodríguez Silva"
+          },
+          "horario": {
+            "entrada": "08:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "17:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        }
+      },
+      "2024-01-08": {
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        }
+      }
+    },
+    "resumenHoras": {
+      "CC_12345678": {
+        "totalRegulares": 16,
+        "totalExtras": 0,
+        "diasTrabajados": ["2024-01-07", "2024-01-08"]
+      },
+      "CE_98765432": {
+        "totalRegulares": 8,
+        "totalExtras": 0,
+        "diasTrabajados": ["2024-01-07"]
+      }
+    }
+  }
+}
