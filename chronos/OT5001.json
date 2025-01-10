@@ -1,14 +1,14 @@
 {
   "ordenTrabajo": {
-    "idOrden": "OT5001",
+    "idOrden": CO5001",
     "estado": "en_proceso",
-    "fechaCreacion": "2024-01-07",
-    "fechaEstimadaFin": "2025-01-01",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
     "cliente": {
       "id": "CLI001",
       "nombre": "Cliente Principal"
     },
-    "descripcion": "Mantenimiento sistema eléctrico",
+    "descripcion": "Personal Operativo",
     "prioridad": "alta",
     "ubicacion": "Sede Norte",
     "presupuestoHoras": 40,
