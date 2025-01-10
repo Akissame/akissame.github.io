@@ -31,11 +31,11 @@
             "extras": 0
           }
         },
-        "CC_1234567810": {
+        "CC_12345677": {
           "trabajador": {
             "tipoDocumento": "CC",
-            "numeroDocumento": "12345678",
-            "nombreCompleto": "Juan Carlos Pérez Gómez"
+            "numeroDocumento": "12345677",
+            "nombreCompleto": "Juan Carlos 777"
           },
           "horario": {
             "entrada": "07:00",
@@ -48,11 +48,11 @@
             "extras": 0
           }
         },
-        "CC_123456782": {
+        "CC_12345676": {
           "trabajador": {
             "tipoDocumento": "CC",
-            "numeroDocumento": "12345678",
-            "nombreCompleto": "Juan Carlos Pérez Gómez"
+            "numeroDocumento": "12345676",
+            "nombreCompleto": "Juan Carlos 666"
           },
           "horario": {
             "entrada": "07:00",
@@ -65,11 +65,11 @@
             "extras": 0
           }
         },
-        "CC_123456789": {
+        "CC_12345675": {
           "trabajador": {
             "tipoDocumento": "CC",
-            "numeroDocumento": "12345678",
-            "nombreCompleto": "Juan Carlos Pérez Gómez"
+            "numeroDocumento": "12345675",
+            "nombreCompleto": "Juan Carlos 555"
           },
           "horario": {
             "entrada": "07:00",
@@ -82,11 +82,11 @@
             "extras": 0
           }
         },
-        "CC_12345678": {
+        "CC_12345674": {
           "trabajador": {
             "tipoDocumento": "CC",
-            "numeroDocumento": "12345678",
-            "nombreCompleto": "Juan Carlos Pérez Gómez"
+            "numeroDocumento": "12345674",
+            "nombreCompleto": "Juan Carlos 444"
           },
           "horario": {
             "entrada": "07:00",
@@ -99,11 +99,11 @@
             "extras": 0
           }
         },
-        "CC_12345678": {
+        "CC_12345673": {
           "trabajador": {
             "tipoDocumento": "CC",
-            "numeroDocumento": "12345678",
-            "nombreCompleto": "Juan Carlos Pérez Gómez"
+            "numeroDocumento": "12345673",
+            "nombreCompleto": "Juan Carlos 333"
           },
           "horario": {
             "entrada": "07:00",
@@ -116,11 +116,11 @@
             "extras": 0
           }
         },
-        "CC_12345678": {
+        "CC_12345672": {
           "trabajador": {
             "tipoDocumento": "CC",
-            "numeroDocumento": "12345678",
-            "nombreCompleto": "Juan Carlos Pérez Gómez"
+            "numeroDocumento": "12345672",
+            "nombreCompleto": "Juan Carlos 222"
           },
           "horario": {
             "entrada": "07:00",
@@ -140,14 +140,14 @@
             "nombreCompleto": "María Rodríguez Silva"
           },
           "horario": {
-            "entrada": "08:00",
+            "entrada": "07:00",
             "inicioAlmuerzo": "12:00",
             "finAlmuerzo": "13:00",
             "salida": "17:00"
           },
           "horas": {
             "regulares": 8,
-            "extras": 0
+            "extras": 1
           }
         }
       },
