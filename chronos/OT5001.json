@@ -3,7 +3,7 @@
     "idOrden": "OT5001",
     "estado": "en_proceso",
     "fechaCreacion": "2024-01-07",
-    "fechaEstimadaFin": "2024-01-14",
+    "fechaEstimadaFin": "2025-01-01",
     "cliente": {
       "id": "CLI001",
       "nombre": "Cliente Principal"
@@ -13,7 +13,7 @@
     "ubicacion": "Sede Norte",
     "presupuestoHoras": 40,
     "registrosTiempo": {
-      "2024-01-07": {
+      "2025-01-07": {
         "CC_12345678": {
           "trabajador": {
             "tipoDocumento": "CC",
@@ -49,7 +49,7 @@
           }
         }
       },
-      "2024-01-08": {
+      "2025-01-08": {
         "CC_12345678": {
           "trabajador": {
             "tipoDocumento": "CC",
@@ -73,12 +73,12 @@
       "CC_12345678": {
         "totalRegulares": 16,
         "totalExtras": 0,
-        "diasTrabajados": ["2024-01-07", "2024-01-08"]
+        "diasTrabajados": ["2025-01-07", "2025-01-08"]
       },
       "CE_98765432": {
         "totalRegulares": 8,
         "totalExtras": 0,
-        "diasTrabajados": ["2024-01-07"]
+        "diasTrabajados": ["2025-01-07"]
       }
     }
   }
