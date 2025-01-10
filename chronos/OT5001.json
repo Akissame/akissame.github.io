@@ -146,8 +146,8 @@
             "salida": "17:00"
           },
           "horas": {
-            "regulares": 8,
-            "extras": 1
+            "regulares": 9,
+            "extras": 0
           }
         }
       },
