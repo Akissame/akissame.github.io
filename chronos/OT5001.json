@@ -31,6 +31,108 @@
             "extras": 0
           }
         },
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        },
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        },
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        },
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        },
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        },
+        "CC_12345678": {
+          "trabajador": {
+            "tipoDocumento": "CC",
+            "numeroDocumento": "12345678",
+            "nombreCompleto": "Juan Carlos Pérez Gómez"
+          },
+          "horario": {
+            "entrada": "07:00",
+            "inicioAlmuerzo": "12:00",
+            "finAlmuerzo": "13:00",
+            "salida": "16:00"
+          },
+          "horas": {
+            "regulares": 8,
+            "extras": 0
+          }
+        },
         "CE_98765432": {
           "trabajador": {
             "tipoDocumento": "CE",
