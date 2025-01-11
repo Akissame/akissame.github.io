@@ -1,1 +1,1 @@
-{}
+{"ordenTrabajo":{"idOrden":"CO5001","estado":"en_proceso","fechaCreacion":"2025-01-01","fechaEstimadaFin":"2025-12-31","cliente":{"id":"CLI001","nombre":"Cliente Principal"},"descripcion":"Personal Operativo","prioridad":"alta","ubicacion":"Sede Norte","presupuestoHoras":40,"registrosTiempo":{}}}
