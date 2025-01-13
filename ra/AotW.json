@@ -72,5 +72,79 @@
         "achievementBadgeName": "482576"
       }
     ]
+  },
+  {
+    "gameId": 20599,
+    "gameTitle": "Metal Slug 5",
+    "gameImageIcon": "/Images/062439.png",
+    "gameImageTitle": "/Images/062435.png",
+    "gameImageIngame": "/Images/062436.png",
+    "gameImageBoxArt": "/Images/062442.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 358633,
+    "achievementTitle": "Hell of an Ending",
+    "achievementDescription": "Clear Final Mission in Arcade Mode",
+    "achievementBadgeName": "404040",
+    "achievementDateStart": "2025-01-13T00:00:00.000000Z",
+    "achievementDateEnd": "2025-01-20T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1095,
+        "gameTitle": "Phalanx: The Enforce Fighter A-144",
+        "gameImageIcon": "/Images/102906.png",
+        "gameImageTitle": "/Images/004191.png",
+        "gameImageIngame": "/Images/004192.png",
+        "gameImageBoxArt": "/Images/048497.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 467025,
+        "achievementTitle": "Rocky Experience",
+        "achievementDescription": "Beat Mission 4: Deep Core on any difficulty.",
+        "achievementBadgeName": "552601"
+      },
+      {
+        "gameId": 1159,
+        "gameTitle": "Saiyuki: Journey West",
+        "gameImageIcon": "/Images/067979.png",
+        "gameImageTitle": "/Images/034974.png",
+        "gameImageIngame": "/Images/034972.png",
+        "gameImageBoxArt": "/Images/034973.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 119609,
+        "achievementTitle": "The Lonely Warrior",
+        "achievementDescription": "Complete story battle in Grace Spring",
+        "achievementBadgeName": "130564"
+      },
+      {
+        "gameId": 22757,
+        "gameTitle": "Dragon Egg!",
+        "gameImageIcon": "/Images/073325.png",
+        "gameImageTitle": "/Images/073319.png",
+        "gameImageIngame": "/Images/073320.png",
+        "gameImageBoxArt": "/Images/073318.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 361411,
+        "achievementTitle": "Stage 6",
+        "achievementDescription": "Clear Stage 6",
+        "achievementBadgeName": "406729"
+      },
+      {
+        "gameId": 28436,
+        "gameTitle": "~Homebrew~ Phenix Corrupta",
+        "gameImageIcon": "/Images/093393.png",
+        "gameImageTitle": "/Images/093400.png",
+        "gameImageIngame": "/Images/093401.png",
+        "gameImageBoxArt": "/Images/000002.png",
+        "consoleID": 29,
+        "consoleName": "MSX",
+        "achievementId": 413432,
+        "achievementTitle": "Send Me Back",
+        "achievementDescription": "Escape from hell.",
+        "achievementBadgeName": "468035"
+      }
+    ]
   }
 ]
