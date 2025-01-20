@@ -146,5 +146,79 @@
         "achievementBadgeName": "468035"
       }
     ]
+  },
+  {
+    "gameId": 3351,
+    "gameTitle": "Panel de Pon",
+    "gameImageIcon": "/Images/065059.png",
+    "gameImageTitle": "/Images/015296.png",
+    "gameImageIngame": "/Images/015297.png",
+    "gameImageBoxArt": "/Images/064929.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 270733,
+    "achievementTitle": "Same Time, Same Panel",
+    "achievementDescription": "Clear Vs. Mode (Any Difficulty)",
+    "achievementBadgeName": "299501",
+    "achievementDateStart": "2025-01-20T00:00:00.000000Z",
+    "achievementDateEnd": "2025-01-27T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 23834,
+        "gameTitle": "Double Dragon",
+        "gameImageIcon": "/Images/080153.png",
+        "gameImageTitle": "/Images/080149.png",
+        "gameImageIngame": "/Images/080150.png",
+        "gameImageBoxArt": "/Images/080148.png",
+        "consoleID": 56,
+        "consoleName": "Neo Geo CD",
+        "achievementId": 367746,
+        "achievementTitle": "The New Dark Master",
+        "achievementDescription": "Beat the game as Abobo on any diffculty(Default Handicap, Two Rounds)",
+        "achievementBadgeName": "414812"
+      },
+      {
+        "gameId": 7193,
+        "gameTitle": "Fushigi no Yume no Alice",
+        "gameImageIcon": "/Images/079207.png",
+        "gameImageTitle": "/Images/006940.png",
+        "gameImageIngame": "/Images/006941.png",
+        "gameImageBoxArt": "/Images/006944.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 405287,
+        "achievementTitle": "Requiem for a Dream",
+        "achievementDescription": "Defeat the boss of Falls 3",
+        "achievementBadgeName": "458559"
+      },
+      {
+        "gameId": 1184,
+        "gameTitle": "Star Trek: Deep Space Nine - Crossroads of Time",
+        "gameImageIcon": "/Images/077472.png",
+        "gameImageTitle": "/Images/008914.png",
+        "gameImageIngame": "/Images/008915.png",
+        "gameImageBoxArt": "/Images/008917.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 138612,
+        "achievementTitle": "Contemplating Prophecy",
+        "achievementDescription": "Find out what you can about the Redemptionists, then head to Bajor to rescue the Kai",
+        "achievementBadgeName": "154274"
+      },
+      {
+        "gameId": 17749,
+        "gameTitle": "~Prototype~ Space Pinball",
+        "gameImageIcon": "/Images/087330.png",
+        "gameImageTitle": "/Images/044843.png",
+        "gameImageIngame": "/Images/044844.png",
+        "gameImageBoxArt": "/Images/044842.png",
+        "consoleID": 28,
+        "consoleName": "Virtual Boy",
+        "achievementId": 419446,
+        "achievementTitle": "To Boldly Go Where No One Has Gone Before!",
+        "achievementDescription": "Transition from the 5th table with the UFO back to the 1st table with the diamond bumpers.",
+        "achievementBadgeName": "477345"
+      }
+    ]
   }
 ]
