@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "name": "Colcalderas",
+      "code": "CO"
+    },
+    {
+      "name": "Rio Paila",
+      "code": "RP"
+    },
+    {
+      "name": "Ingredion",
+      "code": "IN"
+    },
+    {
+      "name": "Incauca",
+      "code": "IC"
+    }
+  ]
+}
