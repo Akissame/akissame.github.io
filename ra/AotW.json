@@ -220,5 +220,79 @@
         "achievementBadgeName": "477345"
       }
     ]
+  },
+  {
+    "gameId": 2223,
+    "gameTitle": "Kirby's Star Stacker",
+    "gameImageIcon": "/Images/024368.png",
+    "gameImageTitle": "/Images/040685.png",
+    "gameImageIngame": "/Images/004643.png",
+    "gameImageBoxArt": "/Images/064801.png",
+    "consoleID": 4,
+    "consoleName": "Game Boy",
+    "achievementId": 23565,
+    "achievementTitle": "Expert Stacker",
+    "achievementDescription": "Complete all 16 levels of Round Clear mode on Very Hard difficulty",
+    "achievementBadgeName": "125189",
+    "achievementDateStart": "2025-01-27T00:00:00.000000Z",
+    "achievementDateEnd": "2025-02-03T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 19020,
+        "gameTitle": "Mortal Kombat: Deadly Alliance",
+        "gameImageIcon": "/Images/064938.png",
+        "gameImageTitle": "/Images/057355.png",
+        "gameImageIngame": "/Images/057356.png",
+        "gameImageBoxArt": "/Images/056153.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 281226,
+        "achievementTitle": "Mustard",
+        "achievementDescription": "Finish Arcade Mode using only Cyrax.",
+        "achievementBadgeName": "311041"
+      },
+      {
+        "gameId": 3908,
+        "gameTitle": "Star Ocean: First Departure",
+        "gameImageIcon": "/Images/103361.png",
+        "gameImageTitle": "/Images/065949.png",
+        "gameImageIngame": "/Images/101962.png",
+        "gameImageBoxArt": "/Images/054827.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 472229,
+        "achievementTitle": "Permitted to Enter",
+        "achievementDescription": "Successfully enter Portmith",
+        "achievementBadgeName": "535211"
+      },
+      {
+        "gameId": 4060,
+        "gameTitle": "Black Belt Challenge",
+        "gameImageIcon": "/Images/062340.png",
+        "gameImageTitle": "/Images/041109.png",
+        "gameImageIngame": "/Images/041108.png",
+        "gameImageBoxArt": "/Images/041107.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 137570,
+        "achievementTitle": "Steelfeather",
+        "achievementDescription": "Finish Arcade Mode as Stahlfeder [Normal or higher | Default settings]",
+        "achievementBadgeName": "152764"
+      },
+      {
+        "gameId": 11979,
+        "gameTitle": "U.N. Squadron",
+        "gameImageIcon": "/Images/061639.png",
+        "gameImageTitle": "/Images/061344.png",
+        "gameImageIngame": "/Images/061342.png",
+        "gameImageBoxArt": "/Images/061309.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 247831,
+        "achievementTitle": "Mission 10: Project 4's Final Weapon",
+        "achievementDescription": "Destroyed the Project 4 Flying Fortress in Mission 10 ('Normal' Difficulty or higher)",
+        "achievementBadgeName": "274403"
+      }
+    ]
   }
 ]
