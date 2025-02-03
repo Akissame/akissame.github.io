@@ -100,5 +100,79 @@
         "achievementBadgeName": "80302"
       }
     ]
+  },
+  {
+    "gameId": 466,
+    "gameTitle": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "gameImageIcon": "/Images/107029.png",
+    "gameImageTitle": "/Images/000162.png",
+    "gameImageIngame": "/Images/000163.png",
+    "gameImageBoxArt": "/Images/060825.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 2508,
+    "achievementTitle": "Something's Fishy",
+    "achievementDescription": "Finish this silly game properly",
+    "achievementBadgeName": "123989",
+    "achievementDateStart": "2025-02-03T00:00:00.000000Z",
+    "achievementDateEnd": "2025-03-03T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 2689,
+        "gameTitle": "Ape Escape 3",
+        "gameImageIcon": "/Images/069853.png",
+        "gameImageTitle": "/Images/071338.png",
+        "gameImageIngame": "/Images/071336.png",
+        "gameImageBoxArt": "/Images/052753.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 295915,
+        "achievementTitle": "This Place Will Be Your Grave!",
+        "achievementDescription": "Catch Monkey Red",
+        "achievementBadgeName": "328418"
+      },
+      {
+        "gameId": 3535,
+        "gameTitle": "Metal Gear Solid: The Twin Snakes",
+        "gameImageIcon": "/Images/088924.png",
+        "gameImageTitle": "/Images/088936.png",
+        "gameImageIngame": "/Images/088937.png",
+        "gameImageBoxArt": "/Images/088933.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 400437,
+        "achievementTitle": "Soldier",
+        "achievementDescription": "Complete the game on Normal or higher difficulty",
+        "achievementBadgeName": "485045"
+      },
+      {
+        "gameId": 1304,
+        "gameTitle": "Dark Cloud",
+        "gameImageIcon": "/Images/058558.png",
+        "gameImageTitle": "/Images/061487.png",
+        "gameImageIngame": "/Images/061489.png",
+        "gameImageBoxArt": "/Images/052780.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 245548,
+        "achievementTitle": "Owies",
+        "achievementDescription": "Defeat Master Utan",
+        "achievementBadgeName": "272299"
+      },
+      {
+        "gameId": 676,
+        "gameTitle": "The Legend of Zelda: Oracle of Seasons",
+        "gameImageIcon": "/Images/043418.png",
+        "gameImageTitle": "/Images/000070.png",
+        "gameImageIngame": "/Images/023377.png",
+        "gameImageBoxArt": "/Images/022647.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 1858,
+        "achievementTitle": "Seed of Life",
+        "achievementDescription": "Obtain the Seed of Life from Explorer's Crypt.",
+        "achievementBadgeName": "91892"
+      }
+    ]
   }
 ]
