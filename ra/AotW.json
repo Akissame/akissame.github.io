@@ -294,5 +294,37 @@
         "achievementBadgeName": "274403"
       }
     ]
+  },
+  {
+    "gameId": 19738,
+    "gameTitle": "~Hack~ Quest of Hat",
+    "gameImageIcon": "/Images/058265.png",
+    "gameImageTitle": "/Images/058229.png",
+    "gameImageIngame": "/Images/058230.png",
+    "gameImageBoxArt": "/Images/058969.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 224763,
+    "achievementTitle": "Poked Out",
+    "achievementDescription": "Defeat Pokey and win the game.",
+    "achievementBadgeName": "248298",
+    "achievementDateStart": "2025-02-03T00:00:00.000000Z",
+    "achievementDateEnd": "2025-02-10T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17959,
+        "gameTitle": "Guilty Gear Petit",
+        "gameImageIcon": "/Images/048443.png",
+        "gameImageTitle": "/Images/048441.png",
+        "gameImageIngame": "/Images/048440.png",
+        "gameImageBoxArt": "/Images/048442.png",
+        "consoleID": 53,
+        "consoleName": "WonderSwan",
+        "achievementId": 175014,
+        "achievementTitle": "Upgraded Colours",
+        "achievementDescription": "Clear Story Mode as GG Millia [>=Normal | Standard Settings]",
+        "achievementBadgeName": "245166"
+      }
+    ]
   }
 ]
