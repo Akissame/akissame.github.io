@@ -324,6 +324,48 @@
         "achievementTitle": "Upgraded Colours",
         "achievementDescription": "Clear Story Mode as GG Millia [>=Normal | Standard Settings]",
         "achievementBadgeName": "245166"
+      },
+      {
+        "gameId": 7766,
+        "gameTitle": "Battle B-Daman",
+        "gameImageIcon": "/Images/050590.png",
+        "gameImageTitle": "/Images/050490.png",
+        "gameImageIngame": "/Images/050491.png",
+        "gameImageBoxArt": "/Images/050175.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 190168,
+        "achievementTitle": "Tag Team",
+        "achievementDescription": "Defeat Wen & Li for the first time at Ice Rock",
+        "achievementBadgeName": "211090"
+      },
+      {
+        "gameId": 10880,
+        "gameTitle": "E-SWAT",
+        "gameImageIcon": "/Images/015948.png",
+        "gameImageTitle": "/Images/015585.png",
+        "gameImageIngame": "/Images/015586.png",
+        "gameImageBoxArt": "/Images/015587.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 56828,
+        "achievementTitle": "Round 5 - ??? Unknown",
+        "achievementDescription": "Beat the round 5",
+        "achievementBadgeName": "59344"
+      },
+      {
+        "gameId": 2157,
+        "gameTitle": "Warsong | Langrisser: The Descendants of Light",
+        "gameImageIcon": "/Images/036363.png",
+        "gameImageTitle": "/Images/014645.png",
+        "gameImageIngame": "/Images/014650.png",
+        "gameImageBoxArt": "/Images/036057.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 121558,
+        "achievementTitle": "Evilution",
+        "achievementDescription": "Survive the slimy monsters of the forest in Scenario 4",
+        "achievementBadgeName": "132709"
       }
     ]
   }
