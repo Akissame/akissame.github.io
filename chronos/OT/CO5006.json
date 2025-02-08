@@ -1,0 +1,18 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "CO5006",
+    "estado": "Pendiente",
+    "fechaCreacion": "2025-02-08",
+    "fechaEstimadaFin": "2025-03-10",
+    "cliente": {
+      "id": "CO",
+      "nombre": "Colcalderas"
+    },
+    "descripcion": "Mantenimiento Foton ZNL761",
+    "prioridad": "Media",
+    "ubicacion": "Cali",
+    "presupuestoHoras": 500,
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
