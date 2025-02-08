@@ -12,31 +12,7 @@
     "prioridad": "Media",
     "ubicacion": "Palmira",
     "presupuestoHoras": 0,
-    "registrosTiempo": {
-      "2025-02-08": {
-        "C.C._1": {
-          "trabajador": {
-            "tipoDocumento": "C.C.",
-            "numeroDocumento": "1",
-            "nombreCompleto": "1"
-          },
-          "horario": {
-            "entrada": "12:18",
-            "inicioAlmuerzo": "00:00",
-            "finAlmuerzo": "00:00",
-            "salida": "00:00"
-          },
-          "totalHoras": 0.0
-        }
-      }
-    },
-    "resumenHoras": {
-      "C.C._1": {
-        "totalHoras": 0.0,
-        "diasTrabajados": [
-          "2025-02-08"
-        ]
-      }
-    }
+    "registrosTiempo": {},
+    "resumenHoras": {}
   }
 }
