@@ -5,110 +5,174 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 - Página no encontrada</title>
     <style>
-        body {
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap');
+
+        :root {
+            --primary: #ff0080;
+            --secondary: #7e1fe0;
+            --accent: #00fff3;
+            --dark: #1a0b2e;
+        }
+
+        * {
             margin: 0;
             padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
             min-height: 100vh;
-            background: linear-gradient(180deg, #2b1055 0%, #7597de 100%);
-            font-family: 'Arial', sans-serif;
+            background: linear-gradient(180deg, var(--dark) 0%, #2c1955 100%);
+            font-family: 'Orbitron', sans-serif;
+            color: #fff;
+            overflow: hidden;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            color: white;
-            text-align: center;
         }
 
-        .container {
-            padding: 20px;
+        .error-container {
+            text-align: center;
+            padding: 2rem;
+            position: relative;
+            z-index: 1;
         }
 
         .error-code {
-            font-size: 120px;
-            font-weight: bold;
-            margin: 0;
-            background: linear-gradient(to right, #ff0080, #ff8c00);
+            font-size: 150px;
+            font-weight: 700;
+            background: linear-gradient(to right, var(--primary), var(--accent));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             text-shadow: 0 0 20px rgba(255, 0, 128, 0.5);
+            animation: glitch 3s infinite;
         }
 
-        .title {
-            font-size: 24px;
+        .error-title {
+            font-size: 32px;
+            color: var(--primary);
             margin: 20px 0;
-            color: #ff0080;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            text-shadow: 0 0 10px var(--primary);
+        }
+
+        .error-message {
+            font-size: 18px;
+            color: #fff;
+            margin-bottom: 30px;
+            max-width: 600px;
+            line-height: 1.5;
+        }
+
+        .home-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: var(--primary);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 2px;
+            transition: all 0.3s ease;
+            border: 2px solid var(--primary);
+            position: relative;
+            overflow: hidden;
         }
 
-        .description {
-            font-size: 18px;
-            margin: 20px 0;
-            color: #fff;
-            max-width: 600px;
+        .home-button:hover {
+            background: transparent;
+            box-shadow: 0 0 20px var(--primary);
         }
 
         .grid {
             position: absolute;
-            bottom: 0;
-            left: 0;
             width: 100%;
-            height: 50vh;
-            background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.8) 100%);
-            transform-origin: bottom;
-            transform: perspective(300px) rotateX(30deg);
-            z-index: -1;
+            height: 100%;
+            bottom: -50%;
+            background-image: 
+                linear-gradient(transparent 0%, rgba(255, 0, 128, 0.1) 2%, transparent 3%),
+                linear-gradient(90deg, transparent 0%, rgba(255, 0, 128, 0.1) 2%, transparent 3%);
+            background-size: 50px 50px;
+            transform: perspective(300px) rotateX(60deg);
+            animation: grid 20s linear infinite;
         }
 
-        .grid::before {
-            content: '';
-            position: absolute;
+        @keyframes grid {
+            0% {
+                transform: perspective(300px) rotateX(60deg) translateY(0);
+            }
+            100% {
+                transform: perspective(300px) rotateX(60deg) translateY(50px);
+            }
+        }
+
+        @keyframes glitch {
+            0% {
+                text-shadow: 0 0 20px rgba(255, 0, 128, 0.5);
+            }
+            15% {
+                text-shadow: -2px 0 var(--primary), 2px 0 var(--accent);
+            }
+            16% {
+                text-shadow: 0 0 20px rgba(255, 0, 128, 0.5);
+            }
+            49% {
+                text-shadow: 0 0 20px rgba(255, 0, 128, 0.5);
+            }
+            50% {
+                text-shadow: 2px 0 var(--accent), -2px 0 var(--primary);
+            }
+            51% {
+                text-shadow: 0 0 20px rgba(255, 0, 128, 0.5);
+            }
+            100% {
+                text-shadow: 0 0 20px rgba(255, 0, 128, 0.5);
+            }
+        }
+
+        .stars {
+            position: fixed;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background: repeating-linear-gradient(90deg, rgba(255,0,128,0.3) 0px, rgba(255,0,128,0.3) 1px, transparent 1px, transparent 60px);
-            background-size: 60px 100%;
+            pointer-events: none;
         }
 
-        .grid::after {
-            content: '';
+        .stars::after {
+            content: "";
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: repeating-linear-gradient(180deg, rgba(255,0,128,0.3) 0px, rgba(255,0,128,0.3) 1px, transparent 1px, transparent 60px);
-            background-size: 100% 60px;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 2 2' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='1' cy='1' r='1' fill='white'/%3E%3C/svg%3E");
+            background-size: 3px 3px;
+            animation: stars 20s linear infinite;
+            opacity: 0.5;
         }
 
-        .btn {
-            display: inline-block;
-            padding: 12px 24px;
-            background: #ff0080;
-            color: white;
-            text-decoration: none;
-            border-radius: 4px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-top: 20px;
-            transition: all 0.3s ease;
-        }
-
-        .btn:hover {
-            background: #ff8c00;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(255, 0, 128, 0.4);
+        @keyframes stars {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1 class="error-code">404</h1>
-        <h2 class="title">Página no encontrada</h2>
-        <p class="description">Parece que te has perdido en el ciberespacio. La página que buscas no existe o ha sido movida a otra dimensión.</p>
-        <a href="/" class="btn">Volver al inicio</a>
-    </div>
+    <div class="stars"></div>
     <div class="grid"></div>
+    <div class="error-container">
+        <h1 class="error-code">404</h1>
+        <h2 class="error-title">Página no encontrada</h2>
+        <p class="error-message">Parece que te has perdido en el ciberespacio. La página que buscas no existe o ha sido movida a otra dimensión.</p>
+        <a href="/" class="home-button">Volver al inicio</a>
+    </div>
 </body>
 </html>
