@@ -12,31 +12,7 @@
     "prioridad": "Media",
     "ubicacion": "Cali",
     "presupuestoHoras": 10000,
-    "registrosTiempo": {
-      "2025-02-08": {
-        "C.C._159": {
-          "trabajador": {
-            "tipoDocumento": "C.C.",
-            "numeroDocumento": "159",
-            "nombreCompleto": "aa"
-          },
-          "horario": {
-            "entrada": "00:00",
-            "inicioAlmuerzo": "00:00",
-            "finAlmuerzo": "12:22",
-            "salida": "00:00"
-          },
-          "totalHoras": 0.0
-        }
-      }
-    },
-    "resumenHoras": {
-      "C.C._159": {
-        "totalHoras": 0.0,
-        "diasTrabajados": [
-          "2025-02-08"
-        ]
-      }
-    }
+    "registrosTiempo": {},
+    "resumenHoras": {}
   }
 }
