@@ -12,9 +12,7 @@
     "prioridad": "Media",
     "ubicacion": "Cali",
     "presupuestoHoras": 10000,
-    "registrosTiempo": {
-    },
-    "resumenHoras": {
-    }
+    "registrosTiempo": {},
+    "resumenHoras": {}
   }
 }
