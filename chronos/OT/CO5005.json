@@ -13,30 +13,8 @@
     "ubicacion": "Cali",
     "presupuestoHoras": 10000,
     "registrosTiempo": {
-      "2025-02-08": {
-        "C.C._12": {
-          "trabajador": {
-            "tipoDocumento": "C.C.",
-            "numeroDocumento": "12",
-            "nombreCompleto": "as"
-          },
-          "horario": {
-            "entrada": "11:45",
-            "inicioAlmuerzo": "00:00",
-            "finAlmuerzo": "00:00",
-            "salida": "00:00"
-          },
-          "totalHoras": 0.0
-        }
-      }
     },
     "resumenHoras": {
-      "C.C._12": {
-        "totalHoras": 0.0,
-        "diasTrabajados": [
-          "2025-02-08"
-        ]
-      }
     }
   }
 }
