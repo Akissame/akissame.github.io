@@ -23,7 +23,7 @@
           "horario": {
             "entrada": "12:43",
             "inicioAlmuerzo": "12:44",
-            "finAlmuerzo": "00:00",
+            "finAlmuerzo": "12:44",
             "salida": "00:00"
           },
           "totalHoras": 0.0
