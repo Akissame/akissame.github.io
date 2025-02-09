@@ -8,10 +8,11 @@
       "id": "CO",
       "nombre": "Colcalderas"
     },
+    "responsable": {
+      "id": "",
+      "nombre": "Juan Camilo Cardenas Artunduaga"
+    },
     "descripcion": "Personal S.S.T.",
-    "prioridad": "Media",
-    "ubicacion": "Cali",
-    "presupuestoHoras": 10000,
     "registrosTiempo": {},
     "resumenHoras": {}
   }
