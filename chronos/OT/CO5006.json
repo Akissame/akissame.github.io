@@ -2,16 +2,17 @@
   "ordenTrabajo": {
     "idOrden": "CO5006",
     "estado": "Pendiente",
-    "fechaCreacion": "2025-02-08",
-    "fechaEstimadaFin": "2025-03-10",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
     "cliente": {
       "id": "CO",
       "nombre": "Colcalderas"
     },
+    "responsable": {
+      "id": "",
+      "nombre": "Juan Camilo Cardenas Artunduaga"
+    },
     "descripcion": "Mantenimiento Foton ZNL761",
-    "prioridad": "Media",
-    "ubicacion": "Cali",
-    "presupuestoHoras": 500,
     "registrosTiempo": {},
     "resumenHoras": {}
   }
