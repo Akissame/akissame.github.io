@@ -8,6 +8,10 @@
       "id": "CO",
       "nombre": "Colcalderas"
     },
+    "responsable": {
+      "id": "",
+      "nombre": "N/A"
+    },
     "descripcion": "Personal Talento Humano",
     "registrosTiempo": {
       "2025-02-08": {
