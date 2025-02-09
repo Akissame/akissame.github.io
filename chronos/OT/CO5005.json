@@ -24,16 +24,16 @@
           "horario": {
             "entrada": "22:53",
             "inicioAlmuerzo": "23:53",
-            "finAlmuerzo": "00:00",
+            "finAlmuerzo": "23:54",
             "salida": "22:54"
           },
-          "totalHoras": 0.016666666666666666
+          "totalHoras": 0.0
         }
       }
     },
     "resumenHoras": {
       "C.C._1144158801": {
-        "totalHoras": 0.016666666666666666,
+        "totalHoras": 0.0,
         "diasTrabajados": [
           "2025-02-08"
         ]
