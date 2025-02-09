@@ -2,16 +2,17 @@
   "ordenTrabajo": {
     "idOrden": "CO5003",
     "estado": "Pendiente",
-    "fechaCreacion": "2025-01-20",
-    "fechaEstimadaFin": "2025-02-19",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
     "cliente": {
       "id": "CO",
       "nombre": "Colcalderas"
     },
+    "responsable": {
+      "id": "",
+      "nombre": "Juan Camilo Cardenas Artunduaga"
+    },
     "descripcion": "Personal Contabilidad",
-    "prioridad": "Media",
-    "ubicacion": "Cali",
-    "presupuestoHoras": 4000,
     "registrosTiempo": {},
     "resumenHoras": {}
   }
