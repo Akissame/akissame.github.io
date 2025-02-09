@@ -1,0 +1,19 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "CO5007",
+    "estado": "En Progreso",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
+    "cliente": {
+      "id": "CO",
+      "nombre": "Colcalderas"
+    },
+    "responsable": {
+      "id": "",
+      "nombre": "Juan Camilo Cardenas Artunduaga"
+    },
+    "descripcion": "Mantenimiento Foton ZNL 762",
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
