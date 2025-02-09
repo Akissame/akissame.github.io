@@ -15,6 +15,7 @@
     "registrosTiempo": {
       "2025-02-08": {
         "C.C._1144158801": {
+          "idOrden": null,
           "trabajador": {
             "tipoDocumento": "C.C.",
             "numeroDocumento": "1144158801",
@@ -22,7 +23,7 @@
           },
           "horario": {
             "entrada": "22:53",
-            "inicioAlmuerzo": "00:00",
+            "inicioAlmuerzo": "04:52",
             "finAlmuerzo": "00:00",
             "salida": "22:54"
           },
