@@ -368,5 +368,79 @@
         "achievementBadgeName": "132709"
       }
     ]
+  },
+  {
+    "gameId": 7777,
+    "gameTitle": "Killer7",
+    "gameImageIcon": "/Images/093417.png",
+    "gameImageTitle": "/Images/093415.png",
+    "gameImageIngame": "/Images/093416.png",
+    "gameImageBoxArt": "/Images/093418.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 407754,
+    "achievementTitle": "Seventh Heaven",
+    "achievementDescription": "Complete Target 00 [Angel] in Killer7 mode and on any difficulty",
+    "achievementBadgeName": "467631",
+    "achievementDateStart": "2025-02-10T00:00:00.000000Z",
+    "achievementDateEnd": "2025-02-17T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 12780,
+        "gameTitle": "The Ren & Stimpy Show: Space Cadet Adventures",
+        "gameImageIcon": "/Images/096038.png",
+        "gameImageTitle": "/Images/016873.png",
+        "gameImageIngame": "/Images/016874.png",
+        "gameImageBoxArt": "/Images/016872.png",
+        "consoleID": 4,
+        "consoleName": "Game Boy",
+        "achievementId": 422216,
+        "achievementTitle": "Asteroid City Trailer Park Complete",
+        "achievementDescription": "Finish the game by completing stage 4",
+        "achievementBadgeName": "477636"
+      },
+      {
+        "gameId": 22610,
+        "gameTitle": "Saint Seiya: The Sanctuary",
+        "gameImageIcon": "/Images/074668.png",
+        "gameImageTitle": "/Images/075708.png",
+        "gameImageIngame": "/Images/075709.png",
+        "gameImageBoxArt": "/Images/074669.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 330337,
+        "achievementTitle": "Warriors, I entrust Athena to you",
+        "achievementDescription": "Finish the story Will of Aiolos. (Normal+)",
+        "achievementBadgeName": "372625"
+      },
+      {
+        "gameId": 16532,
+        "gameTitle": "~Homebrew~ Aperture Science DS | Portal DS",
+        "gameImageIcon": "/Images/061425.png",
+        "gameImageTitle": "/Images/036325.png",
+        "gameImageIngame": "/Images/036327.png",
+        "gameImageBoxArt": "/Images/036324.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 244624,
+        "achievementTitle": "Final Test",
+        "achievementDescription": "Solve Test Chamber 14.",
+        "achievementBadgeName": "271441"
+      },
+      {
+        "gameId": 16528,
+        "gameTitle": "Super Street Fighter II Turbo",
+        "gameImageIcon": "/Images/070133.png",
+        "gameImageTitle": "/Images/036283.png",
+        "gameImageIngame": "/Images/036402.png",
+        "gameImageBoxArt": "/Images/036284.png",
+        "consoleID": 43,
+        "consoleName": "3DO Interactive Multiplayer",
+        "achievementId": 121958,
+        "achievementTitle": "The King of Chaos",
+        "achievementDescription": "Beat Super Battle as M.Bison on default difficulty or higher",
+        "achievementBadgeName": "133637"
+      }
+    ]
   }
 ]
