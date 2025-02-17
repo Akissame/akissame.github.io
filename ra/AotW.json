@@ -442,5 +442,79 @@
         "achievementBadgeName": "133637"
       }
     ]
+  },
+  {
+    "gameId": 572,
+    "gameTitle": "Magical Quest 3 starring Mickey & Donald",
+    "gameImageIcon": "/Images/051485.png",
+    "gameImageTitle": "/Images/008357.png",
+    "gameImageIngame": "/Images/008356.png",
+    "gameImageBoxArt": "/Images/014449.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 37092,
+    "achievementTitle": "Pete Castle-Donald",
+    "achievementDescription": "Complete the Game as Donald Duck",
+    "achievementBadgeName": "37839",
+    "achievementDateStart": "2025-02-17T00:00:00.000000Z",
+    "achievementDateEnd": "2025-02-24T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 4941,
+        "gameTitle": "One",
+        "gameImageIcon": "/Images/082577.png",
+        "gameImageTitle": "/Images/082580.png",
+        "gameImageIngame": "/Images/082579.png",
+        "gameImageBoxArt": "/Images/082578.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 447900,
+        "achievementTitle": "Mountain Fortress",
+        "achievementDescription": "Clear Stage Three on Normal difficulty or above.",
+        "achievementBadgeName": "533398"
+      },
+      {
+        "gameId": 258,
+        "gameTitle": "Dick Tracy",
+        "gameImageIcon": "/Images/072796.png",
+        "gameImageTitle": "/Images/039429.png",
+        "gameImageIngame": "/Images/039430.png",
+        "gameImageBoxArt": "/Images/069645.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 297575,
+        "achievementTitle": "Where's Big Boy...",
+        "achievementDescription": "Complete Stage 4 Scene C on Normal difficulty or higher",
+        "achievementBadgeName": "19363"
+      },
+      {
+        "gameId": 3398,
+        "gameTitle": "Shenmue",
+        "gameImageIcon": "/Images/053854.png",
+        "gameImageTitle": "/Images/087470.png",
+        "gameImageIngame": "/Images/087471.png",
+        "gameImageBoxArt": "/Images/053080.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 376808,
+        "achievementTitle": "Ah Shit, Here We Go Again",
+        "achievementDescription": "Get the initial tip on asking around for sailors [Story]",
+        "achievementBadgeName": "423351"
+      },
+      {
+        "gameId": 2671,
+        "gameTitle": "Rogue Galaxy",
+        "gameImageIcon": "/Images/056026.png",
+        "gameImageTitle": "/Images/056025.png",
+        "gameImageIngame": "/Images/056023.png",
+        "gameImageBoxArt": "/Images/056024.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 281474,
+        "achievementTitle": "Whoop There It Is",
+        "achievementDescription": "Defeat the Mud Whooper on Juriaka",
+        "achievementBadgeName": "311500"
+      }
+    ]
   }
 ]
