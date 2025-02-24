@@ -516,5 +516,79 @@
         "achievementBadgeName": "311500"
       }
     ]
+  },
+  {
+    "gameId": 10093,
+    "gameTitle": "Hexen",
+    "gameImageIcon": "/Images/055046.png",
+    "gameImageTitle": "/Images/010999.png",
+    "gameImageIngame": "/Images/011000.png",
+    "gameImageBoxArt": "/Images/014510.png",
+    "consoleID": 2,
+    "consoleName": "Nintendo 64",
+    "achievementId": 48615,
+    "achievementTitle": "Shadow Wood",
+    "achievementDescription": "Enter the second hub Shadow Wood",
+    "achievementBadgeName": "362977",
+    "achievementDateStart": "2025-02-24T00:00:00.000000Z",
+    "achievementDateEnd": "2025-03-03T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 5345,
+        "gameTitle": "Shark Tale",
+        "gameImageIcon": "/Images/066642.png",
+        "gameImageTitle": "/Images/066641.png",
+        "gameImageIngame": "/Images/066640.png",
+        "gameImageBoxArt": "/Images/066512.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 282286,
+        "achievementTitle": "Wealth and Fame",
+        "achievementDescription": "Complete chapter 3.",
+        "achievementBadgeName": "312471"
+      },
+      {
+        "gameId": 12358,
+        "gameTitle": "Rally-X",
+        "gameImageIcon": "/Images/067917.png",
+        "gameImageTitle": "/Images/067879.png",
+        "gameImageIngame": "/Images/067880.png",
+        "gameImageBoxArt": "/Images/067881.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 287981,
+        "achievementTitle": "Turn Left in 2 Miles",
+        "achievementDescription": "Complete Round 6 and reach the second Charging Station",
+        "achievementBadgeName": "319158"
+      },
+      {
+        "gameId": 485,
+        "gameTitle": "Arcus Odyssey",
+        "gameImageIcon": "/Images/050154.png",
+        "gameImageTitle": "/Images/049875.png",
+        "gameImageIngame": "/Images/049876.png",
+        "gameImageBoxArt": "/Images/011944.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 181911,
+        "achievementTitle": "Revival",
+        "achievementDescription": "Clear Act 4 [No Passwords]",
+        "achievementBadgeName": "202378"
+      },
+      {
+        "gameId": 5707,
+        "gameTitle": "Hot Wheels: Burnin' Rubber",
+        "gameImageIcon": "/Images/096234.png",
+        "gameImageTitle": "/Images/070358.png",
+        "gameImageIngame": "/Images/070359.png",
+        "gameImageBoxArt": "/Images/070357.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 424327,
+        "achievementTitle": "Lakester",
+        "achievementDescription": "Complete the silver cup to unlock the Lakester car",
+        "achievementBadgeName": "479598"
+      }
+    ]
   }
 ]
