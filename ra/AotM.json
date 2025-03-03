@@ -174,5 +174,79 @@
         "achievementBadgeName": "91892"
       }
     ]
+  },
+  {
+    "gameId": 668,
+    "gameTitle": "Pokémon Emerald Version",
+    "gameImageIcon": "/Images/104473.png",
+    "gameImageTitle": "/Images/005442.png",
+    "gameImageIngame": "/Images/077264.png",
+    "gameImageBoxArt": "/Images/014406.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 27615,
+    "achievementTitle": "League Champion",
+    "achievementDescription": "Defeat the current champion and become the Pokémon League Champion",
+    "achievementBadgeName": "315508",
+    "achievementDateStart": "2025-03-03T00:00:00.000000Z",
+    "achievementDateEnd": "2025-04-07T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 7054,
+        "gameTitle": "Battalion Wars",
+        "gameImageIcon": "/Images/088971.png",
+        "gameImageTitle": "/Images/088968.png",
+        "gameImageIngame": "/Images/088970.png",
+        "gameImageBoxArt": "/Images/094795.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 399553,
+        "achievementTitle": "Neither Here Nor-Monday",
+        "achievementDescription": "Complete Mission 09, Invasion Force.",
+        "achievementBadgeName": "451805"
+      },
+      {
+        "gameId": 6837,
+        "gameTitle": "Doshin the Giant",
+        "gameImageIcon": "/Images/099101.png",
+        "gameImageTitle": "/Images/090071.png",
+        "gameImageIngame": "/Images/090072.png",
+        "gameImageBoxArt": "/Images/090070.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 445011,
+        "achievementTitle": "Pyramid Power",
+        "achievementDescription": "Inspire the villagers to build the Pyramid on Barudo-Island",
+        "achievementBadgeName": "502187"
+      },
+      {
+        "gameId": 2780,
+        "gameTitle": "Kingdom Hearts: Final Mix",
+        "gameImageIcon": "/Images/061468.png",
+        "gameImageTitle": "/Images/060202.png",
+        "gameImageIngame": "/Images/060203.png",
+        "gameImageBoxArt": "/Images/056596.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 246058,
+        "achievementTitle": "Magic Carpet Ride",
+        "achievementDescription": "Beat Jafar for good and Seal the Keyhole in Agrabah",
+        "achievementBadgeName": "275480"
+      },
+      {
+        "gameId": 3982,
+        "gameTitle": "Army Men: Air Attack",
+        "gameImageIcon": "/Images/036681.png",
+        "gameImageTitle": "/Images/036680.png",
+        "gameImageIngame": "/Images/036678.png",
+        "gameImageBoxArt": "/Images/047467.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 436301,
+        "achievementTitle": "Plastro's Revenge",
+        "achievementDescription": "Defeat any Thread, survive and finish Mission 16",
+        "achievementBadgeName": "510782"
+      }
+    ]
   }
 ]
