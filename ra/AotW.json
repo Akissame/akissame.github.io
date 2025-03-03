@@ -590,5 +590,79 @@
         "achievementBadgeName": "479598"
       }
     ]
+  },
+  {
+    "gameId": 22113,
+    "gameTitle": "Suggoi! Arcana Heart 2",
+    "gameImageIcon": "/Images/081841.png",
+    "gameImageTitle": "/Images/081330.png",
+    "gameImageIngame": "/Images/081464.png",
+    "gameImageBoxArt": "/Images/081347.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 350736,
+    "achievementTitle": "Arcana Arcade Adventure!!",
+    "achievementDescription": "Finish Arcade Mode (default settings).",
+    "achievementBadgeName": "396311",
+    "achievementDateStart": "2025-03-03T00:00:00.000000Z",
+    "achievementDateEnd": "2025-03-10T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17560,
+        "gameTitle": "Gear Fighter Dendoh",
+        "gameImageIcon": "/Images/048525.png",
+        "gameImageTitle": "/Images/043076.png",
+        "gameImageIngame": "/Images/043077.png",
+        "gameImageBoxArt": "/Images/048883.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 176874,
+        "achievementTitle": "Takeoff! To Space",
+        "achievementDescription": "Complete lvl 7",
+        "achievementBadgeName": "197187"
+      },
+      {
+        "gameId": 10424,
+        "gameTitle": "Power Rangers: Time Force",
+        "gameImageIcon": "/Images/014217.png",
+        "gameImageTitle": "/Images/014215.png",
+        "gameImageIngame": "/Images/014216.png",
+        "gameImageBoxArt": "/Images/014214.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 201656,
+        "achievementTitle": "Fabled City (Present Day)",
+        "achievementDescription": "Complete Fabled City (Present Day) Level (on Normal or less)",
+        "achievementBadgeName": "223924"
+      },
+      {
+        "gameId": 858,
+        "gameTitle": "Claymates",
+        "gameImageIcon": "/Images/103874.png",
+        "gameImageTitle": "/Images/022839.png",
+        "gameImageIngame": "/Images/022840.png",
+        "gameImageBoxArt": "/Images/022841.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 465911,
+        "achievementTitle": "Full Grid on Medium",
+        "achievementDescription": "Complete the grid bonus game in the Pacific or later.",
+        "achievementBadgeName": "534361"
+      },
+      {
+        "gameId": 2052,
+        "gameTitle": "Ultima: Warriors of Destiny",
+        "gameImageIcon": "/Images/029825.png",
+        "gameImageTitle": "/Images/013228.png",
+        "gameImageIngame": "/Images/013229.png",
+        "gameImageBoxArt": "/Images/012631.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 94824,
+        "achievementTitle": "Member of the Resistance",
+        "achievementDescription": "Learn the Resistance Password",
+        "achievementBadgeName": "104327"
+      }
+    ]
   }
 ]
