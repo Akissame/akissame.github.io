@@ -664,5 +664,93 @@
         "achievementBadgeName": "104327"
       }
     ]
+  },
+  {
+    "gameId": 9722,
+    "gameTitle": "Sabrina: The Animated Series - Zapped!",
+    "gameImageIcon": "/Images/102589.png",
+    "gameImageTitle": "/Images/102632.png",
+    "gameImageIngame": "/Images/102633.png",
+    "gameImageBoxArt": "/Images/090611.png",
+    "consoleID": 6,
+    "consoleName": "Game Boy Color",
+    "achievementId": 465599,
+    "achievementTitle": "All the Monkeys in the House Go Yeah",
+    "achievementDescription": "Transform gorilla Slugloafe back into a human",
+    "achievementBadgeName": "526918",
+    "achievementDateStart": "2025-03-10T00:00:00.000000Z",
+    "achievementDateEnd": "2025-03-17T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 16,
+        "gameTitle": "Super Hang-On",
+        "gameImageIcon": "/Images/000860.png",
+        "gameImageTitle": "/Images/000712.png",
+        "gameImageIngame": "/Images/000713.png",
+        "gameImageBoxArt": "/Images/051933.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 4358,
+        "achievementTitle": "A Well-Deserved Smooch",
+        "achievementDescription": "Arcade Mode - Complete the Junior Course without using passwords",
+        "achievementBadgeName": "04994"
+      },
+      {
+        "gameId": 5706,
+        "gameTitle": "Mech Platoon",
+        "gameImageIcon": "/Images/063425.png",
+        "gameImageTitle": "/Images/050178.png",
+        "gameImageIngame": "/Images/050177.png",
+        "gameImageBoxArt": "/Images/063424.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 261180,
+        "achievementTitle": "Flow",
+        "achievementDescription": "Clear the mission 'Ebb Tide' with the Leon Army",
+        "achievementBadgeName": "289348"
+      },
+      {
+        "gameId": 19201,
+        "gameTitle": "Mortal Kombat: Shaolin Monks",
+        "gameImageIcon": "/Images/079497.png",
+        "gameImageTitle": "/Images/061950.png",
+        "gameImageIngame": "/Images/061951.png",
+        "gameImageBoxArt": "/Images/056629.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 270342,
+        "achievementTitle": "The Portal (Kung Lao)",
+        "achievementDescription": "Enter The Portal for the first time as Kung Lao.",
+        "achievementBadgeName": "299106"
+      },
+      {
+        "gameId": 19201,
+        "gameTitle": "Mortal Kombat: Shaolin Monks",
+        "gameImageIcon": "/Images/079497.png",
+        "gameImageTitle": "/Images/061950.png",
+        "gameImageIngame": "/Images/061951.png",
+        "gameImageBoxArt": "/Images/056629.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 270343,
+        "achievementTitle": "The Portal (Liu Kang)",
+        "achievementDescription": "Enter The Portal for the first time as Liu Kang.",
+        "achievementBadgeName": "299107"
+      },
+      {
+        "gameId": 2655,
+        "gameTitle": "Shin Megami Tensei: Nocturne",
+        "gameImageIcon": "/Images/084331.png",
+        "gameImageTitle": "/Images/084924.png",
+        "gameImageIngame": "/Images/084923.png",
+        "gameImageBoxArt": "/Images/072378.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 411373,
+        "achievementTitle": "Me EaT YoU!",
+        "achievementDescription": "[NG] Defeat the Specter in the Amala Network",
+        "achievementBadgeName": "465811"
+      }
+    ]
   }
 ]
