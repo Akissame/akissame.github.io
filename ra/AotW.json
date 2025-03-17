@@ -752,5 +752,79 @@
         "achievementBadgeName": "465811"
       }
     ]
+  },
+  {
+    "gameId": 20645,
+    "gameTitle": "Polaroid Pete | Gekibo: Gekisha Boy 2",
+    "gameImageIcon": "/Images/064052.png",
+    "gameImageTitle": "/Images/064053.png",
+    "gameImageIngame": "/Images/064054.png",
+    "gameImageBoxArt": "/Images/064055.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 280251,
+    "achievementTitle": "Shashin no Kuni",
+    "achievementDescription": "Successfully capture the objective in Historic Town Tsukiji. [>= Normal]",
+    "achievementBadgeName": "310009",
+    "achievementDateStart": "2025-03-17T00:00:00.000000Z",
+    "achievementDateEnd": "2025-03-24T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1980,
+        "gameTitle": "Star Trek: 25th Anniversary",
+        "gameImageIcon": "/Images/077471.png",
+        "gameImageTitle": "/Images/009142.png",
+        "gameImageIngame": "/Images/009143.png",
+        "gameImageBoxArt": "/Images/013049.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 75891,
+        "achievementTitle": "I Am Lying",
+        "achievementDescription": "Find the red module",
+        "achievementBadgeName": "215140"
+      },
+      {
+        "gameId": 2705,
+        "gameTitle": "Brandish 2: The Planet Buster",
+        "gameImageIcon": "/Images/086293.png",
+        "gameImageTitle": "/Images/059352.png",
+        "gameImageIngame": "/Images/059353.png",
+        "gameImageBoxArt": "/Images/059351.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 227332,
+        "achievementTitle": "Rakshasa",
+        "achievementDescription": "Defeat the Rakshasa in the prison.",
+        "achievementBadgeName": "252303"
+      },
+      {
+        "gameId": 17707,
+        "gameTitle": "Arcade Gears Vol. 1: Pu-Li-Ru-La",
+        "gameImageIcon": "/Images/088536.png",
+        "gameImageTitle": "/Images/088534.png",
+        "gameImageIngame": "/Images/088535.png",
+        "gameImageBoxArt": "/Images/088533.png",
+        "consoleID": 39,
+        "consoleName": "Saturn",
+        "achievementId": 392895,
+        "achievementTitle": "End of the World",
+        "achievementDescription": "Defeat Jack O'Colson for real on normal or hard! (Other settings default or lower, ura mode off)",
+        "achievementBadgeName": "443905"
+      },
+      {
+        "gameId": 1179,
+        "gameTitle": "Spider-Man & Venom: Maximum Carnage",
+        "gameImageIcon": "/Images/105532.png",
+        "gameImageTitle": "/Images/003623.png",
+        "gameImageIngame": "/Images/003621.png",
+        "gameImageBoxArt": "/Images/039425.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 18279,
+        "achievementTitle": "The Fearsome Five",
+        "achievementDescription": "Clear Level 13 - Prospect Park 2",
+        "achievementBadgeName": "17769"
+      }
+    ]
   }
 ]
