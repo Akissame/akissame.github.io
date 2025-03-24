@@ -826,5 +826,79 @@
         "achievementBadgeName": "17769"
       }
     ]
+  },
+  {
+    "gameId": 14814,
+    "gameTitle": "Mario vs. Donkey Kong 2: March of the Minis",
+    "gameImageIcon": "/Images/070183.png",
+    "gameImageTitle": "/Images/076619.png",
+    "gameImageIngame": "/Images/076620.png",
+    "gameImageBoxArt": "/Images/028966.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 334651,
+    "achievementTitle": "Magnetic Mastery",
+    "achievementDescription": "Defeat Donkey Kong in Magnet Mania",
+    "achievementBadgeName": "377737",
+    "achievementDateStart": "2025-03-24T00:00:00.000000Z",
+    "achievementDateEnd": "2025-03-31T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 14544,
+        "gameTitle": "Shining Wisdom",
+        "gameImageIcon": "/Images/079407.png",
+        "gameImageTitle": "/Images/031644.png",
+        "gameImageIngame": "/Images/031645.png",
+        "gameImageBoxArt": "/Images/031643.png",
+        "consoleID": 39,
+        "consoleName": "Saturn",
+        "achievementId": 100523,
+        "achievementTitle": "Sliding man",
+        "achievementDescription": "Find the Slide Shoes",
+        "achievementBadgeName": "109623"
+      },
+      {
+        "gameId": 1517,
+        "gameTitle": "A Nightmare on Elm Street",
+        "gameImageIcon": "/Images/061836.png",
+        "gameImageTitle": "/Images/006080.png",
+        "gameImageIngame": "/Images/006081.png",
+        "gameImageBoxArt": "/Images/012665.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 29601,
+        "achievementTitle": "The Abandoned House",
+        "achievementDescription": "Defeat the enemy, collect all bones and the key in the Abandoned House",
+        "achievementBadgeName": "30236"
+      },
+      {
+        "gameId": 16210,
+        "gameTitle": "Bare Knuckle III",
+        "gameImageIcon": "/Images/049209.png",
+        "gameImageTitle": "/Images/032981.png",
+        "gameImageIngame": "/Images/032982.png",
+        "gameImageBoxArt": "/Images/032984.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 107959,
+        "achievementTitle": "Crazy Train",
+        "achievementDescription": "Defeat Jet and his rocket squad in Round 6",
+        "achievementBadgeName": "117439"
+      },
+      {
+        "gameId": 19217,
+        "gameTitle": "Gungage",
+        "gameImageIcon": "/Images/072311.png",
+        "gameImageTitle": "/Images/056352.png",
+        "gameImageIngame": "/Images/056350.png",
+        "gameImageBoxArt": "/Images/056351.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 312572,
+        "achievementTitle": "Fully Maxed",
+        "achievementDescription": "Upgrade max health 3 times in the same campaign",
+        "achievementBadgeName": "347592"
+      }
+    ]
   }
 ]
