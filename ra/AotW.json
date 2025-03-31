@@ -900,5 +900,93 @@
         "achievementBadgeName": "347592"
       }
     ]
+  },
+  {
+    "gameId": 2672,
+    "gameTitle": "We Love Katamari",
+    "gameImageIcon": "/Images/057479.png",
+    "gameImageTitle": "/Images/057453.png",
+    "gameImageIngame": "/Images/035542.png",
+    "gameImageBoxArt": "/Images/058275.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 225698,
+    "achievementTitle": "You're A Planet In My Heart",
+    "achievementDescription": "Create Pluto.",
+    "achievementBadgeName": "249930",
+    "achievementDateStart": "2025-03-31T00:00:00.000000Z",
+    "achievementDateEnd": "2025-04-07T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 4680,
+        "gameTitle": "Pizza Pop!",
+        "gameImageIcon": "/Images/052580.png",
+        "gameImageTitle": "/Images/002218.png",
+        "gameImageIngame": "/Images/002217.png",
+        "gameImageBoxArt": "/Images/013993.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 9647,
+        "achievementTitle": "Stage 7",
+        "achievementDescription": "Beat Stage 7",
+        "achievementBadgeName": "09309"
+      },
+      {
+        "gameId": 2370,
+        "gameTitle": "~Prototype~ Resident Evil",
+        "gameImageIcon": "/Images/040116.png",
+        "gameImageTitle": "/Images/016487.png",
+        "gameImageIngame": "/Images/016486.png",
+        "gameImageBoxArt": "/Images/045393.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 67783,
+        "achievementTitle": "Jill's Dead End",
+        "achievementDescription": "[Jill Valentine] Activate the Generator and try to use the Elevator.",
+        "achievementBadgeName": "71808"
+      },
+      {
+        "gameId": 2370,
+        "gameTitle": "~Prototype~ Resident Evil",
+        "gameImageIcon": "/Images/040116.png",
+        "gameImageTitle": "/Images/016487.png",
+        "gameImageIngame": "/Images/016486.png",
+        "gameImageBoxArt": "/Images/045393.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 67773,
+        "achievementTitle": "Chris' Dead End",
+        "achievementDescription": "[Chris Redfield] Activate the Generator and try to use the Elevator.",
+        "achievementBadgeName": "71803"
+      },
+      {
+        "gameId": 6623,
+        "gameTitle": "Scooby-Doo 2: Monsters Unleashed",
+        "gameImageIcon": "/Images/108664.png",
+        "gameImageTitle": "/Images/047826.png",
+        "gameImageIngame": "/Images/047827.png",
+        "gameImageBoxArt": "/Images/047829.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 178847,
+        "achievementTitle": "Power Outage",
+        "achievementDescription": "Short out the 10,000 Volt Ghost.",
+        "achievementBadgeName": "199244"
+      },
+      {
+        "gameId": 16374,
+        "gameTitle": "Gekibo: Gekisha Boy",
+        "gameImageIcon": "/Images/074867.png",
+        "gameImageTitle": "/Images/038191.png",
+        "gameImageIngame": "/Images/038192.png",
+        "gameImageBoxArt": "/Images/074869.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 326910,
+        "achievementTitle": "Graduation Exam",
+        "achievementDescription": "Complete TAKE 09 with 150,000 points or more.",
+        "achievementBadgeName": "366065"
+      }
+    ]
   }
 ]
