@@ -1,0 +1,19 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "CI5015",
+    "estado": "En Progreso",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
+    "cliente": {
+      "id": "CI",
+      "nombre": "Colcalderas Internacional"
+    },
+    "responsable": {
+      "id": "",
+      "nombre": "N/A"
+    },
+    "descripcion": "Personal administrativo Internacional",
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
