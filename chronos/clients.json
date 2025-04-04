@@ -1,24 +1,252 @@
 {
   "clients": [
     {
-      "name": "Colcalderas",
+      "name": "Aceites Manuelita",
+      "code": "AM"
+    },
+    {
+      "name": "Administración de Proyectos Colcalderas",
+      "code": "AP"
+    },
+    {
+      "name": "Agroseinser",
+      "code": "AG"
+    },
+    {
+      "name": "Alimentos del Valle",
+      "code": "AV"
+    },
+    {
+      "name": "Alival",
+      "code": "AL"
+    },
+    {
+      "name": "Ambiocom",
+      "code": "AB"
+    },
+    {
+      "name": "Amcor Flexa",
+      "code": "AF"
+    },
+    {
+      "name": "Armando Antonio Lievano Gordillo",
+      "code": "AR"
+    },
+    {
+      "name": "Baxter",
+      "code": "BX"
+    },
+    {
+      "name": "Bioenergy",
+      "code": "BE"
+    },
+    {
+      "name": "Brinsa",
+      "code": "BS"
+    },
+    {
+      "name": "BSN Medical",
+      "code": "BM"
+    },
+    {
+      "name": "Bucanero",
+      "code": "BU"
+    },
+    {
+      "name": "Caldera JCT",
+      "code": "CT"
+    },
+    {
+      "name": "Cartón Colombia",
+      "code": "SK"
+    },
+    {
+      "name": "Cartones America",
+      "code": "CA"
+    },
+    {
+      "name": "Carvajal",
+      "code": "CV"
+    },
+    {
+      "name": "Castilla Rio Paila",
+      "code": "CR"
+    },
+    {
+      "name": "Cementos Argos",
+      "code": "CE"
+    },
+    {
+      "name": "Clientes Nuevos Visitas",
+      "code": "NV"
+    },
+    {
+      "name": "Clinica de los Remedios",
+      "code": "CL"
+    },
+    {
+      "name": "Club Metropolis",
+      "code": "MS"
+    },
+    {
+      "name": "Colcalderas Internacional",
+      "code": "CI"
+    },
+    {
+      "name": "Colcalderas SAS",
       "code": "CO"
+    },
+    {
+      "name": "Colgate Palmolive",
+      "code": "CP"
+    },
+    {
+      "name": "Colmaquinas",
+      "code": "CS"
+    },
+    {
+      "name": "Colombina",
+      "code": "CB"
+    },
+    {
+      "name": "Confipetrol",
+      "code": "CN"
+    },
+    {
+      "name": "EKA",
+      "code": "EK"
+    },
+    {
+      "name": "Elkin Maurisio Perez Angarita",
+      "code": "EP"
+    },
+    {
+      "name": "Emcali",
+      "code": "EM"
+    },
+    {
+      "name": "Empaques Industriales",
+      "code": "EI"
+    },
+    {
+      "name": "Ferroneumatica",
+      "code": "FN"
+    },
+    {
+      "name": "Gemser Power",
+      "code": "GP"
+    },
+    {
+      "name": "Generación de Luz y Fuerza",
+      "code": "GL"
     },
     {
       "name": "General",
       "code": "GN"
     },
     {
+      "name": "Grasas",
+      "code": "GR"
+    },
+    {
+      "name": "Healthy America SAS",
+      "code": "HA"
+    },
+    {
+      "name": "Hidroblasting y Aseo",
+      "code": "BH"
+    },
+    {
+      "name": "Hidrocenter",
+      "code": "HD"
+    },
+    {
+      "name": "Hijos Cardenas",
+      "code": "HI"
+    },
+    {
+      "name": "Hotel Cosmos",
+      "code": "HC"
+    },
+    {
+      "name": "Icobandas",
+      "code": "IS"
+    },
+    {
       "name": "Incauca",
       "code": "IC"
+    },
+    {
+      "name": "Ingeccontroles",
+      "code": "IG"
+    },
+    {
+      "name": "Ingenio Carmelita",
+      "code": "IA"
     },
     {
       "name": "Ingredion",
       "code": "IN"
     },
     {
+      "name": "Intercol",
+      "code": "IL"
+    },
+    {
+      "name": "Jackeline Galarza Valencia",
+      "code": "JG"
+    },
+    {
+      "name": "Jonathan Cardona Romero",
+      "code": "JR"
+    },
+    {
+      "name": "Juan Camilo Cardenas Artunduaga",
+      "code": "JC"
+    },
+    {
+      "name": "Nicole Cardenas Sanchez",
+      "code": "NS"
+    },
+    {
+      "name": "Proceso Aislamientos",
+      "code": "PA"
+    },
+    {
+      "name": "Proceso Calderas",
+      "code": "PC"
+    },
+    {
+      "name": "Proceso Hidrolavado",
+      "code": "PH"
+    },
+    {
+      "name": "Proceso TLV",
+      "code": "PT"
+    },
+    {
       "name": "Rio Paila",
       "code": "RP"
+    },
+    {
+      "name": "Rio Paila Hidroaseo",
+      "code": "RH"
+    },
+    {
+      "name": "Rodrigo Gutierrez Marin",
+      "code": "RG"
+    },
+    {
+      "name": "Steam Ingenieria",
+      "code": "SI"
+    },
+    {
+      "name": "Taller Mecanizados",
+      "code": "TM"
+    },
+    {
+      "name": "Unilever",
+      "code": "UN"
     }
   ]
 }
