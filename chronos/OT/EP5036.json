@@ -1,0 +1,19 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "EP5036",
+    "estado": "En Progreso",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
+    "cliente": {
+      "id": "EP",
+      "nombre": "Elkin Maurisio Perez"
+    },
+    "responsable": {
+      "id": "",
+      "nombre": "Elkin Maurisio Perez Angarita"
+    },
+    "descripcion": "Trabajos Elkin Perez",
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
