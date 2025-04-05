@@ -1,0 +1,19 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "JG5034",
+    "estado": "En Progreso",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
+    "cliente": {
+      "id": "JG",
+      "nombre": "Jackeline Galarza Valencia"
+    },
+    "responsable": {
+      "id": "",
+      "nombre": "Jackeline Galarza Valencia"
+    },
+    "descripcion": "Trabajos Jackeline Galarza",
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
