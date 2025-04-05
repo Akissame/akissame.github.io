@@ -1,0 +1,19 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "PT5031",
+    "estado": "En Progreso",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
+    "cliente": {
+      "id": "PT",
+      "nombre": "Proceso TLV"
+    },
+    "responsable": {
+      "id": "",
+      "nombre": "Rodrigo Gutierrez Marin"
+    },
+    "descripcion": "Proceso TLV",
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
