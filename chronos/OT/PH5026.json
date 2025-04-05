@@ -1,0 +1,19 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "PH5026",
+    "estado": "En Progreso",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
+    "cliente": {
+      "id": "PH",
+      "nombre": "Proceso Hidrolavado"
+    },
+    "responsable": {
+      "id": "",
+      "nombre": "N/A"
+    },
+    "descripcion": "Maquina hidrolavadora PSI",
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
