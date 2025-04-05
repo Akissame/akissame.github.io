@@ -1,0 +1,19 @@
+{
+  "ordenTrabajo": {
+    "idOrden": "JC5035",
+    "estado": "En Progreso",
+    "fechaCreacion": "2025-01-01",
+    "fechaEstimadaFin": "2025-12-31",
+    "cliente": {
+      "id": "JC",
+      "nombre": "Juan Camilo Cardenas"
+    },
+    "responsable": {
+      "id": "",
+      "nombre": "Juan Camilo Cardenas Artunduaga"
+    },
+    "descripcion": "Gastos Juan Camilo Cardenas",
+    "registrosTiempo": {},
+    "resumenHoras": {}
+  }
+}
