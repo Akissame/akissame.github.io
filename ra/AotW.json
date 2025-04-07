@@ -988,5 +988,79 @@
         "achievementBadgeName": "366065"
       }
     ]
+  },
+  {
+    "gameId": 5119,
+    "gameTitle": "Tokyo Xtreme Racer Advance",
+    "gameImageIcon": "/Images/095550.png",
+    "gameImageTitle": "/Images/053477.png",
+    "gameImageIngame": "/Images/053482.png",
+    "gameImageBoxArt": "/Images/053479.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 200860,
+    "achievementTitle": "Knights",
+    "achievementDescription": "Defeat all Knights rivals.",
+    "achievementBadgeName": "223125",
+    "achievementDateStart": "2025-04-07T00:00:00.000000Z",
+    "achievementDateEnd": "2025-04-14T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1477,
+        "gameTitle": "Jackal",
+        "gameImageIcon": "/Images/063214.png",
+        "gameImageTitle": "/Images/035312.png",
+        "gameImageIngame": "/Images/035313.png",
+        "gameImageBoxArt": "/Images/012319.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 15102,
+        "achievementTitle": "Jackal Unleashed!",
+        "achievementDescription": "Destroy the Final Boss!",
+        "achievementBadgeName": "14771"
+      },
+      {
+        "gameId": 16755,
+        "gameTitle": "Orcs and Elves",
+        "gameImageIcon": "/Images/056285.png",
+        "gameImageTitle": "/Images/056284.png",
+        "gameImageIngame": "/Images/056485.png",
+        "gameImageBoxArt": "/Images/056286.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 215727,
+        "achievementTitle": "Prison Delver",
+        "achievementDescription": "Make it through level 2. (Any difficulty)",
+        "achievementBadgeName": "238781"
+      },
+      {
+        "gameId": 6394,
+        "gameTitle": "Hammerin' Harry",
+        "gameImageIcon": "/Images/013280.png",
+        "gameImageTitle": "/Images/013281.png",
+        "gameImageIngame": "/Images/013282.png",
+        "gameImageBoxArt": "/Images/013279.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 70786,
+        "achievementTitle": "Freed from Greed",
+        "achievementDescription": "Beat Stage 5",
+        "achievementBadgeName": "75804"
+      },
+      {
+        "gameId": 4187,
+        "gameTitle": "Donald Duck: Goin' Quackers",
+        "gameImageIcon": "/Images/072505.png",
+        "gameImageTitle": "/Images/040643.png",
+        "gameImageIngame": "/Images/072508.png",
+        "gameImageBoxArt": "/Images/026224.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 134537,
+        "achievementTitle": "Duckburg",
+        "achievementDescription": "Cleared all levels in World 2. [Password allowed, ONLY for 2-1]",
+        "achievementBadgeName": "149022"
+      }
+    ]
   }
 ]
