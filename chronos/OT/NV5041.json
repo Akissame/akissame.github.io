@@ -12,7 +12,7 @@
     "registrosTiempo": {
       "2025-03-26": {
         "C.C._1144158801": {
-          "idOrden": null,
+          "idOrden": "NV5041",
           "trabajador": {
             "tipoDocumento": "C.C.",
             "numeroDocumento": "1144158801",
@@ -26,13 +26,36 @@
           },
           "totalHoras": 0.4666666666666667
         }
+      },
+      "2025-04-07": {
+        "C.C._123": {
+          "idOrden": null,
+          "trabajador": {
+            "tipoDocumento": "C.C.",
+            "numeroDocumento": "123",
+            "nombreCompleto": "lljkjj"
+          },
+          "horario": {
+            "entrada": "10:15",
+            "inicioAlmuerzo": "00:00",
+            "finAlmuerzo": "00:00",
+            "salida": "00:00"
+          },
+          "totalHoras": 0.0
+        }
       }
     },
     "resumenHoras": {
       "C.C._1144158801": {
-        "totalHoras": 0.4666666666666667,
+        "totalHoras": 0.0,
         "diasTrabajados": [
           "2025-03-26"
+        ]
+      },
+      "C.C._123": {
+        "totalHoras": 0.0,
+        "diasTrabajados": [
+          "2025-04-07"
         ]
       }
     }
