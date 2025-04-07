@@ -248,5 +248,37 @@
         "achievementBadgeName": "510782"
       }
     ]
+  },
+  {
+    "gameId": 2787,
+    "gameTitle": "Metal Gear Solid 2: Substance",
+    "gameImageIcon": "/Images/059908.png",
+    "gameImageTitle": "/Images/060007.png",
+    "gameImageIngame": "/Images/060008.png",
+    "gameImageBoxArt": "/Images/052918.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 238366,
+    "achievementTitle": "Kuwabara, Kuwabara",
+    "achievementDescription": "Eavesdrop on Olga in the Shell 2 core",
+    "achievementBadgeName": "264571",
+    "achievementDateStart": "2025-04-07T00:00:00.000000Z",
+    "achievementDateEnd": "2025-05-05T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 15916,
+        "gameTitle": "Lost in Blue 2",
+        "gameImageIcon": "/Images/061143.png",
+        "gameImageTitle": "/Images/061144.png",
+        "gameImageIngame": "/Images/061145.png",
+        "gameImageBoxArt": "/Images/061142.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 241899,
+        "achievementTitle": "Pro Fisher",
+        "achievementDescription": "Craft the best fishing rod.",
+        "achievementBadgeName": "362216"
+      }
+    ]
   }
 ]
