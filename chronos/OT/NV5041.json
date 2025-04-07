@@ -10,7 +10,7 @@
     },
     "descripcion": "Visitas Clientes",
     "registrosTiempo": {
-      "2025-04-06": {
+      "2025-03-26": {
         "C.C._1144158801": {
           "idOrden": null,
           "trabajador": {
@@ -32,7 +32,7 @@
       "C.C._1144158801": {
         "totalHoras": 0.4666666666666667,
         "diasTrabajados": [
-          "2025-04-06"
+          "2025-03-26"
         ]
       }
     }
