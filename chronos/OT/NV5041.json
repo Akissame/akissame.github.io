@@ -59,7 +59,7 @@
           "totalHoras": 0.08333333333333333
         },
         "C.C._12": {
-          "idOrden": null,
+          "idOrden": "NV5041",
           "trabajador": {
             "tipoDocumento": "C.C.",
             "numeroDocumento": "12",
@@ -70,6 +70,21 @@
             "inicioAlmuerzo": "00:00",
             "finAlmuerzo": "12:33",
             "salida": "12:50"
+          },
+          "totalHoras": 0.2833333333333333
+        },
+        "C.C._456": {
+          "idOrden": null,
+          "trabajador": {
+            "tipoDocumento": "C.C.",
+            "numeroDocumento": "456",
+            "nombreCompleto": "Dany"
+          },
+          "horario": {
+            "entrada": "12:55",
+            "inicioAlmuerzo": "00:00",
+            "finAlmuerzo": "00:00",
+            "salida": "00:00"
           },
           "totalHoras": 0.0
         }
@@ -95,6 +110,12 @@
         ]
       },
       "C.C._12": {
+        "totalHoras": 0.0,
+        "diasTrabajados": [
+          "2025-04-07"
+        ]
+      },
+      "C.C._456": {
         "totalHoras": 0.0,
         "diasTrabajados": [
           "2025-04-07"
