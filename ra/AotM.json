@@ -278,6 +278,48 @@
         "achievementTitle": "Pro Fisher",
         "achievementDescription": "Craft the best fishing rod.",
         "achievementBadgeName": "362216"
+      },
+      {
+        "gameId": 18072,
+        "gameTitle": "Super Dangan-Ronpa 2: Sayonara Zetsubou Gakuen",
+        "gameImageIcon": "/Images/049300.png",
+        "gameImageTitle": "/Images/049301.png",
+        "gameImageIngame": "/Images/049302.png",
+        "gameImageBoxArt": "/Images/049303.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 188624,
+        "achievementTitle": "Second and Fourth",
+        "achievementDescription": "[Chapter 02 - Daily Life] Complete the 2nd and 4th Day of the Twilight Syndrome Murder Case.",
+        "achievementBadgeName": "209462"
+      },
+      {
+        "gameId": 10065,
+        "gameTitle": "The Secret of Monkey Island",
+        "gameImageIcon": "/Images/020048.png",
+        "gameImageTitle": "/Images/017356.png",
+        "gameImageIngame": "/Images/033915.png",
+        "gameImageBoxArt": "/Images/051010.png",
+        "consoleID": 9,
+        "consoleName": "Sega CD",
+        "achievementId": 186763,
+        "achievementTitle": "My Main Weapon",
+        "achievementDescription": "I obtained a very rare and unique root.",
+        "achievementBadgeName": "207725"
+      },
+      {
+        "gameId": 1197,
+        "gameTitle": "Super Adventure Island II",
+        "gameImageIcon": "/Images/028586.png",
+        "gameImageTitle": "/Images/008353.png",
+        "gameImageIngame": "/Images/008354.png",
+        "gameImageBoxArt": "/Images/007909.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 37018,
+        "achievementTitle": "An Egg-citing Fight",
+        "achievementDescription": "Defeat the Eagle and obtain the Sky Bell.",
+        "achievementBadgeName": "37811"
       }
     ]
   }
