@@ -29,7 +29,7 @@
       },
       "2025-04-07": {
         "C.C._123": {
-          "idOrden": null,
+          "idOrden": "NV5041",
           "trabajador": {
             "tipoDocumento": "C.C.",
             "numeroDocumento": "123",
@@ -37,6 +37,21 @@
           },
           "horario": {
             "entrada": "10:15",
+            "inicioAlmuerzo": "00:00",
+            "finAlmuerzo": "00:00",
+            "salida": "00:00"
+          },
+          "totalHoras": -10.25
+        },
+        "C.C._222": {
+          "idOrden": null,
+          "trabajador": {
+            "tipoDocumento": "C.C.",
+            "numeroDocumento": "222",
+            "nombreCompleto": "asb"
+          },
+          "horario": {
+            "entrada": "12:26",
             "inicioAlmuerzo": "00:00",
             "finAlmuerzo": "00:00",
             "salida": "00:00"
@@ -53,6 +68,12 @@
         ]
       },
       "C.C._123": {
+        "totalHoras": 0.0,
+        "diasTrabajados": [
+          "2025-04-07"
+        ]
+      },
+      "C.C._222": {
         "totalHoras": 0.0,
         "diasTrabajados": [
           "2025-04-07"
