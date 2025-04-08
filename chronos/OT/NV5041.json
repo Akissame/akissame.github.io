@@ -41,7 +41,7 @@
             "finAlmuerzo": "00:00",
             "salida": "00:00"
           },
-          "totalHoras": 0.0
+          "totalHoras": -10.25
         },
         "C.C._222": {
           "idOrden": "NV5041",
@@ -86,15 +86,33 @@
             "finAlmuerzo": "00:00",
             "salida": "00:00"
           },
+          "totalHoras": -12.916666666666666
+        }
+      },
+      "2025-04-08": {
+        "C.C._1144158801": {
+          "idOrden": null,
+          "trabajador": {
+            "tipoDocumento": "C.C.",
+            "numeroDocumento": "1144158801",
+            "nombreCompleto": "Johan Steven Oliveros Rodriguez"
+          },
+          "horario": {
+            "entrada": "11:44",
+            "inicioAlmuerzo": "00:00",
+            "finAlmuerzo": "00:00",
+            "salida": "00:00"
+          },
           "totalHoras": 0.0
         }
       }
     },
     "resumenHoras": {
       "C.C._1144158801": {
-        "totalHoras": 0.0,
+        "totalHoras": 0.4666666666666667,
         "diasTrabajados": [
-          "2025-03-26"
+          "2025-03-26",
+          "2025-04-08"
         ]
       },
       "C.C._123": {
