@@ -1062,5 +1062,79 @@
         "achievementBadgeName": "149022"
       }
     ]
+  },
+  {
+    "gameId": 4969,
+    "gameTitle": "Super Mario World: Super Mario Advance 2",
+    "gameImageIcon": "/Images/039083.png",
+    "gameImageTitle": "/Images/007070.png",
+    "gameImageIngame": "/Images/007067.png",
+    "gameImageBoxArt": "/Images/007066.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 37552,
+    "achievementTitle": "Cookie Mountain Crumbled",
+    "achievementDescription": "Defeat Ludwig Von Koopa in Cookie Mountain",
+    "achievementBadgeName": "412123",
+    "achievementDateStart": "2025-04-14T00:00:00.000000Z",
+    "achievementDateEnd": "2025-04-21T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 25460,
+        "gameTitle": "Odama",
+        "gameImageIcon": "/Images/082274.png",
+        "gameImageTitle": "/Images/082272.png",
+        "gameImageIngame": "/Images/082273.png",
+        "gameImageBoxArt": "/Images/081366.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 443991,
+        "achievementTitle": "Open the Floodgates!",
+        "achievementDescription": "Conquer Kuruwa Plains III.",
+        "achievementBadgeName": "501299"
+      },
+      {
+        "gameId": 9611,
+        "gameTitle": "The Abbey of Crime",
+        "gameImageIcon": "/Images/054614.png",
+        "gameImageTitle": "/Images/053184.png",
+        "gameImageIngame": "/Images/053185.png",
+        "gameImageBoxArt": "/Images/054983.png",
+        "consoleID": 37,
+        "consoleName": "Amstrad CPC",
+        "achievementId": 203814,
+        "achievementTitle": "Penitenziagite!",
+        "achievementDescription": "[III] In which the papyrus is found and a mysterious monk is discovered.",
+        "achievementBadgeName": "227274"
+      },
+      {
+        "gameId": 1143,
+        "gameTitle": "R-Type III: The Third Lightning",
+        "gameImageIcon": "/Images/064800.png",
+        "gameImageTitle": "/Images/035364.png",
+        "gameImageIngame": "/Images/035365.png",
+        "gameImageBoxArt": "/Images/064805.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 6204,
+        "achievementTitle": "Stage 4 Cleared",
+        "achievementDescription": "You've defeated Creature 666 [no level select]",
+        "achievementBadgeName": "06639"
+      },
+      {
+        "gameId": 784,
+        "gameTitle": "Mega Man Zero 4",
+        "gameImageIcon": "/Images/046277.png",
+        "gameImageTitle": "/Images/033794.png",
+        "gameImageIngame": "/Images/005210.png",
+        "gameImageBoxArt": "/Images/005028.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 26466,
+        "achievementTitle": "Global Warming",
+        "achievementDescription": "Get through the Artifical Sun to halt the sun",
+        "achievementBadgeName": "185266"
+      }
+    ]
   }
 ]
