@@ -1136,5 +1136,79 @@
         "achievementBadgeName": "185266"
       }
     ]
+  },
+  {
+    "gameId": 4618,
+    "gameTitle": "The Flintstones: The Surprise at Dinosaur Peak!",
+    "gameImageIcon": "/Images/012159.png",
+    "gameImageTitle": "/Images/012157.png",
+    "gameImageIngame": "/Images/012158.png",
+    "gameImageBoxArt": "/Images/012156.png",
+    "consoleID": 7,
+    "consoleName": "NES/Famicom",
+    "achievementId": 76423,
+    "achievementTitle": "Witch's House",
+    "achievementDescription": "Beat level 7 (Witch's House) (no debug mode)",
+    "achievementBadgeName": "81514",
+    "achievementDateStart": "2025-04-21T00:00:00.000000Z",
+    "achievementDateEnd": "2025-04-28T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 273,
+        "gameTitle": "Alien 3",
+        "gameImageIcon": "/Images/049187.png",
+        "gameImageTitle": "/Images/001236.png",
+        "gameImageIngame": "/Images/001237.png",
+        "gameImageBoxArt": "/Images/002034.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 451,
+        "achievementTitle": "Stage 1 - The Corridor #12",
+        "achievementDescription": "Complete the 1st stage",
+        "achievementBadgeName": "18891"
+      },
+      {
+        "gameId": 1858,
+        "gameTitle": "Ninja Gaiden III: The Ancient Ship of Doom",
+        "gameImageIcon": "/Images/033108.png",
+        "gameImageTitle": "/Images/002632.png",
+        "gameImageIngame": "/Images/002631.png",
+        "gameImageBoxArt": "/Images/012661.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 12177,
+        "achievementTitle": "Fortress",
+        "achievementDescription": "Defeat the BIO-NOID Doppelganger and clear Act 5",
+        "achievementBadgeName": "451474"
+      },
+      {
+        "gameId": 27859,
+        "gameTitle": "Freestyle Metal X",
+        "gameImageIcon": "/Images/098611.png",
+        "gameImageTitle": "/Images/098612.png",
+        "gameImageIngame": "/Images/098613.png",
+        "gameImageBoxArt": "/Images/098616.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 440541,
+        "achievementTitle": "Rodeo Rise - Race",
+        "achievementDescription": "Win the race in Rodeo Rise",
+        "achievementBadgeName": "497216"
+      },
+      {
+        "gameId": 989,
+        "gameTitle": "Lamborghini American Challenge",
+        "gameImageIcon": "/Images/046979.png",
+        "gameImageTitle": "/Images/006022.png",
+        "gameImageIngame": "/Images/006023.png",
+        "gameImageBoxArt": "/Images/006024.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 46012,
+        "achievementTitle": "Second Division",
+        "achievementDescription": "Reach Division 2.",
+        "achievementBadgeName": "60084"
+      }
+    ]
   }
 ]
