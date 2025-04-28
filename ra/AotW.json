@@ -1240,6 +1240,48 @@
         "achievementTitle": "It's the Best Place to Be (Super Edition)",
         "achievementDescription": "Finish the game",
         "achievementBadgeName": "44766"
+      },
+      {
+        "gameId": 20377,
+        "gameTitle": "Kaze no NOTAM",
+        "gameImageIcon": "/Images/064028.png",
+        "gameImageTitle": "/Images/063516.png",
+        "gameImageIngame": "/Images/063517.png",
+        "gameImageBoxArt": "/Images/063005.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 266043,
+        "achievementTitle": "Round 3 Expert",
+        "achievementDescription": "Clear Round 3 - Pop a balloon under 1 minute",
+        "achievementBadgeName": "294234"
+      },
+      {
+        "gameId": 1020,
+        "gameTitle": "MechWarrior",
+        "gameImageIcon": "/Images/041875.png",
+        "gameImageTitle": "/Images/041854.png",
+        "gameImageIngame": "/Images/041855.png",
+        "gameImageBoxArt": "/Images/041856.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 141263,
+        "achievementTitle": "Alpha",
+        "achievementDescription": "Defeat Wolf Glupper",
+        "achievementBadgeName": "157368"
+      },
+      {
+        "gameId": 23989,
+        "gameTitle": "Gothik",
+        "gameImageIcon": "/Images/072059.png",
+        "gameImageTitle": "/Images/072060.png",
+        "gameImageIngame": "/Images/072057.png",
+        "gameImageBoxArt": "/Images/072058.png",
+        "consoleID": 37,
+        "consoleName": "Amstrad CPC",
+        "achievementId": 313201,
+        "achievementTitle": "Lone Wolf",
+        "achievementDescription": "Complete level 4.",
+        "achievementBadgeName": "346415"
       }
     ]
   }
