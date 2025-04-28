@@ -1210,5 +1210,37 @@
         "achievementBadgeName": "60084"
       }
     ]
+  },
+  {
+    "gameId": 11270,
+    "gameTitle": "Final Fantasy VIII",
+    "gameImageIcon": "/Images/070799.png",
+    "gameImageTitle": "/Images/020141.png",
+    "gameImageIngame": "/Images/020142.png",
+    "gameImageBoxArt": "/Images/049133.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 96418,
+    "achievementTitle": "Dogs of War",
+    "achievementDescription": "Complete your Seed exam.",
+    "achievementBadgeName": "105136",
+    "achievementDateStart": "2025-04-28T00:00:00.000000Z",
+    "achievementDateEnd": "2025-05-05T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 937,
+        "gameTitle": "Home Alone 2: Lost in New York",
+        "gameImageIcon": "/Images/009478.png",
+        "gameImageTitle": "/Images/009474.png",
+        "gameImageIngame": "/Images/009475.png",
+        "gameImageBoxArt": "/Images/009473.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 43846,
+        "achievementTitle": "It's the Best Place to Be (Super Edition)",
+        "achievementDescription": "Finish the game",
+        "achievementBadgeName": "44766"
+      }
+    ]
   }
 ]
