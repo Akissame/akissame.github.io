@@ -322,5 +322,79 @@
         "achievementBadgeName": "37811"
       }
     ]
+  },
+  {
+    "gameId": 3151,
+    "gameTitle": "Sly Cooper and the Thievius Raccoonus",
+    "gameImageIcon": "/Images/084368.png",
+    "gameImageTitle": "/Images/061947.png",
+    "gameImageIngame": "/Images/061948.png",
+    "gameImageBoxArt": "/Images/054194.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 261464,
+    "achievementTitle": "Clockwerk Scrapped",
+    "achievementDescription": "Defeat Clockwerk in \"A Strange Reunion\"",
+    "achievementBadgeName": "296298",
+    "achievementDateStart": "2025-05-05T00:00:00.000000Z",
+    "achievementDateEnd": "2025-06-02T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 5803,
+        "gameTitle": "Final Fantasy XII: International Zodiac Job System",
+        "gameImageIcon": "/Images/070802.png",
+        "gameImageTitle": "/Images/065365.png",
+        "gameImageIngame": "/Images/065366.png",
+        "gameImageBoxArt": "/Images/051965.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 227844,
+        "achievementTitle": "She Airship Enough For You",
+        "achievementDescription": "Take a ride in The Strahl for the first time",
+        "achievementBadgeName": "258342"
+      },
+      {
+        "gameId": 10533,
+        "gameTitle": "Metal Gear Solid: Peace Walker",
+        "gameImageIcon": "/Images/103151.png",
+        "gameImageTitle": "/Images/046915.png",
+        "gameImageIngame": "/Images/046917.png",
+        "gameImageBoxArt": "/Images/046912.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 187280,
+        "achievementTitle": "V For Victory!",
+        "achievementDescription": "Stop Peace Walker from launching!",
+        "achievementBadgeName": "214525"
+      },
+      {
+        "gameId": 9404,
+        "gameTitle": "Solatorobo: Red the Hunter",
+        "gameImageIcon": "/Images/088320.png",
+        "gameImageTitle": "/Images/073286.png",
+        "gameImageIngame": "/Images/073287.png",
+        "gameImageBoxArt": "/Images/028653.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 328752,
+        "achievementTitle": "Chapter 4: Elh's Phobia",
+        "achievementDescription": "Complete the Chapter 4",
+        "achievementBadgeName": "367936"
+      },
+      {
+        "gameId": 5056,
+        "gameTitle": "Tales of Innocence",
+        "gameImageIcon": "/Images/093192.png",
+        "gameImageTitle": "/Images/032194.png",
+        "gameImageIngame": "/Images/103400.png",
+        "gameImageBoxArt": "/Images/032189.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 482142,
+        "achievementTitle": "Reunions Spanning across Conflict",
+        "achievementDescription": "Win the fight against Gardel while making your escape from the Naos Base",
+        "achievementBadgeName": "546861"
+      }
+    ]
   }
 ]
