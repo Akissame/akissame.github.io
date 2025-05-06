@@ -8,12 +8,33 @@
       "id": "CO",
       "nombre": "Colcalderas"
     },
-    "responsable": {
-      "id": "",
-      "nombre": "N/A"
-    },
     "descripcion": "Personal Compras",
-    "registrosTiempo": {},
-    "resumenHoras": {}
+    "registrosTiempo": {
+      "2025-05-06": {
+        "C.C._1144158801": {
+          "idOrden": null,
+          "trabajador": {
+            "tipoDocumento": "C.C.",
+            "numeroDocumento": "1144158801",
+            "nombreCompleto": "Johan Steven Oliveros Rodriguez"
+          },
+          "horario": {
+            "entrada": "17:39",
+            "inicioAlmuerzo": "00:00",
+            "finAlmuerzo": "00:00",
+            "salida": "00:00"
+          },
+          "totalHoras": 0.0
+        }
+      }
+    },
+    "resumenHoras": {
+      "C.C._1144158801": {
+        "totalHoras": 0.0,
+        "diasTrabajados": [
+          "2025-05-06"
+        ]
+      }
+    }
   }
 }
