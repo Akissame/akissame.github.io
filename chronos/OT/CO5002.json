@@ -12,7 +12,7 @@
     "registrosTiempo": {
       "2025-05-06": {
         "C.C._1144158801": {
-          "idOrden": null,
+          "idOrden": "CO5002",
           "trabajador": {
             "tipoDocumento": "C.C.",
             "numeroDocumento": "1144158801",
@@ -24,12 +24,33 @@
             "finAlmuerzo": "00:00",
             "salida": "00:00"
           },
+          "totalHoras": -17.65
+        },
+        "C.C._16719805": {
+          "idOrden": null,
+          "trabajador": {
+            "tipoDocumento": "C.C.",
+            "numeroDocumento": "16719805",
+            "nombreCompleto": "Jairo Enrique Covaleda"
+          },
+          "horario": {
+            "entrada": "17:44",
+            "inicioAlmuerzo": "00:00",
+            "finAlmuerzo": "00:00",
+            "salida": "00:00"
+          },
           "totalHoras": 0.0
         }
       }
     },
     "resumenHoras": {
       "C.C._1144158801": {
+        "totalHoras": 0.0,
+        "diasTrabajados": [
+          "2025-05-06"
+        ]
+      },
+      "C.C._16719805": {
         "totalHoras": 0.0,
         "diasTrabajados": [
           "2025-05-06"
