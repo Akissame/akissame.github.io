@@ -1356,20 +1356,6 @@
         "achievementTitle": "Hayabusa",
         "achievementDescription": "Beat every fighter in Tournament mode with Hayabusa (Default Game Options).",
         "achievementBadgeName": "180887"
-      },
-      {
-        "gameId": 55,
-        "gameTitle": "Streets of Rage",
-        "gameImageIcon": "/Images/110823.png",
-        "gameImageTitle": "/Images/107662.png",
-        "gameImageIngame": "/Images/107663.png",
-        "gameImageBoxArt": "/Images/000520.png",
-        "consoleID": 1,
-        "consoleName": "Genesis/Mega Drive",
-        "achievementId": 88791,
-        "achievementTitle": "Punk Pancake",
-        "achievementDescription": "Beat an enemy using the crusher in Round 6",
-        "achievementBadgeName": "97700"
       }
     ]
   }
