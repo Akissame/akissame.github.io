@@ -1284,5 +1284,79 @@
         "achievementBadgeName": "346415"
       }
     ]
+  },
+  {
+    "gameId": 2588,
+    "gameTitle": "Summon Night: Swordcraft Story",
+    "gameImageIcon": "/Images/036473.png",
+    "gameImageTitle": "/Images/010288.png",
+    "gameImageIngame": "/Images/010289.png",
+    "gameImageBoxArt": "/Images/007653.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 49123,
+    "achievementTitle": "A Sword is Not Strength",
+    "achievementDescription": "Complete the 2nd day.",
+    "achievementBadgeName": "49740",
+    "achievementDateStart": "2025-05-05T00:00:00.000000Z",
+    "achievementDateEnd": "2025-05-12T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 913,
+        "gameTitle": "First Samurai",
+        "gameImageIcon": "/Images/077040.png",
+        "gameImageTitle": "/Images/074421.png",
+        "gameImageIngame": "/Images/074422.png",
+        "gameImageBoxArt": "/Images/074423.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 372409,
+        "achievementTitle": "Suisei",
+        "achievementDescription": "Slay Suisei.",
+        "achievementBadgeName": "419509"
+      },
+      {
+        "gameId": 6710,
+        "gameTitle": "Yu-Gi-Oh! 5D's Tag Force 5",
+        "gameImageIcon": "/Images/048258.png",
+        "gameImageTitle": "/Images/053433.png",
+        "gameImageIngame": "/Images/053432.png",
+        "gameImageBoxArt": "/Images/047860.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 198258,
+        "achievementTitle": "Slugger",
+        "achievementDescription": "[Story Mode] Caused 10,000 or more points of battle damage during a duel",
+        "achievementBadgeName": "220283"
+      },
+      {
+        "gameId": 12652,
+        "gameTitle": "Sonic the Hedgehog 2",
+        "gameImageIcon": "/Images/107953.png",
+        "gameImageTitle": "/Images/016961.png",
+        "gameImageIngame": "/Images/016963.png",
+        "gameImageBoxArt": "/Images/016964.png",
+        "consoleID": 15,
+        "consoleName": "Game Gear",
+        "achievementId": 71106,
+        "achievementTitle": "Factory Shutdown",
+        "achievementDescription": "Clear Gimmick Mountain Zone.",
+        "achievementBadgeName": "67296"
+      },
+      {
+        "gameId": 11395,
+        "gameTitle": "Dead or Alive",
+        "gameImageIcon": "/Images/027261.png",
+        "gameImageTitle": "/Images/046127.png",
+        "gameImageIngame": "/Images/046126.png",
+        "gameImageBoxArt": "/Images/046125.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 160920,
+        "achievementTitle": "Hayabusa",
+        "achievementDescription": "Beat every fighter in Tournament mode with Hayabusa (Default Game Options).",
+        "achievementBadgeName": "180887"
+      }
+    ]
   }
 ]
