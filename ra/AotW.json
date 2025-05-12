@@ -1358,5 +1358,79 @@
         "achievementBadgeName": "180887"
       }
     ]
+  },
+  {
+    "gameId": 2663,
+    "gameTitle": "Disaster Report | SOS: The Final Escape | Zettai Zetsumei Toshi",
+    "gameImageIcon": "/Images/052679.png",
+    "gameImageTitle": "/Images/091858.png",
+    "gameImageIngame": "/Images/091863.png",
+    "gameImageBoxArt": "/Images/052786.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 460887,
+    "achievementTitle": "Aspiring Journalist",
+    "achievementDescription": "Meet a freelance photographer.",
+    "achievementBadgeName": "521967",
+    "achievementDateStart": "2025-05-12T00:00:00.000000Z",
+    "achievementDateEnd": "2025-05-19T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 12611,
+        "gameTitle": "Ninja Gaiden | Shadow Warriors | Ninja Ryukenden",
+        "gameImageIcon": "/Images/095082.png",
+        "gameImageTitle": "/Images/029171.png",
+        "gameImageIngame": "/Images/029172.png",
+        "gameImageBoxArt": "/Images/095081.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 459261,
+        "achievementTitle": "Canyon Crosser",
+        "achievementDescription": "Clear Round 4 on standard settings or harder.",
+        "achievementBadgeName": "519952"
+      },
+      {
+        "gameId": 12864,
+        "gameTitle": "Detective Conan: Legend of the Treasure of Strange Rock Island",
+        "gameImageIcon": "/Images/073581.png",
+        "gameImageTitle": "/Images/017554.png",
+        "gameImageIngame": "/Images/019720.png",
+        "gameImageBoxArt": "/Images/017553.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 67189,
+        "achievementTitle": "The important evidence",
+        "achievementDescription": "Get the important evidence in this case.",
+        "achievementBadgeName": "71023"
+      },
+      {
+        "gameId": 1223,
+        "gameTitle": "Super Nova | Darius Force",
+        "gameImageIcon": "/Images/047440.png",
+        "gameImageTitle": "/Images/047441.png",
+        "gameImageIngame": "/Images/047442.png",
+        "gameImageBoxArt": "/Images/023028.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 170163,
+        "achievementTitle": "Metal Spiral Snail",
+        "achievementDescription": "Clear Zone F.",
+        "achievementBadgeName": "191159"
+      },
+      {
+        "gameId": 6427,
+        "gameTitle": "Yu-Gi-Oh! ARC-V Tag Force Special",
+        "gameImageIcon": "/Images/048259.png",
+        "gameImageTitle": "/Images/075585.png",
+        "gameImageIngame": "/Images/075586.png",
+        "gameImageBoxArt": "/Images/047864.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 330066,
+        "achievementTitle": "Dark Duelist's Debut",
+        "achievementDescription": "Complete the 1st heart event of Yami Yugi",
+        "achievementBadgeName": "372352"
+      }
+    ]
   }
 ]
