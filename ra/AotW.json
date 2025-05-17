@@ -1299,7 +1299,7 @@
     "achievementDescription": "Complete the 2nd day.",
     "achievementBadgeName": "49740",
     "achievementDateStart": "2025-05-05T00:00:00.000000Z",
-    "achievementDateEnd": "2025-05-12T00:00:00.000000Z",
+    "achievementDateEnd": "2025-05-12T00:00:00.000000",
     "swaps": [
       {
         "gameId": 913,
