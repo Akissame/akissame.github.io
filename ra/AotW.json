@@ -12,8 +12,8 @@
     "achievementTitle": "Adventure Man: Action Force Victory",
     "achievementDescription": "Complete the Dr X Battle on Adventure Mode (No Passwords)",
     "achievementBadgeName": "399242",
-    "achievementDateStart": "2025-01-06T00:00:00.000000Z",
-    "achievementDateEnd": "2025-01-13T00:00:00.000000Z",
+    "achievementDateStart": "2025-01-06T00:00:00.000000",
+    "achievementDateEnd": "2025-01-13T00:00:00.000000",
     "swaps": [
       {
         "gameId": 111,
@@ -86,8 +86,8 @@
     "achievementTitle": "Hell of an Ending",
     "achievementDescription": "Clear Final Mission in Arcade Mode",
     "achievementBadgeName": "404040",
-    "achievementDateStart": "2025-01-13T00:00:00.000000Z",
-    "achievementDateEnd": "2025-01-20T00:00:00.000000Z",
+    "achievementDateStart": "2025-01-13T00:00:00.000000",
+    "achievementDateEnd": "2025-01-20T00:00:00.000000",
     "swaps": [
       {
         "gameId": 1095,
@@ -160,8 +160,8 @@
     "achievementTitle": "Same Time, Same Panel",
     "achievementDescription": "Clear Vs. Mode (Any Difficulty)",
     "achievementBadgeName": "299501",
-    "achievementDateStart": "2025-01-20T00:00:00.000000Z",
-    "achievementDateEnd": "2025-01-27T00:00:00.000000Z",
+    "achievementDateStart": "2025-01-20T00:00:00.000000",
+    "achievementDateEnd": "2025-01-27T00:00:00.000000",
     "swaps": [
       {
         "gameId": 23834,
@@ -234,8 +234,8 @@
     "achievementTitle": "Expert Stacker",
     "achievementDescription": "Complete all 16 levels of Round Clear mode on Very Hard difficulty",
     "achievementBadgeName": "125189",
-    "achievementDateStart": "2025-01-27T00:00:00.000000Z",
-    "achievementDateEnd": "2025-02-03T00:00:00.000000Z",
+    "achievementDateStart": "2025-01-27T00:00:00.000000",
+    "achievementDateEnd": "2025-02-03T00:00:00.000000",
     "swaps": [
       {
         "gameId": 19020,
@@ -308,8 +308,8 @@
     "achievementTitle": "Poked Out",
     "achievementDescription": "Defeat Pokey and win the game.",
     "achievementBadgeName": "248298",
-    "achievementDateStart": "2025-02-03T00:00:00.000000Z",
-    "achievementDateEnd": "2025-02-10T00:00:00.000000Z",
+    "achievementDateStart": "2025-02-03T00:00:00.000000",
+    "achievementDateEnd": "2025-02-10T00:00:00.000000",
     "swaps": [
       {
         "gameId": 17959,
@@ -382,8 +382,8 @@
     "achievementTitle": "Seventh Heaven",
     "achievementDescription": "Complete Target 00 [Angel] in Killer7 mode and on any difficulty",
     "achievementBadgeName": "467631",
-    "achievementDateStart": "2025-02-10T00:00:00.000000Z",
-    "achievementDateEnd": "2025-02-17T00:00:00.000000Z",
+    "achievementDateStart": "2025-02-10T00:00:00.000000",
+    "achievementDateEnd": "2025-02-17T00:00:00.000000",
     "swaps": [
       {
         "gameId": 12780,
@@ -456,8 +456,8 @@
     "achievementTitle": "Pete Castle-Donald",
     "achievementDescription": "Complete the Game as Donald Duck",
     "achievementBadgeName": "37839",
-    "achievementDateStart": "2025-02-17T00:00:00.000000Z",
-    "achievementDateEnd": "2025-02-24T00:00:00.000000Z",
+    "achievementDateStart": "2025-02-17T00:00:00.000000",
+    "achievementDateEnd": "2025-02-24T00:00:00.000000",
     "swaps": [
       {
         "gameId": 4941,
@@ -530,8 +530,8 @@
     "achievementTitle": "Shadow Wood",
     "achievementDescription": "Enter the second hub Shadow Wood",
     "achievementBadgeName": "362977",
-    "achievementDateStart": "2025-02-24T00:00:00.000000Z",
-    "achievementDateEnd": "2025-03-03T00:00:00.000000Z",
+    "achievementDateStart": "2025-02-24T00:00:00.000000",
+    "achievementDateEnd": "2025-03-03T00:00:00.000000",
     "swaps": [
       {
         "gameId": 5345,
@@ -604,8 +604,8 @@
     "achievementTitle": "Arcana Arcade Adventure!!",
     "achievementDescription": "Finish Arcade Mode (default settings).",
     "achievementBadgeName": "396311",
-    "achievementDateStart": "2025-03-03T00:00:00.000000Z",
-    "achievementDateEnd": "2025-03-10T00:00:00.000000Z",
+    "achievementDateStart": "2025-03-03T00:00:00.000000",
+    "achievementDateEnd": "2025-03-10T00:00:00.000000",
     "swaps": [
       {
         "gameId": 17560,
@@ -678,8 +678,8 @@
     "achievementTitle": "All the Monkeys in the House Go Yeah",
     "achievementDescription": "Transform gorilla Slugloafe back into a human",
     "achievementBadgeName": "526918",
-    "achievementDateStart": "2025-03-10T00:00:00.000000Z",
-    "achievementDateEnd": "2025-03-17T00:00:00.000000Z",
+    "achievementDateStart": "2025-03-10T00:00:00.000000",
+    "achievementDateEnd": "2025-03-17T00:00:00.000000",
     "swaps": [
       {
         "gameId": 16,
@@ -766,8 +766,8 @@
     "achievementTitle": "Shashin no Kuni",
     "achievementDescription": "Successfully capture the objective in Historic Town Tsukiji. [>= Normal]",
     "achievementBadgeName": "310009",
-    "achievementDateStart": "2025-03-17T00:00:00.000000Z",
-    "achievementDateEnd": "2025-03-24T00:00:00.000000Z",
+    "achievementDateStart": "2025-03-17T00:00:00.000000",
+    "achievementDateEnd": "2025-03-24T00:00:00.000000",
     "swaps": [
       {
         "gameId": 1980,
@@ -840,8 +840,8 @@
     "achievementTitle": "Magnetic Mastery",
     "achievementDescription": "Defeat Donkey Kong in Magnet Mania",
     "achievementBadgeName": "377737",
-    "achievementDateStart": "2025-03-24T00:00:00.000000Z",
-    "achievementDateEnd": "2025-03-31T00:00:00.000000Z",
+    "achievementDateStart": "2025-03-24T00:00:00.000000",
+    "achievementDateEnd": "2025-03-31T00:00:00.000000",
     "swaps": [
       {
         "gameId": 14544,
@@ -914,8 +914,8 @@
     "achievementTitle": "You're A Planet In My Heart",
     "achievementDescription": "Create Pluto.",
     "achievementBadgeName": "249930",
-    "achievementDateStart": "2025-03-31T00:00:00.000000Z",
-    "achievementDateEnd": "2025-04-07T00:00:00.000000Z",
+    "achievementDateStart": "2025-03-31T00:00:00.000000",
+    "achievementDateEnd": "2025-04-07T00:00:00.000000",
     "swaps": [
       {
         "gameId": 4680,
@@ -1002,8 +1002,8 @@
     "achievementTitle": "Knights",
     "achievementDescription": "Defeat all Knights rivals.",
     "achievementBadgeName": "223125",
-    "achievementDateStart": "2025-04-07T00:00:00.000000Z",
-    "achievementDateEnd": "2025-04-14T00:00:00.000000Z",
+    "achievementDateStart": "2025-04-07T00:00:00.000000",
+    "achievementDateEnd": "2025-04-14T00:00:00.000000",
     "swaps": [
       {
         "gameId": 1477,
@@ -1076,8 +1076,8 @@
     "achievementTitle": "Cookie Mountain Crumbled",
     "achievementDescription": "Defeat Ludwig Von Koopa in Cookie Mountain",
     "achievementBadgeName": "412123",
-    "achievementDateStart": "2025-04-14T00:00:00.000000Z",
-    "achievementDateEnd": "2025-04-21T00:00:00.000000Z",
+    "achievementDateStart": "2025-04-14T00:00:00.000000",
+    "achievementDateEnd": "2025-04-21T00:00:00.000000",
     "swaps": [
       {
         "gameId": 25460,
@@ -1150,8 +1150,8 @@
     "achievementTitle": "Witch's House",
     "achievementDescription": "Beat level 7 (Witch's House) (no debug mode)",
     "achievementBadgeName": "81514",
-    "achievementDateStart": "2025-04-21T00:00:00.000000Z",
-    "achievementDateEnd": "2025-04-28T00:00:00.000000Z",
+    "achievementDateStart": "2025-04-21T00:00:00.000000",
+    "achievementDateEnd": "2025-04-28T00:00:00.000000",
     "swaps": [
       {
         "gameId": 273,
@@ -1224,8 +1224,8 @@
     "achievementTitle": "Dogs of War",
     "achievementDescription": "Complete your SeeD exam.",
     "achievementBadgeName": "105136",
-    "achievementDateStart": "2025-04-28T00:00:00.000000Z",
-    "achievementDateEnd": "2025-05-05T00:00:00.000000Z",
+    "achievementDateStart": "2025-04-28T00:00:00.000000",
+    "achievementDateEnd": "2025-05-05T00:00:00.000000",
     "swaps": [
       {
         "gameId": 937,
@@ -1298,7 +1298,7 @@
     "achievementTitle": "A Sword is Not Strength",
     "achievementDescription": "Complete the 2nd day.",
     "achievementBadgeName": "49740",
-    "achievementDateStart": "2025-05-05T00:00:00.000000Z",
+    "achievementDateStart": "2025-05-05T00:00:00.000000",
     "achievementDateEnd": "2025-05-12T00:00:00.000000",
     "swaps": [
       {
@@ -1372,8 +1372,8 @@
     "achievementTitle": "Aspiring Journalist",
     "achievementDescription": "Meet a freelance photographer.",
     "achievementBadgeName": "521967",
-    "achievementDateStart": "2025-05-12T00:00:00.000000Z",
-    "achievementDateEnd": "2025-05-19T00:00:00.000000Z",
+    "achievementDateStart": "2025-05-12T00:00:00.000000",
+    "achievementDateEnd": "2025-05-19T00:00:00.000000",
     "swaps": [
       {
         "gameId": 12611,
