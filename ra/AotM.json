@@ -12,8 +12,8 @@
     "achievementTitle": "No Time to Lose",
     "achievementDescription": "Give Mr. Sanderson the \"love\" letter",
     "achievementBadgeName": "494148",
-    "achievementDateStart": "2025-01-06T00:00:00.000000Z",
-    "achievementDateEnd": "2025-02-03T00:00:00.000000Z",
+    "achievementDateStart": "2025-01-06T00:00:00.000000",
+    "achievementDateEnd": "2025-02-03T00:00:00.000000",
     "swaps": [
       {
         "gameId": 16343,
@@ -114,8 +114,8 @@
     "achievementTitle": "Something's Fishy",
     "achievementDescription": "Finish this silly game properly",
     "achievementBadgeName": "123989",
-    "achievementDateStart": "2025-02-03T00:00:00.000000Z",
-    "achievementDateEnd": "2025-03-03T00:00:00.000000Z",
+    "achievementDateStart": "2025-02-03T00:00:00.000000",
+    "achievementDateEnd": "2025-03-03T00:00:00.000000",
     "swaps": [
       {
         "gameId": 2689,
@@ -188,8 +188,8 @@
     "achievementTitle": "League Champion",
     "achievementDescription": "Defeat the current champion and become the Pokémon League Champion",
     "achievementBadgeName": "315508",
-    "achievementDateStart": "2025-03-03T00:00:00.000000Z",
-    "achievementDateEnd": "2025-04-07T00:00:00.000000Z",
+    "achievementDateStart": "2025-03-03T00:00:00.000000",
+    "achievementDateEnd": "2025-04-07T00:00:00.000000",
     "swaps": [
       {
         "gameId": 7054,
@@ -262,8 +262,8 @@
     "achievementTitle": "Kuwabara, Kuwabara",
     "achievementDescription": "Eavesdrop on Olga in the Shell 2 core",
     "achievementBadgeName": "264571",
-    "achievementDateStart": "2025-04-07T00:00:00.000000Z",
-    "achievementDateEnd": "2025-05-05T00:00:00.000000Z",
+    "achievementDateStart": "2025-04-07T00:00:00.000000",
+    "achievementDateEnd": "2025-05-05T00:00:00.000000",
     "swaps": [
       {
         "gameId": 15916,
@@ -336,8 +336,8 @@
     "achievementTitle": "Clockwerk Scrapped",
     "achievementDescription": "Defeat Clockwerk in \"A Strange Reunion\"",
     "achievementBadgeName": "296298",
-    "achievementDateStart": "2025-05-05T00:00:00.000000Z",
-    "achievementDateEnd": "2025-06-02T00:00:00.000000Z",
+    "achievementDateStart": "2025-05-05T00:00:00.000000",
+    "achievementDateEnd": "2025-06-02T00:00:00.000000",
     "swaps": [
       {
         "gameId": 5803,
