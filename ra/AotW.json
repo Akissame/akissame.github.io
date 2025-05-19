@@ -1432,5 +1432,79 @@
         "achievementBadgeName": "372352"
       }
     ]
+  },
+  {
+    "gameId": 3206,
+    "gameTitle": "Magic Knight Rayearth",
+    "gameImageIcon": "/Images/053390.png",
+    "gameImageTitle": "/Images/053431.png",
+    "gameImageIngame": "/Images/053430.png",
+    "gameImageBoxArt": "/Images/019906.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 199019,
+    "achievementTitle": "Happiness for Your Friends",
+    "achievementDescription": "Prove yourself to the water mashin",
+    "achievementBadgeName": "221120",
+    "achievementDateStart": "2025-05-19T00:00:00.000000Z",
+    "achievementDateEnd": "2025-05-26T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 7961,
+        "gameTitle": "Splash Lake",
+        "gameImageIcon": "/Images/052596.png",
+        "gameImageTitle": "/Images/052597.png",
+        "gameImageIngame": "/Images/052598.png",
+        "gameImageBoxArt": "/Images/033686.png",
+        "consoleID": 76,
+        "consoleName": "PC Engine CD/TurboGrafx-CD",
+        "achievementId": 195369,
+        "achievementTitle": "Level Set 3",
+        "achievementDescription": "Complete the third set of levels. [3-XX]",
+        "achievementBadgeName": "217143"
+      },
+      {
+        "gameId": 2283,
+        "gameTitle": "Cadash",
+        "gameImageIcon": "/Images/053874.png",
+        "gameImageTitle": "/Images/053950.png",
+        "gameImageIngame": "/Images/053903.png",
+        "gameImageBoxArt": "/Images/053876.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 201503,
+        "achievementTitle": "Resized",
+        "achievementDescription": "Obtained the Flower of Maiya",
+        "achievementBadgeName": "223767"
+      },
+      {
+        "gameId": 348,
+        "gameTitle": "JoJo's Bizarre Adventure",
+        "gameImageIcon": "/Images/101436.png",
+        "gameImageTitle": "/Images/053784.png",
+        "gameImageIngame": "/Images/053785.png",
+        "gameImageBoxArt": "/Images/053787.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 459332,
+        "achievementTitle": "Anubis Strikes",
+        "achievementDescription": "[Jojo's Bizarre Adventure] Complete Story mode as Chaka. (Default Settings)",
+        "achievementBadgeName": "520104"
+      },
+      {
+        "gameId": 15520,
+        "gameTitle": "Bleach: The Blade of Fate",
+        "gameImageIcon": "/Images/049119.png",
+        "gameImageTitle": "/Images/049426.png",
+        "gameImageIngame": "/Images/049427.png",
+        "gameImageBoxArt": "/Images/049118.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 178579,
+        "achievementTitle": "Playing on the Soul Society",
+        "achievementDescription": "Finish the Episode 03 - Orihime Story",
+        "achievementBadgeName": "485377"
+      }
+    ]
   }
 ]
