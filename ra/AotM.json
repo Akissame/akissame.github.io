@@ -396,5 +396,79 @@
         "achievementBadgeName": "546861"
       }
     ]
+  },
+  {
+    "gameId": 9190,
+    "gameTitle": "The Legend of Zelda: The Wind Waker",
+    "gameImageIcon": "/Images/099022.png",
+    "gameImageTitle": "/Images/099572.png",
+    "gameImageIngame": "/Images/099571.png",
+    "gameImageBoxArt": "/Images/050398.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 423365,
+    "achievementTitle": "Farore's Dream",
+    "achievementDescription": "Obtain Farore's Pearl.",
+    "achievementBadgeName": "501486",
+    "achievementDateStart": "2025-06-02T00:00:00.000000Z",
+    "achievementDateEnd": "2025-07-07T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17492,
+        "gameTitle": "Pokémon Mystery Dungeon: Blue Rescue Team",
+        "gameImageIcon": "/Images/044315.png",
+        "gameImageTitle": "/Images/047785.png",
+        "gameImageIngame": "/Images/044707.png",
+        "gameImageBoxArt": "/Images/044314.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 164028,
+        "achievementTitle": "The Legend of Ninetales",
+        "achievementDescription": "Scale Mt. Freeze and prove your innocence",
+        "achievementBadgeName": "187793"
+      },
+      {
+        "gameId": 1308,
+        "gameTitle": "Dark Cloud 2",
+        "gameImageIcon": "/Images/074918.png",
+        "gameImageTitle": "/Images/074919.png",
+        "gameImageIngame": "/Images/074920.png",
+        "gameImageBoxArt": "/Images/112113.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 348088,
+        "achievementTitle": "Gordon's Worries",
+        "achievementDescription": "Recruit Gordon",
+        "achievementBadgeName": "393404"
+      },
+      {
+        "gameId": 3398,
+        "gameTitle": "Shenmue",
+        "gameImageIcon": "/Images/053854.png",
+        "gameImageTitle": "/Images/087470.png",
+        "gameImageIngame": "/Images/087471.png",
+        "gameImageBoxArt": "/Images/053080.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 376810,
+        "achievementTitle": "Goal Line Guardian",
+        "achievementDescription": "Beat up Charlie after he ambush you [Story]",
+        "achievementBadgeName": "423353"
+      },
+      {
+        "gameId": 14817,
+        "gameTitle": "Pikmin 2",
+        "gameImageIcon": "/Images/110402.png",
+        "gameImageTitle": "/Images/067945.png",
+        "gameImageIngame": "/Images/068403.png",
+        "gameImageBoxArt": "/Images/099615.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 398500,
+        "achievementTitle": "Topple the Dynasty",
+        "achievementDescription": "Collect every treasure in the Bulblax Kingdom",
+        "achievementBadgeName": "450177"
+      }
+    ]
   }
 ]
