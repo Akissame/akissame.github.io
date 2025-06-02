@@ -1566,5 +1566,79 @@
         "achievementBadgeName": "80107"
       }
     ]
+  },
+  {
+    "gameId": 11409,
+    "gameTitle": "Gex",
+    "gameImageIcon": "/Images/109674.png",
+    "gameImageTitle": "/Images/018361.png",
+    "gameImageIngame": "/Images/018362.png",
+    "gameImageBoxArt": "/Images/047782.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 129967,
+    "achievementTitle": "Cartoon Climber",
+    "achievementDescription": "Get the remote from Twin Towers and safely exit the level.",
+    "achievementBadgeName": "142478",
+    "achievementDateStart": "2025-06-02T00:00:00.000000Z",
+    "achievementDateEnd": "2025-06-09T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 14516,
+        "gameTitle": "Clockwork Knight",
+        "gameImageIcon": "/Images/044274.png",
+        "gameImageTitle": "/Images/027393.png",
+        "gameImageIngame": "/Images/027394.png",
+        "gameImageBoxArt": "/Images/027396.png",
+        "consoleID": 39,
+        "consoleName": "Saturn",
+        "achievementId": 143892,
+        "achievementTitle": "Piece of Cake",
+        "achievementDescription": "Complete the Kitchen (start with 3 lives, no level select allowed)",
+        "achievementBadgeName": "156616"
+      },
+      {
+        "gameId": 11383,
+        "gameTitle": "Twisted Metal",
+        "gameImageIcon": "/Images/059514.png",
+        "gameImageTitle": "/Images/026573.png",
+        "gameImageIngame": "/Images/026574.png",
+        "gameImageBoxArt": "/Images/053349.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 89701,
+        "achievementTitle": "Minion",
+        "achievementDescription": "Defeat Minion medium or higher difficulty",
+        "achievementBadgeName": "316757"
+      },
+      {
+        "gameId": 279,
+        "gameTitle": "Killer Instinct",
+        "gameImageIcon": "/Images/045854.png",
+        "gameImageTitle": "/Images/000167.png",
+        "gameImageIngame": "/Images/000040.png",
+        "gameImageBoxArt": "/Images/000169.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 2401,
+        "achievementTitle": "Komplete Koward",
+        "achievementDescription": "Complete the game on any difficulty level",
+        "achievementBadgeName": "02901"
+      },
+      {
+        "gameId": 23879,
+        "gameTitle": "Super Sidekicks 3: The Next Glory",
+        "gameImageIcon": "/Images/083067.png",
+        "gameImageTitle": "/Images/083081.png",
+        "gameImageIngame": "/Images/083049.png",
+        "gameImageBoxArt": "/Images/083050.png",
+        "consoleID": 56,
+        "consoleName": "Neo Geo CD",
+        "achievementId": 361526,
+        "achievementTitle": "World Triumph!",
+        "achievementDescription": "Become Champion in World Tournament once [Any Settings]",
+        "achievementBadgeName": "406949"
+      }
+    ]
   }
 ]
