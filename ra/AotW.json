@@ -1640,5 +1640,79 @@
         "achievementBadgeName": "406949"
       }
     ]
+  },
+  {
+    "gameId": 11316,
+    "gameTitle": "Tekken 2",
+    "gameImageIcon": "/Images/086820.png",
+    "gameImageTitle": "/Images/029790.png",
+    "gameImageIngame": "/Images/085034.png",
+    "gameImageBoxArt": "/Images/057399.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 94687,
+    "achievementTitle": "Helping the Innocent",
+    "achievementDescription": "Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters",
+    "achievementBadgeName": "104371",
+    "achievementDateStart": "2025-06-09T00:00:00.000000Z",
+    "achievementDateEnd": "2025-06-16T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 14527,
+        "gameTitle": "NiGHTS into Dreams...",
+        "gameImageIcon": "/Images/112384.png",
+        "gameImageTitle": "/Images/040986.png",
+        "gameImageIngame": "/Images/040987.png",
+        "gameImageBoxArt": "/Images/033195.png",
+        "consoleID": 39,
+        "consoleName": "Saturn",
+        "achievementId": 135347,
+        "achievementTitle": "Soft Museum",
+        "achievementDescription": "Clear Soft Museum banishing Jackle.",
+        "achievementBadgeName": "148859"
+      },
+      {
+        "gameId": 10162,
+        "gameTitle": "Blast Corps",
+        "gameImageIcon": "/Images/049329.png",
+        "gameImageTitle": "/Images/010784.png",
+        "gameImageIngame": "/Images/010787.png",
+        "gameImageBoxArt": "/Images/014502.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 48355,
+        "achievementTitle": "Heavy as Deuterium Oxide",
+        "achievementDescription": "Finish the medium levels",
+        "achievementBadgeName": "49176"
+      },
+      {
+        "gameId": 5332,
+        "gameTitle": "Ridge Racer Revolution",
+        "gameImageIcon": "/Images/049669.png",
+        "gameImageTitle": "/Images/030968.png",
+        "gameImageIngame": "/Images/030965.png",
+        "gameImageBoxArt": "/Images/030967.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 97619,
+        "achievementTitle": "1st Place Novice (Extra)",
+        "achievementDescription": "Be the champion in the Novice (Extra) Race (race against 12 cars, typeS or novice speed level only)",
+        "achievementBadgeName": "106200"
+      },
+      {
+        "gameId": 10182,
+        "gameTitle": "Turok: Dinosaur Hunter",
+        "gameImageIcon": "/Images/020130.png",
+        "gameImageTitle": "/Images/011068.png",
+        "gameImageIngame": "/Images/011075.png",
+        "gameImageBoxArt": "/Images/011072.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 50584,
+        "achievementTitle": "The Hub Ruins",
+        "achievementDescription": "In Level 1, obtain all 6 keys, Normal or Hard Difficulty.",
+        "achievementBadgeName": "51244"
+      }
+    ]
   }
 ]
