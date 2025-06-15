@@ -410,8 +410,8 @@
     "achievementTitle": "Farore's Dream",
     "achievementDescription": "Obtain Farore's Pearl.",
     "achievementBadgeName": "501486",
-    "achievementDateStart": "2025-06-02T00:00:00.000000Z",
-    "achievementDateEnd": "2025-07-07T00:00:00.000000Z",
+    "achievementDateStart": "2025-06-02T00:00:00.000000",
+    "achievementDateEnd": "2025-07-07T00:00:00.000000",
     "swaps": [
       {
         "gameId": 17492,
