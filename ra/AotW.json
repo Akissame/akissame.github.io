@@ -1580,8 +1580,8 @@
     "achievementTitle": "Cartoon Climber",
     "achievementDescription": "Get the remote from Twin Towers and safely exit the level.",
     "achievementBadgeName": "142478",
-    "achievementDateStart": "2025-06-02T00:00:00.000000Z",
-    "achievementDateEnd": "2025-06-09T00:00:00.000000Z",
+    "achievementDateStart": "2025-06-02T00:00:00.000000",
+    "achievementDateEnd": "2025-06-09T00:00:00.000000",
     "swaps": [
       {
         "gameId": 14516,
@@ -1654,8 +1654,8 @@
     "achievementTitle": "Helping the Innocent",
     "achievementDescription": "Finish Arcade mode as Yoshimitsu on Medium difficulty or higher without changing characters",
     "achievementBadgeName": "104371",
-    "achievementDateStart": "2025-06-09T00:00:00.000000Z",
-    "achievementDateEnd": "2025-06-16T00:00:00.000000Z",
+    "achievementDateStart": "2025-06-09T00:00:00.000000",
+    "achievementDateEnd": "2025-06-16T00:00:00.000000",
     "swaps": [
       {
         "gameId": 14527,
