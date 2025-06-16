@@ -1714,5 +1714,79 @@
         "achievementBadgeName": "51244"
       }
     ]
+  },
+  {
+    "gameId": 10075,
+    "gameTitle": "Donkey Kong 64",
+    "gameImageIcon": "/Images/110715.png",
+    "gameImageTitle": "/Images/024244.png",
+    "gameImageIngame": "/Images/024245.png",
+    "gameImageBoxArt": "/Images/070527.png",
+    "consoleID": 2,
+    "consoleName": "Nintendo 64",
+    "achievementId": 60477,
+    "achievementTitle": "No Style, No Grace, a Funny Face",
+    "achievementDescription": "With judicious use of your Bongo Blast and Coconut Gun, free Lanky from his prison cell",
+    "achievementBadgeName": "151748",
+    "achievementDateStart": "2025-06-16T00:00:00.000000Z",
+    "achievementDateEnd": "2025-06-23T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 3872,
+        "gameTitle": "Ecco the Dolphin: Defender of the Future",
+        "gameImageIcon": "/Images/051225.png",
+        "gameImageTitle": "/Images/051153.png",
+        "gameImageIngame": "/Images/051154.png",
+        "gameImageBoxArt": "/Images/040861.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 191815,
+        "achievementTitle": "Shark Bait",
+        "achievementDescription": "Exit Perils of the Coral Reef and enter Trial Without Error for the first time.",
+        "achievementBadgeName": "212613"
+      },
+      {
+        "gameId": 11281,
+        "gameTitle": "Grandia",
+        "gameImageIcon": "/Images/107572.png",
+        "gameImageTitle": "/Images/019060.png",
+        "gameImageIngame": "/Images/019061.png",
+        "gameImageBoxArt": "/Images/046613.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 112617,
+        "achievementTitle": "Myth of the Angelou",
+        "achievementDescription": "Meet Liete of Alent in Sult Ruins and decide to journey to Alent",
+        "achievementBadgeName": "123370"
+      },
+      {
+        "gameId": 10161,
+        "gameTitle": "Star Wars - Episode I: Racer",
+        "gameImageIcon": "/Images/025641.png",
+        "gameImageTitle": "/Images/010781.png",
+        "gameImageIngame": "/Images/010782.png",
+        "gameImageBoxArt": "/Images/065050.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 195657,
+        "achievementTitle": "Ratts Tyerell",
+        "achievementDescription": "In Tournament mode, win 'Howler Gorge' in the Semi-Pro Podracing Circuit, to unlock Ratts Tyerell",
+        "achievementBadgeName": "217529"
+      },
+      {
+        "gameId": 11331,
+        "gameTitle": "Tony Hawk's Pro Skater",
+        "gameImageIcon": "/Images/033510.png",
+        "gameImageTitle": "/Images/031277.png",
+        "gameImageIngame": "/Images/031278.png",
+        "gameImageBoxArt": "/Images/031280.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 98272,
+        "achievementTitle": "Gold Medal Chicago Skate Park (Tony Hawk)",
+        "achievementDescription": "Win a Gold Medal at the Chicago Skate Park with Tony Hawk",
+        "achievementBadgeName": "135493"
+      }
+    ]
   }
 ]
