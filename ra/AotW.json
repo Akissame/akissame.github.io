@@ -1788,5 +1788,79 @@
         "achievementBadgeName": "135493"
       }
     ]
+  },
+  {
+    "gameId": 2774,
+    "gameTitle": "Jak and Daxter: The Precursor Legacy",
+    "gameImageIcon": "/Images/075720.png",
+    "gameImageTitle": "/Images/083304.png",
+    "gameImageIngame": "/Images/083305.png",
+    "gameImageBoxArt": "/Images/056588.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 245897,
+    "achievementTitle": "King of the Jungle",
+    "achievementDescription": "Collect all of the Precursor Orbs in Forbidden Jungle",
+    "achievementBadgeName": "379135",
+    "achievementDateStart": "2025-06-23T00:00:00.000000Z",
+    "achievementDateEnd": "2025-06-30T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 8329,
+        "gameTitle": "Star Fox Adventures",
+        "gameImageIcon": "/Images/100460.png",
+        "gameImageTitle": "/Images/088945.png",
+        "gameImageIngame": "/Images/088947.png",
+        "gameImageBoxArt": "/Images/088942.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 475782,
+        "achievementTitle": "Rocket Fox, Burning Out His Fuse up Here Alone",
+        "achievementDescription": "Obtain the Rocket Boost Staff Upgrade.",
+        "achievementBadgeName": "539709"
+      },
+      {
+        "gameId": 9510,
+        "gameTitle": "Super Monkey Ball",
+        "gameImageIcon": "/Images/068475.png",
+        "gameImageTitle": "/Images/089474.png",
+        "gameImageIngame": "/Images/089475.png",
+        "gameImageBoxArt": "/Images/094805.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 458927,
+        "achievementTitle": "Seasoned Monkey",
+        "achievementDescription": "Clear Advanced.",
+        "achievementBadgeName": "535998"
+      },
+      {
+        "gameId": 2983,
+        "gameTitle": "SSX Tricky",
+        "gameImageIcon": "/Images/063877.png",
+        "gameImageTitle": "/Images/063876.png",
+        "gameImageIngame": "/Images/063875.png",
+        "gameImageBoxArt": "/Images/056697.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 267292,
+        "achievementTitle": "Shredding through the Alps",
+        "achievementDescription": "Place top 3 in the World Circuit Race on Elysium Alps with any Character",
+        "achievementBadgeName": "295685"
+      },
+      {
+        "gameId": 575,
+        "gameTitle": "Mega Man Battle Network",
+        "gameImageIcon": "/Images/091410.png",
+        "gameImageTitle": "/Images/033798.png",
+        "gameImageIngame": "/Images/039814.png",
+        "gameImageBoxArt": "/Images/039813.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 8464,
+        "achievementTitle": "Roadblocked",
+        "achievementDescription": "Fix the Metroline so you can visit Dad!",
+        "achievementBadgeName": "144695"
+      }
+    ]
   }
 ]
