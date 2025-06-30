@@ -1862,5 +1862,79 @@
         "achievementBadgeName": "144695"
       }
     ]
+  },
+  {
+    "gameId": 3161,
+    "gameTitle": "LittleBigPlanet",
+    "gameImageIcon": "/Images/093947.png",
+    "gameImageTitle": "/Images/032912.png",
+    "gameImageIngame": "/Images/032913.png",
+    "gameImageBoxArt": "/Images/046833.png",
+    "consoleID": 41,
+    "consoleName": "PlayStation Portable",
+    "achievementId": 380306,
+    "achievementTitle": "Repairboy",
+    "achievementDescription": "Mortar Do - Complete The Level.",
+    "achievementBadgeName": "427849",
+    "achievementDateStart": "2025-06-30T00:00:00.000000Z",
+    "achievementDateEnd": "2025-07-07T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 11244,
+        "gameTitle": "Metal Gear Solid",
+        "gameImageIcon": "/Images/109501.png",
+        "gameImageTitle": "/Images/051525.png",
+        "gameImageIngame": "/Images/051526.png",
+        "gameImageBoxArt": "/Images/046645.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 81345,
+        "achievementTitle": "Shalashaska",
+        "achievementDescription": "Defeat Revolver Ocelot and rescue the ArmsTech president",
+        "achievementBadgeName": "87942"
+      },
+      {
+        "gameId": 10110,
+        "gameTitle": "Perfect Dark",
+        "gameImageIcon": "/Images/107798.png",
+        "gameImageTitle": "/Images/011062.png",
+        "gameImageIngame": "/Images/011064.png",
+        "gameImageBoxArt": "/Images/011065.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 99952,
+        "achievementTitle": "Carrington Villa - Hostage One [A]",
+        "achievementDescription": "Complete Carrington Villa - Hostage One on Agent difficulty",
+        "achievementBadgeName": "120840"
+      },
+      {
+        "gameId": 3403,
+        "gameTitle": "Jet Set Radio | Jet Grind Radio",
+        "gameImageIcon": "/Images/052103.png",
+        "gameImageTitle": "/Images/036799.png",
+        "gameImageIngame": "/Images/036803.png",
+        "gameImageBoxArt": "/Images/036800.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 211733,
+        "achievementTitle": "A Garam of Whoopass Stew",
+        "achievementDescription": "Unlock Garam",
+        "achievementBadgeName": "234455"
+      },
+      {
+        "gameId": 3934,
+        "gameTitle": "The Legend of Zelda: Twilight Princess",
+        "gameImageIcon": "/Images/093811.png",
+        "gameImageTitle": "/Images/089968.png",
+        "gameImageIngame": "/Images/089544.png",
+        "gameImageBoxArt": "/Images/052688.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 398928,
+        "achievementTitle": "Courage Need Not Be Remembered",
+        "achievementDescription": "Follow the strange little imp to the person she wants you to meet",
+        "achievementBadgeName": "476178"
+      }
+    ]
   }
 ]
