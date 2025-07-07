@@ -470,5 +470,79 @@
         "achievementBadgeName": "450177"
       }
     ]
+  },
+  {
+    "gameId": 5404,
+    "gameTitle": "Phantasy Star Online Episode I & II Plus",
+    "gameImageIcon": "/Images/089983.png",
+    "gameImageTitle": "/Images/089856.png",
+    "gameImageIngame": "/Images/089857.png",
+    "gameImageBoxArt": "/Images/089965.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 401704,
+    "achievementTitle": "Taste Tester",
+    "achievementDescription": "[Episode I] Complete Addicting Food on Normal difficulty",
+    "achievementBadgeName": "454609",
+    "achievementDateStart": "2025-07-07T00:00:00.000000Z",
+    "achievementDateEnd": "2025-08-04T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 3154,
+        "gameTitle": "Metroid Prime",
+        "gameImageIcon": "/Images/068589.png",
+        "gameImageTitle": "/Images/089093.png",
+        "gameImageIngame": "/Images/089096.png",
+        "gameImageBoxArt": "/Images/070320.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 410526,
+        "achievementTitle": "Hold Still Please",
+        "achievementDescription": "Obtain the Ice Beam.",
+        "achievementBadgeName": "563581"
+      },
+      {
+        "gameId": 25042,
+        "gameTitle": "Stitch: Experiment 626",
+        "gameImageIcon": "/Images/106727.png",
+        "gameImageTitle": "/Images/077233.png",
+        "gameImageIngame": "/Images/077234.png",
+        "gameImageBoxArt": "/Images/076807.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 493497,
+        "achievementTitle": "Mutated Family Drama",
+        "achievementDescription": "Defeat Experiment 621 in 'Sibling Rivalry'.",
+        "achievementBadgeName": "559195"
+      },
+      {
+        "gameId": 5179,
+        "gameTitle": "Sigma Star Saga",
+        "gameImageIcon": "/Images/076983.png",
+        "gameImageTitle": "/Images/009654.png",
+        "gameImageIngame": "/Images/009655.png",
+        "gameImageBoxArt": "/Images/009652.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 43874,
+        "achievementTitle": "Chapter 2 Cleared",
+        "achievementDescription": "Clear Chapter 2.",
+        "achievementBadgeName": "44801"
+      },
+      {
+        "gameId": 754,
+        "gameTitle": "Dragon Ball Z: Buu's Fury",
+        "gameImageIcon": "/Images/094340.png",
+        "gameImageTitle": "/Images/003297.png",
+        "gameImageIngame": "/Images/003296.png",
+        "gameImageBoxArt": "/Images/095541.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 16659,
+        "achievementTitle": "I'm A Treasure Hunter, Not A Fighter!",
+        "achievementDescription": "Collect first 6 Dragon Balls",
+        "achievementBadgeName": "396334"
+      }
+    ]
   }
 ]
