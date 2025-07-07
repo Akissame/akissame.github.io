@@ -1936,5 +1936,79 @@
         "achievementBadgeName": "476178"
       }
     ]
+  },
+  {
+    "gameId": 11202,
+    "gameTitle": "The Legend of Zelda: Ocarina of Time - Master Quest",
+    "gameImageIcon": "/Images/048069.png",
+    "gameImageTitle": "/Images/043177.png",
+    "gameImageIngame": "/Images/043178.png",
+    "gameImageBoxArt": "/Images/110748.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 148504,
+    "achievementTitle": "Royal Family Song",
+    "achievementDescription": "Learn Zelda's Lullaby.",
+    "achievementBadgeName": "166436",
+    "achievementDateStart": "2025-07-07T00:00:00.000000Z",
+    "achievementDateEnd": "2025-07-14T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 8716,
+        "gameTitle": "The Ninja Warriors",
+        "gameImageIcon": "/Images/073560.png",
+        "gameImageTitle": "/Images/033683.png",
+        "gameImageIngame": "/Images/064563.png",
+        "gameImageBoxArt": "/Images/033672.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 265582,
+        "achievementTitle": "Heroes of El Cabar",
+        "achievementDescription": "Defeat Banglar and Beat the game once",
+        "achievementBadgeName": "297709"
+      },
+      {
+        "gameId": 22889,
+        "gameTitle": "Aspic: Mahebiou no Noroi | Aspic: Curse of the Snakelord (FDS)",
+        "gameImageIcon": "/Images/085657.png",
+        "gameImageTitle": "/Images/085117.png",
+        "gameImageIngame": "/Images/085118.png",
+        "gameImageBoxArt": "/Images/085116.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 378011,
+        "achievementTitle": "A Great Navigational Tool",
+        "achievementDescription": "Obtain the map.",
+        "achievementBadgeName": "424342"
+      },
+      {
+        "gameId": 14380,
+        "gameTitle": "Umihara Kawase Shun: Second Edition",
+        "gameImageIcon": "/Images/061356.png",
+        "gameImageTitle": "/Images/061021.png",
+        "gameImageIngame": "/Images/061022.png",
+        "gameImageBoxArt": "/Images/052557.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 241037,
+        "achievementTitle": "F7→F9 Exit",
+        "achievementDescription": "Exit to Field 9 from Field 7.",
+        "achievementBadgeName": "268056"
+      },
+      {
+        "gameId": 469,
+        "gameTitle": "Mega Man 7",
+        "gameImageIcon": "/Images/105305.png",
+        "gameImageTitle": "/Images/035629.png",
+        "gameImageIngame": "/Images/035631.png",
+        "gameImageBoxArt": "/Images/000919.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 11592,
+        "achievementTitle": "A Game Too Early",
+        "achievementDescription": "Defeat Mash in the Robot Museum",
+        "achievementBadgeName": "125509"
+      }
+    ]
   }
 ]
