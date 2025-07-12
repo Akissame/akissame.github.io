@@ -1950,8 +1950,8 @@
     "achievementTitle": "Royal Family Song",
     "achievementDescription": "Learn Zelda's Lullaby.",
     "achievementBadgeName": "166436",
-    "achievementDateStart": "2025-07-07T00:00:00.000000Z",
-    "achievementDateEnd": "2025-07-14T00:00:00.000000Z",
+    "achievementDateStart": "2025-07-07T00:00:00.000000",
+    "achievementDateEnd": "2025-07-14T00:00:00.000000",
     "swaps": [
       {
         "gameId": 8716,
