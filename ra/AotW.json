@@ -2010,5 +2010,79 @@
         "achievementBadgeName": "125509"
       }
     ]
+  },
+  {
+    "gameId": 10124,
+    "gameTitle": "Tony Hawk's Pro Skater",
+    "gameImageIcon": "/Images/107133.png",
+    "gameImageTitle": "/Images/017042.png",
+    "gameImageIngame": "/Images/017044.png",
+    "gameImageBoxArt": "/Images/071343.png",
+    "consoleID": 2,
+    "consoleName": "Nintendo 64",
+    "achievementId": 137322,
+    "achievementTitle": "I wonder if I can use this at the club...",
+    "achievementDescription": "Obtain a gold medal at the Portland Burnside competition as any character.",
+    "achievementBadgeName": "152344",
+    "achievementDateStart": "2025-07-14T00:00:00.000000Z",
+    "achievementDateEnd": "2025-07-21T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1968,
+        "gameTitle": "Spelunker",
+        "gameImageIcon": "/Images/003288.png",
+        "gameImageTitle": "/Images/003289.png",
+        "gameImageIngame": "/Images/003290.png",
+        "gameImageBoxArt": "/Images/013033.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 16510,
+        "achievementTitle": "You found the Pyramid Treasure!",
+        "achievementDescription": "Beat the frst quest! (enter second)",
+        "achievementBadgeName": "16193"
+      },
+      {
+        "gameId": 28647,
+        "gameTitle": "Kinnikuman: Muscle Grand Prix 2 - Tokumori",
+        "gameImageIcon": "/Images/108246.png",
+        "gameImageTitle": "/Images/108139.png",
+        "gameImageIngame": "/Images/108140.png",
+        "gameImageBoxArt": "/Images/108033.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 500921,
+        "achievementTitle": "Golden Battler",
+        "achievementDescription": "Complete Arcade Mode as Akuma Shogun, 100万パワー Difficulty or higher and the remaining settings default, without changing character",
+        "achievementBadgeName": "567949"
+      },
+      {
+        "gameId": 1634,
+        "gameTitle": "Cowboy Kid",
+        "gameImageIcon": "/Images/011883.png",
+        "gameImageTitle": "/Images/011881.png",
+        "gameImageIngame": "/Images/011882.png",
+        "gameImageBoxArt": "/Images/011880.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 137821,
+        "achievementTitle": "Bruising the Brothers",
+        "achievementDescription": "Capture the Mad Brothers, the Duo of Evil",
+        "achievementBadgeName": "152794"
+      },
+      {
+        "gameId": 2345,
+        "gameTitle": "~Hack~ Legend of Zelda, The: Parallel Worlds",
+        "gameImageIcon": "/Images/052201.png",
+        "gameImageTitle": "/Images/023380.png",
+        "gameImageIngame": "/Images/005044.png",
+        "gameImageBoxArt": "/Images/022021.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 32417,
+        "achievementTitle": "In Deep Water",
+        "achievementDescription": "Obtain the Zora's Scales",
+        "achievementBadgeName": "95634"
+      }
+    ]
   }
 ]
