@@ -2084,5 +2084,65 @@
         "achievementBadgeName": "95634"
       }
     ]
+  },
+  {
+    "gameId": 785,
+    "gameTitle": "Metroid Fusion",
+    "gameImageIcon": "/Images/089338.png",
+    "gameImageTitle": "/Images/000651.png",
+    "gameImageIngame": "/Images/065312.png",
+    "gameImageBoxArt": "/Images/089237.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 4664,
+    "achievementTitle": "Blinding Power",
+    "achievementDescription": "Download the Power Bomb data",
+    "achievementBadgeName": "183565",
+    "achievementDateStart": "2025-07-16T00:00:00.000000Z",
+    "achievementDateEnd": "2025-07-23T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 222,
+        "gameTitle": "The Simpsons: Bart vs. the Space Mutants",
+        "gameImageIcon": "/Images/072794.png",
+        "gameImageTitle": "/Images/001193.png",
+        "gameImageIngame": "/Images/001194.png",
+        "gameImageBoxArt": "/Images/001151.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 116558,
+        "achievementTitle": "Live Longer",
+        "achievementDescription": "Acquire Three Extra Lives Stage 2",
+        "achievementBadgeName": "127279"
+      },
+      {
+        "gameId": 857,
+        "gameTitle": "Clay Fighter",
+        "gameImageIcon": "/Images/040396.png",
+        "gameImageTitle": "/Images/003493.png",
+        "gameImageIngame": "/Images/003496.png",
+        "gameImageBoxArt": "/Images/047504.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 17824,
+        "achievementTitle": "Flexing",
+        "achievementDescription": "Beat the Game as Tiny",
+        "achievementBadgeName": "17245"
+      },
+      {
+        "gameId": 587,
+        "gameTitle": "Zero Wing",
+        "gameImageIcon": "/Images/113701.png",
+        "gameImageTitle": "/Images/103482.png",
+        "gameImageIngame": "/Images/103483.png",
+        "gameImageBoxArt": "/Images/009226.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 57028,
+        "achievementTitle": "All Your Base Are Belong to Us",
+        "achievementDescription": "Watch the full intro cutscene and witness a masterwork in video game translation",
+        "achievementBadgeName": "59764"
+      }
+    ]
   }
 ]
