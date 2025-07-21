@@ -2084,5 +2084,79 @@
         "achievementBadgeName": "95634"
       }
     ]
+  },
+  {
+    "gameId": 23882,
+    "gameTitle": "Twinkle Star Sprites",
+    "gameImageIcon": "/Images/083207.png",
+    "gameImageTitle": "/Images/080177.png",
+    "gameImageIngame": "/Images/080176.png",
+    "gameImageBoxArt": "/Images/080178.png",
+    "consoleID": 56,
+    "consoleName": "Neo Geo CD",
+    "achievementId": 360110,
+    "achievementTitle": "A Harder Journey",
+    "achievementDescription": "Complete Story Mode on 4 Star difficulty or higher.",
+    "achievementBadgeName": "405469",
+    "achievementDateStart": "2025-07-21T00:00:00.000000Z",
+    "achievementDateEnd": "2025-07-28T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 19553,
+        "gameTitle": "~Prototype~ Towers II: Plight of the Stargazer",
+        "gameImageIcon": "/Images/057683.png",
+        "gameImageTitle": "/Images/057681.png",
+        "gameImageIngame": "/Images/057682.png",
+        "gameImageBoxArt": "/Images/057684.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 261604,
+        "achievementTitle": "Level Two Clear",
+        "achievementDescription": "Find the secret staircase to floor three.",
+        "achievementBadgeName": "289736"
+      },
+      {
+        "gameId": 316,
+        "gameTitle": "Buzz Lightyear of Star Command",
+        "gameImageIcon": "/Images/114162.png",
+        "gameImageTitle": "/Images/079482.png",
+        "gameImageIngame": "/Images/079483.png",
+        "gameImageBoxArt": "/Images/079899.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 343091,
+        "achievementTitle": "Hey, Weren’t You a Tangean Grounder?",
+        "achievementDescription": "Complete Karn 1 on any difficulty",
+        "achievementBadgeName": "387342"
+      },
+      {
+        "gameId": 9286,
+        "gameTitle": "Under the Tower",
+        "gameImageIcon": "/Images/091377.png",
+        "gameImageTitle": "/Images/091375.png",
+        "gameImageIngame": "/Images/091376.png",
+        "gameImageBoxArt": "/Images/000002.png",
+        "consoleID": 71,
+        "consoleName": "Arduboy",
+        "achievementId": 437602,
+        "achievementTitle": "Plagued With Madness",
+        "achievementDescription": "Defeat the Madman causing the plague.",
+        "achievementBadgeName": "493608"
+      },
+      {
+        "gameId": 19152,
+        "gameTitle": "Sega Smash Pack: Volume 1",
+        "gameImageIcon": "/Images/058329.png",
+        "gameImageTitle": "/Images/056259.png",
+        "gameImageIngame": "/Images/056260.png",
+        "gameImageBoxArt": "/Images/058466.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 218970,
+        "achievementTitle": "Cleared Shure",
+        "achievementDescription": "[Phantasy Star II] Obtain the two sticks of dynamite in Shure.",
+        "achievementBadgeName": "242336"
+      }
+    ]
   }
 ]
