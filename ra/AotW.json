@@ -2098,8 +2098,8 @@
     "achievementTitle": "A Harder Journey",
     "achievementDescription": "Complete Story Mode on 4 Star difficulty or higher.",
     "achievementBadgeName": "405469",
-    "achievementDateStart": "2025-07-21T00:00:00.000000Z",
-    "achievementDateEnd": "2025-07-28T00:00:00.000000Z",
+    "achievementDateStart": "2025-07-21T00:00:00.000000",
+    "achievementDateEnd": "2025-07-28T00:00:00.000000",
     "swaps": [
       {
         "gameId": 19553,
