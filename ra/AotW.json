@@ -2158,5 +2158,79 @@
         "achievementBadgeName": "242336"
       }
     ]
+  },
+  {
+    "gameId": 5288,
+    "gameTitle": "~Hack~ Extra Mario Bros.",
+    "gameImageIcon": "/Images/108990.png",
+    "gameImageTitle": "/Images/003945.png",
+    "gameImageIngame": "/Images/003944.png",
+    "gameImageBoxArt": "/Images/003947.png",
+    "consoleID": 7,
+    "consoleName": "NES/Famicom",
+    "achievementId": 20059,
+    "achievementTitle": "2nd key",
+    "achievementDescription": "Find the 2nd key",
+    "achievementBadgeName": "19792",
+    "achievementDateStart": "2025-07-28T00:00:00.000000Z",
+    "achievementDateEnd": "2025-08-04T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1041,
+        "gameTitle": "Mr. Nutz",
+        "gameImageIcon": "/Images/047649.png",
+        "gameImageTitle": "/Images/005097.png",
+        "gameImageIngame": "/Images/005099.png",
+        "gameImageBoxArt": "/Images/005101.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 34835,
+        "achievementTitle": "Halloween Time!",
+        "achievementDescription": "Defeat the witch",
+        "achievementBadgeName": "35931"
+      },
+      {
+        "gameId": 2907,
+        "gameTitle": "Clay Fighter 2: Judgment Clay",
+        "gameImageIcon": "/Images/114173.png",
+        "gameImageTitle": "/Images/036757.png",
+        "gameImageIngame": "/Images/036758.png",
+        "gameImageBoxArt": "/Images/047502.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 123696,
+        "achievementTitle": "A-Peeling Fellow",
+        "achievementDescription": "Clear main mode as Nanaman on any difficulty",
+        "achievementBadgeName": "135820"
+      },
+      {
+        "gameId": 619,
+        "gameTitle": "Ultimate Qix",
+        "gameImageIcon": "/Images/017439.png",
+        "gameImageTitle": "/Images/017437.png",
+        "gameImageIngame": "/Images/017438.png",
+        "gameImageBoxArt": "/Images/017440.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 70004,
+        "achievementTitle": "Round 8 Complete",
+        "achievementDescription": "Complete Round 8 on any difficulty or mode",
+        "achievementBadgeName": "74804"
+      },
+      {
+        "gameId": 10669,
+        "gameTitle": "Crystal Mines II",
+        "gameImageIcon": "/Images/058605.png",
+        "gameImageTitle": "/Images/058606.png",
+        "gameImageIngame": "/Images/058607.png",
+        "gameImageBoxArt": "/Images/058850.png",
+        "consoleID": 13,
+        "consoleName": "Atari Lynx",
+        "achievementId": 222902,
+        "achievementTitle": "It Grows on You",
+        "achievementDescription": "Clear Level 10",
+        "achievementBadgeName": "246442"
+      }
+    ]
   }
 ]
