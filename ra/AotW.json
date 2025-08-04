@@ -2232,5 +2232,79 @@
         "achievementBadgeName": "246442"
       }
     ]
+  },
+  {
+    "gameId": 27504,
+    "gameTitle": "City Crisis",
+    "gameImageIcon": "/Images/093452.png",
+    "gameImageTitle": "/Images/093578.png",
+    "gameImageIngame": "/Images/093579.png",
+    "gameImageBoxArt": "/Images/095881.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 416112,
+    "achievementTitle": "OutRun",
+    "achievementDescription": "Complete Run Away Sports Car.",
+    "achievementBadgeName": "470219",
+    "achievementDateStart": "2025-08-04T00:00:00.000000Z",
+    "achievementDateEnd": "2025-08-11T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 2308,
+        "gameTitle": "Moto Roader",
+        "gameImageIcon": "/Images/032830.png",
+        "gameImageTitle": "/Images/026049.png",
+        "gameImageIngame": "/Images/026050.png",
+        "gameImageBoxArt": "/Images/026051.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 105984,
+        "achievementTitle": "Normal Winner",
+        "achievementDescription": "Win the Normal competition",
+        "achievementBadgeName": "115461"
+      },
+      {
+        "gameId": 10205,
+        "gameTitle": "Bonanza Bros.",
+        "gameImageIcon": "/Images/051977.png",
+        "gameImageTitle": "/Images/082176.png",
+        "gameImageIngame": "/Images/082175.png",
+        "gameImageBoxArt": "/Images/060020.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 296788,
+        "achievementTitle": "The Art Gallery",
+        "achievementDescription": "Complete Stage 9",
+        "achievementBadgeName": "329447"
+      },
+      {
+        "gameId": 4328,
+        "gameTitle": "King of the Monsters 2",
+        "gameImageIcon": "/Images/054906.png",
+        "gameImageTitle": "/Images/054902.png",
+        "gameImageIngame": "/Images/054903.png",
+        "gameImageBoxArt": "/Images/054904.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 207694,
+        "achievementTitle": "We're Going to Need a Bigger Banana",
+        "achievementDescription": "Beat the whole game using only Cyber Woo. [Difficulty >= 4, Credits <= 7, Items = Off]",
+        "achievementBadgeName": "230592"
+      },
+      {
+        "gameId": 25918,
+        "gameTitle": "Hyper Duel",
+        "gameImageIcon": "/Images/085192.png",
+        "gameImageTitle": "/Images/083161.png",
+        "gameImageIngame": "/Images/083162.png",
+        "gameImageBoxArt": "/Images/083163.png",
+        "consoleID": 39,
+        "consoleName": "Saturn",
+        "achievementId": 370936,
+        "achievementTitle": "Bloody Government",
+        "achievementDescription": "[Saturn Mode] Clear Stage 8 on Normal or higher difficulty",
+        "achievementBadgeName": "417238"
+      }
+    ]
   }
 ]
