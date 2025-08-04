@@ -544,5 +544,79 @@
         "achievementBadgeName": "396334"
       }
     ]
+  },
+  {
+    "gameId": 32650,
+    "gameTitle": "Kingdom Hearts",
+    "gameImageIcon": "/Images/112095.png",
+    "gameImageTitle": "/Images/105889.png",
+    "gameImageIngame": "/Images/105890.png",
+    "gameImageBoxArt": "/Images/105888.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 519326,
+    "achievementTitle": "Trials of the Satyr",
+    "achievementDescription": "Complete the Phil Cup at the Olympus Coliseum.",
+    "achievementBadgeName": "588961",
+    "achievementDateStart": "2025-08-04T00:00:00.000000Z",
+    "achievementDateEnd": "2025-08-11T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 20292,
+        "gameTitle": "Heracles no Eikou: Ugokidashita Kamigami",
+        "gameImageIcon": "/Images/087623.png",
+        "gameImageTitle": "/Images/087280.png",
+        "gameImageIngame": "/Images/087281.png",
+        "gameImageBoxArt": "/Images/087282.png",
+        "consoleID": 4,
+        "consoleName": "Game Boy",
+        "achievementId": 391463,
+        "achievementTitle": "The Many Heads of the Sea",
+        "achievementDescription": "Defeat Kraken.",
+        "achievementBadgeName": "442723"
+      },
+      {
+        "gameId": 23939,
+        "gameTitle": "Astérix & Obélix XXL",
+        "gameImageIcon": "/Images/114106.png",
+        "gameImageTitle": "/Images/090349.png",
+        "gameImageIngame": "/Images/090350.png",
+        "gameImageBoxArt": "/Images/090327.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 502559,
+        "achievementTitle": "\"It's not the size of the mountain; it's how you climb it!\"",
+        "achievementDescription": "Find the third druid in Helvetia",
+        "achievementBadgeName": "570031"
+      },
+      {
+        "gameId": 3309,
+        "gameTitle": "Rygar: The Legendary Adventure",
+        "gameImageIcon": "/Images/077167.png",
+        "gameImageTitle": "/Images/101273.png",
+        "gameImageIngame": "/Images/101370.png",
+        "gameImageBoxArt": "/Images/056668.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 462336,
+        "achievementTitle": "Thank You, Rygar! But Our Princess Is on Another Mountain!",
+        "achievementDescription": "Reunite with Princess Harmonia on Othrys Mountain on Normal or Higher",
+        "achievementBadgeName": "523762"
+      },
+      {
+        "gameId": 10265,
+        "gameTitle": "Body Harvest",
+        "gameImageIcon": "/Images/051739.png",
+        "gameImageTitle": "/Images/011089.png",
+        "gameImageIngame": "/Images/011090.png",
+        "gameImageBoxArt": "/Images/011091.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 52444,
+        "achievementTitle": "Adam Versus The Volcano",
+        "achievementDescription": "Safely escort people across the lava-hot water.",
+        "achievementBadgeName": "54013"
+      }
+    ]
   }
 ]
