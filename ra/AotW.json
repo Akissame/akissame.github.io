@@ -2306,5 +2306,79 @@
         "achievementBadgeName": "417238"
       }
     ]
+  },
+  {
+    "gameId": 8329,
+    "gameTitle": "Star Fox Adventures",
+    "gameImageIcon": "/Images/100460.png",
+    "gameImageTitle": "/Images/088945.png",
+    "gameImageIngame": "/Images/088947.png",
+    "gameImageBoxArt": "/Images/088942.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 475780,
+    "achievementTitle": "Prince of the Earthwalkers",
+    "achievementDescription": "Rescue Prince Tricky from the Sharpclaws.",
+    "achievementBadgeName": "539707",
+    "achievementDateStart": "2025-08-11T00:00:00.000000Z",
+    "achievementDateEnd": "2025-08-18T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 51,
+        "gameTitle": "Bubsy in Claws Encounters of the Furred Kind",
+        "gameImageIcon": "/Images/034935.png",
+        "gameImageTitle": "/Images/103133.png",
+        "gameImageIngame": "/Images/000502.png",
+        "gameImageBoxArt": "/Images/000503.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 424,
+        "achievementTitle": "A Fistful of Yarn",
+        "achievementDescription": "Complete Stage 3-2 without using passwords",
+        "achievementBadgeName": "00651"
+      },
+      {
+        "gameId": 3231,
+        "gameTitle": "Mario's Time Machine",
+        "gameImageIcon": "/Images/010852.png",
+        "gameImageTitle": "/Images/026682.png",
+        "gameImageIngame": "/Images/026683.png",
+        "gameImageBoxArt": "/Images/010851.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 81549,
+        "achievementTitle": "At Least 900 Years",
+        "achievementDescription": "Return Plato's writings to him so that he doesn't have to directly interact with his students.",
+        "achievementBadgeName": "87660"
+      },
+      {
+        "gameId": 2318,
+        "gameTitle": "Parasol Stars: The Story of Bubble Bobble III",
+        "gameImageIcon": "/Images/092822.png",
+        "gameImageTitle": "/Images/005592.png",
+        "gameImageIngame": "/Images/005593.png",
+        "gameImageBoxArt": "/Images/005594.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 410485,
+        "achievementTitle": "Good Gambles",
+        "achievementDescription": "Complete Gamble World",
+        "achievementBadgeName": "465007"
+      },
+      {
+        "gameId": 458,
+        "gameTitle": "Bugs Bunny: Rabbit Rampage",
+        "gameImageIcon": "/Images/110625.png",
+        "gameImageTitle": "/Images/110623.png",
+        "gameImageIngame": "/Images/110624.png",
+        "gameImageBoxArt": "/Images/110857.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 513453,
+        "achievementTitle": "Round 42.759 3/8",
+        "achievementDescription": "Finish Level 8.",
+        "achievementBadgeName": "581033"
+      }
+    ]
   }
 ]
