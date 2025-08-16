@@ -1010,3 +1010,41 @@ body {
   }
 }
 /* Fin Menu */
+
+
+/* 🔹 Barra de navegación */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #0259a5;
+  padding: 12px 0;
+  z-index: 1000;
+}
+
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+  color: #ffd700; /* amarillo dorado al pasar el mouse */
+}
+
+/* Ajuste para que el contenido no quede escondido debajo del nav */
+.content {
+  margin-top: 70px;
+}
