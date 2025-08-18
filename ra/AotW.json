@@ -2380,5 +2380,79 @@
         "achievementBadgeName": "581033"
       }
     ]
+  },
+  {
+    "gameId": 25473,
+    "gameTitle": "Star Wars Jedi Knight II: Jedi Outcast",
+    "gameImageIcon": "/Images/089001.png",
+    "gameImageTitle": "/Images/089440.png",
+    "gameImageIngame": "/Images/088998.png",
+    "gameImageBoxArt": "/Images/088993.png",
+    "consoleID": 16,
+    "consoleName": "GameCube",
+    "achievementId": 434515,
+    "achievementTitle": "Kejim Base",
+    "achievementDescription": "[Jedi+] Clear Kejim Base in one session",
+    "achievementBadgeName": "496422",
+    "achievementDateStart": "2025-08-18T00:00:00.000000Z",
+    "achievementDateEnd": "2025-08-25T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 8914,
+        "gameTitle": "Chester Cheetah: Wild Wild Quest",
+        "gameImageIcon": "/Images/112841.png",
+        "gameImageTitle": "/Images/112839.png",
+        "gameImageIngame": "/Images/112840.png",
+        "gameImageBoxArt": "/Images/074386.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 533243,
+        "achievementTitle": "Not Tested on Animals",
+        "achievementDescription": "Recover the map piece from Unclearwater, Florida",
+        "achievementBadgeName": "605093"
+      },
+      {
+        "gameId": 2257,
+        "gameTitle": "Bahamut Lagoon",
+        "gameImageIcon": "/Images/017036.png",
+        "gameImageTitle": "/Images/017032.png",
+        "gameImageIngame": "/Images/017033.png",
+        "gameImageBoxArt": "/Images/007544.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 129132,
+        "achievementTitle": "Somebody Like You",
+        "achievementDescription": "Agree to learn more about your friends with Dragonkeeper, name the new member and leave. [Chapter 2]",
+        "achievementBadgeName": "139394"
+      },
+      {
+        "gameId": 15378,
+        "gameTitle": "Fatal Fury: Wild Ambition",
+        "gameImageIcon": "/Images/115819.png",
+        "gameImageTitle": "/Images/115821.png",
+        "gameImageIngame": "/Images/115822.png",
+        "gameImageBoxArt": "/Images/029581.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 535153,
+        "achievementTitle": "Thai Tornado",
+        "achievementDescription": "Beat the game using Joe on any difficulty with default settings.",
+        "achievementBadgeName": "607113"
+      },
+      {
+        "gameId": 12822,
+        "gameTitle": "Mamono Hunter Yohko: Dai-7 no Keisho",
+        "gameImageIcon": "/Images/116384.png",
+        "gameImageTitle": "/Images/017186.png",
+        "gameImageIngame": "/Images/017187.png",
+        "gameImageBoxArt": "/Images/017188.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 182955,
+        "achievementTitle": "Makai Cave",
+        "achievementDescription": "Clear 4th stage.",
+        "achievementBadgeName": "203427"
+      }
+    ]
   }
 ]
