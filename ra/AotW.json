@@ -2454,5 +2454,79 @@
         "achievementBadgeName": "203427"
       }
     ]
+  },
+  {
+    "gameId": 6311,
+    "gameTitle": "Onimusha: Warlords",
+    "gameImageIcon": "/Images/061552.png",
+    "gameImageTitle": "/Images/061553.png",
+    "gameImageIngame": "/Images/061554.png",
+    "gameImageBoxArt": "/Images/052931.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 249595,
+    "achievementTitle": "Marcellus",
+    "achievementDescription": "Defeat Marcellus The Swordsman",
+    "achievementBadgeName": "276161",
+    "achievementDateStart": "2025-08-25T00:00:00.000000Z",
+    "achievementDateEnd": "2025-09-01T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 437,
+        "gameTitle": "BlaZeon: The Bio-Cyborg Challenge",
+        "gameImageIcon": "/Images/079456.png",
+        "gameImageTitle": "/Images/039685.png",
+        "gameImageIngame": "/Images/039686.png",
+        "gameImageBoxArt": "/Images/039688.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 473586,
+        "achievementTitle": "Bio-Overlooked",
+        "achievementDescription": "Defeat or bypass the first mini-boss of stage 4 on normal or hard mode",
+        "achievementBadgeName": "537300"
+      },
+      {
+        "gameId": 10780,
+        "gameTitle": "Puppet Knight",
+        "gameImageIcon": "/Images/060445.png",
+        "gameImageTitle": "/Images/054041.png",
+        "gameImageIngame": "/Images/060447.png",
+        "gameImageBoxArt": "/Images/092567.png",
+        "consoleID": 69,
+        "consoleName": "Mega Duck",
+        "achievementId": 236047,
+        "achievementTitle": "Another Sings",
+        "achievementDescription": "Collect all 9 hearts and complete Stage 2-3",
+        "achievementBadgeName": "261772"
+      },
+      {
+        "gameId": 11374,
+        "gameTitle": "Pac-Man World",
+        "gameImageIcon": "/Images/039422.png",
+        "gameImageTitle": "/Images/031789.png",
+        "gameImageIngame": "/Images/031790.png",
+        "gameImageBoxArt": "/Images/030586.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 101867,
+        "achievementTitle": "Pac-Doggo",
+        "achievementDescription": "Rescue Chomp-Chomp from the Ruins world.",
+        "achievementBadgeName": "109997"
+      },
+      {
+        "gameId": 22765,
+        "gameTitle": "Genpei Toumaden",
+        "gameImageIcon": "/Images/094939.png",
+        "gameImageTitle": "/Images/092308.png",
+        "gameImageIngame": "/Images/092309.png",
+        "gameImageBoxArt": "/Images/092310.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 70045,
+        "achievementTitle": "God of Wind",
+        "achievementDescription": "Complete stage 7.3 - Inaba",
+        "achievementBadgeName": "474643"
+      }
+    ]
   }
 ]
