@@ -558,8 +558,8 @@
     "achievementTitle": "Trials of the Satyr",
     "achievementDescription": "Complete the Phil Cup at the Olympus Coliseum.",
     "achievementBadgeName": "588961",
-    "achievementDateStart": "2025-08-04T00:00:00.000000Z",
-    "achievementDateEnd": "2025-08-11T00:00:00.000000Z",
+    "achievementDateStart": "2025-08-04T00:00:00.000000",
+    "achievementDateEnd": "2025-08-11T00:00:00.000000",
     "swaps": [
       {
         "gameId": 20292,
