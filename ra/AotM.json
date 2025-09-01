@@ -618,5 +618,79 @@
         "achievementBadgeName": "54013"
       }
     ]
+  },
+  {
+    "gameId": 2171,
+    "gameTitle": "Mario Tennis: Power Tour",
+    "gameImageIcon": "/Images/116617.png",
+    "gameImageTitle": "/Images/014497.png",
+    "gameImageIngame": "/Images/003038.png",
+    "gameImageBoxArt": "/Images/014496.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 348770,
+    "achievementTitle": "The End of Mario's Reign",
+    "achievementDescription": "Win the Peach Cup Singles Final and beat the game!",
+    "achievementBadgeName": "102752",
+    "achievementDateStart": "2025-09-01T00:00:00.000000Z",
+    "achievementDateEnd": "2025-10-06T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 3164,
+        "gameTitle": "Shin Megami Tensei: Persona 3 Portable",
+        "gameImageIcon": "/Images/065205.png",
+        "gameImageTitle": "/Images/036344.png",
+        "gameImageIngame": "/Images/036345.png",
+        "gameImageBoxArt": "/Images/046681.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 175308,
+        "achievementTitle": "Desire Manipulator",
+        "achievementDescription": "Defeat Lovers and save the day",
+        "achievementBadgeName": "228960"
+      },
+      {
+        "gameId": 780,
+        "gameTitle": "Mega Man Battle Network 6: Cybeast Falzar",
+        "gameImageIcon": "/Images/080787.png",
+        "gameImageTitle": "/Images/007836.png",
+        "gameImageIngame": "/Images/039654.png",
+        "gameImageBoxArt": "/Images/039653.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 33824,
+        "achievementTitle": "Objection!!!",
+        "achievementDescription": "Defeat JudgeMan in JdgTreeComp3 and overturn his guilty verdict",
+        "achievementBadgeName": "144140"
+      },
+      {
+        "gameId": 19266,
+        "gameTitle": "ObsCure",
+        "gameImageIcon": "/Images/108604.png",
+        "gameImageTitle": "/Images/059209.png",
+        "gameImageIngame": "/Images/059207.png",
+        "gameImageBoxArt": "/Images/102683.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 465262,
+        "achievementTitle": "The Red Secret",
+        "achievementDescription": "Use the Leever on Machinery Room (No Easy Mode)",
+        "achievementBadgeName": "526754"
+      },
+      {
+        "gameId": 20537,
+        "gameTitle": "Namco X Capcom",
+        "gameImageIcon": "/Images/064635.png",
+        "gameImageTitle": "/Images/080908.png",
+        "gameImageIngame": "/Images/080910.png",
+        "gameImageBoxArt": "/Images/062210.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 482936,
+        "achievementTitle": "Blaze!  Justice Academy",
+        "achievementDescription": "Complete Chapter 3",
+        "achievementBadgeName": "547953"
+      }
+    ]
   }
 ]
