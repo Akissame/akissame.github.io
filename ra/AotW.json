@@ -2528,5 +2528,79 @@
         "achievementBadgeName": "474643"
       }
     ]
+  },
+  {
+    "gameId": 3509,
+    "gameTitle": "Jeanne D'Arc",
+    "gameImageIcon": "/Images/049641.png",
+    "gameImageTitle": "/Images/046843.png",
+    "gameImageIngame": "/Images/046841.png",
+    "gameImageBoxArt": "/Images/046840.png",
+    "consoleID": 41,
+    "consoleName": "PlayStation Portable",
+    "achievementId": 197629,
+    "achievementTitle": "The Road to Chinon",
+    "achievementDescription": "Complete stage 5: \"The Road to Chinon\"",
+    "achievementBadgeName": "222793",
+    "achievementDateStart": "2025-09-01T00:00:00.000000Z",
+    "achievementDateEnd": "2025-09-08T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 69,
+        "gameTitle": "Castlevania: Bloodlines",
+        "gameImageIcon": "/Images/060798.png",
+        "gameImageTitle": "/Images/067931.png",
+        "gameImageIngame": "/Images/067932.png",
+        "gameImageBoxArt": "/Images/071778.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 211,
+        "achievementTitle": "Cursed Bunker",
+        "achievementDescription": "Clear Stage 4 - The Munitions Factory - Germany",
+        "achievementBadgeName": "17958"
+      },
+      {
+        "gameId": 780,
+        "gameTitle": "Mega Man Battle Network 6: Cybeast Falzar",
+        "gameImageIcon": "/Images/080787.png",
+        "gameImageTitle": "/Images/007836.png",
+        "gameImageIngame": "/Images/039654.png",
+        "gameImageBoxArt": "/Images/039653.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 33824,
+        "achievementTitle": "Objection!!!",
+        "achievementDescription": "Defeat JudgeMan in JdgTreeComp3 and overturn his guilty verdict",
+        "achievementBadgeName": "144140"
+      },
+      {
+        "gameId": 19266,
+        "gameTitle": "ObsCure",
+        "gameImageIcon": "/Images/108604.png",
+        "gameImageTitle": "/Images/059209.png",
+        "gameImageIngame": "/Images/059207.png",
+        "gameImageBoxArt": "/Images/102683.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 465262,
+        "achievementTitle": "The Red Secret",
+        "achievementDescription": "Use the Leever on Machinery Room (No Easy Mode)",
+        "achievementBadgeName": "526754"
+      },
+      {
+        "gameId": 20537,
+        "gameTitle": "Namco X Capcom",
+        "gameImageIcon": "/Images/064635.png",
+        "gameImageTitle": "/Images/080908.png",
+        "gameImageIngame": "/Images/080910.png",
+        "gameImageBoxArt": "/Images/062210.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 482936,
+        "achievementTitle": "Blaze!  Justice Academy",
+        "achievementDescription": "Complete Chapter 3",
+        "achievementBadgeName": "547953"
+      }
+    ]
   }
 ]
