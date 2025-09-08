@@ -2602,5 +2602,79 @@
         "achievementBadgeName": "452129"
       }
     ]
+  },
+  {
+    "gameId": 3058,
+    "gameTitle": "Half-Life",
+    "gameImageIcon": "/Images/067457.png",
+    "gameImageTitle": "/Images/071319.png",
+    "gameImageIngame": "/Images/071321.png",
+    "gameImageBoxArt": "/Images/052485.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 308483,
+    "achievementTitle": "Cover Up",
+    "achievementDescription": "They're coming for us, it's our only way out! (Complete We've Got Hostiles on any Difficulty.)",
+    "achievementBadgeName": "341328",
+    "achievementDateStart": "2025-09-08T00:00:00.000000Z",
+    "achievementDateEnd": "2025-09-15T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 9985,
+        "gameTitle": "Rhythm Heaven | Rhythm Paradise",
+        "gameImageIcon": "/Images/060997.png",
+        "gameImageTitle": "/Images/032529.png",
+        "gameImageIngame": "/Images/032530.png",
+        "gameImageBoxArt": "/Images/032533.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 104268,
+        "achievementTitle": "Not Bad So Far",
+        "achievementDescription": "Clear Remixes 3 and 4.",
+        "achievementBadgeName": "113671"
+      },
+      {
+        "gameId": 19174,
+        "gameTitle": "Dragon Ball Z: Budokai 2",
+        "gameImageIcon": "/Images/089992.png",
+        "gameImageTitle": "/Images/064101.png",
+        "gameImageIngame": "/Images/064146.png",
+        "gameImageBoxArt": "/Images/064744.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 271443,
+        "achievementTitle": "Not a Real Doctor (Or Is He?)",
+        "achievementDescription": "Unlock Dr. Gero",
+        "achievementBadgeName": "300692"
+      },
+      {
+        "gameId": 11277,
+        "gameTitle": "Parasite Eve",
+        "gameImageIcon": "/Images/108237.png",
+        "gameImageTitle": "/Images/019094.png",
+        "gameImageIngame": "/Images/032363.png",
+        "gameImageBoxArt": "/Images/041333.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 99928,
+        "achievementTitle": "Parasite Energy - Detox",
+        "achievementDescription": "Learn the Detox Spell",
+        "achievementBadgeName": "596943"
+      },
+      {
+        "gameId": 11296,
+        "gameTitle": "Dino Crisis 2",
+        "gameImageIcon": "/Images/054357.png",
+        "gameImageTitle": "/Images/027000.png",
+        "gameImageIngame": "/Images/026999.png",
+        "gameImageBoxArt": "/Images/046550.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 93275,
+        "achievementTitle": "Purifying the Air",
+        "achievementDescription": "Pass the poison plants area and unlock the door to the Water Tower.",
+        "achievementBadgeName": "108393"
+      }
+    ]
   }
 ]
