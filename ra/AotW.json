@@ -2676,5 +2676,37 @@
         "achievementBadgeName": "108393"
       }
     ]
+  },
+  {
+    "gameId": 785,
+    "gameTitle": "Metroid Fusion",
+    "gameImageIcon": "/Images/089338.png",
+    "gameImageTitle": "/Images/000651.png",
+    "gameImageIngame": "/Images/065312.png",
+    "gameImageBoxArt": "/Images/089237.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 4664,
+    "achievementTitle": "Blinding Power",
+    "achievementDescription": "Download the Power Bomb data",
+    "achievementBadgeName": "183565",
+    "achievementDateStart": "2025-09-08T00:00:00.000000Z",
+    "achievementDateEnd": "2025-09-20T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 587,
+        "gameTitle": "Zero Wing",
+        "gameImageIcon": "/Images/113701.png",
+        "gameImageTitle": "/Images/103482.png",
+        "gameImageIngame": "/Images/103483.png",
+        "gameImageBoxArt": "/Images/009226.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 1500,
+        "achievementTitle": "Somebody Set up Us the Bomb",
+        "achievementDescription": "Clear stage 2: Legrous",
+        "achievementBadgeName": "02029"
+      }
+    ]
   }
 ]
