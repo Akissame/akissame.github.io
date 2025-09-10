@@ -2676,5 +2676,65 @@
         "achievementBadgeName": "108393"
       }
     ]
+  },
+  {
+    "gameId": 785,
+    "gameTitle": "Metroid Fusion",
+    "gameImageIcon": "/Images/089338.png",
+    "gameImageTitle": "/Images/000651.png",
+    "gameImageIngame": "/Images/065312.png",
+    "gameImageBoxArt": "/Images/089237.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 4664,
+    "achievementTitle": "Blinding Power",
+    "achievementDescription": "Download the Power Bomb data",
+    "achievementBadgeName": "183565",
+    "achievementDateStart": "2025-09-09T00:00:00.000000Z",
+    "achievementDateEnd": "2025-09-11T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 525,
+        "gameTitle": "Operation Thunderbolt",
+        "gameImageIcon": "/Images/075900.png",
+        "gameImageTitle": "/Images/050342.png",
+        "gameImageIngame": "/Images/050341.png",
+        "gameImageBoxArt": "/Images/007348.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 21938,
+        "achievementTitle": "Hostages Rescued 2",
+        "achievementDescription": "Clear Mission 6",
+        "achievementBadgeName": "01397"
+      },
+      {
+        "gameId": 356,
+        "gameTitle": "Dragon: The Bruce Lee Story",
+        "gameImageIcon": "/Images/009508.png",
+        "gameImageTitle": "/Images/000096.png",
+        "gameImageIngame": "/Images/000098.png",
+        "gameImageBoxArt": "/Images/001114.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 881,
+        "achievementTitle": "That's What We Do With A Drunken Sailor",
+        "achievementDescription": "Defeat the Sailor",
+        "achievementBadgeName": "01113"
+      },
+      {
+        "gameId": 996,
+        "gameTitle": "Lethal Enforcers",
+        "gameImageIcon": "/Images/045532.png",
+        "gameImageTitle": "/Images/009341.png",
+        "gameImageIngame": "/Images/009340.png",
+        "gameImageBoxArt": "/Images/009338.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 41741,
+        "achievementTitle": "Eye of the Tiger",
+        "achievementDescription": "Set 200 shots on enemies in a mission",
+        "achievementBadgeName": "422838"
+      }
+    ]
   }
 ]
