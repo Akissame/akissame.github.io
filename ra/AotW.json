@@ -2676,5 +2676,79 @@
         "achievementBadgeName": "108393"
       }
     ]
+  },
+  {
+    "gameId": 770,
+    "gameTitle": "Kirby: Nightmare in Dream Land",
+    "gameImageIcon": "/Images/042859.png",
+    "gameImageTitle": "/Images/033745.png",
+    "gameImageIngame": "/Images/002594.png",
+    "gameImageBoxArt": "/Images/014484.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 11911,
+    "achievementTitle": "Butter Building",
+    "achievementDescription": "Complete Level 3.",
+    "achievementBadgeName": "185822",
+    "achievementDateStart": "2025-09-15T00:00:00.000000Z",
+    "achievementDateEnd": "2025-09-22T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 15690,
+        "gameTitle": "SpongeBob SquarePants: Battle for Bikini Bottom",
+        "gameImageIcon": "/Images/096388.png",
+        "gameImageTitle": "/Images/084112.png",
+        "gameImageIngame": "/Images/084113.png",
+        "gameImageBoxArt": "/Images/084111.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 460838,
+        "achievementTitle": "A Great Challenge Awaits",
+        "achievementDescription": "Collect 15 Golden Spatulas",
+        "achievementBadgeName": "535447"
+      },
+      {
+        "gameId": 20528,
+        "gameTitle": "The Dog Island",
+        "gameImageIcon": "/Images/067703.png",
+        "gameImageTitle": "/Images/067701.png",
+        "gameImageIngame": "/Images/067702.png",
+        "gameImageBoxArt": "/Images/067704.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 286909,
+        "achievementTitle": "Scared Maltese",
+        "achievementDescription": "Give the Brave Fruit to Francis",
+        "achievementBadgeName": "318111"
+      },
+      {
+        "gameId": 17484,
+        "gameTitle": "Clubhouse Games | 42 All-Time Classics",
+        "gameImageIcon": "/Images/042422.png",
+        "gameImageTitle": "/Images/042423.png",
+        "gameImageIngame": "/Images/042424.png",
+        "gameImageBoxArt": "/Images/042425.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 209747,
+        "achievementTitle": "Starter Stamps I",
+        "achievementDescription": "Clear Stamp Mode Level 1 (Easy).",
+        "achievementBadgeName": "232498"
+      },
+      {
+        "gameId": 14037,
+        "gameTitle": "Where in the World is Carmen Sandiego?",
+        "gameImageIcon": "/Images/105240.png",
+        "gameImageTitle": "/Images/023633.png",
+        "gameImageIngame": "/Images/023629.png",
+        "gameImageBoxArt": "/Images/023632.png",
+        "consoleID": 38,
+        "consoleName": "Apple II",
+        "achievementId": 483899,
+        "achievementTitle": "World Renowned",
+        "achievementDescription": "Earn the rank of Ace Detective.",
+        "achievementBadgeName": "548817"
+      }
+    ]
   }
 ]
