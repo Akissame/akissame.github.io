@@ -2750,5 +2750,79 @@
         "achievementBadgeName": "548817"
       }
     ]
+  },
+  {
+    "gameId": 802,
+    "gameTitle": "WarioWare, Inc.: Mega Microgame$!",
+    "gameImageIcon": "/Images/105321.png",
+    "gameImageTitle": "/Images/109611.png",
+    "gameImageIngame": "/Images/109612.png",
+    "gameImageBoxArt": "/Images/089239.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 10125,
+    "achievementTitle": "What Is This, Some Kind of Learning Game?!",
+    "achievementDescription": "Clear Orbulon's Games",
+    "achievementBadgeName": "123700",
+    "achievementDateStart": "2025-09-21T00:00:00.000000Z",
+    "achievementDateEnd": "2025-09-28T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17889,
+        "gameTitle": "Rockman.EXE: Operate Shooting Star",
+        "gameImageIcon": "/Images/112363.png",
+        "gameImageTitle": "/Images/081964.png",
+        "gameImageIngame": "/Images/081965.png",
+        "gameImageBoxArt": "/Images/047670.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 344784,
+        "achievementTitle": "Giving the Teacher a Lesson",
+        "achievementDescription": "Defeat NumberMan.EXE and restart the school server",
+        "achievementBadgeName": "407961"
+      },
+      {
+        "gameId": 2977,
+        "gameTitle": "Echochrome",
+        "gameImageIcon": "/Images/047566.png",
+        "gameImageTitle": "/Images/048445.png",
+        "gameImageIngame": "/Images/048446.png",
+        "gameImageBoxArt": "/Images/048444.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 171346,
+        "achievementTitle": "B, solo",
+        "achievementDescription": "Complete all solo B levels.",
+        "achievementBadgeName": "192058"
+      },
+      {
+        "gameId": 9518,
+        "gameTitle": "Professor Layton and the Curious Village",
+        "gameImageIcon": "/Images/068336.png",
+        "gameImageTitle": "/Images/028672.png",
+        "gameImageIngame": "/Images/028673.png",
+        "gameImageBoxArt": "/Images/027863.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 90814,
+        "achievementTitle": "The Fugitive Feline",
+        "achievementDescription": "Finish Chapter 2.",
+        "achievementBadgeName": "98326"
+      },
+      {
+        "gameId": 11252,
+        "gameTitle": "Silent Hill",
+        "gameImageIcon": "/Images/099257.png",
+        "gameImageTitle": "/Images/017729.png",
+        "gameImageIngame": "/Images/017730.png",
+        "gameImageBoxArt": "/Images/045302.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 84007,
+        "achievementTitle": "Broken Notes",
+        "achievementDescription": "Solve the piano puzzle in order to obtain the silver medallion",
+        "achievementBadgeName": "91283"
+      }
+    ]
   }
 ]
