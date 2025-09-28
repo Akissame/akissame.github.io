@@ -2764,8 +2764,8 @@
     "achievementTitle": "What Is This, Some Kind of Learning Game?!",
     "achievementDescription": "Clear Orbulon's Games",
     "achievementBadgeName": "123700",
-    "achievementDateStart": "2025-09-21T00:00:00.000000Z",
-    "achievementDateEnd": "2025-09-28T00:00:00.000000Z",
+    "achievementDateStart": "2025-09-21T00:00:00.000000",
+    "achievementDateEnd": "2025-09-28T00:00:00.000000",
     "swaps": [
       {
         "gameId": 17889,
