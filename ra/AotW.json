@@ -2824,5 +2824,79 @@
         "achievementBadgeName": "91283"
       }
     ]
+  },
+  {
+    "gameId": 3441,
+    "gameTitle": "The Typing of the Dead",
+    "gameImageIcon": "/Images/051120.png",
+    "gameImageTitle": "/Images/050969.png",
+    "gameImageIngame": "/Images/050970.png",
+    "gameImageBoxArt": "/Images/068820.png",
+    "consoleID": 40,
+    "consoleName": "Dreamcast",
+    "achievementId": 194570,
+    "achievementTitle": "Dawn",
+    "achievementDescription": "[Arcade - Story Mode] - Complete Chapter 5 on any difficulty [No Free Play]",
+    "achievementBadgeName": "216382",
+    "achievementDateStart": "2025-09-29T00:00:00.000000Z",
+    "achievementDateEnd": "2025-10-06T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 17011,
+        "gameTitle": "Night Trap",
+        "gameImageIcon": "/Images/041155.png",
+        "gameImageTitle": "/Images/051810.png",
+        "gameImageIngame": "/Images/051811.png",
+        "gameImageBoxArt": "/Images/051812.png",
+        "consoleID": 9,
+        "consoleName": "Sega CD",
+        "achievementId": 220301,
+        "achievementTitle": "Act 1",
+        "achievementDescription": "Complete Disc 1",
+        "achievementBadgeName": "243649"
+      },
+      {
+        "gameId": 3419,
+        "gameTitle": "Rez",
+        "gameImageIcon": "/Images/049896.png",
+        "gameImageTitle": "/Images/050983.png",
+        "gameImageIngame": "/Images/051117.png",
+        "gameImageBoxArt": "/Images/050981.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 221033,
+        "achievementTitle": "Eden",
+        "achievementDescription": "Complete Area 5",
+        "achievementBadgeName": "244348"
+      },
+      {
+        "gameId": 6526,
+        "gameTitle": "Commander Keen",
+        "gameImageIcon": "/Images/011088.png",
+        "gameImageTitle": "/Images/011016.png",
+        "gameImageIngame": "/Images/011438.png",
+        "gameImageBoxArt": "/Images/011015.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 48595,
+        "achievementTitle": "Shikadi in Space",
+        "achievementDescription": "Complete Shikadi",
+        "achievementBadgeName": "49603"
+      },
+      {
+        "gameId": 20846,
+        "gameTitle": "Enter the Matrix",
+        "gameImageIcon": "/Images/063776.png",
+        "gameImageTitle": "/Images/063778.png",
+        "gameImageIngame": "/Images/063777.png",
+        "gameImageBoxArt": "/Images/065155.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 438965,
+        "achievementTitle": "Answer the Phone",
+        "achievementDescription": "Complete City Rooftops with any characters on normal or higher difficulty",
+        "achievementBadgeName": "498280"
+      }
+    ]
   }
 ]
