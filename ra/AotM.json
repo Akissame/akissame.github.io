@@ -692,5 +692,79 @@
         "achievementBadgeName": "547953"
       }
     ]
+  },
+  {
+    "gameId": 676,
+    "gameTitle": "The Legend of Zelda: Oracle of Seasons",
+    "gameImageIcon": "/Images/108279.png",
+    "gameImageTitle": "/Images/000070.png",
+    "gameImageIngame": "/Images/023377.png",
+    "gameImageBoxArt": "/Images/022647.png",
+    "consoleID": 6,
+    "consoleName": "Game Boy Color",
+    "achievementId": 1821,
+    "achievementTitle": "Falling All Around",
+    "achievementDescription": "Acquire the autumn power for the Rod of Seasons.",
+    "achievementBadgeName": "565335",
+    "achievementDateStart": "2025-10-06T00:00:00.000000Z",
+    "achievementDateEnd": "2025-11-03T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 2725,
+        "gameTitle": "Fatal Frame II: Crimson Butterfly",
+        "gameImageIcon": "/Images/052798.png",
+        "gameImageTitle": "/Images/064045.png",
+        "gameImageIngame": "/Images/070937.png",
+        "gameImageBoxArt": "/Images/052796.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 308402,
+        "achievementTitle": "Children Playing",
+        "achievementDescription": "In Chapter 5 walk into and survive the ambush set up by playful children",
+        "achievementBadgeName": "341177"
+      },
+      {
+        "gameId": 10523,
+        "gameTitle": "LocoRoco",
+        "gameImageIcon": "/Images/079490.png",
+        "gameImageTitle": "/Images/040024.png",
+        "gameImageIngame": "/Images/040025.png",
+        "gameImageBoxArt": "/Images/040023.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 397992,
+        "achievementTitle": "Zappudo Geron",
+        "achievementDescription": "Clear Budzi's stage and World 3",
+        "achievementBadgeName": "453215"
+      },
+      {
+        "gameId": 7181,
+        "gameTitle": "Monster Rancher Advance 2",
+        "gameImageIcon": "/Images/115423.png",
+        "gameImageTitle": "/Images/033793.png",
+        "gameImageIngame": "/Images/023132.png",
+        "gameImageBoxArt": "/Images/023130.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 171399,
+        "achievementTitle": "Rookie Mastery of 8-Tier Elimination",
+        "achievementDescription": "Win 1st place in the Guardian Cup and Autumn Cup",
+        "achievementBadgeName": "192111"
+      },
+      {
+        "gameId": 400,
+        "gameTitle": "Secret of Mana",
+        "gameImageIcon": "/Images/099440.png",
+        "gameImageTitle": "/Images/000277.png",
+        "gameImageIngame": "/Images/000152.png",
+        "gameImageBoxArt": "/Images/067832.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 18026,
+        "achievementTitle": "Spring Beak",
+        "achievementDescription": "Defeat Spring Beak at Forest of Seasons",
+        "achievementBadgeName": "220732"
+      }
+    ]
   }
 ]
