@@ -2898,5 +2898,79 @@
         "achievementBadgeName": "498280"
       }
     ]
+  },
+  {
+    "gameId": 9407,
+    "gameTitle": "Castlevania: Portrait of Ruin",
+    "gameImageIcon": "/Images/105113.png",
+    "gameImageTitle": "/Images/071801.png",
+    "gameImageIngame": "/Images/071800.png",
+    "gameImageBoxArt": "/Images/071799.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 94250,
+    "achievementTitle": "Pharoahess of Ishtar",
+    "achievementDescription": "Defeat Astarte in Sandy Grave",
+    "achievementBadgeName": "103707",
+    "achievementDateStart": "2025-10-06T00:00:00.000000Z",
+    "achievementDateEnd": "2025-10-13T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 9176,
+        "gameTitle": "Magician Lord",
+        "gameImageIcon": "/Images/082979.png",
+        "gameImageTitle": "/Images/082983.png",
+        "gameImageIngame": "/Images/082982.png",
+        "gameImageBoxArt": "/Images/082981.png",
+        "consoleID": 56,
+        "consoleName": "Neo Geo CD",
+        "achievementId": 376335,
+        "achievementTitle": "God of Destruction Reincarnates",
+        "achievementDescription": "Defeat Az Atorse, obtain the eighth book, and finish the game",
+        "achievementBadgeName": "423171"
+      },
+      {
+        "gameId": 9983,
+        "gameTitle": "Super Mario 64 DS",
+        "gameImageIcon": "/Images/070042.png",
+        "gameImageTitle": "/Images/028674.png",
+        "gameImageIngame": "/Images/028769.png",
+        "gameImageBoxArt": "/Images/027923.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 91426,
+        "achievementTitle": "Red Button Gives You Wiiings",
+        "achievementDescription": "Activate the Red ? Switch in Peach's Castle",
+        "achievementBadgeName": "103130"
+      },
+      {
+        "gameId": 20617,
+        "gameTitle": "Wall-E",
+        "gameImageIcon": "/Images/064161.png",
+        "gameImageTitle": "/Images/062531.png",
+        "gameImageIngame": "/Images/064062.png",
+        "gameImageBoxArt": "/Images/077301.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 306359,
+        "achievementTitle": "Taking Flight",
+        "achievementDescription": "Complete level Taking Flight with no cheats enabled",
+        "achievementBadgeName": "339163"
+      },
+      {
+        "gameId": 16880,
+        "gameTitle": "Bubsy in Fractured Furry Tales",
+        "gameImageIcon": "/Images/117702.png",
+        "gameImageTitle": "/Images/040837.png",
+        "gameImageIngame": "/Images/040840.png",
+        "gameImageBoxArt": "/Images/091650.png",
+        "consoleID": 17,
+        "consoleName": "Atari Jaguar",
+        "achievementId": 135470,
+        "achievementTitle": "Out on a Limb",
+        "achievementDescription": "Complete chapter 4",
+        "achievementBadgeName": "150219"
+      }
+    ]
   }
 ]
