@@ -2972,5 +2972,79 @@
         "achievementBadgeName": "150219"
       }
     ]
+  },
+  {
+    "gameId": 2140,
+    "gameTitle": "Splatterhouse: Wanpaku Graffiti",
+    "gameImageIcon": "/Images/065136.png",
+    "gameImageTitle": "/Images/000873.png",
+    "gameImageIngame": "/Images/000874.png",
+    "gameImageBoxArt": "/Images/000708.png",
+    "consoleID": 7,
+    "consoleName": "NES/Famicom",
+    "achievementId": 4082,
+    "achievementTitle": "Best Ending",
+    "achievementDescription": "Complete the Game and Get the Best Ending",
+    "achievementBadgeName": "488947",
+    "achievementDateStart": "2025-10-13T00:00:00.000000Z",
+    "achievementDateEnd": "2025-10-20T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 9766,
+        "gameTitle": "Angelic Layer",
+        "gameImageIcon": "/Images/010223.png",
+        "gameImageTitle": "/Images/010222.png",
+        "gameImageIngame": "/Images/010221.png",
+        "gameImageBoxArt": "/Images/014445.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 46386,
+        "achievementTitle": "We Solved a Problem Named Maria",
+        "achievementDescription": "Win the Tokyo-prefecture finale against Maria's Angel, Tsubaki.",
+        "achievementBadgeName": "46938"
+      },
+      {
+        "gameId": 3107,
+        "gameTitle": "Rumble Racing",
+        "gameImageIcon": "/Images/109535.png",
+        "gameImageTitle": "/Images/077079.png",
+        "gameImageIngame": "/Images/077080.png",
+        "gameImageBoxArt": "/Images/056666.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 446511,
+        "achievementTitle": "Pro Cup 1",
+        "achievementDescription": "Obtain a gold trophy in the Pro Cup 1",
+        "achievementBadgeName": "506170"
+      },
+      {
+        "gameId": 4916,
+        "gameTitle": "Bubble Bobble: Old & New",
+        "gameImageIcon": "/Images/106041.png",
+        "gameImageTitle": "/Images/106249.png",
+        "gameImageIngame": "/Images/106250.png",
+        "gameImageBoxArt": "/Images/023923.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 489868,
+        "achievementTitle": "Monster's Den",
+        "achievementDescription": "On Normal Mode, beat Round 90 on any version.",
+        "achievementBadgeName": "554700"
+      },
+      {
+        "gameId": 5785,
+        "gameTitle": "Alien 3",
+        "gameImageIcon": "/Images/011352.png",
+        "gameImageTitle": "/Images/011349.png",
+        "gameImageIngame": "/Images/011350.png",
+        "gameImageBoxArt": "/Images/011351.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 62510,
+        "achievementTitle": "Prisoners V",
+        "achievementDescription": "Find all prisoners on the fifth level [>=normal]",
+        "achievementBadgeName": "65908"
+      }
+    ]
   }
 ]
