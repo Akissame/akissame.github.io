@@ -2986,8 +2986,8 @@
     "achievementTitle": "Best Ending",
     "achievementDescription": "Complete the Game and Get the Best Ending",
     "achievementBadgeName": "488947",
-    "achievementDateStart": "2025-10-13T00:00:00.000000",
-    "achievementDateEnd": "2025-10-20T00:00:00.000000",
+    "achievementDateStart": "2025-10-13T00:00:00.000000Z",
+    "achievementDateEnd": "2025-10-20T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 9766,
