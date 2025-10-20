@@ -3046,5 +3046,79 @@
         "achievementBadgeName": "65908"
       }
     ]
+  },
+  {
+    "gameId": 14543,
+    "gameTitle": "Princess Crown",
+    "gameImageIcon": "/Images/093773.png",
+    "gameImageTitle": "/Images/041192.png",
+    "gameImageIngame": "/Images/085504.png",
+    "gameImageBoxArt": "/Images/041194.png",
+    "consoleID": 39,
+    "consoleName": "Saturn",
+    "achievementId": 382571,
+    "achievementTitle": "Transformative Tykes",
+    "achievementDescription": "[The Crown Princess] Saved the Children of Nutsbill.",
+    "achievementBadgeName": "430989",
+    "achievementDateStart": "2025-10-20T00:00:00.000000Z",
+    "achievementDateEnd": "2025-10-27T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 10827,
+        "gameTitle": "Wacky Races",
+        "gameImageIcon": "/Images/083575.png",
+        "gameImageTitle": "/Images/051987.png",
+        "gameImageIngame": "/Images/051984.png",
+        "gameImageBoxArt": "/Images/051985.png",
+        "consoleID": 40,
+        "consoleName": "Dreamcast",
+        "achievementId": 195974,
+        "achievementTitle": "Snowfalls Peak - Stars",
+        "achievementDescription": "Get all Snowfalls Peak Stars.",
+        "achievementBadgeName": "217943"
+      },
+      {
+        "gameId": 10255,
+        "gameTitle": "Shadow Man",
+        "gameImageIcon": "/Images/055462.png",
+        "gameImageTitle": "/Images/012746.png",
+        "gameImageIngame": "/Images/012747.png",
+        "gameImageBoxArt": "/Images/012742.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 57861,
+        "achievementTitle": "Key to Madness",
+        "achievementDescription": "Obtain the Engineer's Key",
+        "achievementBadgeName": "61786"
+      },
+      {
+        "gameId": 32108,
+        "gameTitle": "~Hack~ SpongeBob and the Pit of 100 Trials",
+        "gameImageIcon": "/Images/110456.png",
+        "gameImageTitle": "/Images/109692.png",
+        "gameImageIngame": "/Images/109691.png",
+        "gameImageBoxArt": "/Images/000002.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 514333,
+        "achievementTitle": "New Robots to Play With",
+        "achievementDescription": "Reach Floor 60",
+        "achievementBadgeName": "582132"
+      },
+      {
+        "gameId": 7309,
+        "gameTitle": "Ninja JaJaMaru: The Legend of the Golden Castle",
+        "gameImageIcon": "/Images/092933.png",
+        "gameImageTitle": "/Images/092854.png",
+        "gameImageIngame": "/Images/042432.png",
+        "gameImageBoxArt": "/Images/042433.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 424354,
+        "achievementTitle": "A Successful Rescue",
+        "achievementDescription": "Defeat the boss of the Wind Temple.",
+        "achievementBadgeName": "479626"
+      }
+    ]
   }
 ]
