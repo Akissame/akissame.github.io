@@ -3120,5 +3120,79 @@
         "achievementBadgeName": "479626"
       }
     ]
+  },
+  {
+    "gameId": 11821,
+    "gameTitle": "Warriors of Fate",
+    "gameImageIcon": "/Images/022036.png",
+    "gameImageTitle": "/Images/021582.png",
+    "gameImageIngame": "/Images/021583.png",
+    "gameImageBoxArt": "/Images/021584.png",
+    "consoleID": 27,
+    "consoleName": "Arcade",
+    "achievementId": 65010,
+    "achievementTitle": "Warriors of Overcoming Fate",
+    "achievementDescription": "Finish the game by killing Cao Cao (P1, diff>=Normal, oth. opt. <=default)",
+    "achievementBadgeName": "74737",
+    "achievementDateStart": "2025-10-27T00:00:00.000000Z",
+    "achievementDateEnd": "2025-11-03T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 19029,
+        "gameTitle": "Forbidden Siren 2 | Siren 2",
+        "gameImageIcon": "/Images/104940.png",
+        "gameImageTitle": "/Images/077200.png",
+        "gameImageIngame": "/Images/104749.png",
+        "gameImageBoxArt": "/Images/056560.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 479495,
+        "achievementTitle": "Formless Enemies",
+        "achievementDescription": "Complete -05:00 Shigeru Fujita's both missions on normal difficulty",
+        "achievementBadgeName": "544160"
+      },
+      {
+        "gameId": 14520,
+        "gameTitle": "Bug!",
+        "gameImageIcon": "/Images/041169.png",
+        "gameImageTitle": "/Images/041097.png",
+        "gameImageIngame": "/Images/041104.png",
+        "gameImageBoxArt": "/Images/041099.png",
+        "consoleID": 39,
+        "consoleName": "Saturn",
+        "achievementId": 135602,
+        "achievementTitle": "Dooge !",
+        "achievementDescription": "Finish Insectia",
+        "achievementBadgeName": "153083"
+      },
+      {
+        "gameId": 12268,
+        "gameTitle": "Puzz Loop 2",
+        "gameImageIcon": "/Images/096115.png",
+        "gameImageTitle": "/Images/096113.png",
+        "gameImageIngame": "/Images/096114.png",
+        "gameImageBoxArt": "/Images/096112.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 459725,
+        "achievementTitle": "Eye of the Storm",
+        "achievementDescription": "[Stage] Clear stage 2-C.",
+        "achievementBadgeName": "520521"
+      },
+      {
+        "gameId": 9077,
+        "gameTitle": "Suikoden Tierkreis",
+        "gameImageIcon": "/Images/060181.png",
+        "gameImageTitle": "/Images/028656.png",
+        "gameImageIngame": "/Images/060282.png",
+        "gameImageBoxArt": "/Images/069923.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 234095,
+        "achievementTitle": "Many People and Worlds",
+        "achievementDescription": "Complete the mission 'Track Down Marica's Double.'",
+        "achievementBadgeName": "301464"
+      }
+    ]
   }
 ]
