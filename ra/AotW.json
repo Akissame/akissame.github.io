@@ -3194,5 +3194,79 @@
         "achievementBadgeName": "301464"
       }
     ]
+  },
+  {
+    "gameId": 3300,
+    "gameTitle": "Ys VI: The Ark of Napishtim",
+    "gameImageIcon": "/Images/066014.png",
+    "gameImageTitle": "/Images/061967.png",
+    "gameImageIngame": "/Images/061966.png",
+    "gameImageBoxArt": "/Images/056762.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 255913,
+    "achievementTitle": "The Calamity Will Wander No More",
+    "achievementDescription": "Defeat Demi-Galba on normal or hard difficulty.",
+    "achievementBadgeName": "285478",
+    "achievementDateStart": "2025-11-03T00:00:00.000000Z",
+    "achievementDateEnd": "2025-11-10T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 289,
+        "gameTitle": "Last Battle | Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu",
+        "gameImageIcon": "/Images/064828.png",
+        "gameImageTitle": "/Images/001143.png",
+        "gameImageIngame": "/Images/001144.png",
+        "gameImageBoxArt": "/Images/028720.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 560,
+        "achievementTitle": "Freeing the Land",
+        "achievementDescription": "Defeat Gromm/Han and free the land of Asura",
+        "achievementBadgeName": "00806"
+      },
+      {
+        "gameId": 12714,
+        "gameTitle": "Happy Feet",
+        "gameImageIcon": "/Images/067453.png",
+        "gameImageTitle": "/Images/016588.png",
+        "gameImageIngame": "/Images/021150.png",
+        "gameImageBoxArt": "/Images/067288.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 69152,
+        "achievementTitle": "Chapter 5 Complete",
+        "achievementDescription": "Complete Chapter 5",
+        "achievementBadgeName": "73577"
+      },
+      {
+        "gameId": 13183,
+        "gameTitle": "Chocobo's Dungeon 2",
+        "gameImageIcon": "/Images/064826.png",
+        "gameImageTitle": "/Images/065206.png",
+        "gameImageIngame": "/Images/065207.png",
+        "gameImageBoxArt": "/Images/050461.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 271125,
+        "achievementTitle": "Intrinsic Inventor",
+        "achievementDescription": "Team up with Cid on 3F of Cid's Tower.",
+        "achievementBadgeName": "299955"
+      },
+      {
+        "gameId": 14728,
+        "gameTitle": "Rock n' Bolt",
+        "gameImageIcon": "/Images/083439.png",
+        "gameImageTitle": "/Images/056279.png",
+        "gameImageIngame": "/Images/056280.png",
+        "gameImageBoxArt": "/Images/056282.png",
+        "consoleID": 33,
+        "consoleName": "SG-1000",
+        "achievementId": 359847,
+        "achievementTitle": "Volunteer Work",
+        "achievementDescription": "Complete floors 9-16 on any setting.",
+        "achievementBadgeName": "405177"
+      }
+    ]
   }
 ]
