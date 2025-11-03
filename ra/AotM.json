@@ -766,5 +766,79 @@
         "achievementBadgeName": "220732"
       }
     ]
+  },
+  {
+    "gameId": 3070,
+    "gameTitle": "Ratchet & Clank",
+    "gameImageIcon": "/Images/087911.png",
+    "gameImageTitle": "/Images/061495.png",
+    "gameImageIngame": "/Images/061602.png",
+    "gameImageBoxArt": "/Images/052982.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 254407,
+    "achievementTitle": "Secret Stash",
+    "achievementDescription": "Find an infobot on Orxon as Clank",
+    "achievementBadgeName": "282167",
+    "achievementDateStart": "2025-11-03T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-01T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 10121,
+        "gameTitle": "Duke Nukem 64",
+        "gameImageIcon": "/Images/020240.png",
+        "gameImageTitle": "/Images/010775.png",
+        "gameImageIngame": "/Images/010895.png",
+        "gameImageBoxArt": "/Images/098495.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 180084,
+        "achievementTitle": "Warp Factor",
+        "achievementDescription": "Complete Warp Factor on any difficulty",
+        "achievementBadgeName": "200583"
+      },
+      {
+        "gameId": 2651,
+        "gameTitle": "Arabian Nights: Sabaku no Seirei Ou | Arabian Nights: Desert Spirit King",
+        "gameImageIcon": "/Images/099759.png",
+        "gameImageTitle": "/Images/102719.png",
+        "gameImageIngame": "/Images/102720.png",
+        "gameImageBoxArt": "/Images/111790.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 447235,
+        "achievementTitle": "Freeing the Wind",
+        "achievementDescription": "In one session, explore the Ancient Temple and rescue Zeitoon of Wind.",
+        "achievementBadgeName": "524225"
+      },
+      {
+        "gameId": 9699,
+        "gameTitle": "F-Zero GX",
+        "gameImageIcon": "/Images/081531.png",
+        "gameImageTitle": "/Images/081166.png",
+        "gameImageIngame": "/Images/081167.png",
+        "gameImageBoxArt": "/Images/094796.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 400037,
+        "achievementTitle": "Singed Eyebrows",
+        "achievementDescription": "Clear Mission 5 of Story Mode on Normal difficulty",
+        "achievementBadgeName": "452567"
+      },
+      {
+        "gameId": 11260,
+        "gameTitle": "Spyro 2: Ripto's Rage!",
+        "gameImageIcon": "/Images/089383.png",
+        "gameImageTitle": "/Images/107463.png",
+        "gameImageIngame": "/Images/107464.png",
+        "gameImageBoxArt": "/Images/074749.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 83533,
+        "achievementTitle": "100% Gulp's Overlook",
+        "achievementDescription": "Defeat Gulp in Gulp's Overlook",
+        "achievementBadgeName": "136746"
+      }
+    ]
   }
 ]
