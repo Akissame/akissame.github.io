@@ -2986,8 +2986,8 @@
     "achievementTitle": "Best Ending",
     "achievementDescription": "Complete the Game and Get the Best Ending",
     "achievementBadgeName": "488947",
-    "achievementDateStart": "2025-10-13T00:00:00.000000Z",
-    "achievementDateEnd": "2025-10-20T00:00:00.000000Z",
+    "achievementDateStart": "2025-10-13T00:00:00.000000",
+    "achievementDateEnd": "2025-10-20T00:00:00.000000",
     "swaps": [
       {
         "gameId": 9766,
@@ -3060,8 +3060,8 @@
     "achievementTitle": "Transformative Tykes",
     "achievementDescription": "[The Crown Princess] Saved the Children of Nutsbill.",
     "achievementBadgeName": "430989",
-    "achievementDateStart": "2025-10-20T00:00:00.000000Z",
-    "achievementDateEnd": "2025-10-27T00:00:00.000000Z",
+    "achievementDateStart": "2025-10-20T00:00:00.000000",
+    "achievementDateEnd": "2025-10-27T00:00:00.000000",
     "swaps": [
       {
         "gameId": 10827,
@@ -3134,8 +3134,8 @@
     "achievementTitle": "Warriors of Overcoming Fate",
     "achievementDescription": "Finish the game by killing Cao Cao (P1, diff>=Normal, oth. opt. <=default)",
     "achievementBadgeName": "74737",
-    "achievementDateStart": "2025-10-27T00:00:00.000000Z",
-    "achievementDateEnd": "2025-11-03T00:00:00.000000Z",
+    "achievementDateStart": "2025-10-27T00:00:00.000000",
+    "achievementDateEnd": "2025-11-03T00:00:00.000000",
     "swaps": [
       {
         "gameId": 19029,
@@ -3208,8 +3208,8 @@
     "achievementTitle": "The Calamity Will Wander No More",
     "achievementDescription": "Defeat Demi-Galba on normal or hard difficulty.",
     "achievementBadgeName": "285478",
-    "achievementDateStart": "2025-11-03T00:00:00.000000Z",
-    "achievementDateEnd": "2025-11-10T00:00:00.000000Z",
+    "achievementDateStart": "2025-11-03T00:00:00.000000",
+    "achievementDateEnd": "2025-11-10T00:00:00.000000",
     "swaps": [
       {
         "gameId": 289,
