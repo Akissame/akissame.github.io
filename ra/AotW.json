@@ -3268,5 +3268,79 @@
         "achievementBadgeName": "405177"
       }
     ]
+  },
+  {
+    "gameId": 11276,
+    "gameTitle": "Tomba! | Tombi! | Ore! Tomba",
+    "gameImageIcon": "/Images/110683.png",
+    "gameImageTitle": "/Images/026481.png",
+    "gameImageIngame": "/Images/026537.png",
+    "gameImageBoxArt": "/Images/092079.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 83257,
+    "achievementTitle": "Phoenix Ride Gone Wrong",
+    "achievementDescription": "Land in Baccus Village",
+    "achievementBadgeName": "99480",
+    "achievementDateStart": "2025-11-10T00:00:00.000000Z",
+    "achievementDateEnd": "2025-11-17T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 19342,
+        "gameTitle": "Tomb Raider: The Angel of Darkness",
+        "gameImageIcon": "/Images/097189.png",
+        "gameImageTitle": "/Images/107601.png",
+        "gameImageIngame": "/Images/107599.png",
+        "gameImageBoxArt": "/Images/056737.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 497241,
+        "achievementTitle": "Margot Carvier's Apartment",
+        "achievementDescription": "Exit Margot Carvier's Apartment with Werner's Dairy.",
+        "achievementBadgeName": "562220"
+      },
+      {
+        "gameId": 10648,
+        "gameTitle": "Star Wars: Rogue Squadron",
+        "gameImageIcon": "/Images/111879.png",
+        "gameImageTitle": "/Images/019617.png",
+        "gameImageIngame": "/Images/045695.png",
+        "gameImageBoxArt": "/Images/019616.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 161084,
+        "achievementTitle": "Moon Raid",
+        "achievementDescription": "Complete Mission 'The Jade Moon'",
+        "achievementBadgeName": "181502"
+      },
+      {
+        "gameId": 33038,
+        "gameTitle": "~Hack~ GRAVITY: Sylux's Crusade",
+        "gameImageIcon": "/Images/108533.png",
+        "gameImageTitle": "/Images/108508.png",
+        "gameImageIngame": "/Images/108509.png",
+        "gameImageBoxArt": "/Images/000002.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 501613,
+        "achievementTitle": "More Beams is Good Beams",
+        "achievementDescription": "Obtain the Wide Beam",
+        "achievementBadgeName": "568793"
+      },
+      {
+        "gameId": 25451,
+        "gameTitle": "Mario Party 5",
+        "gameImageIcon": "/Images/111752.png",
+        "gameImageTitle": "/Images/090633.png",
+        "gameImageIngame": "/Images/090632.png",
+        "gameImageBoxArt": "/Images/094792.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 443337,
+        "achievementTitle": "My First Nightmare",
+        "achievementDescription": "Beat Bowser in Story Mode on Normal difficulty or above",
+        "achievementBadgeName": "500232"
+      }
+    ]
   }
 ]
