@@ -3342,5 +3342,79 @@
         "achievementBadgeName": "500232"
       }
     ]
+  },
+  {
+    "gameId": 2224,
+    "gameTitle": "~Hack~ Pokémon DarkViolet Version",
+    "gameImageIcon": "/Images/114688.png",
+    "gameImageTitle": "/Images/043149.png",
+    "gameImageIngame": "/Images/043150.png",
+    "gameImageBoxArt": "/Images/043151.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 149732,
+    "achievementTitle": "Playing With Water",
+    "achievementDescription": "Defeat Misty and earn the Cascade Badge",
+    "achievementBadgeName": "601892",
+    "achievementDateStart": "2025-11-17T00:00:00.000000Z",
+    "achievementDateEnd": "2025-11-24T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 1178,
+        "gameTitle": "Aladdin in Nasira's Revenge",
+        "gameImageIcon": "/Images/054364.png",
+        "gameImageTitle": "/Images/092221.png",
+        "gameImageIngame": "/Images/092222.png",
+        "gameImageBoxArt": "/Images/066494.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 141791,
+        "achievementTitle": "100% Sultan's Palace",
+        "achievementDescription": "Complete Sultan's Palace with all the coins, red gems and blue gem collected",
+        "achievementBadgeName": "158294"
+      },
+      {
+        "gameId": 20548,
+        "gameTitle": "Naruto: Ultimate Ninja 3",
+        "gameImageIcon": "/Images/062244.png",
+        "gameImageTitle": "/Images/062245.png",
+        "gameImageIngame": "/Images/062246.png",
+        "gameImageBoxArt": "/Images/062247.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 276487,
+        "achievementTitle": "Broken Bond",
+        "achievementDescription": "Complete the Sasuke Retrieval Arc in Hero's History Mode",
+        "achievementBadgeName": "306042"
+      },
+      {
+        "gameId": 15582,
+        "gameTitle": "Final Fantasy IV",
+        "gameImageIcon": "/Images/070793.png",
+        "gameImageTitle": "/Images/062170.png",
+        "gameImageIngame": "/Images/062171.png",
+        "gameImageBoxArt": "/Images/062363.png",
+        "consoleID": 53,
+        "consoleName": "WonderSwan",
+        "achievementId": 284771,
+        "achievementTitle": "Et Tu, Kain?",
+        "achievementDescription": "Witness Kain's betrayal, and meet Golbez in Fabul.",
+        "achievementBadgeName": "315772"
+      },
+      {
+        "gameId": 6377,
+        "gameTitle": "CIMA: The Enemy",
+        "gameImageIcon": "/Images/059881.png",
+        "gameImageTitle": "/Images/017102.png",
+        "gameImageIngame": "/Images/017119.png",
+        "gameImageBoxArt": "/Images/017101.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 230294,
+        "achievementTitle": "Vanrose U, the Leader",
+        "achievementDescription": "Rescue Vanrose",
+        "achievementBadgeName": "255559"
+      }
+    ]
   }
 ]
