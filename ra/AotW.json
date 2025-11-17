@@ -3357,7 +3357,7 @@
     "achievementDescription": "Defeat Misty and earn the Cascade Badge",
     "achievementBadgeName": "601892",
     "achievementDateStart": "2025-11-17T00:00:00.000000Z",
-    "achievementDateEnd": "2025-11-24T00:00:00.000000Z",
+    "achievementDateEnd": "2025-11-24T00:00:00.000000",
     "swaps": [
       {
         "gameId": 1178,
