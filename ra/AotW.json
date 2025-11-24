@@ -3416,5 +3416,79 @@
         "achievementBadgeName": "255559"
       }
     ]
+  },
+  {
+    "gameId": 20618,
+    "gameTitle": "Teenage Mutant Ninja Turtles",
+    "gameImageIcon": "/Images/089559.png",
+    "gameImageTitle": "/Images/089443.png",
+    "gameImageIngame": "/Images/089444.png",
+    "gameImageBoxArt": "/Images/062535.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 400589,
+    "achievementTitle": "Nano Complete",
+    "achievementDescription": "Complete Stage 2: Nano with any turtle on normal or hard difficulty",
+    "achievementBadgeName": "456684",
+    "achievementDateStart": "2025-11-24T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-01T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 32653,
+        "gameTitle": "Mind Castle II",
+        "gameImageIcon": "/Images/105977.png",
+        "gameImageTitle": "/Images/105975.png",
+        "gameImageIngame": "/Images/105976.png",
+        "gameImageBoxArt": "/Images/105978.png",
+        "consoleID": 38,
+        "consoleName": "Apple II",
+        "achievementId": 490378,
+        "achievementTitle": "Freedom for All",
+        "achievementDescription": "Leave the castle",
+        "achievementBadgeName": "555258"
+      },
+      {
+        "gameId": 658,
+        "gameTitle": "Mortal Kombat 3",
+        "gameImageIcon": "/Images/054583.png",
+        "gameImageTitle": "/Images/003978.png",
+        "gameImageIngame": "/Images/003979.png",
+        "gameImageBoxArt": "/Images/003976.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 351784,
+        "achievementTitle": "Kano",
+        "achievementDescription": "Finish the game as Kano (Pausing is Blocked)",
+        "achievementBadgeName": "20123"
+      },
+      {
+        "gameId": 6200,
+        "gameTitle": "Gargoyle's Quest II: The Demon Darkness",
+        "gameImageIcon": "/Images/047334.png",
+        "gameImageTitle": "/Images/045610.png",
+        "gameImageIngame": "/Images/045611.png",
+        "gameImageBoxArt": "/Images/005127.png",
+        "consoleID": 4,
+        "consoleName": "Game Boy",
+        "achievementId": 162215,
+        "achievementTitle": "Paralyzed King ",
+        "achievementDescription": "Obtain jump upgrade from Barr",
+        "achievementBadgeName": "182399"
+      },
+      {
+        "gameId": 16360,
+        "gameTitle": "Maniac Mansion",
+        "gameImageIcon": "/Images/045613.png",
+        "gameImageTitle": "/Images/045617.png",
+        "gameImageIngame": "/Images/045618.png",
+        "gameImageBoxArt": "/Images/045616.png",
+        "consoleID": 38,
+        "consoleName": "Apple II",
+        "achievementId": 161530,
+        "achievementTitle": "You Sneaky Little Rat",
+        "achievementDescription": "Find the purple card key",
+        "achievementBadgeName": "181580"
+      }
+    ]
   }
 ]
