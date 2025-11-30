@@ -3431,7 +3431,7 @@
     "achievementDescription": "Complete Stage 2: Nano with any turtle on normal or hard difficulty",
     "achievementBadgeName": "456684",
     "achievementDateStart": "2025-11-24T00:00:00.000000Z",
-    "achievementDateEnd": "2025-12-01T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-01T00:00:00.000000",
     "swaps": [
       {
         "gameId": 32653,
