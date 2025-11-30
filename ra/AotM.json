@@ -12,7 +12,7 @@
     "achievementTitle": "No Time to Lose",
     "achievementDescription": "Give Mr. Sanderson the \"love\" letter",
     "achievementBadgeName": "494148",
-    "achievementDateStart": "2025-01-06T00:00:00.000000",
+    "achievementDateStart": "2025-01-06T00:00:00.000000Z",
     "achievementDateEnd": "2025-02-03T00:00:00.000000",
     "swaps": [
       {
@@ -114,7 +114,7 @@
     "achievementTitle": "Something's Fishy",
     "achievementDescription": "Finish this silly game properly",
     "achievementBadgeName": "123989",
-    "achievementDateStart": "2025-02-03T00:00:00.000000",
+    "achievementDateStart": "2025-02-03T00:00:00.000000Z",
     "achievementDateEnd": "2025-03-03T00:00:00.000000",
     "swaps": [
       {
@@ -188,7 +188,7 @@
     "achievementTitle": "League Champion",
     "achievementDescription": "Defeat the current champion and become the Pokémon League Champion",
     "achievementBadgeName": "315508",
-    "achievementDateStart": "2025-03-03T00:00:00.000000",
+    "achievementDateStart": "2025-03-03T00:00:00.000000Z",
     "achievementDateEnd": "2025-04-07T00:00:00.000000",
     "swaps": [
       {
@@ -262,7 +262,7 @@
     "achievementTitle": "Kuwabara, Kuwabara",
     "achievementDescription": "Eavesdrop on Olga in the Shell 2 core",
     "achievementBadgeName": "264571",
-    "achievementDateStart": "2025-04-07T00:00:00.000000",
+    "achievementDateStart": "2025-04-07T00:00:00.000000Z",
     "achievementDateEnd": "2025-05-05T00:00:00.000000",
     "swaps": [
       {
@@ -336,7 +336,7 @@
     "achievementTitle": "Clockwerk Scrapped",
     "achievementDescription": "Defeat Clockwerk in \"A Strange Reunion\"",
     "achievementBadgeName": "296298",
-    "achievementDateStart": "2025-05-05T00:00:00.000000",
+    "achievementDateStart": "2025-05-05T00:00:00.000000Z",
     "achievementDateEnd": "2025-06-02T00:00:00.000000",
     "swaps": [
       {
@@ -410,7 +410,7 @@
     "achievementTitle": "Farore's Dream",
     "achievementDescription": "Obtain Farore's Pearl.",
     "achievementBadgeName": "501486",
-    "achievementDateStart": "2025-06-02T00:00:00.000000",
+    "achievementDateStart": "2025-06-02T00:00:00.000000Z",
     "achievementDateEnd": "2025-07-07T00:00:00.000000",
     "swaps": [
       {
@@ -484,7 +484,7 @@
     "achievementTitle": "Taste Tester",
     "achievementDescription": "[Episode I] Complete Addicting Food on Normal difficulty",
     "achievementBadgeName": "454609",
-    "achievementDateStart": "2025-07-07T00:00:00.000000",
+    "achievementDateStart": "2025-07-07T00:00:00.000000Z",
     "achievementDateEnd": "2025-08-04T00:00:00.000000",
     "swaps": [
       {
@@ -558,7 +558,7 @@
     "achievementTitle": "Trials of the Satyr",
     "achievementDescription": "Complete the Phil Cup at the Olympus Coliseum.",
     "achievementBadgeName": "588961",
-    "achievementDateStart": "2025-08-04T00:00:00.000000",
+    "achievementDateStart": "2025-08-04T00:00:00.000000Z",
     "achievementDateEnd": "2025-09-01T00:00:00.000000",
     "swaps": [
       {
@@ -632,7 +632,7 @@
     "achievementTitle": "The End of Mario's Reign",
     "achievementDescription": "Win the Peach Cup Singles Final and beat the game!",
     "achievementBadgeName": "102752",
-    "achievementDateStart": "2025-09-01T00:00:00.000000",
+    "achievementDateStart": "2025-09-01T00:00:00.000000Z",
     "achievementDateEnd": "2025-10-06T00:00:00.000000",
     "swaps": [
       {
@@ -706,7 +706,7 @@
     "achievementTitle": "Falling All Around",
     "achievementDescription": "Acquire the autumn power for the Rod of Seasons.",
     "achievementBadgeName": "565335",
-    "achievementDateStart": "2025-10-06T00:00:00.000000",
+    "achievementDateStart": "2025-10-06T00:00:00.000000Z",
     "achievementDateEnd": "2025-11-03T00:00:00.000000",
     "swaps": [
       {
@@ -781,7 +781,7 @@
     "achievementDescription": "Find an infobot on Orxon as Clank",
     "achievementBadgeName": "282167",
     "achievementDateStart": "2025-11-03T00:00:00.000000Z",
-    "achievementDateEnd": "2025-12-01T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-01T00:00:00.000000",
     "swaps": [
       {
         "gameId": 10121,
