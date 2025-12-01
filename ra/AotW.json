@@ -3490,5 +3490,79 @@
         "achievementBadgeName": "181580"
       }
     ]
+  },
+  {
+    "gameId": 28948,
+    "gameTitle": "Muchi Muchi Pork!",
+    "gameImageIcon": "/Images/119089.png",
+    "gameImageTitle": "/Images/092231.png",
+    "gameImageIngame": "/Images/092232.png",
+    "gameImageBoxArt": "/Images/092230.png",
+    "consoleID": 27,
+    "consoleName": "Arcade",
+    "achievementId": 550215,
+    "achievementTitle": "Blue Rider of the Ketta Bike",
+    "achievementDescription": "Beat the game as Ikuo on default settings.",
+    "achievementBadgeName": "625960",
+    "achievementDateStart": "2025-12-01T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-08T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 28,
+        "gameTitle": "Batman Forever",
+        "gameImageIcon": "/Images/010914.png",
+        "gameImageTitle": "/Images/010920.png",
+        "gameImageIngame": "/Images/010919.png",
+        "gameImageBoxArt": "/Images/051948.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 418684,
+        "achievementTitle": "Second Bank of Gotham City",
+        "achievementDescription": "Beat level 2 in the story",
+        "achievementBadgeName": "473039"
+      },
+      {
+        "gameId": 1341,
+        "gameTitle": "X-Zone",
+        "gameImageIcon": "/Images/014636.png",
+        "gameImageTitle": "/Images/010412.png",
+        "gameImageIngame": "/Images/010413.png",
+        "gameImageBoxArt": "/Images/010411.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 51865,
+        "achievementTitle": "X-Ecute the System Shutdown",
+        "achievementDescription": "Shutdown the system",
+        "achievementBadgeName": "53392"
+      },
+      {
+        "gameId": 22843,
+        "gameTitle": "Bejeweled Twist",
+        "gameImageIcon": "/Images/070403.png",
+        "gameImageTitle": "/Images/070407.png",
+        "gameImageIngame": "/Images/070406.png",
+        "gameImageBoxArt": "/Images/089271.png",
+        "consoleID": 78,
+        "consoleName": "Nintendo DSi",
+        "achievementId": 321406,
+        "achievementTitle": "Space Voyager Gold",
+        "achievementDescription": "Reach Level 15",
+        "achievementBadgeName": "358082"
+      },
+      {
+        "gameId": 23770,
+        "gameTitle": "~Homebrew~ Cross Horde",
+        "gameImageIcon": "/Images/071680.png",
+        "gameImageTitle": "/Images/070383.png",
+        "gameImageIngame": "/Images/070384.png",
+        "gameImageBoxArt": "/Images/072080.png",
+        "consoleID": 63,
+        "consoleName": "Watara Supervision",
+        "achievementId": 338796,
+        "achievementTitle": "Horde Survivor: Final Wave",
+        "achievementDescription": "After a seemingly endless battle, you're the last one standing. Your mission is Complete!",
+        "achievementBadgeName": "382638"
+      }
+    ]
   }
 ]
