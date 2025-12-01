@@ -855,7 +855,7 @@
     "achievementDescription": "Purchase the Wagon",
     "achievementBadgeName": "182655",
     "achievementDateStart": "2025-12-01T00:00:00.000000Z",
-    "achievementDateEnd": "2026-01-05T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-05T00:00:00.000000",
     "swaps": [
       {
         "gameId": 3894,
