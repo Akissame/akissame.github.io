@@ -840,5 +840,79 @@
         "achievementBadgeName": "136746"
       }
     ]
+  },
+  {
+    "gameId": 4655,
+    "gameTitle": "Dragon Quest V: Hand of the Heavenly Bride",
+    "gameImageIcon": "/Images/038655.png",
+    "gameImageTitle": "/Images/043946.png",
+    "gameImageIngame": "/Images/043945.png",
+    "gameImageBoxArt": "/Images/043944.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 162444,
+    "achievementTitle": "[Slaps] This Wagon Can Hold so Many Monsters",
+    "achievementDescription": "Purchase the Wagon",
+    "achievementBadgeName": "182655",
+    "achievementDateStart": "2025-12-01T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-05T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 3894,
+        "gameTitle": "SaGa 2: Hihou Densetsu - Goddess of Destiny",
+        "gameImageIcon": "/Images/116260.png",
+        "gameImageTitle": "/Images/115508.png",
+        "gameImageIngame": "/Images/116300.png",
+        "gameImageBoxArt": "/Images/073181.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 554022,
+        "achievementTitle": "They Might Not Be Giants",
+        "achievementDescription": "Gain the ability to micronize.",
+        "achievementBadgeName": "629000"
+      },
+      {
+        "gameId": 2230,
+        "gameTitle": "Sweet Home",
+        "gameImageIcon": "/Images/055039.png",
+        "gameImageTitle": "/Images/000960.png",
+        "gameImageIngame": "/Images/000961.png",
+        "gameImageBoxArt": "/Images/052152.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 4707,
+        "achievementTitle": "Now This Is A Knife",
+        "achievementDescription": "Equip the Silver Sword",
+        "achievementBadgeName": "05345"
+      },
+      {
+        "gameId": 19179,
+        "gameTitle": "Silent Hill: Shattered Memories",
+        "gameImageIcon": "/Images/102830.png",
+        "gameImageTitle": "/Images/087601.png",
+        "gameImageIngame": "/Images/087602.png",
+        "gameImageBoxArt": "/Images/056682.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 469293,
+        "achievementTitle": "Never Forget",
+        "achievementDescription": "Obtain \"Adam\"",
+        "achievementBadgeName": "532165"
+      },
+      {
+        "gameId": 6871,
+        "gameTitle": "Resident Evil CODE: Veronica X",
+        "gameImageIcon": "/Images/100151.png",
+        "gameImageTitle": "/Images/082809.png",
+        "gameImageIngame": "/Images/082808.png",
+        "gameImageBoxArt": "/Images/082810.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 502761,
+        "achievementTitle": "At Last, Alexander Can Rest...",
+        "achievementDescription": "[Claire] Kill Nosferatu",
+        "achievementBadgeName": "574102"
+      }
+    ]
   }
 ]
