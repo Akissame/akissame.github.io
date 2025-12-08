@@ -3564,5 +3564,79 @@
         "achievementBadgeName": "382638"
       }
     ]
+  },
+  {
+    "gameId": 22,
+    "gameTitle": "ToeJam & Earl",
+    "gameImageIcon": "/Images/107617.png",
+    "gameImageTitle": "/Images/001217.png",
+    "gameImageIngame": "/Images/001218.png",
+    "gameImageBoxArt": "/Images/051939.png",
+    "consoleID": 1,
+    "consoleName": "Genesis/Mega Drive",
+    "achievementId": 25832,
+    "achievementTitle": "Slippery When Wet",
+    "achievementDescription": "Reach level 15",
+    "achievementBadgeName": "26380",
+    "achievementDateStart": "2025-12-08T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-15T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 16361,
+        "gameTitle": "~Unlicensed~ Adventures of the Gummi Bears",
+        "gameImageIcon": "/Images/073136.png",
+        "gameImageTitle": "/Images/068151.png",
+        "gameImageIngame": "/Images/068152.png",
+        "gameImageBoxArt": "/Images/121280.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 314762,
+        "achievementTitle": "The Final Conquest of the Gummis",
+        "achievementDescription": "Complete the Game by Finishing all 20 Levels",
+        "achievementBadgeName": "350302"
+      },
+      {
+        "gameId": 6473,
+        "gameTitle": "James Bond 007",
+        "gameImageIcon": "/Images/045351.png",
+        "gameImageTitle": "/Images/006129.png",
+        "gameImageIngame": "/Images/006268.png",
+        "gameImageBoxArt": "/Images/023829.png",
+        "consoleID": 4,
+        "consoleName": "Game Boy",
+        "achievementId": 153425,
+        "achievementTitle": "Left to Die",
+        "achievementDescription": "Complete [Marakesh]",
+        "achievementBadgeName": "172186"
+      },
+      {
+        "gameId": 5202,
+        "gameTitle": "Wai Wai World 2: SOS!! Paseri Jou",
+        "gameImageIcon": "/Images/050936.png",
+        "gameImageTitle": "/Images/003732.png",
+        "gameImageIngame": "/Images/003733.png",
+        "gameImageBoxArt": "/Images/011268.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 18989,
+        "achievementTitle": "Most Weird Place",
+        "achievementDescription": "Finish Waruumon's Stage",
+        "achievementBadgeName": "18734"
+      },
+      {
+        "gameId": 1810,
+        "gameTitle": "M.C. Kids",
+        "gameImageIcon": "/Images/004883.png",
+        "gameImageTitle": "/Images/009735.png",
+        "gameImageIngame": "/Images/009736.png",
+        "gameImageBoxArt": "/Images/012698.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 24262,
+        "achievementTitle": "The Early Bird",
+        "achievementDescription": "Beat Birdie's Treehouse",
+        "achievementBadgeName": "24785"
+      }
+    ]
   }
 ]
