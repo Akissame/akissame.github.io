@@ -3653,7 +3653,7 @@
     "achievementDescription": "Survive the DANGER sequence in the Lecture Room as Gail swoops in to save the day on Normal difficulty without having the Infinite Grenades",
     "achievementBadgeName": "101703",
     "achievementDateStart": "2025-12-15T00:00:00.000000Z",
-    "achievementDateEnd": "2025-12-22T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-22T00:00:00.000000",
     "swaps": [
       {
         "gameId": 390,
