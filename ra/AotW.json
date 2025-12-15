@@ -3638,5 +3638,79 @@
         "achievementBadgeName": "24785"
       }
     ]
+  },
+  {
+    "gameId": 11318,
+    "gameTitle": "Dino Crisis",
+    "gameImageIcon": "/Images/029487.png",
+    "gameImageTitle": "/Images/077220.png",
+    "gameImageIngame": "/Images/077221.png",
+    "gameImageBoxArt": "/Images/029470.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 92414,
+    "achievementTitle": "That's No Lizard, It's a Dinosaur!",
+    "achievementDescription": "Survive the DANGER sequence in the Lecture Room as Gail swoops in to save the day on Normal difficulty without having the Infinite Grenades",
+    "achievementBadgeName": "101703",
+    "achievementDateStart": "2025-12-15T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-22T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 390,
+        "gameTitle": "Ardy Lightfoot",
+        "gameImageIcon": "/Images/111495.png",
+        "gameImageTitle": "/Images/004421.png",
+        "gameImageIngame": "/Images/004419.png",
+        "gameImageBoxArt": "/Images/004420.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 22861,
+        "achievementTitle": "Pyramid Puzzles",
+        "achievementDescription": "Beat Scene 8 - Mouse Trap",
+        "achievementBadgeName": "594286"
+      },
+      {
+        "gameId": 14403,
+        "gameTitle": "~Hack~ Yoshi in Sonic the Hedgehog 2",
+        "gameImageIcon": "/Images/092256.png",
+        "gameImageTitle": "/Images/026343.png",
+        "gameImageIngame": "/Images/026347.png",
+        "gameImageBoxArt": "/Images/026345.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 160815,
+        "achievementTitle": "Touch Fuzzy Get Dizzy",
+        "achievementDescription": "Complete Oil Ocean Zone.",
+        "achievementBadgeName": "180722"
+      },
+      {
+        "gameId": 30053,
+        "gameTitle": "Charlie's Angels",
+        "gameImageIcon": "/Images/098731.png",
+        "gameImageTitle": "/Images/098722.png",
+        "gameImageIngame": "/Images/098725.png",
+        "gameImageBoxArt": "/Images/098724.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 441183,
+        "achievementTitle": "I've Seen More Meat on a Chicken",
+        "achievementDescription": "Transmit the data, then defeat the Thin Man to complete the Hacienda 2 mission",
+        "achievementBadgeName": "497945"
+      },
+      {
+        "gameId": 2313,
+        "gameTitle": "Ninja Spirit",
+        "gameImageIcon": "/Images/025168.png",
+        "gameImageTitle": "/Images/009982.png",
+        "gameImageIngame": "/Images/009983.png",
+        "gameImageBoxArt": "/Images/009987.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 62243,
+        "achievementTitle": "My Name is Moonlight",
+        "achievementDescription": "Defeat the final boss in PC Engine Mode",
+        "achievementBadgeName": "65536"
+      }
+    ]
   }
 ]
