@@ -3712,5 +3712,79 @@
         "achievementBadgeName": "65536"
       }
     ]
+  },
+  {
+    "gameId": 723,
+    "gameTitle": "Pokémon Yellow Version: Special Pikachu Edition",
+    "gameImageIcon": "/Images/105480.png",
+    "gameImageTitle": "/Images/102184.png",
+    "gameImageIngame": "/Images/102185.png",
+    "gameImageBoxArt": "/Images/102186.png",
+    "consoleID": 4,
+    "consoleName": "Game Boy",
+    "achievementId": 81976,
+    "achievementTitle": "Surprised Pikachu Face",
+    "achievementDescription": "Have Pikachu be confused by the transformed Bill and be amazed when he changes back.",
+    "achievementBadgeName": "92027",
+    "achievementDateStart": "2025-12-22T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-29T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 10587,
+        "gameTitle": "Monopoly",
+        "gameImageIcon": "/Images/078339.png",
+        "gameImageTitle": "/Images/017515.png",
+        "gameImageIngame": "/Images/017517.png",
+        "gameImageBoxArt": "/Images/017514.png",
+        "consoleID": 2,
+        "consoleName": "Nintendo 64",
+        "achievementId": 391401,
+        "achievementTitle": "There Can Be Only One",
+        "achievementDescription": "Win a 2 Player Standard game",
+        "achievementBadgeName": "442553"
+      },
+      {
+        "gameId": 11265,
+        "gameTitle": "Resident Evil 3: Nemesis",
+        "gameImageIcon": "/Images/107651.png",
+        "gameImageTitle": "/Images/027431.png",
+        "gameImageIngame": "/Images/027432.png",
+        "gameImageBoxArt": "/Images/047497.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 102977,
+        "achievementTitle": "Zap!",
+        "achievementDescription": "Obtain the Power Cable (Hard | No Mercs. Unlocks)",
+        "achievementBadgeName": "111374"
+      },
+      {
+        "gameId": 13949,
+        "gameTitle": "Star Jacker",
+        "gameImageIcon": "/Images/076212.png",
+        "gameImageTitle": "/Images/023789.png",
+        "gameImageIngame": "/Images/076209.png",
+        "gameImageBoxArt": "/Images/023790.png",
+        "consoleID": 33,
+        "consoleName": "SG-1000",
+        "achievementId": 337048,
+        "achievementTitle": "The Final Frontier",
+        "achievementDescription": "Clear round 8",
+        "achievementBadgeName": "380721"
+      },
+      {
+        "gameId": 17354,
+        "gameTitle": "Q*bert",
+        "gameImageIcon": "/Images/076322.png",
+        "gameImageTitle": "/Images/076319.png",
+        "gameImageIngame": "/Images/076321.png",
+        "gameImageBoxArt": "/Images/076323.png",
+        "consoleID": 33,
+        "consoleName": "SG-1000",
+        "achievementId": 338037,
+        "achievementTitle": "Colorful \"@{+",
+        "achievementDescription": "Complete Level 3",
+        "achievementBadgeName": "381517"
+      }
+    ]
   }
 ]
