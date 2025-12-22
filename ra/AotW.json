@@ -3727,7 +3727,7 @@
     "achievementDescription": "Have Pikachu be confused by the transformed Bill and be amazed when he changes back.",
     "achievementBadgeName": "92027",
     "achievementDateStart": "2025-12-22T00:00:00.000000Z",
-    "achievementDateEnd": "2025-12-29T00:00:00.000000Z",
+    "achievementDateEnd": "2025-12-29T00:00:00.000000",
     "swaps": [
       {
         "gameId": 10587,
