@@ -3786,5 +3786,79 @@
         "achievementBadgeName": "381517"
       }
     ]
+  },
+  {
+    "gameId": 11280,
+    "gameTitle": "Mega Man Legends",
+    "gameImageIcon": "/Images/051475.png",
+    "gameImageTitle": "/Images/035688.png",
+    "gameImageIngame": "/Images/035689.png",
+    "gameImageBoxArt": "/Images/035690.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 120716,
+    "achievementTitle": "Bonne Begone",
+    "achievementDescription": "Put a stop to the attacks on Kattelox's residential districts.",
+    "achievementBadgeName": "133888",
+    "achievementDateStart": "2025-12-29T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-05T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 10294,
+        "gameTitle": "Worms Armageddon",
+        "gameImageIcon": "/Images/046498.png",
+        "gameImageTitle": "/Images/033723.png",
+        "gameImageIngame": "/Images/033727.png",
+        "gameImageBoxArt": "/Images/041931.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 140883,
+        "achievementTitle": "Cool as Ice",
+        "achievementDescription": "Complete mission 5 of the campaign",
+        "achievementBadgeName": "157064"
+      },
+      {
+        "gameId": 30245,
+        "gameTitle": "Ed, Edd n Eddy: The Mis-Edventures",
+        "gameImageIcon": "/Images/100216.png",
+        "gameImageTitle": "/Images/112847.png",
+        "gameImageIngame": "/Images/112848.png",
+        "gameImageBoxArt": "/Images/112849.png",
+        "consoleID": 16,
+        "consoleName": "GameCube",
+        "achievementId": 526032,
+        "achievementTitle": "Ed... Pass it On...",
+        "achievementDescription": "Complete the Ed On Arrival scam.",
+        "achievementBadgeName": "596548"
+      },
+      {
+        "gameId": 12180,
+        "gameTitle": "Hammerin' Harry",
+        "gameImageIcon": "/Images/090490.png",
+        "gameImageTitle": "/Images/030982.png",
+        "gameImageIngame": "/Images/030983.png",
+        "gameImageBoxArt": "/Images/030984.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 403559,
+        "achievementTitle": "Boss Basher",
+        "achievementDescription": "Beat the final stage and watch the ending",
+        "achievementBadgeName": "456542"
+      },
+      {
+        "gameId": 4454,
+        "gameTitle": "Star Trek: Deep Space Nine - Crossroads of Time",
+        "gameImageIcon": "/Images/041442.png",
+        "gameImageTitle": "/Images/041173.png",
+        "gameImageIngame": "/Images/041174.png",
+        "gameImageBoxArt": "/Images/041170.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 139487,
+        "achievementTitle": "Fighting a Hopeless Cause",
+        "achievementDescription": "Disable the Redemptionist's ship and bring them back to the station",
+        "achievementBadgeName": "155106"
+      }
+    ]
   }
 ]
