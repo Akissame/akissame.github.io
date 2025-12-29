@@ -3801,7 +3801,7 @@
     "achievementDescription": "Put a stop to the attacks on Kattelox's residential districts.",
     "achievementBadgeName": "133888",
     "achievementDateStart": "2025-12-29T00:00:00.000000Z",
-    "achievementDateEnd": "2026-01-05T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-05T00:00:00.000000",
     "swaps": [
       {
         "gameId": 10294,
