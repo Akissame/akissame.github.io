@@ -1,1 +1,76 @@
-
+[
+  {
+    "gameId": 11332,
+    "gameTitle": "Final Fantasy Origins",
+    "gameImageIcon": "/Images/060249.png",
+    "gameImageTitle": "/Images/026707.png",
+    "gameImageIngame": "/Images/026708.png",
+    "gameImageBoxArt": "/Images/046257.png",
+    "consoleID": 12,
+    "consoleName": "PlayStation",
+    "achievementId": 173076,
+    "achievementTitle": "Troll Face",
+    "achievementDescription": "Defeat Astos[FF1]",
+    "achievementBadgeName": "193454",
+    "achievementDateStart": "2026-01-05T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-12T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 24528,
+        "gameTitle": "C_So!",
+        "gameImageIcon": "/Images/076314.png",
+        "gameImageTitle": "/Images/076149.png",
+        "gameImageIngame": "/Images/076150.png",
+        "gameImageBoxArt": "/Images/076312.png",
+        "consoleID": 33,
+        "consoleName": "SG-1000",
+        "achievementId": 335980,
+        "achievementTitle": "Up and Down the Ladders",
+        "achievementDescription": "Complete rounds 6-10.",
+        "achievementBadgeName": "379526"
+      },
+      {
+        "gameId": 20827,
+        "gameTitle": "Star Wars - Episode III: Revenge of the Sith",
+        "gameImageIcon": "/Images/107709.png",
+        "gameImageTitle": "/Images/080614.png",
+        "gameImageIngame": "/Images/080615.png",
+        "gameImageBoxArt": "/Images/080617.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 406294,
+        "achievementTitle": "Settling the Score",
+        "achievementDescription": "[Story] Complete 04: Settling the Score for the first time",
+        "achievementBadgeName": "479780"
+      },
+      {
+        "gameId": 18071,
+        "gameTitle": "Coconut Dodge",
+        "gameImageIcon": "/Images/049374.png",
+        "gameImageTitle": "/Images/049289.png",
+        "gameImageIngame": "/Images/049290.png",
+        "gameImageBoxArt": "/Images/049831.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 179519,
+        "achievementTitle": "Maze Master XVI",
+        "achievementDescription": "Get a crown on Maze Master level 16.",
+        "achievementBadgeName": "199902"
+      },
+      {
+        "gameId": 5581,
+        "gameTitle": "Zoids Legacy",
+        "gameImageIcon": "/Images/040044.png",
+        "gameImageTitle": "/Images/009639.png",
+        "gameImageIngame": "/Images/009642.png",
+        "gameImageBoxArt": "/Images/040045.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 44459,
+        "achievementTitle": "Anything For the One You Just Met",
+        "achievementDescription": "Go out to rescue Juno from the bandits.",
+        "achievementBadgeName": "145383"
+      }
+    ]
+  }
+]
