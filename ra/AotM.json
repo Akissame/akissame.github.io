@@ -1,1 +1,76 @@
-
+[
+  {
+    "gameId": 2738,
+    "gameTitle": "Grand Theft Auto III",
+    "gameImageIcon": "/Images/056403.png",
+    "gameImageTitle": "/Images/066857.png",
+    "gameImageIngame": "/Images/066856.png",
+    "gameImageBoxArt": "/Images/052841.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 365954,
+    "achievementTitle": "Goodfella No More",
+    "achievementDescription": "Beat the \"Sayonara Salvatore\" mission",
+    "achievementBadgeName": "452861",
+    "achievementDateStart": "2026-01-05T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-12T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 3814,
+        "gameTitle": "EarthBound Beginnings",
+        "gameImageIcon": "/Images/079668.png",
+        "gameImageTitle": "/Images/001785.png",
+        "gameImageIngame": "/Images/001786.png",
+        "gameImageBoxArt": "/Images/028137.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 7515,
+        "achievementTitle": "Snowman Snowfriend",
+        "achievementDescription": "Befriend Ana",
+        "achievementBadgeName": "241308"
+      },
+      {
+        "gameId": 11788,
+        "gameTitle": "Golden Sun: Dark Dawn",
+        "gameImageIcon": "/Images/102698.png",
+        "gameImageTitle": "/Images/031546.png",
+        "gameImageIngame": "/Images/039348.png",
+        "gameImageBoxArt": "/Images/053945.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 100822,
+        "achievementTitle": "Ancient Alchemy Forge",
+        "achievementDescription": "Light the Alchemy Forge in Passaj",
+        "achievementBadgeName": "109902"
+      },
+      {
+        "gameId": 19015,
+        "gameTitle": ".hack//G.U. Vol. 1: Rebirth",
+        "gameImageIcon": "/Images/061151.png",
+        "gameImageTitle": "/Images/055991.png",
+        "gameImageIngame": "/Images/055990.png",
+        "gameImageBoxArt": "/Images/055971.png",
+        "consoleID": 21,
+        "consoleName": "PlayStation 2",
+        "achievementId": 318160,
+        "achievementTitle": "Computer Data",
+        "achievementDescription": "Witness the events in [Delta] [Blurry:Obsessive:Slacker]",
+        "achievementBadgeName": "353097"
+      },
+      {
+        "gameId": 242,
+        "gameTitle": "Terranigma",
+        "gameImageIcon": "/Images/035303.png",
+        "gameImageTitle": "/Images/002917.png",
+        "gameImageIngame": "/Images/002920.png",
+        "gameImageBoxArt": "/Images/028323.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 14383,
+        "achievementTitle": "Human Error",
+        "achievementDescription": "Complete Chapter 2: Resurrection of the World",
+        "achievementBadgeName": "14128"
+      }
+    ]
+  }
+]
