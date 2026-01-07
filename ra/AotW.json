@@ -70,20 +70,6 @@
         "achievementTitle": "Anything For the One You Just Met",
         "achievementDescription": "Go out to rescue Juno from the bandits.",
         "achievementBadgeName": "145383"
-      },
-      {
-        "gameId": 785,
-        "gameTitle": "Metroid Fusion",
-        "gameImageIcon": "/Images/089338.png",
-        "gameImageTitle": "/Images/000651.png",
-        "gameImageIngame": "/Images/065312.png",
-        "gameImageBoxArt": "/Images/089237.png",
-        "consoleID": 5,
-        "consoleName": "Game Boy Advance",
-        "achievementId": 5560,
-        "achievementTitle": "Don't Stop Me Now",
-        "achievementDescription": "Complete the mission in less than 2 hours",
-        "achievementBadgeName": "183568"
       }
     ]
   }
