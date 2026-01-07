@@ -10,10 +10,10 @@
     "consoleName": "PlayStation",
     "achievementId": 173076,
     "achievementTitle": "Troll Face",
-    "achievementDescription": "Defeat Astos[FF1]",
+    "achievementDescription": "[FF1] Defeat the dark elf Astos ",
     "achievementBadgeName": "193454",
     "achievementDateStart": "2026-01-05T00:00:00.000000Z",
-    "achievementDateEnd": "2026-01-12T00:00:00.000000",
+    "achievementDateEnd": "2026-01-12T00:00:00.000000Z",
     "swaps": [
       {
         "gameId": 24528,
@@ -70,6 +70,20 @@
         "achievementTitle": "Anything For the One You Just Met",
         "achievementDescription": "Go out to rescue Juno from the bandits.",
         "achievementBadgeName": "145383"
+      },
+      {
+        "gameId": 785,
+        "gameTitle": "Metroid Fusion",
+        "gameImageIcon": "/Images/089338.png",
+        "gameImageTitle": "/Images/000651.png",
+        "gameImageIngame": "/Images/065312.png",
+        "gameImageBoxArt": "/Images/089237.png",
+        "consoleID": 5,
+        "consoleName": "Game Boy Advance",
+        "achievementId": 5560,
+        "achievementTitle": "Don't Stop Me Now",
+        "achievementDescription": "Complete the mission in less than 2 hours",
+        "achievementBadgeName": "183568"
       }
     ]
   }
