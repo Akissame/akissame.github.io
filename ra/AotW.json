@@ -72,5 +72,79 @@
         "achievementBadgeName": "145383"
       }
     ]
+  },
+  {
+    "gameId": 785,
+    "gameTitle": "Metroid Fusion",
+    "gameImageIcon": "/Images/089338.png",
+    "gameImageTitle": "/Images/000651.png",
+    "gameImageIngame": "/Images/065312.png",
+    "gameImageBoxArt": "/Images/089237.png",
+    "consoleID": 5,
+    "consoleName": "Game Boy Advance",
+    "achievementId": 4651,
+    "achievementTitle": "Leg Day Paid Off",
+    "achievementDescription": "Regain the Speed Booster power",
+    "achievementBadgeName": "183578",
+    "achievementDateStart": "2026-01-12T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-19T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 549,
+        "gameTitle": "Bart Simpson's Escape from Camp Deadly",
+        "gameImageIcon": "/Images/049210.png",
+        "gameImageTitle": "/Images/008780.png",
+        "gameImageIngame": "/Images/020135.png",
+        "gameImageBoxArt": "/Images/008779.png",
+        "consoleID": 4,
+        "consoleName": "Game Boy",
+        "achievementId": 47249,
+        "achievementTitle": "Escapist",
+        "achievementDescription": "Finish the Game",
+        "achievementBadgeName": "47930"
+      },
+      {
+        "gameId": 7964,
+        "gameTitle": "~Prototype~ South Park",
+        "gameImageIcon": "/Images/110556.png",
+        "gameImageTitle": "/Images/110573.png",
+        "gameImageIngame": "/Images/110575.png",
+        "gameImageBoxArt": "/Images/047540.png",
+        "consoleID": 6,
+        "consoleName": "Game Boy Color",
+        "achievementId": 512687,
+        "achievementTitle": "Volcano",
+        "achievementDescription": "Complete the first half of the levels of \"At School\" without using skips or level select.",
+        "achievementBadgeName": "580326"
+      },
+      {
+        "gameId": 18958,
+        "gameTitle": "Space Quest II: Vohaul's Revenge",
+        "gameImageIcon": "/Images/055440.png",
+        "gameImageTitle": "/Images/055438.png",
+        "gameImageIngame": "/Images/055439.png",
+        "gameImageBoxArt": "/Images/055441.png",
+        "consoleID": 38,
+        "consoleName": "Apple II",
+        "achievementId": 487563,
+        "achievementTitle": "Mail-Order Doorway",
+        "achievementDescription": "Summon the Labion Terror Beast to create an opening in a giant boulder",
+        "achievementBadgeName": "553031"
+      },
+      {
+        "gameId": 18363,
+        "gameTitle": "Star Wars: The Force Unleashed",
+        "gameImageIcon": "/Images/113878.png",
+        "gameImageTitle": "/Images/085592.png",
+        "gameImageIngame": "/Images/085593.png",
+        "gameImageBoxArt": "/Images/051924.png",
+        "consoleID": 41,
+        "consoleName": "PlayStation Portable",
+        "achievementId": 525087,
+        "achievementTitle": "Fear and Anger",
+        "achievementDescription": "Defeat Darth Desolous at the Jedi Temple",
+        "achievementBadgeName": "596841"
+      }
+    ]
   }
 ]
