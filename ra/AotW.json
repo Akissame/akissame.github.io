@@ -146,5 +146,79 @@
         "achievementBadgeName": "596841"
       }
     ]
+  },
+  {
+    "gameId": 1304,
+    "gameTitle": "Dark Cloud",
+    "gameImageIcon": "/Images/058558.png",
+    "gameImageTitle": "/Images/061487.png",
+    "gameImageIngame": "/Images/061489.png",
+    "gameImageBoxArt": "/Images/052780.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 245503,
+    "achievementTitle": "Cringe",
+    "achievementDescription": "Get Xiao as an ally (The Broken Dagger Glitch is blocked for this set!)",
+    "achievementBadgeName": "272254",
+    "achievementDateStart": "2026-01-19T00:00:00.000000Z",
+    "achievementDateEnd": "2026-01-26T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 4816,
+        "gameTitle": "Zunou Senkan Galg",
+        "gameImageIcon": "/Images/047340.png",
+        "gameImageTitle": "/Images/004694.png",
+        "gameImageIngame": "/Images/004695.png",
+        "gameImageBoxArt": "/Images/013856.png",
+        "consoleID": 7,
+        "consoleName": "NES/Famicom",
+        "achievementId": 354326,
+        "achievementTitle": "Rocket Rumble",
+        "achievementDescription": "Complete Area 25",
+        "achievementBadgeName": "399214"
+      },
+      {
+        "gameId": 26985,
+        "gameTitle": "WEC Le Mans",
+        "gameImageIcon": "/Images/085042.png",
+        "gameImageTitle": "/Images/085040.png",
+        "gameImageIngame": "/Images/085041.png",
+        "gameImageBoxArt": "/Images/085043.png",
+        "consoleID": 37,
+        "consoleName": "Amstrad CPC",
+        "achievementId": 368466,
+        "achievementTitle": "Lap 2",
+        "achievementDescription": "Complete Lap 2",
+        "achievementBadgeName": "414838"
+      },
+      {
+        "gameId": 22756,
+        "gameTitle": "Doraemon: Nobita no Dorabian Night",
+        "gameImageIcon": "/Images/090097.png",
+        "gameImageTitle": "/Images/090116.png",
+        "gameImageIngame": "/Images/090117.png",
+        "gameImageBoxArt": "/Images/090094.png",
+        "consoleID": 8,
+        "consoleName": "PC Engine/TurboGrafx-16",
+        "achievementId": 415213,
+        "achievementTitle": "Golden Ghostly Armor",
+        "achievementDescription": "Beat the chapter 3 boss",
+        "achievementBadgeName": "469006"
+      },
+      {
+        "gameId": 14738,
+        "gameTitle": "Mega Man X3",
+        "gameImageIcon": "/Images/056201.png",
+        "gameImageTitle": "/Images/041920.png",
+        "gameImageIngame": "/Images/041921.png",
+        "gameImageBoxArt": "/Images/046780.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 140257,
+        "achievementTitle": "Enhanced Head",
+        "achievementDescription": "Find the Enhanced Helmet capsule in Blast Hornet's stage [No Passwords]",
+        "achievementBadgeName": "618616"
+      }
+    ]
   }
 ]
