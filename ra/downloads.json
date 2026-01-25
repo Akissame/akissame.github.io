@@ -1,263 +1,11 @@
 {
-  "emulators": [
-    {
-      "id": 1,
-      "name": "RetroArch",
-      "description": "Multi-platform emulator with support for 45+ systems",
-      "supportedSystemsCount": 45,
-      "supportedSystems": ["DS", "GBA", "MD", "N64", "NES", "PS1", "PSP", "SNES", "32X", "3DO", "CPC", "ARC", "ARD", "2600", "7800", "JAG", "Lynx", "CV", "DC", "CHF", "GB", "GBC", "GG", "INTV", "MO2", "SMS", "DUCK", "MSX", "NGCD", "NGP", "DSi", "PCCD", "PCE", "80/88", "PC-FX", "MINI", "SAT", "SCD", "SG1K", "UZE", "VECT", "VB", "WASM4", "WSV", "WS"],
-      "platforms": ["Windows", "Linux", "macOS", "Android", "iOS", "Xbox Series S/X"],
-      "recommended": true,
-      "downloadUrl": "https://www.retroarch.com/index.php?page=platforms",
-      "websiteUrl": "https://retroarch.com/",
-      "documentationUrl": "https://docs.libretro.com/guides/retroachievements/",
-      "sourceUrl": "https://github.com/libretro/RetroArch",
-      "icon": "retroarch.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 2,
-      "name": "PCSX2",
-      "description": "PlayStation 2 emulator",
-      "supportedSystemsCount": 1,
-      "supportedSystems": ["PS2"],
-      "platforms": ["Windows", "Linux", "macOS"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=PCSX2",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "pcsx2.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 3,
-      "name": "DuckStation",
-      "description": "PlayStation 1 emulator",
-      "supportedSystemsCount": 1,
-      "supportedSystems": ["PS1"],
-      "platforms": ["Windows", "Linux", "macOS", "Android"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=DuckStation",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "duckstation.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 4,
-      "name": "PPSSPP",
-      "description": "PlayStation Portable emulator",
-      "supportedSystemsCount": 1,
-      "supportedSystems": ["PSP"],
-      "platforms": ["Windows", "Linux", "macOS", "Android", "iOS"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=PPSSPP",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "ppsspp.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 5,
-      "name": "Dolphin",
-      "description": "GameCube and Wii emulator",
-      "supportedSystemsCount": 1,
-      "supportedSystems": ["GC"],
-      "platforms": ["Windows", "Linux", "macOS", "Android"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=Dolphin",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "dolphin.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 6,
-      "name": "Flycast",
-      "description": "Dreamcast and Arcade emulator",
-      "supportedSystemsCount": 2,
-      "supportedSystems": ["ARC", "DC"],
-      "platforms": ["Windows", "Linux", "macOS", "Android", "iOS", "Xbox Series S/X"],
-      "recommended": false,
-      "downloadUrl": "https://retroachievements.org/download.php?e=Flycast",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "flycast.png",
-      "hasMultipleDownloads": true,
-      "downloads": [
-        {
-          "type": "x64",
-          "url": "https://retroachievements.org/download.php?e=Flycast&v=x64"
-        },
-        {
-          "type": "standard",
-          "url": "https://retroachievements.org/download.php?e=Flycast"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "RALibRetro",
-      "description": "Multi-system emulator supporting 40+ platforms",
-      "supportedSystemsCount": 40,
-      "supportedSystems": [],
-      "platforms": ["Windows", "Linux", "macOS"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=RALibRetro",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "ralibretro.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 8,
-      "name": "BizHawk",
-      "description": "Multi-system emulator for multiple consoles",
-      "supportedSystemsCount": 15,
-      "supportedSystems": [],
-      "platforms": ["Windows"],
-      "recommended": false,
-      "downloadUrl": "https://tasvideos.org/BizHawk/ReleaseHistory",
-      "websiteUrl": "https://tasvideos.org/Bizhawk",
-      "documentationUrl": "https://tasvideos.org/Bizhawk/FAQ",
-      "sourceUrl": "https://github.com/TASEmulators/BizHawk",
-      "icon": "bizhawk.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 9,
-      "name": "Firelight",
-      "description": "Supports more than 10 systems",
-      "supportedSystemsCount": 10,
-      "supportedSystems": [],
-      "platforms": ["iOS"],
-      "recommended": false,
-      "downloadUrl": "https://retroachievements.org/download.php?e=Firelight",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "firelight.png",
-      "hasMultipleDownloads": false
-    },
-    {
-      "id": 10,
-      "name": "Delta",
-      "description": "iOS emulator supporting 5+ systems",
-      "supportedSystemsCount": 5,
-      "supportedSystems": [],
-      "platforms": ["iOS"],
-      "recommended": false,
-      "downloadUrl": "https://retroachievements.org/download.php?e=Delta",
-      "websiteUrl": "",
-      "documentationUrl": "",
-      "sourceUrl": "",
-      "icon": "delta.png",
-      "hasMultipleDownloads": false
-    }
-  ],
-  "systems": [
-    {
-      "id": 1,
-      "manufacturer": "Nintendo",
-      "systems": [
-        {"systemId": 4, "name": "Game Boy", "slug": "game-boy", "icon": "gb.png", "shortName": "GB"},
-        {"systemId": 6, "name": "Game Boy Color", "slug": "game-boy-color", "icon": "gbc.png", "shortName": "GBC"},
-        {"systemId": 5, "name": "Game Boy Advance", "slug": "game-boy-advance", "icon": "gba.png", "shortName": "GBA"},
-        {"systemId": 7, "name": "NES/Famicom", "slug": "nes-famicom", "icon": "nes.png", "shortName": "NES"},
-        {"systemId": 3, "name": "SNES/Super Famicom", "slug": "snes-super-famicom", "icon": "snes.png", "shortName": "SNES"},
-        {"systemId": 2, "name": "Nintendo 64", "slug": "nintendo-64", "icon": "n64.png", "shortName": "N64"},
-        {"systemId": 16, "name": "GameCube", "slug": "gamecube", "icon": "gc.png", "shortName": "GC"},
-        {"systemId": 18, "name": "Nintendo DS", "slug": "nintendo-ds", "icon": "ds.png", "shortName": "DS"},
-        {"systemId": 78, "name": "Nintendo DSi", "slug": "nintendo-dsi", "icon": "dsi.png", "shortName": "DSi"},
-        {"systemId": 24, "name": "Pokemon Mini", "slug": "pokemon-mini", "icon": "mini.png", "shortName": "PM"},
-        {"systemId": 28, "name": "Virtual Boy", "slug": "virtual-boy", "icon": "vb.png", "shortName": "VB"}
-      ]
-    },
-    {
-      "id": 2,
-      "manufacturer": "Sony",
-      "systems": [
-        {"systemId": 12, "name": "PlayStation", "slug": "playstation", "icon": "ps1.png", "shortName": "PS1"},
-        {"systemId": 21, "name": "PlayStation 2", "slug": "playstation-2", "icon": "ps2.png", "shortName": "PS2"},
-        {"systemId": 41, "name": "PlayStation Portable", "slug": "playstation-portable", "icon": "psp.png", "shortName": "PSP"}
-      ]
-    },
-    {
-      "id": 3,
-      "manufacturer": "Sega",
-      "systems": [
-        {"systemId": 33, "name": "SG-1000", "slug": "sg-1000", "icon": "sg1k.png", "shortName": "SG"},
-        {"systemId": 11, "name": "Master System", "slug": "master-system", "icon": "sms.png", "shortName": "SMS"},
-        {"systemId": 15, "name": "Game Gear", "slug": "game-gear", "icon": "gg.png", "shortName": "GG"},
-        {"systemId": 1, "name": "Genesis/Mega Drive", "slug": "genesis-mega-drive", "icon": "md.png", "shortName": "MD"},
-        {"systemId": 9, "name": "Sega CD", "slug": "sega-cd", "icon": "scd.png", "shortName": "SCD"},
-        {"systemId": 10, "name": "32X", "slug": "32x", "icon": "32x.png", "shortName": "32X"},
-        {"systemId": 39, "name": "Saturn", "slug": "saturn", "icon": "sat.png", "shortName": "SAT"},
-        {"systemId": 40, "name": "Dreamcast", "slug": "dreamcast", "icon": "dc.png", "shortName": "DC"}
-      ]
-    },
-    {
-      "id": 4,
-      "manufacturer": "Atari",
-      "systems": [
-        {"systemId": 25, "name": "Atari 2600", "slug": "atari-2600", "icon": "2600.png", "shortName": "2600"},
-        {"systemId": 51, "name": "Atari 7800", "slug": "atari-7800", "icon": "7800.png", "shortName": "7800"},
-        {"systemId": 17, "name": "Atari Jaguar", "slug": "atari-jaguar", "icon": "jag.png", "shortName": "JAG"},
-        {"systemId": 77, "name": "Atari Jaguar CD", "slug": "atari-jaguar-cd", "icon": "jcd.png", "shortName": "JCD"},
-        {"systemId": 13, "name": "Atari Lynx", "slug": "atari-lynx", "icon": "lynx.png", "shortName": "LYNX"}
-      ]
-    },
-    {
-      "id": 5,
-      "manufacturer": "NEC",
-      "systems": [
-        {"systemId": 8, "name": "PC Engine/TurboGrafx-16", "slug": "pc-engine-turbografx-16", "icon": "pce.png", "shortName": "PCE"},
-        {"systemId": 76, "name": "PC Engine CD/TurboGrafx-CD", "slug": "pc-engine-cd-turbografx-cd", "icon": "pccd.png", "shortName": "PCCD"},
-        {"systemId": 47, "name": "PC-8000/8800", "slug": "pc-8000-8800", "icon": "8088.png", "shortName": "PC88"},
-        {"systemId": 49, "name": "PC-FX", "slug": "pc-fx", "icon": "pc-fx.png", "shortName": "PCFX"}
-      ]
-    },
-    {
-      "id": 6,
-      "manufacturer": "SNK",
-      "systems": [
-        {"systemId": 56, "name": "Neo Geo CD", "slug": "neo-geo-cd", "icon": "ngcd.png", "shortName": "NGCD"},
-        {"systemId": 14, "name": "Neo Geo Pocket", "slug": "neo-geo-pocket", "icon": "ngp.png", "shortName": "NGP"}
-      ]
-    },
-    {
-      "id": 7,
-      "manufacturer": "Others",
-      "systems": [
-        {"systemId": 43, "name": "3DO Interactive Multiplayer", "slug": "3do-interactive-multiplayer", "icon": "3do.png", "shortName": "3DO"},
-        {"systemId": 37, "name": "Amstrad CPC", "slug": "amstrad-cpc", "icon": "cpc.png", "shortName": "CPC"},
-        {"systemId": 38, "name": "Apple II", "slug": "apple-ii", "icon": "a2.png", "shortName": "A2"},
-        {"systemId": 27, "name": "Arcade", "slug": "arcade", "icon": "arc.png", "shortName": "ARC"},
-        {"systemId": 73, "name": "Arcadia 2001", "slug": "arcadia-2001", "icon": "a2001.png", "shortName": "A2001"},
-        {"systemId": 71, "name": "Arduboy", "slug": "arduboy", "icon": "ard.png", "shortName": "ARD"},
-        {"systemId": 44, "name": "ColecoVision", "slug": "colecovision", "icon": "cv.png", "shortName": "CV"},
-        {"systemId": 75, "name": "Elektor TV Games Computer", "slug": "elektor-tv-games-computer", "icon": "elek.png", "shortName": "ELEK"},
-        {"systemId": 57, "name": "Fairchild Channel F", "slug": "fairchild-channel-f", "icon": "chf.png", "shortName": "CHF"},
-        {"systemId": 45, "name": "Intellivision", "slug": "intellivision", "icon": "intv.png", "shortName": "INTV"},
-        {"systemId": 74, "name": "Interton VC 4000", "slug": "interton-vc-4000", "icon": "vc4000.png", "shortName": "VC4000"},
-        {"systemId": 23, "name": "Magnavox Odyssey 2", "slug": "magnavox-odyssey-2", "icon": "mo2.png", "shortName": "MO2"},
-        {"systemId": 69, "name": "Mega Duck", "slug": "mega-duck", "icon": "duck.png", "shortName": "DUCK"},
-        {"systemId": 29, "name": "MSX", "slug": "msx", "icon": "msx.png", "shortName": "MSX"},
-        {"systemId": 102, "name": "Standalone", "slug": "standalone", "icon": "exe.png", "shortName": "EXE"},
-        {"systemId": 80, "name": "Uzebox", "slug": "uzebox", "icon": "uze.png", "shortName": "UZE"},
-        {"systemId": 46, "name": "Vectrex", "slug": "vectrex", "icon": "vect.png", "shortName": "VECT"},
-        {"systemId": 72, "name": "WASM-4", "slug": "wasm-4", "icon": "wasm4.png", "shortName": "WASM4"},
-        {"systemId": 63, "name": "Watara Supervision", "slug": "watara-supervision", "icon": "wsv.png", "shortName": "WSV"},
-        {"systemId": 53, "name": "WonderSwan", "slug": "wonderswan", "icon": "ws.png", "shortName": "WS"}
-      ]
-    }
-  ],
+  "metadata": {
+    "version": "2.0",
+    "lastUpdated": "2026-01-25",
+    "totalSystems": 60,
+    "totalEmulators": 10
+  },
+
   "platformIcons": {
     "Windows": "💻",
     "Linux": "🐧",
@@ -266,54 +14,150 @@
     "iOS": "📱",
     "Xbox Series S/X": "🎮"
   },
-  "quickLinks": [
+
+  "systemsCatalog": [
+    { "id": 1, "name": "Genesis / Mega Drive", "shortName": "MD", "icon": "md.png", "manufacturer": "Sega" },
+    { "id": 2, "name": "Nintendo 64", "shortName": "N64", "icon": "n64.png", "manufacturer": "Nintendo" },
+    { "id": 3, "name": "SNES / Super Famicom", "shortName": "SNES", "icon": "snes.png", "manufacturer": "Nintendo" },
+    { "id": 4, "name": "Game Boy", "shortName": "GB", "icon": "gb.png", "manufacturer": "Nintendo" },
+    { "id": 5, "name": "Game Boy Advance", "shortName": "GBA", "icon": "gba.png", "manufacturer": "Nintendo" },
+    { "id": 6, "name": "Game Boy Color", "shortName": "GBC", "icon": "gbc.png", "manufacturer": "Nintendo" },
+    { "id": 7, "name": "NES / Famicom", "shortName": "NES", "icon": "nes.png", "manufacturer": "Nintendo" },
+    { "id": 8, "name": "PC Engine / TurboGrafx-16", "shortName": "PCE", "icon": "pce.png", "manufacturer": "NEC" },
+    { "id": 9, "name": "Sega CD", "shortName": "SCD", "icon": "scd.png", "manufacturer": "Sega" },
+    { "id": 10, "name": "Sega 32X", "shortName": "32X", "icon": "32x.png", "manufacturer": "Sega" },
+    { "id": 11, "name": "Master System", "shortName": "SMS", "icon": "sms.png", "manufacturer": "Sega" },
+    { "id": 12, "name": "PlayStation", "shortName": "PS1", "icon": "ps1.png", "manufacturer": "Sony" },
+    { "id": 13, "name": "Atari Lynx", "shortName": "LYNX", "icon": "lynx.png", "manufacturer": "Atari" },
+    { "id": 14, "name": "Neo Geo Pocket", "shortName": "NGP", "icon": "ngp.png", "manufacturer": "SNK" },
+    { "id": 15, "name": "Game Gear", "shortName": "GG", "icon": "gg.png", "manufacturer": "Sega" },
+    { "id": 16, "name": "GameCube", "shortName": "GC", "icon": "gc.png", "manufacturer": "Nintendo" },
+    { "id": 17, "name": "Atari Jaguar", "shortName": "JAG", "icon": "jag.png", "manufacturer": "Atari" },
+    { "id": 18, "name": "Nintendo DS", "shortName": "DS", "icon": "ds.png", "manufacturer": "Nintendo" },
+    { "id": 21, "name": "PlayStation 2", "shortName": "PS2", "icon": "ps2.png", "manufacturer": "Sony" },
+    { "id": 23, "name": "Magnavox Odyssey 2", "shortName": "MO2", "icon": "mo2.png", "manufacturer": "Others" },
+    { "id": 24, "name": "Pokemon Mini", "shortName": "PM", "icon": "mini.png", "manufacturer": "Nintendo" },
+    { "id": 25, "name": "Atari 2600", "shortName": "2600", "icon": "2600.png", "manufacturer": "Atari" },
+    { "id": 27, "name": "Arcade", "shortName": "ARC", "icon": "arc.png", "manufacturer": "Others" },
+    { "id": 28, "name": "Virtual Boy", "shortName": "VB", "icon": "vb.png", "manufacturer": "Nintendo" },
+    { "id": 29, "name": "MSX", "shortName": "MSX", "icon": "msx.png", "manufacturer": "Others" },
+    { "id": 33, "name": "SG-1000", "shortName": "SG", "icon": "sg1k.png", "manufacturer": "Sega" },
+    { "id": 37, "name": "Amstrad CPC", "shortName": "CPC", "icon": "cpc.png", "manufacturer": "Others" },
+    { "id": 39, "name": "Saturn", "shortName": "SAT", "icon": "sat.png", "manufacturer": "Sega" },
+    { "id": 40, "name": "Dreamcast", "shortName": "DC", "icon": "dc.png", "manufacturer": "Sega" },
+    { "id": 41, "name": "PlayStation Portable", "shortName": "PSP", "icon": "psp.png", "manufacturer": "Sony" },
+    { "id": 43, "name": "3DO Interactive Multiplayer", "shortName": "3DO", "icon": "3do.png", "manufacturer": "Others" },
+    { "id": 44, "name": "ColecoVision", "shortName": "CV", "icon": "cv.png", "manufacturer": "Others" },
+    { "id": 45, "name": "Intellivision", "shortName": "INTV", "icon": "intv.png", "manufacturer": "Others" },
+    { "id": 46, "name": "Vectrex", "shortName": "VECT", "icon": "vect.png", "manufacturer": "Others" },
+    { "id": 47, "name": "PC-8000/8800", "shortName": "PC88", "icon": "8088.png", "manufacturer": "NEC" },
+    { "id": 49, "name": "PC-FX", "shortName": "PCFX", "icon": "pc-fx.png", "manufacturer": "NEC" },
+    { "id": 51, "name": "Atari 7800", "shortName": "7800", "icon": "7800.png", "manufacturer": "Atari" },
+    { "id": 53, "name": "WonderSwan", "shortName": "WS", "icon": "ws.png", "manufacturer": "Others" },
+    { "id": 56, "name": "Neo Geo CD", "shortName": "NGCD", "icon": "ngcd.png", "manufacturer": "SNK" },
+    { "id": 57, "name": "Fairchild Channel F", "shortName": "CHF", "icon": "chf.png", "manufacturer": "Others" },
+    { "id": 63, "name": "Watara Supervision", "shortName": "WSV", "icon": "wsv.png", "manufacturer": "Others" },
+    { "id": 69, "name": "Mega Duck", "shortName": "DUCK", "icon": "duck.png", "manufacturer": "Others" },
+    { "id": 71, "name": "Arduboy", "shortName": "ARD", "icon": "ard.png", "manufacturer": "Others" },
+    { "id": 72, "name": "WASM-4", "shortName": "WASM4", "icon": "wasm4.png", "manufacturer": "Others" },
+    { "id": 73, "name": "Arcadia 2001", "shortName": "A2001", "icon": "a2001.png", "manufacturer": "Others" },
+    { "id": 74, "name": "Interton VC 4000", "shortName": "VC4000", "icon": "vc4000.png", "manufacturer": "Others" },
+    { "id": 75, "name": "Elektor TV Games Computer", "shortName": "ELEK", "icon": "elek.png", "manufacturer": "Others" },
+    { "id": 76, "name": "PC Engine CD / TurboGrafx-CD", "shortName": "PCCD", "icon": "pccd.png", "manufacturer": "NEC" },
+    { "id": 77, "name": "Atari Jaguar CD", "shortName": "JCD", "icon": "jcd.png", "manufacturer": "Atari" },
+    { "id": 78, "name": "Nintendo DSi", "shortName": "DSi", "icon": "dsi.png", "manufacturer": "Nintendo" },
+    { "id": 80, "name": "Uzebox", "shortName": "UZE", "icon": "uze.png", "manufacturer": "Others" },
+    { "id": 102, "name": "Standalone", "shortName": "EXE", "icon": "exe.png", "manufacturer": "Others" }
+  ],
+
+  "emulators": [
     {
       "id": 1,
-      "title": "All Games",
-      "url": "https://retroachievements.org/games",
-      "category": "games"
+      "name": "RetroArch",
+      "description": "Multi-platform emulator with support for 45+ systems",
+      "supportedSystems": [18,5,1,2,7,12,41,3,10,43,37,27,71,25,51,17,13,44,40,57,4,6,15,45,23,11,69,29,56,14,78,76,8,47,49,24,39,9,33,80,46,28,72,63,53],
+      "platforms": ["Windows","Linux","macOS","Android","iOS","Xbox Series S/X"],
+      "recommended": true,
+      "downloadUrl": "https://www.retroarch.com/index.php?page=platforms",
+      "websiteUrl": "https://retroarch.com/",
+      "documentationUrl": "https://docs.libretro.com/guides/retroachievements/",
+      "sourceUrl": "https://github.com/libretro/RetroArch",
+      "icon": "retroarch.png",
+      "hasMultipleDownloads": false
     },
+
     {
       "id": 2,
-      "title": "Hardest Games",
-      "url": "https://retroachievements.org/games?sort=-retroRatio",
-      "category": "games"
+      "name": "PCSX2",
+      "description": "PlayStation 2 emulator",
+      "supportedSystems": [21],
+      "platforms": ["Windows","Linux","macOS"],
+      "recommended": true,
+      "downloadUrl": "https://retroachievements.org/download.php?e=PCSX2",
+      "icon": "pcsx2.png",
+      "hasMultipleDownloads": false
     },
+
     {
       "id": 3,
-      "title": "Most Requested",
-      "url": "https://retroachievements.org/games/requests",
-      "category": "games"
+      "name": "DuckStation",
+      "description": "PlayStation 1 emulator",
+      "supportedSystems": [12],
+      "platforms": ["Windows","Linux","macOS","Android"],
+      "recommended": true,
+      "downloadUrl": "https://retroachievements.org/download.php?e=DuckStation",
+      "icon": "duckstation.png",
+      "hasMultipleDownloads": false
     },
+
     {
       "id": 4,
-      "title": "New Sets & Revisions",
-      "url": "https://retroachievements.org/claims/completed",
-      "category": "games"
+      "name": "PPSSPP",
+      "description": "PlayStation Portable emulator",
+      "supportedSystems": [41],
+      "platforms": ["Windows","Linux","macOS","Android","iOS"],
+      "recommended": true,
+      "downloadUrl": "https://retroachievements.org/download.php?e=PPSSPP",
+      "icon": "ppsspp.png",
+      "hasMultipleDownloads": false
     },
+
     {
       "id": 5,
-      "title": "Random Set",
-      "url": "https://retroachievements.org/game/random",
-      "category": "games"
+      "name": "Dolphin",
+      "description": "GameCube and Wii emulator",
+      "supportedSystems": [16],
+      "platforms": ["Windows","Linux","macOS","Android"],
+      "recommended": true,
+      "downloadUrl": "https://retroachievements.org/download.php?e=Dolphin",
+      "icon": "dolphin.png",
+      "hasMultipleDownloads": false
     },
+
     {
       "id": 6,
-      "title": "Central Hub",
-      "url": "https://retroachievements.org/hubs",
-      "category": "hubs"
-    },
-    {
-      "id": 7,
-      "title": "User Documentation",
-      "url": "https://docs.retroachievements.org/",
-      "category": "documentation"
+      "name": "Flycast",
+      "description": "Dreamcast and Arcade emulator",
+      "supportedSystems": [27,40],
+      "platforms": ["Windows","Linux","macOS","Android","iOS","Xbox Series S/X"],
+      "recommended": false,
+      "downloadUrl": "https://retroachievements.org/download.php?e=Flycast",
+      "icon": "flycast.png",
+      "hasMultipleDownloads": true,
+      "downloads": [
+        { "type": "x64", "url": "https://retroachievements.org/download.php?e=Flycast&v=x64" },
+        { "type": "standard", "url": "https://retroachievements.org/download.php?e=Flycast" }
+      ]
     }
   ],
-  "metadata": {
-    "lastUpdated": "2026-01-24",
-    "version": "1.1",
-    "totalSystems": 60,
-    "totalEmulators": 10
-  }
+
+  "quickLinks": [
+    { "id": 1, "title": "All Games", "url": "https://retroachievements.org/games", "category": "games" },
+    { "id": 2, "title": "Hardest Games", "url": "https://retroachievements.org/games?sort=-retroRatio", "category": "games" },
+    { "id": 3, "title": "Most Requested", "url": "https://retroachievements.org/games/requests", "category": "games" },
+    { "id": 4, "title": "New Sets & Revisions", "url": "https://retroachievements.org/claims/completed", "category": "games" },
+    { "id": 5, "title": "Random Set", "url": "https://retroachievements.org/game/random", "category": "games" },
+    { "id": 6, "title": "Central Hub", "url": "https://retroachievements.org/hubs", "category": "hubs" },
+    { "id": 7, "title": "User Documentation", "url": "https://docs.retroachievements.org/", "category": "documentation" }
+  ]
 }
