@@ -235,7 +235,7 @@
     "achievementDescription": "Earn 500,000 Lifetime Miles and achieve the amber license.",
     "achievementBadgeName": "161110",
     "achievementDateStart": "2026-01-26T00:00:00.000000Z",
-    "achievementDateEnd": "2026-02-02T00:00:00.000000Z",
+    "achievementDateEnd": "2026-02-02T00:00:00.000000",
     "swaps": [
       {
         "gameId": 14418,
