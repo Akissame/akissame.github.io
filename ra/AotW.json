@@ -220,5 +220,79 @@
         "achievementBadgeName": "618616"
       }
     ]
+  },
+  {
+    "gameId": 14811,
+    "gameTitle": "Sonic & Sega All-Stars Racing",
+    "gameImageIcon": "/Images/038912.png",
+    "gameImageTitle": "/Images/028915.png",
+    "gameImageIngame": "/Images/042193.png",
+    "gameImageBoxArt": "/Images/028987.png",
+    "consoleID": 18,
+    "consoleName": "Nintendo DS",
+    "achievementId": 145698,
+    "achievementTitle": "Amber de Amigo",
+    "achievementDescription": "Earn 500,000 Lifetime Miles and achieve the amber license.",
+    "achievementBadgeName": "161110",
+    "achievementDateStart": "2026-01-26T00:00:00.000000Z",
+    "achievementDateEnd": "2026-02-02T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 14418,
+        "gameTitle": "Little Big Adventure",
+        "gameImageIcon": "/Images/049488.png",
+        "gameImageTitle": "/Images/026739.png",
+        "gameImageIngame": "/Images/026740.png",
+        "gameImageBoxArt": "/Images/048978.png",
+        "consoleID": 12,
+        "consoleName": "PlayStation",
+        "achievementId": 180248,
+        "achievementTitle": "Ferry Ticket Acquired!",
+        "achievementDescription": "Solve the puzzle and acquire the Ferry Ticket. (View Inventory)",
+        "achievementBadgeName": "200753"
+      },
+      {
+        "gameId": 33570,
+        "gameTitle": "~Homebrew~ Double Symbol",
+        "gameImageIcon": "/Images/111481.png",
+        "gameImageTitle": "/Images/111452.png",
+        "gameImageIngame": "/Images/111453.png",
+        "gameImageBoxArt": "/Images/000002.png",
+        "consoleID": 10,
+        "consoleName": "32X",
+        "achievementId": 529428,
+        "achievementTitle": "Flipping All Sides",
+        "achievementDescription": "Complete stage 55.",
+        "achievementBadgeName": "600403"
+      },
+      {
+        "gameId": 12517,
+        "gameTitle": "Sylvan Tale",
+        "gameImageIcon": "/Images/059506.png",
+        "gameImageTitle": "/Images/016306.png",
+        "gameImageIngame": "/Images/016308.png",
+        "gameImageBoxArt": "/Images/016309.png",
+        "consoleID": 15,
+        "consoleName": "Game Gear",
+        "achievementId": 59367,
+        "achievementTitle": "Through The Labyrinth Of The Lake",
+        "achievementDescription": "Complete the Lake Labyrinth and obtain the Orange Droplet.",
+        "achievementBadgeName": "62125"
+      },
+      {
+        "gameId": 15480,
+        "gameTitle": "Naruto: Path of the Ninja",
+        "gameImageIcon": "/Images/097751.png",
+        "gameImageTitle": "/Images/064662.png",
+        "gameImageIngame": "/Images/064663.png",
+        "gameImageBoxArt": "/Images/064661.png",
+        "consoleID": 18,
+        "consoleName": "Nintendo DS",
+        "achievementId": 269972,
+        "achievementTitle": "Tiger Taming",
+        "achievementDescription": "Report to the Hokage after defeating the Tiger in the Hidden Leaf Forest.",
+        "achievementBadgeName": "298761"
+      }
+    ]
   }
 ]
