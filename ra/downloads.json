@@ -77,7 +77,6 @@
       "description": "Multi-platform emulator with support for 45+ systems",
       "supportedSystems": [18,5,1,2,7,12,41,3,10,43,37,27,71,25,51,17,13,44,40,57,4,6,15,45,23,11,69,29,56,14,78,76,8,47,49,24,39,9,33,80,46,28,72,63,53],
       "platforms": ["Windows","Linux","macOS","Android","iOS","Xbox Series S/X"],
-      "recommended": true,
       "downloadUrl": "https://www.retroarch.com/index.php?page=platforms",
       "websiteUrl": "https://retroarch.com/",
       "documentationUrl": "https://docs.libretro.com/guides/retroachievements/",
@@ -92,8 +91,10 @@
       "description": "PlayStation 2 emulator",
       "supportedSystems": [21],
       "platforms": ["Windows","Linux","macOS"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=PCSX2",
+      "downloadUrl": "https://pcsx2.net/downloads",
+      "websiteUrl": "https://pcsx2.net/",
+      "documentationUrl": "https://pcsx2.net/docs/category/setup/",
+      "sourceUrl": "https://github.com/PCSX2/pcsx2",
       "icon": "pcsx2.png",
       "hasMultipleDownloads": false
     },
@@ -104,8 +105,10 @@
       "description": "PlayStation 1 emulator",
       "supportedSystems": [12],
       "platforms": ["Windows","Linux","macOS","Android"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=DuckStation",
+      "downloadUrl": "https://duckstation.org/windl",
+      "websiteUrl": "https://duckstation.org/",
+      "documentationUrl": "https://github.com/stenzek/duckstation/wiki",
+      "sourceUrl": "https://github.com/stenzek/duckstation",
       "icon": "duckstation.png",
       "hasMultipleDownloads": false
     },
@@ -116,8 +119,10 @@
       "description": "PlayStation Portable emulator",
       "supportedSystems": [41],
       "platforms": ["Windows","Linux","macOS","Android","iOS"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=PPSSPP",
+      "downloadUrl": "https://www.ppsspp.org/download/",
+      "websiteUrl": "https://www.ppsspp.org/",
+      "documentationUrl": "https://www.ppsspp.org/docs/intro",
+      "sourceUrl": "https://github.com/hrydgard/ppsspp",
       "icon": "ppsspp.png",
       "hasMultipleDownloads": false
     },
@@ -128,8 +133,10 @@
       "description": "GameCube and Wii emulator",
       "supportedSystems": [16],
       "platforms": ["Windows","Linux","macOS","Android"],
-      "recommended": true,
-      "downloadUrl": "https://retroachievements.org/download.php?e=Dolphin",
+      "downloadUrl": "https://dolphin-emu.org/download/",
+      "websiteUrl": "https://dolphin-emu.org/",
+      "documentationUrl": "https://wiki.dolphin-emu.org/index.php?title=Main_Page",
+      "sourceUrl": "https://github.com/dolphin-emu/dolphin",
       "icon": "dolphin.png",
       "hasMultipleDownloads": false
     },
@@ -140,24 +147,16 @@
       "description": "Dreamcast and Arcade emulator",
       "supportedSystems": [27,40],
       "platforms": ["Windows","Linux","macOS","Android","iOS","Xbox Series S/X"],
-      "recommended": false,
       "downloadUrl": "https://retroachievements.org/download.php?e=Flycast",
+      "documentationUrl": "https://github.com/TheArcadeStriker/flycast-wiki/wiki",
+      "sourceUrl": "https://github.com/flyinghead/flycast",
       "icon": "flycast.png",
       "hasMultipleDownloads": true,
       "downloads": [
-        { "type": "x64", "url": "https://retroachievements.org/download.php?e=Flycast&v=x64" },
-        { "type": "standard", "url": "https://retroachievements.org/download.php?e=Flycast" }
+        { "type": "x64", "url": "https://github.com/flyinghead/flycast/releases" },
+        { "type": "standard", "url": "https://github.com/flyinghead/flycast/releases" }
       ]
     }
-  ],
-
-  "quickLinks": [
-    { "id": 1, "title": "All Games", "url": "https://retroachievements.org/games", "category": "games" },
-    { "id": 2, "title": "Hardest Games", "url": "https://retroachievements.org/games?sort=-retroRatio", "category": "games" },
-    { "id": 3, "title": "Most Requested", "url": "https://retroachievements.org/games/requests", "category": "games" },
-    { "id": 4, "title": "New Sets & Revisions", "url": "https://retroachievements.org/claims/completed", "category": "games" },
-    { "id": 5, "title": "Random Set", "url": "https://retroachievements.org/game/random", "category": "games" },
-    { "id": 6, "title": "Central Hub", "url": "https://retroachievements.org/hubs", "category": "hubs" },
-    { "id": 7, "title": "User Documentation", "url": "https://docs.retroachievements.org/", "category": "documentation" }
   ]
+  
 }
