@@ -43,6 +43,7 @@
     { "id": 29, "name": "MSX", "shortName": "MSX", "icon": "msx.png", "manufacturer": "Others" },
     { "id": 33, "name": "SG-1000", "shortName": "SG", "icon": "sg1k.png", "manufacturer": "Sega" },
     { "id": 37, "name": "Amstrad CPC", "shortName": "CPC", "icon": "cpc.png", "manufacturer": "Others" },
+    { "id": 38, "name": "Apple II", "shortName": "A2", "icon": "a2.png", "manufacturer": "Others" },
     { "id": 39, "name": "Saturn", "shortName": "SAT", "icon": "sat.png", "manufacturer": "Sega" },
     { "id": 40, "name": "Dreamcast", "shortName": "DC", "icon": "dc.png", "manufacturer": "Sega" },
     { "id": 41, "name": "PlayStation Portable", "shortName": "PSP", "icon": "psp.png", "manufacturer": "Sony" },
@@ -147,16 +148,195 @@
       "description": "Dreamcast and Arcade emulator",
       "supportedSystems": [27,40],
       "platforms": ["Windows","Linux","macOS","Android","iOS","Xbox Series S/X"],
-      "downloadUrl": "https://retroachievements.org/download.php?e=Flycast",
+      "downloadUrl": "https://github.com/flyinghead/flycast/releases",
       "documentationUrl": "https://github.com/TheArcadeStriker/flycast-wiki/wiki",
       "sourceUrl": "https://github.com/flyinghead/flycast",
       "icon": "flycast.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 7,
+      "name": "BizHawk",
+      "description": "",
+      "supportedSystems": [18,4,5,6,1,7,12,3,10,25,51,17,77,13,44,15,45,23,11,14,78,76,8,49,39,9,33,80,46,28,53],
+      "platforms": ["Windows","Linux"],
+      "downloadUrl": "https://tasvideos.org/BizHawk/ReleaseHistory",
+      "websiteUrl": "https://tasvideos.org/Bizhawk",
+      "documentationUrl": "https://tasvideos.org/Bizhawk/FAQ",
+      "sourceUrl": "https://github.com/TASEmulators/BizHawk",
+      "icon": "bizhawk.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 8,
+      "name": "RALibRetro",
+      "description": "",
+      "supportedSystems": [18,6,1,2,7,12,41,3,10,43,37,27,71,25,51,17,13,44,40,57,4,5,15,45,23,11,69,29,56,14,78,76,8,47,49,24,39,33,80,46,28,72,63,53],
+      "platforms": ["Windows"],
+      "documentationUrl": "https://docs.retroachievements.org/RALibretro/",
+      "sourceUrl": "https://github.com/RetroAchievements/RALibretro",
+      "icon": "ralibretro.png",
+      "hasMultipleDownloads": false,
+      "downloads": [
+        { "type": "x64", "url": "https://retroachievements.org/bin/RALibretro-x64.zip" },
+        { "type": "standard", "url": "https://retroachievements.org/bin/RALibretro.zip" }
+      ]
+    },
+
+    {
+      "id": 9,
+      "name": "RASnes9x",
+      "description": "",
+      "supportedSystems": [3],
+      "platforms": ["Windows"],
+      "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
+      "sourceUrl": "https://github.com/RetroAchievements/RASnes9x",
+      "icon": "rasnes9x.png",
       "hasMultipleDownloads": true,
       "downloads": [
-        { "type": "x64", "url": "https://github.com/flyinghead/flycast/releases" },
-        { "type": "standard", "url": "https://github.com/flyinghead/flycast/releases" }
+        { "type": "x64", "url": "https://retroachievements.org/bin/RASnes9x-x64.zip" },
+        { "type": "standard", "url": "https://retroachievements.org/bin/RASnes9x.zip" }
       ]
-    }
+    },
+
+    {
+      "id": 10,
+      "name": "RAVBA",
+      "description": "",
+      "supportedSystems": [4,5,6],
+      "platforms": ["Windows"],
+      "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
+      "sourceUrl": "https://github.com/RetroAchievements/RAVBA",
+      "icon": "ravba.png",
+      "hasMultipleDownloads": true,
+      "downloads": [
+        { "type": "x64", "url": "https://retroachievements.org/bin/RAVBA-x64.zip" },
+        { "type": "standard", "url": "https://retroachievements.org/bin/RAVBA.zip" }
+      ]
+    },
+
+    {
+      "id": 11,
+      "name": "RAP64",
+      "description": "",
+      "supportedSystems": [2],
+      "platforms": ["Windows"],
+      "downloadUrl": "https://retroachievements.org/bin/RAP64.zip",
+      "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
+      "sourceUrl": "https://github.com/RetroAchievements/RAProject64",
+      "icon": "rap64.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 12,
+      "name": "RANes",
+      "description": "",
+      "supportedSystems": [7],
+      "platforms": ["Windows"],
+      "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
+      "sourceUrl": "https://github.com/RetroAchievements/RANes",
+      "icon": "ranes.png",
+      "hasMultipleDownloads": true,
+      "downloads": [
+        { "type": "x64", "url": "https://retroachievements.org/bin/RANes-x64.zip" },
+        { "type": "standard", "url": "https://retroachievements.org/bin/RANes.zip" }
+      ]
+    },
+
+    {
+      "id": 13,
+      "name": "SkyEmu",
+      "description": "",
+      "supportedSystems": [4,5,6],
+      "platforms": ["Windows","Linux","macOS","Android","iOS"],
+      "downloadUrl": "https://github.com/skylersaleh/SkyEmu/releases/tag/v4",
+      "websiteUrl": "https://web.skyemu.app/",
+      "sourceUrl": "https://github.com/skylersaleh/SkyEmu",
+      "icon": "skyemu.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 14,
+      "name": "Luna's Project64",
+      "description": "",
+      "supportedSystems": [2],
+      "platforms": ["Windows"],
+      "downloadUrl": "https://github.com/Luna-Project64/Luna-Project64/releases",
+      "websiteUrl": "https://sites.google.com/view/shurislibrary/luna-project64",
+      "sourceUrl": "https://github.com/Luna-Project64/Luna-Project64",
+      "icon": "lunasproject64.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 15,
+      "name": "RAppleWin",
+      "description": "",
+      "supportedSystems": [38],
+      "platforms": ["Windows"],
+      "downloadUrl": "https://retroachievements.org/bin/RAppleWin.zip",
+      "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
+      "sourceUrl": "https://github.com/RetroAchievements/AppleWin",
+      "icon": "rapplewin.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 16,
+      "name": "Firelight",
+      "description": "",
+      "supportedSystems": [18,4,5,6,1,2,7,3,15,11,24,33,53],
+      "platforms": ["Windows"],
+      "downloadUrl": "https://github.com/firelight-emulator/firelight/releases",
+      "websiteUrl": "https://biscuitcakes.itch.io/firelight",
+      "sourceUrl": "https://github.com/firelight-emulator/firelight",
+      "icon": "firelight.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 17,
+      "name": "WinArcadia",
+      "description": "",
+      "supportedSystems": [73,75,74],
+      "platforms": ["Windows"],
+      "downloadUrl": "https://amigan.1emu.net/releases/WinArcadia-bin.rar",
+      "websiteUrl": "https://amigan.1emu.net/releases/",
+      "documentationUrl": "https://amigan.1emu.net/releases/",
+      "sourceUrl": "https://amigan.1emu.net/releases/",
+      "icon": "winarcadia.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 18,
+      "name": "RAQUASI88",
+      "description": "",
+      "supportedSystems": [47],
+      "platforms": ["Windows"],
+      "downloadUrl": "https://retroachievements.org/bin/RAQUASI88.zip",
+      "documentationUrl": "https://docs.retroachievements.org/RAQUASI88/",
+      "sourceUrl": "https://github.com/RetroAchievements/quasi88",
+      "icon": "raquasi88.png",
+      "hasMultipleDownloads": false,
+    },
+
+    {
+      "id": 19,
+      "name": "RAMeka",
+      "description": "",
+      "supportedSystems": [44,15,33,11],
+      "platforms": ["Windows"],
+      "downloadUrl": "https://retroachievements.org/bin/RAMeka.zip",
+      "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
+      "sourceUrl": "https://github.com/RetroAchievements/RAMeka",
+      "icon": "rameka.png",
+      "hasMultipleDownloads": false,
+    },
   ]
   
 }
