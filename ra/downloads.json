@@ -178,7 +178,7 @@
       "documentationUrl": "https://docs.retroachievements.org/RALibretro/",
       "sourceUrl": "https://github.com/RetroAchievements/RALibretro",
       "icon": "ralibretro.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": true,
       "downloads": [
         { "type": "x64", "url": "https://retroachievements.org/bin/RALibretro-x64.zip" },
         { "type": "standard", "url": "https://retroachievements.org/bin/RALibretro.zip" }
