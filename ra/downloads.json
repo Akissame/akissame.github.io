@@ -152,7 +152,7 @@
       "documentationUrl": "https://github.com/TheArcadeStriker/flycast-wiki/wiki",
       "sourceUrl": "https://github.com/flyinghead/flycast",
       "icon": "flycast.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -166,7 +166,7 @@
       "documentationUrl": "https://tasvideos.org/Bizhawk/FAQ",
       "sourceUrl": "https://github.com/TASEmulators/BizHawk",
       "icon": "bizhawk.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -227,7 +227,7 @@
       "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
       "sourceUrl": "https://github.com/RetroAchievements/RAProject64",
       "icon": "rap64.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -256,7 +256,7 @@
       "websiteUrl": "https://web.skyemu.app/",
       "sourceUrl": "https://github.com/skylersaleh/SkyEmu",
       "icon": "skyemu.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -269,7 +269,7 @@
       "websiteUrl": "https://sites.google.com/view/shurislibrary/luna-project64",
       "sourceUrl": "https://github.com/Luna-Project64/Luna-Project64",
       "icon": "lunasproject64.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -282,7 +282,7 @@
       "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
       "sourceUrl": "https://github.com/RetroAchievements/AppleWin",
       "icon": "rapplewin.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -295,7 +295,7 @@
       "websiteUrl": "https://biscuitcakes.itch.io/firelight",
       "sourceUrl": "https://github.com/firelight-emulator/firelight",
       "icon": "firelight.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -309,7 +309,7 @@
       "documentationUrl": "https://amigan.1emu.net/releases/",
       "sourceUrl": "https://amigan.1emu.net/releases/",
       "icon": "winarcadia.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -322,7 +322,7 @@
       "documentationUrl": "https://docs.retroachievements.org/RAQUASI88/",
       "sourceUrl": "https://github.com/RetroAchievements/quasi88",
       "icon": "raquasi88.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     },
 
     {
@@ -335,7 +335,7 @@
       "documentationUrl": "https://docs.retroachievements.org/FAQ/#official-retroachievementsorg-emulators",
       "sourceUrl": "https://github.com/RetroAchievements/RAMeka",
       "icon": "rameka.png",
-      "hasMultipleDownloads": false,
+      "hasMultipleDownloads": false
     }
   ]
   
