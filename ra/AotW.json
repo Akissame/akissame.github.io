@@ -294,5 +294,79 @@
         "achievementBadgeName": "298761"
       }
     ]
+  },
+  {
+    "gameId": 7886,
+    "gameTitle": "Kaizou Choujin Shubibinman Zero",
+    "gameImageIcon": "/Images/052428.png",
+    "gameImageTitle": "/Images/052429.png",
+    "gameImageIngame": "/Images/052430.png",
+    "gameImageBoxArt": "/Images/052553.png",
+    "consoleID": 3,
+    "consoleName": "SNES/Super Famicom",
+    "achievementId": 36091,
+    "achievementTitle": "Spaceship",
+    "achievementDescription": "Defeat Galko (Or the 5 pillars)",
+    "achievementBadgeName": "256005",
+    "achievementDateStart": "2026-02-02T00:00:00.000000Z",
+    "achievementDateEnd": "2026-02-09T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 22375,
+        "gameTitle": "Ancient Tribe",
+        "gameImageIcon": "/Images/067376.png",
+        "gameImageTitle": "/Images/067374.png",
+        "gameImageIngame": "/Images/067375.png",
+        "gameImageBoxArt": "/Images/067377.png",
+        "consoleID": 78,
+        "consoleName": "Nintendo DSi",
+        "achievementId": 284344,
+        "achievementTitle": "Land of Flames",
+        "achievementDescription": "Upgrade your village to level 11.",
+        "achievementBadgeName": "315190"
+      },
+      {
+        "gameId": 8421,
+        "gameTitle": "Minnesota Fats: Pool Legend",
+        "gameImageIcon": "/Images/041285.png",
+        "gameImageTitle": "/Images/041283.png",
+        "gameImageIngame": "/Images/041282.png",
+        "gameImageBoxArt": "/Images/041284.png",
+        "consoleID": 1,
+        "consoleName": "Genesis/Mega Drive",
+        "achievementId": 138483,
+        "achievementTitle": "Clyde Hinkle",
+        "achievementDescription": "Beat Clyde Hinkle in story mode",
+        "achievementBadgeName": "153672"
+      },
+      {
+        "gameId": 2473,
+        "gameTitle": "SD Lupin III: Kinko Yaburi Daisakusen",
+        "gameImageIcon": "/Images/071853.png",
+        "gameImageTitle": "/Images/036390.png",
+        "gameImageIngame": "/Images/036391.png",
+        "gameImageBoxArt": "/Images/007396.png",
+        "consoleID": 4,
+        "consoleName": "Game Boy",
+        "achievementId": 7539,
+        "achievementTitle": "Beating Mamo",
+        "achievementDescription": "Beat Mamo",
+        "achievementBadgeName": "251025"
+      },
+      {
+        "gameId": 10817,
+        "gameTitle": "Montezuma's Revenge featuring Panama Joe",
+        "gameImageIcon": "/Images/082285.png",
+        "gameImageTitle": "/Images/082281.png",
+        "gameImageIngame": "/Images/082282.png",
+        "gameImageBoxArt": "/Images/082283.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 356407,
+        "achievementTitle": "Cleaning Out Kukulcan's Tomb",
+        "achievementDescription": "Complete stage 3.",
+        "achievementBadgeName": "401641"
+      }
+    ]
   }
 ]
