@@ -309,7 +309,7 @@
     "achievementDescription": "Defeat Galko (Or the 5 pillars)",
     "achievementBadgeName": "256005",
     "achievementDateStart": "2026-02-02T00:00:00.000000Z",
-    "achievementDateEnd": "2026-02-09T00:00:00.000000Z",
+    "achievementDateEnd": "2026-02-09T00:00:00.000000",
     "swaps": [
       {
         "gameId": 22375,
