@@ -22,5 +22,17 @@
     "fecha_vigencia": "2027-02-01T00:00:00.000Z",
     "last_modified": "2025-02-05T11:15:00.000Z",
     "modified_by": "usuario@email.com"
+  },
+  {
+    "id": "1770338449694",
+    "tipo": "CC",
+    "identificacion": "1144158801",
+    "nombre": "JOHAN",
+    "cargo": "AYUDANTE PRACTICO",
+    "induccion_capacitacion": "ALTURAS",
+    "fecha_realizacion": "2026-02-02T00:00:00.000",
+    "fecha_vigencia": "2027-02-02T00:00:00.000",
+    "last_modified": "2026-02-06T00:40:49.694784",
+    "modified_by": "system"
   }
 ]
