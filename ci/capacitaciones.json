@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": "1770399938951",
+    "tipo": "CC",
+    "identificacion": "123",
+    "nombre": "STEVEN",
+    "cargo": "AYUDANTE PRACTICO",
+    "induccion_capacitacion": "ALTURAS",
+    "fecha_realizacion": "2026-02-23T00:00:00.000",
+    "fecha_vigencia": "2027-02-23T00:00:00.000",
+    "last_modified": "2026-02-06T17:45:38.951371",
+    "modified_by": "system"
+  }
+]
