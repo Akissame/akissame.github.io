@@ -1,1 +1,50 @@
-
+[
+  {
+    "id": "1770399101489",
+    "nombre": "ALTURAS",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": "Trabajo en alturas",
+    "activo": true
+  },
+  {
+    "id": "1770399101489",
+    "nombre": "RESTRICCIÓN ALTURAS",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": "Restricción médica para trabajo en alturas",
+    "activo": true
+  },
+  {
+    "id": "1770399101489",
+    "nombre": "ESPACIOS CONFINADOS",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": "Trabajo en espacios confinados",
+    "activo": true
+  },
+  {
+    "id": "1770399101489",
+    "nombre": "PRIMEROS AUXILIOS",
+    "vigencia_meses": 24,
+    "categoria": "capacitacion",
+    "descripcion": "Primeros auxilios básicos",
+    "activo": true
+  },
+  {
+    "id": "1770399101489",
+    "nombre": "SEGURIDAD VIAL",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": "Seguridad vial",
+    "activo": true
+  },
+  {
+    "id": "1770399101489",
+    "nombre": "EXAMEN MÉDICO OCUPACIONAL",
+    "vigencia_meses": 12,
+    "categoria": "examen",
+    "descripcion": "Examen médico anual",
+    "activo": true
+  }
+]
