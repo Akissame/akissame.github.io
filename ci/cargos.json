@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": "1770399288085",
+    "nombre": "INSPECTOR SST",
+    "area": "Seguridad",
+    "activo": true
+  },
+  {
+    "id": "1770399288085",
+    "nombre": "OFICIAL",
+    "area": "Operaciones",
+    "activo": true
+  },
+  {
+    "id": "1770399288085",
+    "nombre": "AYUDANTE PRACTICO",
+    "area": "Operaciones",
+    "activo": true
+  },
+  {
+    "id": "1770399288085",
+    "nombre": "SUPERVISOR",
+    "area": "Administración",
+    "activo": true
+  },
+  {
+    "id": "1770399288085",
+    "nombre": "TÉCNICO",
+    "area": "Mantenimiento",
+    "activo": true
+  },
+  {
+    "id": "1770399288085",
+    "nombre": "COORDINADORA SST",
+    "area": "SST",
+    "activo": true
+  }
+]
