@@ -4,11 +4,11 @@
     "tipo": "CC",
     "identificacion": "123",
     "nombre": "STEVEN",
-    "cargo": "AYUDANTE PRACTICO",
+    "cargo": "INSPECTOR SST",
     "induccion_capacitacion": "ALTURAS",
-    "fecha_realizacion": "2026-02-23T00:00:00.000",
-    "fecha_vigencia": "2027-02-23T00:00:00.000",
-    "last_modified": "2026-02-06T17:45:38.951371",
+    "fecha_realizacion": "2026-02-01T00:00:00.000",
+    "fecha_vigencia": "2027-02-01T00:00:00.000",
+    "last_modified": "2026-02-07T12:16:32.457593",
     "modified_by": "system"
   }
 ]
