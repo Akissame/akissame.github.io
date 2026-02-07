@@ -5,7 +5,7 @@
     "vigencia_meses": 12,
     "categoria": "capacitacion",
     "descripcion": "Restricción médica para trabajo en alturas",
-    "activo": true
+    "activo": false
   },
   {
     "id": "1770399231201",
