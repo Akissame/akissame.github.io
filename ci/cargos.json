@@ -1,9 +1,9 @@
 [
   {
     "id": "1770399288085",
-    "nombre": "INSPECTOR SST",
-    "area": "Seguridad",
-    "activo": true
+    "nombre": "OFICIAL",
+    "area": "Operaciones",
+    "activo": false
   },
   {
     "id": "1770399288085",
