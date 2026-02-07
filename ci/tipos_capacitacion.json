@@ -5,7 +5,7 @@
     "vigencia_meses": 12,
     "categoria": "capacitacion",
     "descripcion": "Trabajo en alturas",
-    "activo": false
+    "activo": true
   },
   {
     "id": "1770399231201",
