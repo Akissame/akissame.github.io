@@ -1,11 +1,11 @@
 [
   {
     "id": "1770399231201",
-    "nombre": "ALTURAS",
+    "nombre": "RESTRICCIÓN ALTURAS",
     "vigencia_meses": 12,
     "categoria": "capacitacion",
-    "descripcion": "Trabajo en alturas",
-    "activo": true
+    "descripcion": "Restricción médica para trabajo en alturas",
+    "activo": false
   },
   {
     "id": "1770399231201",
