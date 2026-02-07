@@ -42,5 +42,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "2222222",
+    "tipo": "PEP",
+    "identificacion": "2222222",
+    "nombre": "YES",
+    "cargo_id": "1770399288085",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
