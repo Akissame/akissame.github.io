@@ -1,10 +1,10 @@
 [
   {
     "id": "1770399231201",
-    "nombre": "ESPACIOS CONFINADOS",
+    "nombre": "RESTRICCIÓN ALTURAS",
     "vigencia_meses": 12,
     "categoria": "capacitacion",
-    "descripcion": "Trabajo en espacios confinados",
+    "descripcion": "Restricción médica para trabajo en alturas",
     "activo": false
   },
   {
