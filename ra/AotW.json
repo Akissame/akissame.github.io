@@ -368,5 +368,93 @@
         "achievementBadgeName": "401641"
       }
     ]
+  },
+  {
+    "gameId": 19115,
+    "gameTitle": "Rayman 3: Hoodlum Havoc",
+    "gameImageIcon": "/Images/088171.png",
+    "gameImageTitle": "/Images/064687.png",
+    "gameImageIngame": "/Images/064688.png",
+    "gameImageBoxArt": "/Images/066408.png",
+    "consoleID": 21,
+    "consoleName": "PlayStation 2",
+    "achievementId": 449504,
+    "achievementTitle": "Clearleaf Forest",
+    "achievementDescription": "Finish Clearleaf Forest",
+    "achievementBadgeName": "508262",
+    "achievementDateStart": "2026-02-09T00:00:00.000000Z",
+    "achievementDateEnd": "2026-02-16T00:00:00.000000Z",
+    "swaps": [
+      {
+        "gameId": 12040,
+        "gameTitle": "The Last Blade",
+        "gameImageIcon": "/Images/122040.png",
+        "gameImageTitle": "/Images/022064.png",
+        "gameImageIngame": "/Images/040328.png",
+        "gameImageBoxArt": "/Images/040223.png",
+        "consoleID": 27,
+        "consoleName": "Arcade",
+        "achievementId": 133084,
+        "achievementTitle": "Otokomae - Handsome Man a Bokutou",
+        "achievementDescription": "Finish Story Mode using only Amano on default settings",
+        "achievementBadgeName": "147262"
+      },
+      {
+        "gameId": 6812,
+        "gameTitle": "Donkey Kong 3: Dai Gyakushu",
+        "gameImageIcon": "/Images/041322.png",
+        "gameImageTitle": "/Images/041321.png",
+        "gameImageIngame": "/Images/041320.png",
+        "gameImageBoxArt": "/Images/041319.png",
+        "consoleID": 47,
+        "consoleName": "PC-8000/8800",
+        "achievementId": 197313,
+        "achievementTitle": "ON THE GROUND PICTURE",
+        "achievementDescription": "Beat Stage 16",
+        "achievementBadgeName": "219329"
+      },
+      {
+        "gameId": 4737,
+        "gameTitle": "The Firemen",
+        "gameImageIcon": "/Images/087674.png",
+        "gameImageTitle": "/Images/002397.png",
+        "gameImageIngame": "/Images/002398.png",
+        "gameImageBoxArt": "/Images/007355.png",
+        "consoleID": 3,
+        "consoleName": "SNES/Super Famicom",
+        "achievementId": 10519,
+        "achievementTitle": "Last Resort",
+        "achievementDescription": "Clear stage 4 on normal or expert difficulty",
+        "achievementBadgeName": "437389"
+      },
+      {
+        "gameId": 13306,
+        "gameTitle": "Monster Lair",
+        "gameImageIcon": "/Images/090586.png",
+        "gameImageTitle": "/Images/090584.png",
+        "gameImageIngame": "/Images/090585.png",
+        "gameImageBoxArt": "/Images/090583.png",
+        "consoleID": 76,
+        "consoleName": "PC Engine CD/TurboGrafx-CD",
+        "achievementId": 421653,
+        "achievementTitle": "Icerego's Mountains",
+        "achievementDescription": "Complete Round 7 without using cheats",
+        "achievementBadgeName": "476289"
+      },
+      {
+        "gameId": 10817,
+        "gameTitle": "Montezuma's Revenge featuring Panama Joe",
+        "gameImageIcon": "/Images/082285.png",
+        "gameImageTitle": "/Images/082281.png",
+        "gameImageIngame": "/Images/082282.png",
+        "gameImageBoxArt": "/Images/082283.png",
+        "consoleID": 11,
+        "consoleName": "Master System",
+        "achievementId": 356407,
+        "achievementTitle": "Cleaning Out Kukulcan's Tomb",
+        "achievementDescription": "Complete stage 3.",
+        "achievementBadgeName": "401641"
+      }
+    ]
   }
 ]
