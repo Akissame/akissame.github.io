@@ -10,5 +10,17 @@
     "fecha_vigencia": "2027-02-01T00:00:00.000",
     "last_modified": "2026-02-07T12:16:32.457593",
     "modified_by": "system"
+  },
+  {
+    "id": "1770926213454",
+    "tipo": "CC",
+    "identificacion": "123",
+    "nombre": "STEVEN",
+    "cargo": "TÉCNICO",
+    "induccion_capacitacion": "SEGURIDAD VIAL",
+    "fecha_realizacion": "2026-02-10T00:00:00.000",
+    "fecha_vigencia": "2027-02-10T00:00:00.000",
+    "last_modified": "2026-02-12T19:56:53.454159",
+    "modified_by": "system"
   }
 ]
