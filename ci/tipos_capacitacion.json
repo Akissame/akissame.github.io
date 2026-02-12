@@ -21,7 +21,7 @@
     "vigencia_meses": 12,
     "categoria": "capacitacion",
     "descripcion": "Trabajo en espacios confinados",
-    "activo": true
+    "activo": false
   },
   {
     "id": "177092540905007650",
