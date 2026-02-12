@@ -8,7 +8,7 @@
     "activo": true
   },
   {
-    "id": "1770399231201",
+    "id": "177092540901140211",
     "nombre": "RESTRICCIÓN ALTURAS",
     "vigencia_meses": 12,
     "categoria": "capacitacion",
@@ -16,7 +16,7 @@
     "activo": true
   },
   {
-    "id": "1770399231201",
+    "id": "177092540904098240",
     "nombre": "ESPACIOS CONFINADOS",
     "vigencia_meses": 12,
     "categoria": "capacitacion",
@@ -24,7 +24,7 @@
     "activo": true
   },
   {
-    "id": "1770399231201",
+    "id": "177092540905007650",
     "nombre": "PRIMEROS AUXILIOS",
     "vigencia_meses": 24,
     "categoria": "capacitacion",
@@ -32,7 +32,7 @@
     "activo": true
   },
   {
-    "id": "1770399231201",
+    "id": "177092540905485254",
     "nombre": "SEGURIDAD VIAL",
     "vigencia_meses": 12,
     "categoria": "capacitacion",
@@ -40,7 +40,7 @@
     "activo": true
   },
   {
-    "id": "1770399231201",
+    "id": "177092540906128561",
     "nombre": "EXAMEN MÉDICO OCUPACIONAL",
     "vigencia_meses": 12,
     "categoria": "examen",
@@ -48,7 +48,7 @@
     "activo": true
   },
   {
-    "id": "1770399231201",
+    "id": "177092540906789067",
     "nombre": "PRUEBA",
     "vigencia_meses": 6,
     "categoria": "certificacion",
