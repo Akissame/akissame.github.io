@@ -141,5 +141,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "94310636",
+    "tipo": "CC",
+    "identificacion": "94310636",
+    "nombre": "Lozano Patio Pedro Nel",
+    "cargo_id": "1771001065916964916",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
