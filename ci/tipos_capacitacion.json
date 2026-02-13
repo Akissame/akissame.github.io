@@ -54,5 +54,13 @@
     "categoria": "examen",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771000682993053993",
+    "nombre": "Ingredion",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
