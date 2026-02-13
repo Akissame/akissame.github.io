@@ -152,5 +152,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "1110286555",
+    "tipo": "CC",
+    "identificacion": "1110286555",
+    "nombre": "Martinez Mateus Nathali",
+    "cargo_id": "1771000955233375233",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
