@@ -10,5 +10,11 @@
     "nombre": "Auxiliar Administrativa",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771000919678442678",
+    "nombre": "Auxiliar de Servicios Generales",
+    "area": null,
+    "activo": true
   }
 ]
