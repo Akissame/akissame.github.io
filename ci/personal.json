@@ -31,5 +31,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "1114882152",
+    "tipo": "CC",
+    "identificacion": "1114882152",
+    "nombre": "Bravo Rodriguez Isaura Catalina",
+    "cargo_id": "1771000994950870950",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
