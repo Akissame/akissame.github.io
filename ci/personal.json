@@ -42,5 +42,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "6316132",
+    "tipo": "CC",
+    "identificacion": "6316132",
+    "nombre": "Campo Marin Edgar Marino",
+    "cargo_id": "1771000919678442678",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
