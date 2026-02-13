@@ -229,5 +229,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "1112231105",
+    "tipo": "CC",
+    "identificacion": "1112231105",
+    "nombre": "Pino Diaz Jhon Alexander",
+    "cargo_id": "1771001048862170862",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
