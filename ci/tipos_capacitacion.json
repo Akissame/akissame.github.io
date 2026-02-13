@@ -38,5 +38,13 @@
     "categoria": "certificacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771000586550125550",
+    "nombre": "Espacios Confinados - Vigía",
+    "vigencia_meses": 36,
+    "categoria": "certificacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
