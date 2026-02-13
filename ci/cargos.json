@@ -40,5 +40,11 @@
     "nombre": "Inspectora SST",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771001007955559955",
+    "nombre": "Jefe de Compras",
+    "area": null,
+    "activo": true
   }
 ]
