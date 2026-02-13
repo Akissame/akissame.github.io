@@ -240,5 +240,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "9890460",
+    "tipo": "CC",
+    "identificacion": "9890460",
+    "nombre": "Raíz Soto Alirio de Jesus",
+    "cargo_id": "1771000919678442678",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
