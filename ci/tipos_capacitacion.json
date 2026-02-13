@@ -1,10 +1,10 @@
 [
   {
     "id": "1770399231201",
-    "nombre": "ALTURAS",
+    "nombre": "Alturas",
     "vigencia_meses": 12,
-    "categoria": "capacitacion",
-    "descripcion": "Restricción médica para trabajo en alturas",
+    "categoria": "certificacion",
+    "descripcion": "SENA",
     "activo": true
   },
   {
