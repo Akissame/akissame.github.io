@@ -30,6 +30,6 @@
     "email": null,
     "telefono": null,
     "fecha_ingreso": null,
-    "activo": false
+    "activo": true
   }
 ]
