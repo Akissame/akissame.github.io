@@ -130,5 +130,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "1113636607",
+    "tipo": "CC",
+    "identificacion": "1113636607",
+    "nombre": "Lopez Trujillo Alex Arley",
+    "cargo_id": "1771001042801905801",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
