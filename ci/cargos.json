@@ -1,38 +1,3 @@
 [
-  {
-    "id": "1770399288085",
-    "nombre": "Jefe de Talento Humano",
-    "area": "Talento Humano",
-    "activo": true
-  },
-  {
-    "id": "1770926053302823302",
-    "nombre": "Oficial",
-    "area": "Operaciones",
-    "activo": true
-  },
-  {
-    "id": "1770926053615857615",
-    "nombre": "Ayudante Práctico",
-    "area": "Calderas",
-    "activo": true
-  },
-  {
-    "id": "1770926053634619634",
-    "nombre": "Supervisor",
-    "area": "Calderas",
-    "activo": true
-  },
-  {
-    "id": "1770926053661840661",
-    "nombre": "Soldador",
-    "area": "Calderas",
-    "activo": true
-  },
-  {
-    "id": "1770926053665005665",
-    "nombre": "Coordinadora SST",
-    "area": "SST",
-    "activo": true
-  }
+  
 ]
