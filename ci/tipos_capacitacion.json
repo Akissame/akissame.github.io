@@ -30,5 +30,13 @@
     "categoria": "certificacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771000574718421718",
+    "nombre": "Espacios Confinados - Supervisor",
+    "vigencia_meses": 36,
+    "categoria": "certificacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
