@@ -75,5 +75,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "76024504",
+    "tipo": "CC",
+    "identificacion": "76024504",
+    "nombre": "Dorado Lopez Cesar Agustín",
+    "cargo_id": "1771001048862170862",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
