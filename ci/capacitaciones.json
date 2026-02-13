@@ -46,5 +46,17 @@
     "fecha_vigencia": "2026-02-12T00:00:00.000",
     "last_modified": "2026-02-13T13:48:36.405802",
     "modified_by": "system"
+  },
+  {
+    "id": "1771008605562",
+    "tipo": "CC",
+    "identificacion": "94506898",
+    "nombre": "Artunduaga Marin Andres",
+    "cargo": "Auxiliar de Servicios Generales",
+    "induccion_capacitacion": "Examen Médico Ocupacional",
+    "fecha_realizacion": "2025-02-07T00:00:00.000",
+    "fecha_vigencia": "2026-02-07T00:00:00.000",
+    "last_modified": "2026-02-13T13:50:05.562773",
+    "modified_by": "system"
   }
 ]
