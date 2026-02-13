@@ -1,3 +1,13 @@
 [
-  
+  {
+    "id": "1113668561",
+    "tipo": "CC",
+    "identificacion": "1113668561",
+    "nombre": "Alzate Montenegro Carlos Alberto",
+    "cargo_id": "177100088703205932",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
+  }
 ]
