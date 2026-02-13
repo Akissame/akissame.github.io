@@ -70,5 +70,13 @@
     "categoria": "capacitacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771000726687026687",
+    "nombre": "Recamier",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
