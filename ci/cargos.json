@@ -64,5 +64,11 @@
     "nombre": "Líder Operativo",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771001048862170862",
+    "nombre": "Oficial",
+    "area": null,
+    "activo": true
   }
 ]
