@@ -196,5 +196,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "6252268",
+    "tipo": "CC",
+    "identificacion": "6252268",
+    "nombre": "Moreno Valencia Rodolfo",
+    "cargo_id": "1771001048862170862",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
