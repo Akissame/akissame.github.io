@@ -22,5 +22,11 @@
     "nombre": "Auxiliar Contable",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771000978570905570",
+    "nombre": "Ingeniera de Servicios",
+    "area": null,
+    "activo": true
   }
 ]
