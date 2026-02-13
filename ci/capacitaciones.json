@@ -1,3 +1,14 @@
 [
-  
+  {
+    "id": "1771008263311",
+    "tipo": "CC",
+    "identificacion": "1113668561",
+    "nombre": "Alzate Montenegro Carlos Alberto",
+    "cargo": "Ayudante Práctico",
+    "induccion_capacitacion": "Manitoba",
+    "fecha_realizacion": "2025-07-25T00:00:00.000",
+    "fecha_vigencia": "2026-07-25T00:00:00.000",
+    "last_modified": "2026-02-13T13:44:23.311346",
+    "modified_by": "system"
+  }
 ]
