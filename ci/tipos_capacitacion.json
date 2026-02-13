@@ -46,5 +46,13 @@
     "categoria": "certificacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771000665557857557",
+    "nombre": "Examen Médico Ocupacional",
+    "vigencia_meses": 12,
+    "categoria": "examen",
+    "descripcion": null,
+    "activo": true
   }
 ]
