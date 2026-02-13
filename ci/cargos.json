@@ -28,5 +28,11 @@
     "nombre": "Ingeniera de Servicios",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "177100098201848418",
+    "nombre": "Ingeniero de Servicios",
+    "area": null,
+    "activo": true
   }
 ]
