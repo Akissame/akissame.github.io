@@ -97,5 +97,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "94074489",
+    "tipo": "CC",
+    "identificacion": "94074489",
+    "nombre": "Gutierrez Marin Rodrigo",
+    "cargo_id": "177100098201848418",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
