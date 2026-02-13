@@ -53,5 +53,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "14976501",
+    "tipo": "CC",
+    "identificacion": "14976501",
+    "nombre": "Céspedes Arango Jesús Antonio",
+    "cargo_id": "1771001048862170862",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
