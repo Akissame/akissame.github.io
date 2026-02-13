@@ -70,5 +70,11 @@
     "nombre": "Oficial",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771001065916964916",
+    "nombre": "Vigilante",
+    "area": null,
+    "activo": true
   }
 ]
