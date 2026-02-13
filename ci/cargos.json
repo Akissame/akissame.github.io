@@ -46,5 +46,11 @@
     "nombre": "Jefe de Compras",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771001023331162331",
+    "nombre": "Jefe de Talento Humano",
+    "area": null,
+    "activo": true
   }
 ]
