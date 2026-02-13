@@ -20,5 +20,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "66953515",
+    "tipo": "CC",
+    "identificacion": "66953515",
+    "nombre": "Artunduaga Vasco Sandra Milena",
+    "cargo_id": "177100089908114381",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
