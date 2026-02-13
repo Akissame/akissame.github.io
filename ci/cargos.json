@@ -4,5 +4,11 @@
     "nombre": "Ayudante Práctico",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "177100089908114381",
+    "nombre": "Auxiliar Administrativa",
+    "area": null,
+    "activo": true
   }
 ]
