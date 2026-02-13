@@ -10,5 +10,17 @@
     "fecha_vigencia": "2026-07-25T00:00:00.000",
     "last_modified": "2026-02-13T13:44:23.311346",
     "modified_by": "system"
+  },
+  {
+    "id": "1771008436001",
+    "tipo": "CC",
+    "identificacion": "1113668561",
+    "nombre": "Alzate Montenegro Carlos Alberto",
+    "cargo": "Ayudante Práctico",
+    "induccion_capacitacion": "Unilever",
+    "fecha_realizacion": "2025-10-30T00:00:00.000",
+    "fecha_vigencia": "2026-04-30T00:00:00.000",
+    "last_modified": "2026-02-13T13:47:16.001732",
+    "modified_by": "system"
   }
 ]
