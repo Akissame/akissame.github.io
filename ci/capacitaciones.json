@@ -34,5 +34,17 @@
     "fecha_vigencia": "2026-10-22T00:00:00.000",
     "last_modified": "2026-02-13T13:48:00.267274",
     "modified_by": "system"
+  },
+  {
+    "id": "1771008516405",
+    "tipo": "CC",
+    "identificacion": "1113668561",
+    "nombre": "Alzate Montenegro Carlos Alberto",
+    "cargo": "Ayudante Práctico",
+    "induccion_capacitacion": "Ingredion",
+    "fecha_realizacion": "2025-02-12T00:00:00.000",
+    "fecha_vigencia": "2026-02-12T00:00:00.000",
+    "last_modified": "2026-02-13T13:48:36.405802",
+    "modified_by": "system"
   }
 ]
