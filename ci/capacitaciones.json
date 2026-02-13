@@ -34,5 +34,17 @@
     "fecha_vigencia": "2027-02-04T00:00:00.000",
     "last_modified": "2026-02-12T20:00:01.535878",
     "modified_by": "system"
+  },
+  {
+    "id": "1770949307324",
+    "tipo": "CC",
+    "identificacion": "1144158801",
+    "nombre": "Oliveros Rodriguez Johan Steven",
+    "cargo": "AYUDANTE PRACTICO",
+    "induccion_capacitacion": "EXAMEN MÉDICO OCUPACIONAL",
+    "fecha_realizacion": "2026-02-01T00:00:00.000",
+    "fecha_vigencia": "2027-02-01T00:00:00.000",
+    "last_modified": "2026-02-12T21:21:47.324514",
+    "modified_by": "system"
   }
 ]
