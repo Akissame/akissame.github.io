@@ -64,5 +64,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "1113623492",
+    "tipo": "CC",
+    "identificacion": "1113623492",
+    "nombre": "Dominguez Arango Luis Miguel",
+    "cargo_id": "1771001048862170862",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
