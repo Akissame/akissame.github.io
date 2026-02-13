@@ -207,5 +207,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "12985645",
+    "tipo": "CC",
+    "identificacion": "12985645",
+    "nombre": "Obando Carlos Parmenides",
+    "cargo_id": "1771001048862170862",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
