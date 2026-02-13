@@ -22,5 +22,13 @@
     "categoria": "capacitacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "177100056003871138",
+    "nombre": "Espacios Confinados - Entrante",
+    "vigencia_meses": 36,
+    "categoria": "certificacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
