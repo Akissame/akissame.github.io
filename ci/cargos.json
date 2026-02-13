@@ -52,5 +52,11 @@
     "nombre": "Jefe de Talento Humano",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771001032968842968",
+    "nombre": "Jefe Operativo",
+    "area": null,
+    "activo": true
   }
 ]
