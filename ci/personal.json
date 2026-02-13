@@ -185,5 +185,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "94529688",
+    "tipo": "CC",
+    "identificacion": "94529688",
+    "nombre": "Moreno Juan Carlos",
+    "cargo_id": "1771001048862170862",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
