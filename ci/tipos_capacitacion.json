@@ -78,5 +78,13 @@
     "categoria": "capacitacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771000753366642366",
+    "nombre": "Rio Paila",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
