@@ -108,5 +108,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "16461732",
+    "tipo": "CC",
+    "identificacion": "16461732",
+    "nombre": "Lievano Gordillo Armando Antonio",
+    "cargo_id": "1771001032968842968",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
