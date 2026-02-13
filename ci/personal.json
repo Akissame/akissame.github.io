@@ -174,5 +174,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "6322628",
+    "tipo": "CC",
+    "identificacion": "6322628",
+    "nombre": "Montoya Duque Gerardo",
+    "cargo_id": "1771001065916964916",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
