@@ -16,5 +16,11 @@
     "nombre": "Auxiliar de Servicios Generales",
     "area": null,
     "activo": true
+  },
+  {
+    "id": "1771000955233375233",
+    "nombre": "Auxiliar Contable",
+    "area": null,
+    "activo": true
   }
 ]
