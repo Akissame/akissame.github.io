@@ -119,5 +119,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "1104805227",
+    "tipo": "CC",
+    "identificacion": "1104805227",
+    "nombre": "Lievano Villafañe Esteban",
+    "cargo_id": "177100088703205932",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
