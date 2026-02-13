@@ -9,5 +9,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "94506898",
+    "tipo": "CC",
+    "identificacion": "94506898",
+    "nombre": "Artunduaga Marin Andres",
+    "cargo_id": "1771000919678442678",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
