@@ -86,5 +86,13 @@
     "categoria": "capacitacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771000774659951659",
+    "nombre": "Unilever",
+    "vigencia_meses": 6,
+    "categoria": "capacitacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
