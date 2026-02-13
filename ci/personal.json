@@ -86,5 +86,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "66815858",
+    "tipo": "CC",
+    "identificacion": "66815858",
+    "nombre": "Galarza Valencia Jackeline",
+    "cargo_id": "1771000978570905570",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
