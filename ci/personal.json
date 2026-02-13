@@ -251,5 +251,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "31946305",
+    "tipo": "CC",
+    "identificacion": "31946305",
+    "nombre": "Sabogal Zamora Maria Enriqueta",
+    "cargo_id": "1771001007955559955",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
