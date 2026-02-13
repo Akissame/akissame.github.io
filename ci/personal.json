@@ -163,5 +163,16 @@
     "telefono": null,
     "fecha_ingreso": null,
     "activo": true
+  },
+  {
+    "id": "1006306325",
+    "tipo": "CC",
+    "identificacion": "1006306325",
+    "nombre": "Montenegro Piedrahita Luis Angel",
+    "cargo_id": "177100088703205932",
+    "email": null,
+    "telefono": null,
+    "fecha_ingreso": null,
+    "activo": true
   }
 ]
