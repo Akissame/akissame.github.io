@@ -62,5 +62,13 @@
     "categoria": "capacitacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "17710006970078527",
+    "nombre": "Manitoba",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": null,
+    "activo": true
   }
 ]
