@@ -1,98 +1,50 @@
 [
   {
-    "id": "1771000477535555535",
+    "id": "1771033709368564368",
     "nombre": "Alturas",
-    "vigencia_meses": 18,
-    "categoria": "certificacion",
-    "descripcion": null,
-    "activo": true
-  },
-  {
-    "id": "177100049602630226",
-    "nombre": "Argos",
     "vigencia_meses": 12,
     "categoria": "capacitacion",
-    "descripcion": null,
+    "descripcion": "Trabajo en alturas",
     "activo": true
   },
   {
-    "id": "1771000507773993773",
-    "nombre": "Brinsa",
+    "id": "1771033709368613368",
+    "nombre": "Restricción Alturas",
     "vigencia_meses": 12,
     "categoria": "capacitacion",
-    "descripcion": null,
+    "descripcion": "Restricción médica para trabajo en alturas",
     "activo": true
   },
   {
-    "id": "177100056003871138",
-    "nombre": "Espacios Confinados - Entrante",
-    "vigencia_meses": 36,
-    "categoria": "certificacion",
-    "descripcion": null,
+    "id": "1771033709368632368",
+    "nombre": "Espacios Confinados",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": "Trabajo en espacios confinados",
     "activo": true
   },
   {
-    "id": "1771000574718421718",
-    "nombre": "Espacios Confinados - Supervisor",
-    "vigencia_meses": 36,
-    "categoria": "certificacion",
-    "descripcion": null,
+    "id": "1771033709368648368",
+    "nombre": "Primeros Auxilios",
+    "vigencia_meses": 24,
+    "categoria": "capacitacion",
+    "descripcion": "Primeros auxilios básicos",
     "activo": true
   },
   {
-    "id": "1771000586550125550",
-    "nombre": "Espacios Confinados - Vigía",
-    "vigencia_meses": 36,
-    "categoria": "certificacion",
-    "descripcion": null,
+    "id": "1771033709368666368",
+    "nombre": "Seguridad Vial",
+    "vigencia_meses": 12,
+    "categoria": "capacitacion",
+    "descripcion": "Seguridad vial",
     "activo": true
   },
   {
-    "id": "1771000665557857557",
+    "id": "1771033709368684368",
     "nombre": "Examen Médico Ocupacional",
     "vigencia_meses": 12,
     "categoria": "examen",
-    "descripcion": null,
-    "activo": true
-  },
-  {
-    "id": "1771000682993053993",
-    "nombre": "Ingredion",
-    "vigencia_meses": 12,
-    "categoria": "capacitacion",
-    "descripcion": null,
-    "activo": true
-  },
-  {
-    "id": "17710006970078527",
-    "nombre": "Manitoba",
-    "vigencia_meses": 12,
-    "categoria": "capacitacion",
-    "descripcion": null,
-    "activo": true
-  },
-  {
-    "id": "1771000726687026687",
-    "nombre": "Recamier",
-    "vigencia_meses": 12,
-    "categoria": "capacitacion",
-    "descripcion": null,
-    "activo": true
-  },
-  {
-    "id": "1771000753366642366",
-    "nombre": "Rio Paila",
-    "vigencia_meses": 12,
-    "categoria": "capacitacion",
-    "descripcion": null,
-    "activo": true
-  },
-  {
-    "id": "1771000774659951659",
-    "nombre": "Unilever",
-    "vigencia_meses": 6,
-    "categoria": "capacitacion",
-    "descripcion": null,
+    "descripcion": "Examen médico anual",
     "activo": true
   }
 ]
