@@ -286,5 +286,17 @@
     "fecha_vigencia": "2026-07-16T00:00:00.000",
     "last_modified": "2026-02-16T13:13:14.590472",
     "modified_by": "system"
+  },
+  {
+    "id": "1771266052321",
+    "tipo": "CC",
+    "identificacion": "1113623492",
+    "nombre": "Dominguez Arango Luis Miguel",
+    "cargo": "Oficial",
+    "induccion_capacitacion": "Unilever",
+    "fecha_realizacion": "2025-10-30T00:00:00.000",
+    "fecha_vigencia": "2026-04-30T00:00:00.000",
+    "last_modified": "2026-02-16T13:20:52.321495",
+    "modified_by": "system"
   }
 ]
