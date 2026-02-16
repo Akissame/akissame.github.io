@@ -202,5 +202,17 @@
     "fecha_vigencia": "2026-09-25T00:00:00.000",
     "last_modified": "2026-02-16T12:25:16.682861",
     "modified_by": "system"
+  },
+  {
+    "id": "1771262736561",
+    "tipo": "CC",
+    "identificacion": "1114882152",
+    "nombre": "Bravo Rodriguez Isaura Catalina",
+    "cargo": "Inspectora SST",
+    "induccion_capacitacion": "Ingredion",
+    "fecha_realizacion": "2025-09-09T00:00:00.000",
+    "fecha_vigencia": "2026-09-09T00:00:00.000",
+    "last_modified": "2026-02-16T12:25:36.561400",
+    "modified_by": "system"
   }
 ]
