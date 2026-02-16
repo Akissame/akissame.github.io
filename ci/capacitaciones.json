@@ -454,5 +454,17 @@
     "fecha_vigencia": "2026-12-26T00:00:00.000",
     "last_modified": "2026-02-16T13:35:29.268727",
     "modified_by": "system"
+  },
+  {
+    "id": "1771266944104",
+    "tipo": "CC",
+    "identificacion": "66815858",
+    "nombre": "Galarza Valencia Jackeline",
+    "cargo": "Ingeniera de Servicios",
+    "induccion_capacitacion": "Ingredion",
+    "fecha_realizacion": "2025-07-13T00:00:00.000",
+    "fecha_vigencia": "2026-07-13T00:00:00.000",
+    "last_modified": "2026-02-16T13:35:44.104881",
+    "modified_by": "system"
   }
 ]
