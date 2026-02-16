@@ -562,5 +562,17 @@
     "fecha_vigencia": "2026-10-22T00:00:00.000",
     "last_modified": "2026-02-16T13:42:43.878602",
     "modified_by": "system"
+  },
+  {
+    "id": "1771267379887",
+    "tipo": "CC",
+    "identificacion": "16461732",
+    "nombre": "Lievano Gordillo Armando Antonio",
+    "cargo": "Jefe Operativo",
+    "induccion_capacitacion": "Unilever",
+    "fecha_realizacion": "2025-10-26T00:00:00.000",
+    "fecha_vigencia": "2026-04-26T00:00:00.000",
+    "last_modified": "2026-02-16T13:42:59.887550",
+    "modified_by": "system"
   }
 ]
