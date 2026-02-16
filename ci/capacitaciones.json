@@ -574,5 +574,17 @@
     "fecha_vigencia": "2026-04-26T00:00:00.000",
     "last_modified": "2026-02-16T13:42:59.887550",
     "modified_by": "system"
+  },
+  {
+    "id": "1771267394028",
+    "tipo": "CC",
+    "identificacion": "16461732",
+    "nombre": "Lievano Gordillo Armando Antonio",
+    "cargo": "Jefe Operativo",
+    "induccion_capacitacion": "Recamier",
+    "fecha_realizacion": "2025-12-26T00:00:00.000",
+    "fecha_vigencia": "2026-12-26T00:00:00.000",
+    "last_modified": "2026-02-16T13:43:14.028413",
+    "modified_by": "system"
   }
 ]
