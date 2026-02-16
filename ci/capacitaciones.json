@@ -490,5 +490,17 @@
     "fecha_vigencia": "2026-10-30T00:00:00.000",
     "last_modified": "2026-02-16T13:37:12.396416",
     "modified_by": "system"
+  },
+  {
+    "id": "1771267082318",
+    "tipo": "CC",
+    "identificacion": "94074489",
+    "nombre": "Gutierrez Marin Rodrigo",
+    "cargo": "Ingeniero de Servicios",
+    "induccion_capacitacion": "Recamier",
+    "fecha_realizacion": "2025-12-26T00:00:00.000",
+    "fecha_vigencia": "2026-12-26T00:00:00.000",
+    "last_modified": "2026-02-16T13:38:02.318302",
+    "modified_by": "system"
   }
 ]
