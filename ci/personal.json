@@ -85,7 +85,7 @@
     "email": null,
     "telefono": null,
     "fecha_ingreso": null,
-    "activo": true
+    "activo": false
   },
   {
     "id": "66815858",
