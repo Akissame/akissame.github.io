@@ -262,5 +262,17 @@
     "fecha_vigencia": "2026-12-26T00:00:00.000",
     "last_modified": "2026-02-16T12:36:25.167367",
     "modified_by": "system"
+  },
+  {
+    "id": "1771263408472",
+    "tipo": "CC",
+    "identificacion": "1113623492",
+    "nombre": "Dominguez Arango Luis Miguel",
+    "cargo": "Oficial",
+    "induccion_capacitacion": "Argos",
+    "fecha_realizacion": "2025-10-22T00:00:00.000",
+    "fecha_vigencia": "2026-10-22T00:00:00.000",
+    "last_modified": "2026-02-16T12:36:48.472401",
+    "modified_by": "system"
   }
 ]
