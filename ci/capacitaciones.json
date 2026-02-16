@@ -226,5 +226,17 @@
     "fecha_vigencia": "2026-10-22T00:00:00.000",
     "last_modified": "2026-02-16T12:26:03.824272",
     "modified_by": "system"
+  },
+  {
+    "id": "1771262793268",
+    "tipo": "CC",
+    "identificacion": "6316132",
+    "nombre": "Campo Marin Edgar Marino",
+    "cargo": "Auxiliar de Servicios Generales",
+    "induccion_capacitacion": "Examen Médico Ocupacional",
+    "fecha_realizacion": "2025-07-18T00:00:00.000",
+    "fecha_vigencia": "2026-07-18T00:00:00.000",
+    "last_modified": "2026-02-16T12:26:33.268854",
+    "modified_by": "system"
   }
 ]
