@@ -526,5 +526,17 @@
     "fecha_vigencia": "2026-10-07T00:00:00.000",
     "last_modified": "2026-02-16T13:39:40.622330",
     "modified_by": "system"
+  },
+  {
+    "id": "1771267327435",
+    "tipo": "CC",
+    "identificacion": "16461732",
+    "nombre": "Lievano Gordillo Armando Antonio",
+    "cargo": "Jefe Operativo",
+    "induccion_capacitacion": "Examen Médico Ocupacional",
+    "fecha_realizacion": "2025-09-04T00:00:00.000",
+    "fecha_vigencia": "2026-09-04T00:00:00.000",
+    "last_modified": "2026-02-16T13:42:07.435695",
+    "modified_by": "system"
   }
 ]
