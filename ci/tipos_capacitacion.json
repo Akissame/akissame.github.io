@@ -102,5 +102,13 @@
     "categoria": "examen",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771261934990107990",
+    "nombre": "Restricción - Espacios Confinados",
+    "vigencia_meses": 12,
+    "categoria": "examen",
+    "descripcion": null,
+    "activo": true
   }
 ]
