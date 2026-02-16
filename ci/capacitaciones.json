@@ -334,5 +334,17 @@
     "fecha_vigencia": "2026-06-25T00:00:00.000",
     "last_modified": "2026-02-16T13:21:55.642331",
     "modified_by": "system"
+  },
+  {
+    "id": "1771266155831",
+    "tipo": "CC",
+    "identificacion": "1113623492",
+    "nombre": "Dominguez Arango Luis Miguel",
+    "cargo": "Oficial",
+    "induccion_capacitacion": "Rio Paila",
+    "fecha_realizacion": "2025-04-03T00:00:00.000",
+    "fecha_vigencia": "2026-04-03T00:00:00.000",
+    "last_modified": "2026-02-16T13:22:35.831143",
+    "modified_by": "system"
   }
 ]
