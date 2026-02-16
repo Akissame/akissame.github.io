@@ -550,5 +550,17 @@
     "fecha_vigencia": "2026-10-02T00:00:00.000",
     "last_modified": "2026-02-16T13:42:24.013756",
     "modified_by": "system"
+  },
+  {
+    "id": "1771267363878",
+    "tipo": "CC",
+    "identificacion": "16461732",
+    "nombre": "Lievano Gordillo Armando Antonio",
+    "cargo": "Jefe Operativo",
+    "induccion_capacitacion": "Argos",
+    "fecha_realizacion": "2025-10-22T00:00:00.000",
+    "fecha_vigencia": "2026-10-22T00:00:00.000",
+    "last_modified": "2026-02-16T13:42:43.878602",
+    "modified_by": "system"
   }
 ]
