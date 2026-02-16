@@ -94,5 +94,13 @@
     "categoria": "capacitacion",
     "descripcion": null,
     "activo": true
+  },
+  {
+    "id": "1771261896142457142",
+    "nombre": "Restricción - Alturas",
+    "vigencia_meses": 12,
+    "categoria": "examen",
+    "descripcion": null,
+    "activo": true
   }
 ]
