@@ -586,5 +586,17 @@
     "fecha_vigencia": "2026-12-26T00:00:00.000",
     "last_modified": "2026-02-16T13:43:14.028413",
     "modified_by": "system"
+  },
+  {
+    "id": "1771267486856",
+    "tipo": "CC",
+    "identificacion": "1104805227",
+    "nombre": "Lievano Villafañe Esteban",
+    "cargo": "Ayudante Práctico",
+    "induccion_capacitacion": "Ingredion",
+    "fecha_realizacion": "2025-03-19T00:00:00.000",
+    "fecha_vigencia": "2026-03-19T00:00:00.000",
+    "last_modified": "2026-02-16T13:44:46.856972",
+    "modified_by": "system"
   }
 ]
