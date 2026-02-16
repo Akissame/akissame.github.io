@@ -238,5 +238,17 @@
     "fecha_vigencia": "2026-07-18T00:00:00.000",
     "last_modified": "2026-02-16T12:26:33.268854",
     "modified_by": "system"
+  },
+  {
+    "id": "1771262860554",
+    "tipo": "CC",
+    "identificacion": "14976501",
+    "nombre": "Céspedes Arango Jesus Antonio",
+    "cargo": "Oficial",
+    "induccion_capacitacion": "Examen Médico Ocupacional",
+    "fecha_realizacion": "2024-02-16T00:00:00.000",
+    "fecha_vigencia": "2025-02-16T00:00:00.000",
+    "last_modified": "2026-02-16T12:27:40.554076",
+    "modified_by": "system"
   }
 ]
