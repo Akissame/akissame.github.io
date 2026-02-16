@@ -382,5 +382,17 @@
     "fecha_vigencia": "2026-03-23T00:00:00.000",
     "last_modified": "2026-02-16T13:24:10.891198",
     "modified_by": "system"
+  },
+  {
+    "id": "1771266266120",
+    "tipo": "CC",
+    "identificacion": "76024504",
+    "nombre": "Dorado Lopez Cesar Agustín",
+    "cargo": "Oficial",
+    "induccion_capacitacion": "Argos",
+    "fecha_realizacion": "2025-10-22T00:00:00.000",
+    "fecha_vigencia": "2026-10-22T00:00:00.000",
+    "last_modified": "2026-02-16T13:24:26.120191",
+    "modified_by": "system"
   }
 ]
