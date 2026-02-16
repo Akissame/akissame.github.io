@@ -478,5 +478,17 @@
     "fecha_vigencia": "2026-10-14T00:00:00.000",
     "last_modified": "2026-02-16T13:36:00.744689",
     "modified_by": "system"
+  },
+  {
+    "id": "1771267032396",
+    "tipo": "CC",
+    "identificacion": "94074489",
+    "nombre": "Gutierrez Marin Rodrigo",
+    "cargo": "Ingeniero de Servicios",
+    "induccion_capacitacion": "Examen Médico Ocupacional",
+    "fecha_realizacion": "2025-10-30T00:00:00.000",
+    "fecha_vigencia": "2026-10-30T00:00:00.000",
+    "last_modified": "2026-02-16T13:37:12.396416",
+    "modified_by": "system"
   }
 ]
