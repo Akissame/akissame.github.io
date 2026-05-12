@@ -10,5 +10,17 @@
         "49:CD:FB:17:E4:EC:6C:0F:79:D9:E7:0F:E3:80:DF:CD:8C:D8:F3:DE:DF:3E:8D:04:4A:BD:2B:04:4E:D7:3F:1B"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.akissame.streamdex",
+      "sha256_cert_fingerprints": [
+        "2F:23:8B:16:E7:B0:2C:1A:04:9F:95:E7:36:FB:95:8D:9C:04:07:3E:C4:62:81:32:BD:F1:64:05:F5:9E:ED:22"
+      ]
+    }
   }
 ]
